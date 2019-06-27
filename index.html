@@ -18,6 +18,8 @@
 <![endif]-->
 <script type="text/javascript">
 var callback = counting(2, function(){
+	Downloaded();
+	tooltip.init();
 	wowtip.init(xmltable);
 	document.body.className = store.get("camp") ? store.get("camp") : (store.set("camp", "alliance").get("camp"));
 	linkProfession(-1);
