@@ -17,39 +17,14 @@
  <script type="text/javascript" src="js/ie7.js"></script>
 <![endif]-->
 <script type="text/javascript">
-
-
-
 var callback = counting(2, function(){
-	Downloaded();
-	tooltip.init();
 	wowtip.init(xmltable);
 	document.body.className = store.get("camp") ? store.get("camp") : (store.set("camp", "alliance").get("camp"));
-	linkProfession(1);
-	skillTable.init("烹饪", "食谱", [
-		["trainer"],
-		["level",0,75],
-		["level",75,150],
-		["level",150,225],
-		["level",225,300],
-		["level",300,375],
-		["level",375,450],
-		["favourite"],
-		["search"]
-	]);
-	favourite.init("cooking");
-	skillMenu.init("cooking");
-
+	linkProfession(-1);
 });
+
 var xmltable = loadxml({
-	item	: "data/cooking/items.xml",
-	npc		: "data/cooking/npcs.xml",
-	quest	: "data/cooking/quests.xml",
-	spell	: "data/cooking/spells.xml",
-	skill	: "data/cooking/skills.xml",
-	object	: "data/cooking/objects.xml",
-	comment	: "data/cooking/comments.xml",
-	map		: "data/maps.xml"
+	spell	: "data/cooking/spells.xml"
 }, callback);
 
 domloaded(callback);
