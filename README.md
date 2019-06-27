@@ -1,5 +1,9 @@
 # 魔兽世界商业技能指南 - 3.3.5 版本
 
+### 网址
+
+https://pucelle.github.io/wow-professions/
+
 ### 关于
 
 这是一份 2009 年制作的魔兽世界商业技能指南，最早是 TBC 版本，后来又更新到 WLK 版本。
