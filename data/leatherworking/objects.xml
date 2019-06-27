@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<objects>
+	<object id="3642">
+		<name>科卡尔的战利品</name>
+		<screenshot>48497</screenshot>
+		<coords map="17">
+			<coord x="130" y="40" />
+		</coords>
+	</object>
+	<object id="3715">
+		<name>联盟宝箱</name>
+		<screenshot>55873</screenshot>
+		<coords map="17">
+			<coord x="140" y="160" />
+		</coords>
+		<coords map="267">
+			<coord x="80" y="70" />
+			<coord x="80" y="80" />
+			<coord x="90" y="60" />
+			<coord x="90" y="90" />
+			<coord x="100" y="70" />
+			<coord x="100" y="80" />
+		</coords>
+		<coords map="406">
+			<coord x="70" y="20" />
+			<coord x="80" y="20" />
+			<coord x="80" y="30" />
+			<coord x="90" y="30" />
+		</coords>
+	</object>
+	<object id="74447">
+		<name>巨大铁皮箱</name>
+		<screenshot>51397</screenshot>
+		<coords map="491">
+			<coord x="50" y="70" />
+			<coord x="120" y="70" />
+			<coord x="150" y="90" />
+			<coord x="170" y="70" />
+			<coord x="190" y="100" />
+			<coord x="250" y="110" />
+		</coords>
+		<coords map="133">
+			<coord x="130" y="150" />
+			<coord x="150" y="170" />
+			<coord x="200" y="110" />
+			<coord x="210" y="60" />
+			<coord x="210" y="120" />
+		</coords>
+	</object>
+	<object id="74448">
+		<name>坚固的大箱子</name>
+		<screenshot>38215</screenshot>
+		<coords map="28">
+			<coord x="120" y="20" />
+			<coord x="120" y="30" />
+			<coord x="120" y="50" />
+			<coord x="130" y="20" />
+		</coords>
+	</object>
+	<object id="75293">
+		<name>破碎的大箱子</name>
+		<screenshot>57488</screenshot>
+		<coords map="3433">
+			<coord x="90" y="140" />
+			<coord x="90" y="180" />
+			<coord x="110" y="150" />
+		</coords>
+		<coords map="3525">
+			<coord x="40" y="100" />
+			<coord x="50" y="90" />
+			<coord x="60" y="100" />
+		</coords>
+	</object>
+	<object id="105570">
+		<name>联盟保险箱</name>
+		<screenshot>41147</screenshot>
+		<coords map="36">
+			<coord x="30" y="140" />
+			<coord x="40" y="150" />
+			<coord x="50" y="110" />
+			<coord x="50" y="150" />
+			<coord x="60" y="110" />
+			<coord x="60" y="120" />
+		</coords>
+	</object>
+	<object id="131978">
+		<name>大型秘银宝箱</name>
+		<screenshot>62091</screenshot>
+		<coords map="1337">
+			<coord x="120" y="90" />
+			<coord x="140" y="120" />
+		</coords>
+	</object>
+	<object id="131979">
+		<name>大木箱</name>
+		<coords map="1337">
+			<coord x="120" y="90" />
+			<coord x="140" y="120" />
+		</coords>
+	</object>
+	<object id="141979">
+		<name>上古宝藏</name>
+		<screenshot>86101</screenshot>
+		<coords map="1337">
+			<coord x="110" y="10" />
+		</coords>
+	</object>
+	<object id="142184">
+		<name>船长的箱子</name>
+		<screenshot>72630</screenshot>
+		<coords map="440">
+			<coord x="230" y="90" />
+		</coords>
+	</object>
+	<object id="149502">
+		<name>黑龙的财宝</name>
+		<screenshot>32411</screenshot>
+		<coords map="51">
+			<coord x="110" y="70" />
+		</coords>
+	</object>
+	<object id="152608">
+		<name>科卡尔的战利品</name>
+		<screenshot>39744</screenshot>
+		<coords map="17">
+			<coord x="130" y="70" />
+		</coords>
+	</object>
+	<object id="153468">
+		<name>大型秘银宝箱</name>
+		<screenshot>61885</screenshot>
+		<coords map="28">
+			<coord x="120" y="20" />
+			<coord x="120" y="30" />
+			<coord x="130" y="20" />
+		</coords>
+	</object>
+	<object id="160845">
+		<name>黑暗宝箱</name>
+		<screenshot>43669</screenshot>
+		<coords map="1584">
+			<coord x="160" y="100" />
+		</coords>
+	</object>
+	<object id="179501">
+		<name>诺特·希姆加克的储物箱</name>
+		<screenshot>27958</screenshot>
+		<coords map="2557">
+			<coord x="220" y="140" />
+		</coords>
+	</object>
+	<object id="179697">
+		<name>竞技场财宝箱</name>
+		<screenshot>50439</screenshot>
+		<coords map="33">
+			<coord x="90" y="90" />
+		</coords>
+	</object>
+	<object id="180748">
+		<name>节日礼物</name>
+		<screenshot>67103</screenshot>
+		<event>冬幕节</event>
+		<coords map="1537">
+			<coord x="100" y="130" />
+		</coords>
+		<coords map="1637">
+			<coord x="150" y="130" />
+		</coords>
+	</object>
+	<object id="181798">
+		<name>魔铁宝箱</name>
+		<screenshot>27163</screenshot>
+		<coords map="3483">
+			<coord x="120" y="140" />
+			<coord x="130" y="80" />
+			<coord x="130" y="90" />
+			<coord x="130" y="110" />
+			<coord x="130" y="120" />
+			<coord x="140" y="80" />
+			<coord x="150" y="90" />
+			<coord x="160" y="150" />
+			<coord x="160" y="160" />
+			<coord x="170" y="90" />
+			<coord x="180" y="100" />
+			<coord x="190" y="140" />
+			<coord x="200" y="130" />
+			<coord x="200" y="140" />
+			<coord x="200" y="150" />
+			<coord x="210" y="140" />
+		</coords>
+		<coords map="3519">
+			<coord x="140" y="20" />
+			<coord x="150" y="30" />
+			<coord x="150" y="50" />
+			<coord x="150" y="60" />
+			<coord x="160" y="60" />
+			<coord x="170" y="40" />
+			<coord x="180" y="50" />
+		</coords>
+		<coords map="3521">
+			<coord x="60" y="40" />
+			<coord x="70" y="40" />
+			<coord x="70" y="50" />
+			<coord x="70" y="70" />
+			<coord x="70" y="90" />
+			<coord x="140" y="120" />
+			<coord x="180" y="70" />
+			<coord x="190" y="80" />
+			<coord x="190" y="120" />
+			<coord x="190" y="140" />
+			<coord x="210" y="140" />
+			<coord x="240" y="160" />
+			<coord x="250" y="160" />
+		</coords>
+	</object>
+	<object id="181804">
+		<name>魔钢宝箱</name>
+		<screenshot>27271</screenshot>
+		<coords map="3518">
+			<coord x="20" y="80" />
+			<coord x="30" y="70" />
+			<coord x="30" y="80" />
+			<coord x="100" y="150" />
+		</coords>
+		<coords map="3520">
+			<coord x="150" y="40" />
+			<coord x="150" y="50" />
+			<coord x="160" y="40" />
+			<coord x="170" y="60" />
+			<coord x="170" y="70" />
+			<coord x="200" y="100" />
+			<coord x="210" y="90" />
+		</coords>
+		<coords map="3523">
+			<coord x="160" y="170" />
+			<coord x="170" y="160" />
+			<coord x="190" y="70" />
+			<coord x="200" y="80" />
+		</coords>
+	</object>
+	<object id="194200">
+		<name>稀有的冬季宝箱</name>
+		<name>Rare Cache of Winter</name>
+		<screenshot>131422</screenshot>
+		<coords map="4273-2">
+			<coord x="190" y="120" />
+		</coords>
+	</object>
+	<object id="194307">
+		<name>冬季宝箱</name>
+		<name>Cache of Winter</name>
+		<screenshot>131423</screenshot>
+		<coords map="4273-2">
+			<coord x="190" y="130" />
+		</coords>
+	</object>
+	<object id="194312">
+		<name>风暴宝箱</name>
+		<name>Cache of Storms</name>
+		<screenshot>129742</screenshot>
+		<coords map="4273-3">
+			<coord x="210" y="90" />
+		</coords>
+	</object>
+	<object id="194324">
+		<name>芙蕾雅的礼物</name>
+		<name>Freya's Gift</name>
+		<screenshot>128562</screenshot>
+		<coords map="4273-2">
+			<coord x="160" y="40" />
+		</coords>
+	</object>
+	<object id="194789">
+		<name>新发明宝箱</name>
+		<name>Cache of Innovation</name>
+		<coords map="4273-6">
+			<coord x="130" y="80" />
+		</coords>
+	</object>
+	<object id="194821">
+		<name>观察者的礼物</name>
+		<name>Gift of the Observer</name>
+		<screenshot>158455</screenshot>
+		<coords map="4273-1">
+			<coord x="230" y="90" />
+		</coords>
+	</object>
+	<object id="195046">
+		<name>生命之石宝箱</name>
+		<name>Cache of Living Stone</name>
+		<screenshot>127359</screenshot>
+		<coords map="4273-2">
+			<coord x="110" y="0" />
+		</coords>
+	</object>
+	<object id="195631">
+		<name>勇士的宝箱</name>
+		<name>Champions' Cache</name>
+		<screenshot>149730</screenshot>
+		<coords map="4722-1">
+			<coord x="150" y="100" />
+		</coords>
+	</object>
+	<object id="201873">
+		<name>炮艇军械库</name>
+		<name>Gunship Armory</name>
+		<screenshot>155063</screenshot>
+		<coords map="4812-3">
+			<coord x="150" y="150" />
+		</coords>
+	</object>
+	<object id="201959">
+		<name>梦游者的宝箱</name>
+		<name>Cache of the Dreamwalker</name>
+		<coords map="4812-5">
+			<coord x="230" y="140" />
+		</coords>
+	</object>
+	<object id="202239">
+		<name>死亡使者的宝箱</name>
+		<name>Deathbringer's Cache</name>
+		<screenshot>159266</screenshot>
+		<coords map="4812-3">
+			<coord x="210" y="60" />
+		</coords>
+	</object>
+</objects>

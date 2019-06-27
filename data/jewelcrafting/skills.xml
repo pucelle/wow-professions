@@ -1,0 +1,7455 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<spells version="3.3.3">
+<spell id="25255" requires-skill-level="1" colors="1 20 35 50">
+<name>精巧的铜线</name>
+<create id="20816" class="7.4" count="1" />
+<reagents>
+<item id="2840" count="2" />
+</reagents>
+</spell>
+<spell id="32259" requires-skill-level="1" colors="1 30 40 50">
+<name>劣质石像</name>
+<create id="25498" class="15.-6" count="1" />
+<reagents>
+<item id="2835" count="8" />
+</reagents>
+</spell>
+<spell id="25493" requires-skill-level="1" colors="1 30 45 60">
+<name>铜丝戒指</name>
+<create id="20906" class="4.-2" count="1" />
+<reagents>
+<item id="20816" count="2" />
+</reagents>
+</spell>
+<spell id="26925" requires-skill-level="1" colors="1 30 45 60">
+<name>铜纹戒指</name>
+<create id="21931" class="4.-2" count="1" />
+<reagents>
+<item id="20816" count="2" />
+<item id="2840" count="1" />
+</reagents>
+</spell>
+<spell id="26926" requires-skill-level="5" colors="5 35 50 65">
+<name>重型铜戒指</name>
+<create id="21932" class="4.-2" count="1" />
+<reagents>
+<item id="2840" count="4" />
+<item id="20816" count="2" />
+</reagents>
+<taught-by-npc cost="50">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="31252" requires-skill-level="20" colors="0 0 0 20">
+<name>选矿</name>
+<taught-by-npc cost="80">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="32178" requires-skill-level="20" colors="20 50 65 80">
+<name>孔雀石坠饰</name>
+<create id="25438" class="4.-3" count="1" />
+<reagents>
+<item id="774" count="1" />
+<item id="20816" count="1" />
+</reagents>
+<taught-by-npc cost="90">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="32179" requires-skill-level="20" colors="20 50 65 80">
+<name>虎眼指环</name>
+<create id="25439" class="4.-2" count="1" />
+<reagents>
+<item id="818" count="1" />
+<item id="20816" count="1" />
+</reagents>
+<taught-by-npc cost="90">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="25283" requires-skill-level="30" colors="30 60 75 90">
+<name>孔雀石镶饰戒指</name>
+<create id="20821" class="4.-2" count="1" />
+<reagents>
+<item id="774" count="2" />
+<item id="2840" count="2" />
+</reagents>
+<taught-by-npc cost="90">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="26928" requires-skill-level="30" colors="30 60 75 90">
+<name>精制虎眼石项链</name>
+<create id="21934" class="4.-3" count="1" />
+<reagents>
+<item id="818" count="2" />
+<item id="2840" count="2" />
+<item id="20816" count="1" />
+</reagents>
+<taught-by-npc cost="90">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="25278" requires-skill-level="50" colors="50 70 80 90">
+<name>青铜底座</name>
+<create id="20817" class="7.4" count="1" />
+<reagents>
+<item id="2841" count="2" />
+</reagents>
+<taught-by-npc cost="180">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="32801" requires-skill-level="50" colors="50 70 80 90">
+<name>粗糙石像</name>
+<create id="25880" class="15.-6" count="1" />
+<reagents>
+<item id="2836" count="8" />
+</reagents>
+<taught-by-npc cost="180">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="25280" requires-skill-level="50" colors="50 80 95 110">
+<name>优雅的银戒指</name>
+<create id="20818" class="4.-2" count="1" />
+<reagents>
+<item id="2842" count="1" />
+</reagents>
+<taught-by-npc cost="180">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="25490" requires-skill-level="50" colors="50 80 95 110">
+<name>结实的青铜戒指</name>
+<create id="20907" class="4.-2" count="1" />
+<reagents>
+<item id="2841" count="4" />
+</reagents>
+<taught-by-npc cost="270">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="26927" requires-skill-level="50" colors="50 80 95 110">
+<name>粗制青铜项链</name>
+<create id="21933" class="4.-3" count="1" />
+<reagents>
+<item id="2841" count="2" />
+<item id="1210" count="1" />
+<item id="20816" count="1" />
+</reagents>
+<taught-by-npc cost="270">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="25284" requires-skill-level="60" colors="60 90 105 120">
+<name>朴素的珍珠戒指</name>
+<create id="20820" class="4.-2" count="1" />
+<reagents>
+<item id="5498" count="1" />
+<item id="20817" count="1" />
+<item id="2840" count="2" />
+</reagents>
+<taught-by-npc cost="360">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="37818" requires-skill-level="65" colors="65 95 110 125">
+<name>力量之青铜指环</name>
+<create id="30804" class="4.-2" count="1" />
+<reagents>
+<item id="2841" count="2" />
+<item id="20817" count="1" />
+<item id="774" count="3" />
+<item id="818" count="3" />
+<item id="1210" count="2" />
+</reagents>
+<taught-by-npc cost="450">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="25287" requires-skill-level="70" colors="70 100 115 130">
+<name>阴沉之戒</name>
+<create id="20823" class="4.-2" count="1" />
+<reagents>
+<item id="1210" count="2" />
+<item id="20817" count="1" />
+<item id="20816" count="2" />
+</reagents>
+<taught-by-npc cost="360">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="36523" requires-skill-level="75" colors="75 105 120 135">
+<name>魔光项链</name>
+<create id="30419" class="4.-3" count="1" />
+<reagents>
+<item id="2841" count="4" />
+<item id="20817" count="1" />
+<item id="1206" count="1" />
+</reagents>
+<taught-by-npc cost="540">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="25317" requires-skill-level="80" colors="80 110 125 140">
+<name>银色力量之戒</name>
+<create id="20827" class="4.-2" count="1" />
+<reagents>
+<item id="2842" count="2" />
+</reagents>
+<taught-by-npc cost="540">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="38175" requires-skill-level="80" colors="80 110 125 140">
+<name>青铜饰环</name>
+<create id="31154" class="4.-3" count="1" />
+<reagents>
+<item id="2841" count="6" />
+<item id="20817" count="1" />
+<item id="1705" count="1" />
+</reagents>
+<taught-by-npc cost="585">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="25305" requires-skill-level="90" colors="90 120 135 150">
+<name>重型银戒指</name>
+<create id="20826" class="4.-2" count="1" />
+<reagents>
+<item id="2842" count="2" />
+<item id="20817" count="1" />
+<item id="1206" count="1" />
+<item id="1705" count="1" />
+</reagents>
+<taught-by-npc cost="900">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="25318" requires-skill-level="100" colors="100 130 145 160">
+<name>暮色暗影之戒</name>
+<create id="20828" class="4.-2" count="1" />
+<reagents>
+<item id="1210" count="2" />
+<item id="2841" count="2" />
+</reagents>
+<taught-by-npc cost="720">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="36524" requires-skill-level="105" colors="105 135 150 165">
+<name>重型翡翠戒指</name>
+<create id="30420" class="4.-2" count="1" />
+<reagents>
+<item id="1529" count="1" />
+<item id="20817" count="1" />
+<item id="3575" count="2" />
+</reagents>
+<taught-by-npc cost="720">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="32807" requires-skill-level="110" colors="110 120 130 140">
+<name>沉重石像</name>
+<create id="25881" class="15.-6" count="1" />
+<reagents>
+<item id="2838" count="8" />
+</reagents>
+<taught-by-npc cost="540">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="25339" requires-skill-level="110" colors="110 140 155 170">
+<name>月之护符</name>
+<create id="20830" class="4.-3" count="1" />
+<reagents>
+<item id="1705" count="2" />
+<item id="20817" count="1" />
+</reagents>
+<taught-by-item>
+<item id="20854" />
+</taught-by-item>
+</spell>
+<spell id="25498" requires-skill-level="110" colors="110 140 155 170">
+<name>野蛮铁项圈</name>
+<create id="20909" class="4.-3" count="1" />
+<reagents>
+<item id="3575" count="8" />
+<item id="5637" count="2" />
+<item id="20817" count="2" />
+</reagents>
+<taught-by-npc cost="540">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="25321" requires-skill-level="120" colors="120 150 165 180">
+<name>月魂王冠</name>
+<create id="20832" class="4.1.1" count="1" />
+<reagents>
+<item id="1705" count="3" />
+<item id="5498" count="3" />
+<item id="11083" count="4" />
+<item id="2842" count="4" />
+<item id="3827" count="2" />
+</reagents>
+<taught-by-npc cost="1350">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="25610" requires-skill-level="120" colors="120 150 165 180">
+<name>玛瑙护盾坠饰</name>
+<create id="20950" class="4.-3" count="1" />
+<reagents>
+<item id="1206" count="1" />
+<item id="20817" count="1" />
+</reagents>
+<taught-by-item>
+<item id="20970" />
+</taught-by-item>
+</spell>
+<spell id="25323" requires-skill-level="125" colors="125 155 170 185">
+<name>邪恶月亮石戒指</name>
+<create id="20833" class="4.-2" count="1" />
+<reagents>
+<item id="1705" count="1" />
+<item id="3824" count="1" />
+<item id="3575" count="4" />
+</reagents>
+<taught-by-item>
+<item id="20855" />
+</taught-by-item>
+</spell>
+<spell id="25612" requires-skill-level="125" colors="125 155 170 185">
+<name>重型铁拳套</name>
+<create id="20954" class="2.13" count="1" />
+<reagents>
+<item id="3575" count="8" />
+<item id="3391" count="2" />
+</reagents>
+<taught-by-item>
+<item id="20971" />
+</taught-by-item>
+</spell>
+<spell id="25613" requires-skill-level="135" colors="135 165 180 195">
+<name>金色巨龙戒指</name>
+<create id="20955" class="4.-2" count="1" />
+<reagents>
+<item id="1529" count="1" />
+<item id="3577" count="2" />
+<item id="20816" count="2" />
+</reagents>
+<taught-by-npc cost="1080">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="25615" requires-skill-level="150" colors="150 170 180 190">
+<name>秘银丝</name>
+<create id="20963" class="7.4" count="1" />
+<reagents>
+<item id="3860" count="2" />
+</reagents>
+<taught-by-npc cost="1200">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="25320" requires-skill-level="150" colors="150 180 195 210">
+<name>重型作战金项链</name>
+<create id="20831" class="4.-3" count="1" />
+<reagents>
+<item id="3577" count="1" />
+<item id="1206" count="2" />
+<item id="3391" count="1" />
+</reagents>
+<taught-by-item>
+<item id="20856" />
+</taught-by-item>
+</spell>
+<spell id="25617" requires-skill-level="150" colors="150 180 195 210">
+<name>闪耀黄水晶之戒</name>
+<create id="20958" class="4.-2" count="1" />
+<reagents>
+<item id="3864" count="1" />
+<item id="20963" count="1" />
+</reagents>
+<taught-by-item>
+<item id="20973" />
+</taught-by-item>
+</spell>
+<spell id="25618" requires-skill-level="160" colors="160 190 205 220">
+<name>冲击之碧玉坠饰</name>
+<create id="20966" class="4.-3" count="1" />
+<reagents>
+<item id="1529" count="1" />
+<item id="20963" count="2" />
+</reagents>
+<taught-by-item>
+<item id="20974" />
+</taught-by-item>
+</spell>
+<spell id="25619" requires-skill-level="170" colors="170 200 215 230">
+<name>翡翠之眼</name>
+<create id="20959" class="4.-2" count="1" />
+<reagents>
+<item id="1529" count="1" />
+<item id="7067" count="2" />
+</reagents>
+<taught-by-item>
+<item id="20975" />
+</taught-by-item>
+</spell>
+<spell id="25620" requires-skill-level="170" colors="170 200 215 230">
+<name>蚀刻真银戒指</name>
+<create id="20960" class="4.-2" count="1" />
+<reagents>
+<item id="6037" count="1" />
+<item id="20963" count="2" />
+</reagents>
+<taught-by-npc cost="1700">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="32808" requires-skill-level="175" colors="0 175 185 195">
+<name>坚固石像</name>
+<create id="25882" class="15.-6" count="1" />
+<reagents>
+<item id="7912" count="10" />
+</reagents>
+<taught-by-npc cost="1800">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="34955" requires-skill-level="180" colors="180 190 200 210">
+<name>能量之黄金戒指</name>
+<create id="29157" class="4.-2" count="1" />
+<reagents>
+<item id="3577" count="4" />
+<item id="1705" count="1" />
+<item id="1529" count="1" />
+<item id="3864" count="1" />
+</reagents>
+<taught-by-npc cost="2000">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="25621" requires-skill-level="180" colors="180 210 225 240">
+<name>迅疾治疗之黄水晶戒指</name>
+<create id="20961" class="4.-2" count="1" />
+<reagents>
+<item id="3864" count="1" />
+<item id="3860" count="2" />
+</reagents>
+<taught-by-npc cost="1800">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="25622" requires-skill-level="190" colors="190 220 235 250">
+<name>金色治疗之黄水晶坠饰</name>
+<create id="20967" class="4.-3" count="1" />
+<reagents>
+<item id="3864" count="1" />
+<item id="7070" count="2" />
+<item id="3577" count="2" />
+<item id="20817" count="1" />
+</reagents>
+<taught-by-item>
+<item id="20976" />
+</taught-by-item>
+</spell>
+<spell id="34959" requires-skill-level="200" colors="200 210 220 230">
+<name>真银指挥官之戒</name>
+<create id="29158" class="4.-2" count="1" />
+<reagents>
+<item id="6037" count="3" />
+<item id="7910" count="2" />
+<item id="3864" count="2" />
+</reagents>
+<taught-by-npc cost="2550">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="63743" requires-skill-level="200" colors="200 210 220 230">
+<name>真视护符</name>
+<create id="45627" class="4.-3" count="1" />
+<reagents>
+<item id="6037" count="8" />
+</reagents>
+<taught-by-npc cost="2700">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="26872" requires-skill-level="200" colors="200 225 240 255">
+<name>雕像</name>
+<create id="21748" class="4.-4" count="1" />
+<reagents>
+<item id="1529" count="4" />
+<item id="6037" count="2" />
+<item id="11137" count="4" />
+<item id="20963" count="4" />
+</reagents>
+<taught-by-npc cost="2250">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="26873" requires-skill-level="200" colors="200 225 240 255">
+<name>雕像</name>
+<create id="21756" class="4.-4" count="1" />
+<reagents>
+<item id="3577" count="6" />
+<item id="3864" count="2" />
+</reagents>
+<taught-by-item>
+<item id="21940" />
+</taught-by-item>
+</spell>
+<spell id="26874" requires-skill-level="210" colors="210 235 250 265">
+<name>青绿石徽记</name>
+<create id="20964" class="4.-2" count="1" />
+<reagents>
+<item id="7909" count="3" />
+<item id="8151" count="4" />
+</reagents>
+<taught-by-npc cost="4500">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="26875" requires-skill-level="215" colors="215 240 255 270">
+<name>雕像</name>
+<create id="21758" class="4.-4" count="1" />
+<reagents>
+<item id="7971" count="4" />
+<item id="8151" count="4" />
+</reagents>
+<taught-by-item>
+<item id="21941" />
+</taught-by-item>
+</spell>
+<spell id="26876" requires-skill-level="220" colors="220 245 260 275">
+<name>战士之绿玉坠饰</name>
+<create id="21755" class="4.-3" count="1" />
+<reagents>
+<item id="7909" count="1" />
+<item id="20963" count="3" />
+</reagents>
+<taught-by-npc cost="2700">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="32809" requires-skill-level="225" colors="0 225 235 245">
+<name>厚重石像</name>
+<create id="25883" class="15.-6" count="1" />
+<reagents>
+<item id="12365" count="10" />
+</reagents>
+<taught-by-npc cost="3150">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="26880" requires-skill-level="225" colors="225 235 245 255">
+<name>瑟银底座</name>
+<create id="21752" class="7.4" count="1" />
+<reagents>
+<item id="12359" count="1" />
+</reagents>
+<taught-by-npc cost="3150">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="26878" requires-skill-level="225" colors="225 250 265 280">
+<name>恢复之红宝石王冠</name>
+<create id="20969" class="4.1.1" count="1" />
+<reagents>
+<item id="7910" count="2" />
+<item id="7971" count="2" />
+<item id="6037" count="4" />
+<item id="21752" count="4" />
+<item id="6149" count="4" />
+</reagents>
+<taught-by-item>
+<item id="21942" />
+</taught-by-item>
+</spell>
+<spell id="26881" requires-skill-level="225" colors="225 250 265 280">
+<name>雕像</name>
+<create id="21760" class="4.-4" count="1" />
+<reagents>
+<item id="7909" count="2" />
+<item id="6037" count="4" />
+<item id="7075" count="2" />
+<item id="7079" count="2" />
+<item id="8151" count="4" />
+</reagents>
+<taught-by-item>
+<item id="21943" />
+</taught-by-item>
+</spell>
+<spell id="36525" requires-skill-level="230" colors="230 255 270 285">
+<name>红色毁灭指环</name>
+<create id="30421" class="4.-2" count="1" />
+<reagents>
+<item id="7910" count="1" />
+<item id="21752" count="1" />
+</reagents>
+<taught-by-npc cost="3600">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="26882" requires-skill-level="235" colors="235 260 275 290">
+<name>雕像</name>
+<create id="21763" class="4.-4" count="1" />
+<reagents>
+<item id="7910" count="2" />
+<item id="6037" count="4" />
+<item id="7077" count="2" />
+<item id="7081" count="2" />
+<item id="8151" count="4" />
+</reagents>
+<taught-by-item>
+<item id="21944" />
+</taught-by-item>
+</spell>
+<spell id="26883" requires-skill-level="235" colors="235 260 275 290">
+<name>火焰之红宝石坠饰</name>
+<create id="21764" class="4.-3" count="1" />
+<reagents>
+<item id="7910" count="1" />
+<item id="21752" count="1" />
+</reagents>
+<taught-by-npc cost="3600">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="26885" requires-skill-level="240" colors="240 265 280 295">
+<name>真银治疗戒指</name>
+<create id="21765" class="4.-2" count="1" />
+<reagents>
+<item id="6037" count="2" />
+<item id="10286" count="2" />
+</reagents>
+<taught-by-npc cost="4500">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="26887" requires-skill-level="245" colors="245 270 285 300">
+<name>青绿石屏障</name>
+<create id="21754" class="4.-2" count="1" />
+<reagents>
+<item id="7909" count="1" />
+<item id="21752" count="1" />
+</reagents>
+<taught-by-item>
+<item id="21945" />
+</taught-by-item>
+</spell>
+<spell id="26896" requires-skill-level="250" colors="250 275 290 305">
+<name>宝石镶嵌指环</name>
+<create id="21753" class="4.-2" count="1" />
+<reagents>
+<item id="7909" count="2" />
+<item id="3864" count="2" />
+<item id="21752" count="4" />
+<item id="6037" count="2" />
+</reagents>
+<taught-by-item>
+<item id="21947" />
+</taught-by-item>
+</spell>
+<spell id="26897" requires-skill-level="250" colors="250 275 290 305">
+<name>冲击之猫眼石项链</name>
+<create id="21766" class="4.-3" count="1" />
+<reagents>
+<item id="12799" count="2" />
+<item id="21752" count="2" />
+<item id="6037" count="4" />
+<item id="11178" count="2" />
+<item id="20963" count="2" />
+</reagents>
+<taught-by-item>
+<item id="21948" />
+</taught-by-item>
+</spell>
+<spell id="26900" requires-skill-level="260" colors="260 280 290 300">
+<name>雕像</name>
+<create id="21769" class="4.-4" count="1" />
+<reagents>
+<item id="7910" count="2" />
+<item id="7078" count="2" />
+<item id="8152" count="4" />
+<item id="6037" count="2" />
+</reagents>
+<taught-by-item>
+<item id="21949" />
+</taught-by-item>
+</spell>
+<spell id="26902" requires-skill-level="260" colors="260 280 290 300">
+<name>朴素的猫眼石戒指</name>
+<create id="21767" class="4.-2" count="1" />
+<reagents>
+<item id="12799" count="1" />
+<item id="21752" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="36526" requires-skill-level="265" colors="265 285 295 305">
+<name>钻石专注戒指</name>
+<create id="30422" class="4.-2" count="1" />
+<reagents>
+<item id="12800" count="1" />
+<item id="21752" count="1" />
+</reagents>
+<taught-by-npc cost="8000">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="26903" requires-skill-level="275" colors="275 285 295 305">
+<name>蓝宝石徽记</name>
+<create id="21768" class="4.-2" count="1" />
+<reagents>
+<item id="12361" count="4" />
+<item id="6037" count="2" />
+<item id="21752" count="1" />
+</reagents>
+<taught-by-npc cost="8000">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="26906" requires-skill-level="275" colors="275 285 295 305">
+<name>毁灭之翡翠王冠</name>
+<create id="21774" class="4.1.1" count="1" />
+<reagents>
+<item id="12364" count="2" />
+<item id="12799" count="2" />
+<item id="12361" count="2" />
+<item id="12360" count="2" />
+<item id="12359" count="2" />
+</reagents>
+<taught-by-item>
+<item id="21952" />
+</taught-by-item>
+</spell>
+<spell id="26907" requires-skill-level="280" colors="280 290 300 310">
+<name>猛攻指环</name>
+<create id="21775" class="4.-2" count="1" />
+<reagents>
+<item id="21752" count="1" />
+<item id="12804" count="1" />
+<item id="7076" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="26908" requires-skill-level="280" colors="280 290 300 310">
+<name>寒冬之蓝宝石坠饰</name>
+<create id="21790" class="4.-3" count="1" />
+<reagents>
+<item id="12361" count="1" />
+<item id="12808" count="1" />
+<item id="21752" count="1" />
+</reagents>
+<taught-by-npc cost="10800">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="34960" requires-skill-level="280" colors="280 290 300 310">
+<name>光芒瑟银指环</name>
+<create id="29159" class="4.-2" count="1" />
+<reagents>
+<item id="12800" count="2" />
+<item id="21752" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="26909" requires-skill-level="285" colors="285 295 305 315">
+<name>雕像</name>
+<create id="21777" class="4.-4" count="1" />
+<reagents>
+<item id="12364" count="2" />
+<item id="12360" count="2" />
+<item id="12359" count="2" />
+<item id="12804" count="4" />
+</reagents>
+<taught-by-item>
+<item id="21953" />
+</taught-by-item>
+</spell>
+<spell id="26910" requires-skill-level="285" colors="285 295 305 315">
+<name>苦痛暗影之戒</name>
+<create id="21778" class="4.-2" count="1" />
+<reagents>
+<item id="12363" count="1" />
+<item id="12808" count="2" />
+<item id="12662" count="1" />
+</reagents>
+<taught-by-item>
+<item id="21954" />
+</taught-by-item>
+</spell>
+<spell id="26911" requires-skill-level="290" colors="290 300 310 320">
+<name>绿曜石坠饰</name>
+<create id="21791" class="4.-3" count="1" />
+<reagents>
+<item id="12364" count="2" />
+<item id="12803" count="4" />
+<item id="12804" count="4" />
+</reagents>
+<taught-by-npc cost="13500">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="34961" requires-skill-level="290" colors="290 300 310 320">
+<name>翡翠狮王戒指</name>
+<create id="29160" class="4.-2" count="1" />
+<reagents>
+<item id="12364" count="2" />
+<item id="21752" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="15501" />
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="19775" />
+<npc id="19778" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="28903" requires-skill-level="300" colors="0 300 320 340">
+<name>泪珠血榴石</name>
+<create id="23094" class="3.0" count="1" />
+<reagents>
+<item id="23077" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+<taught-by-item>
+<item id="23130" />
+</taught-by-item>
+</spell>
+<spell id="28910" requires-skill-level="300" colors="0 300 320 340">
+<name>铭文火榴石</name>
+<create id="23098" class="3.5" count="1" />
+<reagents>
+<item id="21929" count="1" />
+</reagents>
+<taught-by-npc cost="8500">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+<taught-by-item>
+<item id="23135" />
+</taught-by-item>
+</spell>
+<spell id="28916" requires-skill-level="300" colors="0 300 320 340">
+<name>辐光翠榄石</name>
+<create id="23103" class="3.4" count="1" />
+<reagents>
+<item id="23079" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+<taught-by-item>
+<item id="23140" />
+</taught-by-item>
+</spell>
+<spell id="28925" requires-skill-level="300" colors="0 300 320 340">
+<name>炽热德拉诺影钻</name>
+<create id="23108" class="3.3" count="1" />
+<reagents>
+<item id="23107" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+<taught-by-item>
+<item id="23144" />
+</taught-by-item>
+</spell>
+<spell id="28938" requires-skill-level="300" colors="0 300 320 340">
+<name>闪耀德拉诺金钻</name>
+<create id="23113" class="3.2" count="1" />
+<reagents>
+<item id="23112" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+<taught-by-item>
+<item id="23148" />
+</taught-by-item>
+</spell>
+<spell id="28950" requires-skill-level="300" colors="0 300 320 340">
+<name>致密碧月石</name>
+<create id="23118" class="3.1" count="1" />
+<reagents>
+<item id="23117" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+<taught-by-item>
+<item id="23152" />
+</taught-by-item>
+</spell>
+<spell id="62941" requires-skill-level="300" colors="300 310 315 320">
+<name>棱彩黑钻石</name>
+<create id="45054" class="3.8" count="1" />
+<reagents>
+<item id="11754" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="26912" requires-skill-level="300" colors="300 310 320 330">
+<name>雕像</name>
+<create id="21784" class="4.-4" count="1" />
+<reagents>
+<item id="18335" count="4" />
+<item id="11754" count="4" />
+<item id="12800" count="2" />
+<item id="12360" count="2" />
+<item id="12359" count="4" />
+</reagents>
+<taught-by-item>
+<item id="21955" />
+</taught-by-item>
+</spell>
+<spell id="26914" requires-skill-level="300" colors="300 310 320 330">
+<name>雕像</name>
+<create id="21789" class="4.-4" count="1" />
+<reagents>
+<item id="11371" count="4" />
+<item id="12360" count="2" />
+<item id="7910" count="2" />
+</reagents>
+<taught-by-item>
+<item id="21956" />
+</taught-by-item>
+</spell>
+<spell id="28905" requires-skill-level="305" colors="0 305 325 345">
+<name>朴素血榴石</name>
+<create id="23095" class="3.0" count="1" />
+<reagents>
+<item id="23077" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+<taught-by-item>
+<item id="23131" />
+</taught-by-item>
+</spell>
+<spell id="28912" requires-skill-level="305" colors="0 305 325 345">
+<name>辉光火榴石</name>
+<create id="23099" class="3.5" count="1" />
+<reagents>
+<item id="21929" count="1" />
+</reagents>
+<taught-by-item>
+<item id="23136" />
+</taught-by-item>
+</spell>
+<spell id="28917" requires-skill-level="305" colors="0 305 325 345">
+<name>裂纹翠榄石</name>
+<create id="23104" class="3.4" count="1" />
+<reagents>
+<item id="23079" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+<taught-by-item>
+<item id="23141" />
+</taught-by-item>
+</spell>
+<spell id="28927" requires-skill-level="305" colors="0 305 325 345">
+<name>皇家德拉诺影钻</name>
+<create id="23109" class="3.3" count="1" />
+<reagents>
+<item id="23107" count="1" />
+</reagents>
+<taught-by-item>
+<item id="23145" />
+</taught-by-item>
+</spell>
+<spell id="28944" requires-skill-level="305" colors="0 305 325 345">
+<name>柔光德拉诺金钻</name>
+<create id="23114" class="3.2" count="1" />
+<reagents>
+<item id="23112" count="1" />
+</reagents>
+<taught-by-item>
+<item id="23149" />
+</taught-by-item>
+</spell>
+<spell id="28953" requires-skill-level="305" colors="0 305 325 345">
+<name>火花碧月石</name>
+<create id="23119" class="3.1" count="1" />
+<reagents>
+<item id="23117" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+<taught-by-item>
+<item id="23153" />
+</taught-by-item>
+</spell>
+<spell id="34590" requires-skill-level="305" colors="0 305 325 345">
+<name>明亮血榴石</name>
+<create id="28595" class="3.0" count="1" />
+<reagents>
+<item id="23077" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+<taught-by-item>
+<item id="28596" />
+</taught-by-item>
+</spell>
+<spell id="26915" requires-skill-level="305" colors="305 315 325 335">
+<name>钻石之塔项链</name>
+<create id="21792" class="4.-3" count="1" />
+<reagents>
+<item id="12800" count="2" />
+<item id="21752" count="2" />
+<item id="12360" count="2" />
+</reagents>
+<taught-by-item>
+<item id="21957" />
+</taught-by-item>
+</spell>
+<spell id="26916" requires-skill-level="310" colors="310 320 330 340">
+<name>自然火焰指环</name>
+<create id="21779" class="4.-2" count="1" />
+<reagents>
+<item id="21929" count="1" />
+<item id="7078" count="4" />
+<item id="12803" count="4" />
+</reagents>
+<taught-by-npc cost="18000">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="31048" requires-skill-level="310" colors="310 320 330 340">
+<name>魔铁血戒</name>
+<create id="24074" class="4.-2" count="1" />
+<reagents>
+<item id="23445" count="1" />
+<item id="23077" count="2" />
+</reagents>
+<taught-by-npc cost="18000">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="31049" requires-skill-level="310" colors="310 320 335 350">
+<name>德拉诺金钻指环</name>
+<create id="24075" class="4.-2" count="1" />
+<reagents>
+<item id="23445" count="1" />
+<item id="23112" count="2" />
+</reagents>
+<taught-by-npc cost="18000">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="28906" requires-skill-level="315" colors="0 315 335 355">
+<name>符文血榴石</name>
+<create id="23096" class="3.0" count="1" />
+<reagents>
+<item id="23077" count="1" />
+</reagents>
+<taught-by-item>
+<item id="23133" />
+</taught-by-item>
+</spell>
+<spell id="28914" requires-skill-level="315" colors="0 315 335 355">
+<name>反光火榴石</name>
+<create id="23100" class="3.5" count="1" />
+<reagents>
+<item id="21929" count="1" />
+</reagents>
+<taught-by-npc cost="8500">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+<taught-by-item>
+<item id="23137" />
+</taught-by-item>
+</spell>
+<spell id="28918" requires-skill-level="315" colors="0 315 335 355">
+<name>坚硬翠榄石</name>
+<create id="23105" class="3.4" count="1" />
+<reagents>
+<item id="23079" count="1" />
+</reagents>
+<taught-by-item>
+<item id="23142" />
+<item id="31359" />
+</taught-by-item>
+</spell>
+<spell id="28933" requires-skill-level="315" colors="0 315 335 355">
+<name>狡诈德拉诺影钻</name>
+<create id="23110" class="3.3" count="1" />
+<reagents>
+<item id="23107" count="1" />
+</reagents>
+<taught-by-item>
+<item id="23146" />
+</taught-by-item>
+</spell>
+<spell id="28947" requires-skill-level="315" colors="0 315 335 355">
+<name>厚重德拉诺金钻</name>
+<create id="23115" class="3.2" count="1" />
+<reagents>
+<item id="23112" count="1" />
+</reagents>
+<taught-by-item>
+<item id="23150" />
+</taught-by-item>
+</spell>
+<spell id="28955" requires-skill-level="315" colors="0 315 335 355">
+<name>风暴碧月石</name>
+<create id="23120" class="3.1" count="1" />
+<reagents>
+<item id="23117" count="1" />
+</reagents>
+<taught-by-item>
+<item id="23154" />
+</taught-by-item>
+</spell>
+<spell id="31050" requires-skill-level="320" colors="320 330 340 350">
+<name>碧月石指环</name>
+<create id="24076" class="4.-2" count="1" />
+<reagents>
+<item id="23445" count="1" />
+<item id="23117" count="2" />
+<item id="23079" count="1" />
+</reagents>
+<taught-by-npc cost="22500">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="41420" requires-skill-level="325" colors="0 325 332 340">
+<name>纯净裂纹珍珠</name>
+<create id="32833" class="3.3" count="1" />
+<reagents>
+<item id="24478" count="1" />
+<item id="27860" count="1" />
+</reagents>
+<taught-by-npc cost="7650">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="26918" requires-skill-level="325" colors="0 325 335 345">
+<name>奥金短剑坠饰</name>
+<create id="21793" class="4.-3" count="1" />
+<reagents>
+<item id="12360" count="4" />
+<item id="7076" count="4" />
+<item id="7082" count="4" />
+</reagents>
+</spell>
+<spell id="38068" requires-skill-level="325" colors="0 325 335 345">
+<name>水银精金</name>
+<create id="31079" class="7.4" count="1" />
+<reagents>
+<item id="24243" count="4" />
+<item id="22452" count="1" />
+</reagents>
+<taught-by-npc cost="18000">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="28907" requires-skill-level="325" colors="0 325 340 355">
+<name>精致血榴石</name>
+<create id="23097" class="3.0" count="1" />
+<reagents>
+<item id="23077" count="1" />
+</reagents>
+<taught-by-item>
+<item id="23134" />
+</taught-by-item>
+</spell>
+<spell id="28915" requires-skill-level="325" colors="0 325 340 355">
+<name>高能火榴石</name>
+<create id="23101" class="3.5" count="1" />
+<reagents>
+<item id="21929" count="1" />
+</reagents>
+<taught-by-item>
+<item id="23138" />
+</taught-by-item>
+</spell>
+<spell id="28924" requires-skill-level="325" colors="0 325 340 355">
+<name>眩光翠榄石</name>
+<create id="23106" class="3.4" count="1" />
+<reagents>
+<item id="23079" count="1" />
+</reagents>
+<taught-by-item>
+<item id="23143" />
+</taught-by-item>
+</spell>
+<spell id="28936" requires-skill-level="325" colors="0 325 340 355">
+<name>统御德拉诺影钻</name>
+<create id="23111" class="3.3" count="1" />
+<reagents>
+<item id="23107" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+<taught-by-item>
+<item id="23147" />
+</taught-by-item>
+</spell>
+<spell id="28948" requires-skill-level="325" colors="0 325 340 355">
+<name>刚硬德拉诺金钻</name>
+<create id="23116" class="3.2" count="1" />
+<reagents>
+<item id="23112" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+<taught-by-item>
+<item id="23151" />
+</taught-by-item>
+</spell>
+<spell id="28957" requires-skill-level="325" colors="0 325 340 355">
+<name>异彩碧月石</name>
+<create id="23121" class="3.1" count="1" />
+<reagents>
+<item id="23117" count="1" />
+</reagents>
+<taught-by-item>
+<item id="23155" />
+</taught-by-item>
+</spell>
+<spell id="34069" requires-skill-level="325" colors="0 325 340 355">
+<name>圆润德拉诺金钻</name>
+<create id="28290" class="3.2" count="1" />
+<reagents>
+<item id="23112" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+<taught-by-item>
+<item id="28291" />
+</taught-by-item>
+</spell>
+<spell id="39451" requires-skill-level="325" colors="0 325 340 355">
+<name>巨型德拉诺金钻</name>
+<create id="31860" class="3.2" count="1" />
+<reagents>
+<item id="23112" count="1" />
+</reagents>
+<taught-by-item>
+<item id="31870" />
+</taught-by-item>
+</spell>
+<spell id="39455" requires-skill-level="325" colors="0 325 340 355">
+<name>平衡德拉诺影钻</name>
+<create id="31862" class="3.3" count="1" />
+<reagents>
+<item id="23107" count="1" />
+</reagents>
+<taught-by-item>
+<item id="31871" />
+</taught-by-item>
+</spell>
+<spell id="39458" requires-skill-level="325" colors="0 325 340 355">
+<name>充能德拉诺影钻</name>
+<create id="31864" class="3.3" count="1" />
+<reagents>
+<item id="23107" count="1" />
+</reagents>
+<taught-by-item>
+<item id="31872" />
+</taught-by-item>
+</spell>
+<spell id="39466" requires-skill-level="325" colors="0 325 340 355">
+<name>隐秘火榴石</name>
+<create id="31866" class="3.5" count="1" />
+<reagents>
+<item id="21929" count="1" />
+</reagents>
+<taught-by-item>
+<item id="31873" />
+</taught-by-item>
+</spell>
+<spell id="39467" requires-skill-level="325" colors="0 325 340 355">
+<name>邪恶火榴石</name>
+<create id="31869" class="3.5" count="1" />
+<reagents>
+<item id="21929" count="1" />
+</reagents>
+<taught-by-item>
+<item id="31874" />
+</taught-by-item>
+</spell>
+<spell id="41414" requires-skill-level="325" colors="325 335 345 355">
+<name>耀眼的珍珠戒指</name>
+<create id="32772" class="4.-2" count="1" />
+<reagents>
+<item id="24478" count="8" />
+<item id="23447" count="2" />
+</reagents>
+<taught-by-npc cost="8500">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="55534" requires-skill-level="325" colors="0 0 0 325">
+<name>切割完美宝石</name>
+<reward-from>
+<quest id="12918" />
+<quest id="12952" />
+<quest id="13002" />
+<quest id="13004" />
+</reward-from>
+</spell>
+<spell id="41415" requires-skill-level="330" colors="330 340 350 360">
+<name>黑色明珠</name>
+<create id="32774" class="4.-2" count="1" />
+<reagents>
+<item id="24479" count="1" />
+<item id="31079" count="4" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="26920" requires-skill-level="335" colors="0 335 345 355">
+<name>血冠</name>
+<create id="21780" class="4.1.1" count="1" />
+<reagents>
+<item id="12359" count="8" />
+<item id="11382" count="2" />
+<item id="7910" count="4" />
+<item id="12938" count="2" />
+</reagents>
+</spell>
+<spell id="31051" requires-skill-level="335" colors="335 345 355 365">
+<name>厚重精金项链</name>
+<create id="24077" class="4.-3" count="1" />
+<reagents>
+<item id="23446" count="2" />
+<item id="31079" count="1" />
+</reagents>
+<taught-by-npc cost="27000">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="31052" requires-skill-level="335" colors="335 345 355 365">
+<name>重型精金戒指</name>
+<create id="24078" class="4.-2" count="1" />
+<reagents>
+<item id="23446" count="1" />
+<item id="31079" count="1" />
+</reagents>
+<taught-by-npc cost="27000">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="40514" requires-skill-level="340" colors="0 340 355 370">
+<name>深海项链</name>
+<create id="32508" class="4.-3" count="1" />
+<reagents>
+<item id="22578" count="3" />
+<item id="24478" count="10" />
+<item id="24479" count="1" />
+</reagents>
+<taught-by-npc cost="7650">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="31058" requires-skill-level="345" colors="345 355 365 375">
+<name>重魔钢戒指</name>
+<create id="24087" class="4.-2" count="1" />
+<reagents>
+<item id="23448" count="2" />
+<item id="31079" count="4" />
+</reagents>
+<taught-by-item>
+<item id="24163" />
+</taught-by-item>
+</spell>
+<spell id="31084" requires-skill-level="350" colors="0 350 365 380">
+<name>朴素红曜石</name>
+<create id="24027" class="3.0" count="1" />
+<reagents>
+<item id="23436" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24193" />
+</taught-by-item>
+</spell>
+<spell id="31085" requires-skill-level="350" colors="0 350 365 380">
+<name>精致红曜石</name>
+<create id="24028" class="3.0" count="1" />
+<reagents>
+<item id="23436" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24194" />
+</taught-by-item>
+</spell>
+<spell id="31087" requires-skill-level="350" colors="0 350 365 380">
+<name>泪珠红曜石</name>
+<create id="24029" class="3.0" count="1" />
+<reagents>
+<item id="23436" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24195" />
+</taught-by-item>
+</spell>
+<spell id="31088" requires-skill-level="350" colors="0 350 365 380">
+<name>符文红曜石</name>
+<create id="24030" class="3.0" count="1" />
+<reagents>
+<item id="23436" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24196" />
+<item id="35305" />
+</taught-by-item>
+</spell>
+<spell id="31089" requires-skill-level="350" colors="0 350 365 380">
+<name>明亮红曜石</name>
+<create id="24031" class="3.0" count="1" />
+<reagents>
+<item id="23436" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24192" />
+<item id="35306" />
+</taught-by-item>
+</spell>
+<spell id="31090" requires-skill-level="350" colors="0 350 365 380">
+<name>诡秘红曜石</name>
+<create id="24032" class="3.0" count="1" />
+<reagents>
+<item id="23436" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24197" />
+</taught-by-item>
+</spell>
+<spell id="31091" requires-skill-level="350" colors="0 350 365 380">
+<name>闪光红曜石</name>
+<create id="24036" class="3.0" count="1" />
+<reagents>
+<item id="23436" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24198" />
+</taught-by-item>
+</spell>
+<spell id="31092" requires-skill-level="350" colors="0 350 365 380">
+<name>致密艾露恩之星</name>
+<create id="24033" class="3.1" count="1" />
+<reagents>
+<item id="23438" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24199" />
+<item id="35304" />
+</taught-by-item>
+</spell>
+<spell id="31094" requires-skill-level="350" colors="0 350 365 380">
+<name>异彩艾露恩之星</name>
+<create id="24037" class="3.1" count="1" />
+<reagents>
+<item id="23438" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24201" />
+</taught-by-item>
+</spell>
+<spell id="31095" requires-skill-level="350" colors="0 350 365 380">
+<name>风暴艾露恩之星</name>
+<create id="24039" class="3.1" count="1" />
+<reagents>
+<item id="23438" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24202" />
+</taught-by-item>
+</spell>
+<spell id="31096" requires-skill-level="350" colors="0 350 365 380">
+<name>闪耀黎明石</name>
+<create id="24047" class="3.2" count="1" />
+<reagents>
+<item id="23440" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24203" />
+</taught-by-item>
+</spell>
+<spell id="31097" requires-skill-level="350" colors="0 350 365 380">
+<name>圆润黎明石</name>
+<create id="24048" class="3.2" count="1" />
+<reagents>
+<item id="23440" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24204" />
+</taught-by-item>
+</spell>
+<spell id="31098" requires-skill-level="350" colors="0 350 365 380">
+<name>刚硬黎明石</name>
+<create id="24051" class="3.2" count="1" />
+<reagents>
+<item id="23440" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24205" />
+<item id="35307" />
+</taught-by-item>
+</spell>
+<spell id="31099" requires-skill-level="350" colors="0 350 365 380">
+<name>柔光黎明石</name>
+<create id="24050" class="3.2" count="1" />
+<reagents>
+<item id="23440" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24206" />
+</taught-by-item>
+</spell>
+<spell id="31100" requires-skill-level="350" colors="0 350 365 380">
+<name>厚重黎明石</name>
+<create id="24052" class="3.2" count="1" />
+<reagents>
+<item id="23440" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24207" />
+</taught-by-item>
+</spell>
+<spell id="31101" requires-skill-level="350" colors="0 350 365 380">
+<name>秘法黎明石</name>
+<create id="24053" class="3.2" count="1" />
+<reagents>
+<item id="23440" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24208" />
+</taught-by-item>
+</spell>
+<spell id="31102" requires-skill-level="350" colors="0 350 365 380">
+<name>统御夜目石</name>
+<create id="24054" class="3.3" count="1" />
+<reagents>
+<item id="23441" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24209" />
+</taught-by-item>
+</spell>
+<spell id="31103" requires-skill-level="350" colors="0 350 365 380">
+<name>狡诈夜目石</name>
+<create id="24055" class="3.3" count="1" />
+<reagents>
+<item id="23441" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24210" />
+</taught-by-item>
+</spell>
+<spell id="31104" requires-skill-level="350" colors="0 350 365 380">
+<name>炽热夜目石</name>
+<create id="24056" class="3.3" count="1" />
+<reagents>
+<item id="23441" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24211" />
+</taught-by-item>
+</spell>
+<spell id="31105" requires-skill-level="350" colors="0 350 365 380">
+<name>皇家夜目石</name>
+<create id="24057" class="3.3" count="1" />
+<reagents>
+<item id="23441" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24212" />
+</taught-by-item>
+</spell>
+<spell id="31106" requires-skill-level="350" colors="0 350 365 380">
+<name>铭文黄晶玉</name>
+<create id="24058" class="3.5" count="1" />
+<reagents>
+<item id="23439" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24213" />
+</taught-by-item>
+</spell>
+<spell id="31107" requires-skill-level="350" colors="0 350 365 380">
+<name>高能黄晶玉</name>
+<create id="24059" class="3.5" count="1" />
+<reagents>
+<item id="23439" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24214" />
+</taught-by-item>
+</spell>
+<spell id="31108" requires-skill-level="350" colors="0 350 365 380">
+<name>辉光黄晶玉</name>
+<create id="24060" class="3.5" count="1" />
+<reagents>
+<item id="23439" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24215" />
+</taught-by-item>
+</spell>
+<spell id="31109" requires-skill-level="350" colors="0 350 365 380">
+<name>反光黄晶玉</name>
+<create id="24061" class="3.5" count="1" />
+<reagents>
+<item id="23439" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24216" />
+</taught-by-item>
+</spell>
+<spell id="31110" requires-skill-level="350" colors="0 350 365 380">
+<name>坚硬水玉</name>
+<create id="24062" class="3.4" count="1" />
+<reagents>
+<item id="23437" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24217" />
+</taught-by-item>
+</spell>
+<spell id="31111" requires-skill-level="350" colors="0 350 365 380">
+<name>辐光水玉</name>
+<create id="24066" class="3.4" count="1" />
+<reagents>
+<item id="23437" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24218" />
+</taught-by-item>
+</spell>
+<spell id="31112" requires-skill-level="350" colors="0 350 365 380">
+<name>眩光水玉</name>
+<create id="24065" class="3.4" count="1" />
+<reagents>
+<item id="23437" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24219" />
+</taught-by-item>
+</spell>
+<spell id="31113" requires-skill-level="350" colors="0 350 365 380">
+<name>裂纹水玉</name>
+<create id="24067" class="3.4" count="1" />
+<reagents>
+<item id="23437" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24220" />
+</taught-by-item>
+</spell>
+<spell id="31149" requires-skill-level="350" colors="0 350 365 380">
+<name>火花艾露恩之星</name>
+<create id="24035" class="3.1" count="1" />
+<reagents>
+<item id="23438" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24200" />
+</taught-by-item>
+</spell>
+<spell id="39452" requires-skill-level="350" colors="0 350 365 380">
+<name>巨型黎明石</name>
+<create id="31861" class="3.2" count="1" />
+<reagents>
+<item id="23440" count="1" />
+</reagents>
+<taught-by-item>
+<item id="31875" />
+</taught-by-item>
+</spell>
+<spell id="39462" requires-skill-level="350" colors="0 350 365 380">
+<name>充能夜目石</name>
+<create id="31865" class="3.3" count="1" />
+<reagents>
+<item id="23441" count="1" />
+</reagents>
+<taught-by-item>
+<item id="31877" />
+</taught-by-item>
+</spell>
+<spell id="39463" requires-skill-level="350" colors="0 350 365 380">
+<name>平衡夜目石</name>
+<create id="31863" class="3.3" count="1" />
+<reagents>
+<item id="23441" count="1" />
+</reagents>
+<taught-by-item>
+<item id="31876" />
+</taught-by-item>
+</spell>
+<spell id="39470" requires-skill-level="350" colors="0 350 365 380">
+<name>隐秘黄晶玉</name>
+<create id="31867" class="3.5" count="1" />
+<reagents>
+<item id="23439" count="1" />
+</reagents>
+<taught-by-item>
+<item id="31878" />
+</taught-by-item>
+</spell>
+<spell id="39471" requires-skill-level="350" colors="0 350 365 380">
+<name>邪恶黄晶玉</name>
+<create id="31868" class="3.5" count="1" />
+<reagents>
+<item id="23439" count="1" />
+</reagents>
+<taught-by-item>
+<item id="31879" />
+</taught-by-item>
+</spell>
+<spell id="41429" requires-skill-level="350" colors="0 350 365 380">
+<name>纯净暗影珍珠</name>
+<create id="32836" class="3.3" count="1" />
+<reagents>
+<item id="24479" count="1" />
+<item id="27860" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="43493" requires-skill-level="350" colors="0 350 365 380">
+<name>稳固水玉</name>
+<create id="33782" class="3.4" count="1" />
+<reagents>
+<item id="23437" count="1" />
+</reagents>
+<taught-by-item>
+<item id="33783" />
+</taught-by-item>
+</spell>
+<spell id="46403" requires-skill-level="350" colors="0 350 365 380">
+<name>迅捷黎明石</name>
+<create id="35315" class="3.2" count="1" />
+<reagents>
+<item id="23440" count="1" />
+</reagents>
+<taught-by-item>
+<item id="35322" />
+</taught-by-item>
+</spell>
+<spell id="46404" requires-skill-level="350" colors="0 350 365 380">
+<name>鲁莽黄晶玉</name>
+<create id="35316" class="3.5" count="1" />
+<reagents>
+<item id="23439" count="1" />
+</reagents>
+<taught-by-item>
+<item id="35323" />
+</taught-by-item>
+</spell>
+<spell id="46405" requires-skill-level="350" colors="0 350 365 380">
+<name>坚强水玉</name>
+<create id="35318" class="3.4" count="1" />
+<reagents>
+<item id="23437" count="1" />
+</reagents>
+<taught-by-item>
+<item id="35325" />
+</taught-by-item>
+</spell>
+<spell id="46803" requires-skill-level="350" colors="0 350 365 380">
+<name>华丽夜目石</name>
+<create id="35707" class="3.3" count="1" />
+<reagents>
+<item id="23441" count="1" />
+</reagents>
+<taught-by-item>
+<item id="35708" />
+</taught-by-item>
+</spell>
+<spell id="47280" requires-skill-level="350" colors="0 350 365 380">
+<name>闪亮的玻璃</name>
+<create id="35945" class="0.0" count="1" />
+<reagents>
+<item id="23117" count="3" />
+<item id="23077" count="3" />
+<item id="23079" count="3" />
+<item id="21929" count="3" />
+<item id="23112" count="3" />
+<item id="23107" count="3" />
+</reagents>
+<taught-by-npc cost="27000">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="31053" requires-skill-level="350" colors="350 360 370 380">
+<name>暗影氪金指环</name>
+<create id="24079" class="4.-2" count="1" />
+<reagents>
+<item id="23449" count="2" />
+<item id="31079" count="3" />
+<item id="22456" count="3" />
+</reagents>
+<taught-by-item>
+<item id="24158" />
+</taught-by-item>
+</spell>
+<spell id="56205" requires-skill-level="350" colors="350 360 370 380">
+<name>黑玉聚焦射线</name>
+<create id="41367" class="0.8" count="1" />
+<reagents>
+<item id="36932" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53831" requires-skill-level="350" colors="350 375 395 415">
+<name>朴素血石</name>
+<create id="39900" class="3.0" count="1" />
+<reagents>
+<item id="36917" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53832" requires-skill-level="350" colors="350 375 395 415">
+<name>精致血石</name>
+<create id="39905" class="3.0" count="1" />
+<reagents>
+<item id="36917" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53834" requires-skill-level="350" colors="350 375 395 415">
+<name>符文血石</name>
+<create id="39911" class="3.0" count="1" />
+<reagents>
+<item id="36917" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53835" requires-skill-level="350" colors="350 375 395 415">
+<name>明亮血石</name>
+<create id="39906" class="3.0" count="1" />
+<reagents>
+<item id="36917" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53844" requires-skill-level="350" colors="350 375 395 415">
+<name>闪光血石</name>
+<create id="39908" class="3.0" count="1" />
+<reagents>
+<item id="36917" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53845" requires-skill-level="350" colors="350 375 395 415">
+<name>断裂血石</name>
+<create id="39909" class="3.0" count="1" />
+<reagents>
+<item id="36917" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53852" requires-skill-level="350" colors="350 375 395 415">
+<name>闪耀太阳水晶</name>
+<create id="39912" class="3.2" count="1" />
+<reagents>
+<item id="36920" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53853" requires-skill-level="350" colors="350 375 395 415">
+<name>圆润太阳水晶</name>
+<create id="39914" class="3.2" count="1" />
+<reagents>
+<item id="36920" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53854" requires-skill-level="350" colors="350 375 395 415">
+<name>刚硬太阳水晶</name>
+<create id="39915" class="3.2" count="1" />
+<reagents>
+<item id="36920" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53855" requires-skill-level="350" colors="350 375 395 415">
+<name>厚重太阳水晶</name>
+<create id="39916" class="3.2" count="1" />
+<reagents>
+<item id="36920" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53856" requires-skill-level="350" colors="350 375 395 415">
+<name>迅捷太阳水晶</name>
+<create id="39918" class="3.2" count="1" />
+<reagents>
+<item id="36920" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53857" requires-skill-level="350" colors="350 375 395 415">
+<name>秘法太阳水晶</name>
+<create id="39917" class="3.2" count="1" />
+<reagents>
+<item id="36920" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41559" />
+</taught-by-item>
+</spell>
+<spell id="53859" requires-skill-level="350" colors="350 375 395 415">
+<name>统御暗影水晶</name>
+<create id="39934" class="3.3" count="1" />
+<reagents>
+<item id="36926" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53860" requires-skill-level="350" colors="350 375 395 415">
+<name>狡诈暗影水晶</name>
+<create id="39935" class="3.3" count="1" />
+<reagents>
+<item id="36926" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53861" requires-skill-level="350" colors="350 375 395 415">
+<name>纤细暗影水晶</name>
+<create id="39942" class="3.3" count="1" />
+<reagents>
+<item id="36926" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53862" requires-skill-level="350" colors="350 375 395 415">
+<name>炽热暗影水晶</name>
+<create id="39936" class="3.3" count="1" />
+<reagents>
+<item id="36926" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53863" requires-skill-level="350" colors="350 375 395 415">
+<name>纯净暗影水晶</name>
+<create id="39941" class="3.3" count="1" />
+<reagents>
+<item id="36926" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53864" requires-skill-level="350" colors="350 375 395 415">
+<name>皇家暗影水晶</name>
+<create id="39943" class="3.3" count="1" />
+<reagents>
+<item id="36926" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53865" requires-skill-level="350" colors="350 375 395 415">
+<name>神秘暗影水晶</name>
+<create id="39945" class="3.3" count="1" />
+<reagents>
+<item id="36926" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41575" />
+</taught-by-item>
+</spell>
+<spell id="53866" requires-skill-level="350" colors="350 375 395 415">
+<name>平衡暗影水晶</name>
+<create id="39937" class="3.3" count="1" />
+<reagents>
+<item id="36926" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53867" requires-skill-level="350" colors="350 375 395 415">
+<name>充能暗影水晶</name>
+<create id="39944" class="3.3" count="1" />
+<reagents>
+<item id="36926" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53869" requires-skill-level="350" colors="350 375 395 415">
+<name>防御者的暗影水晶</name>
+<create id="39939" class="3.3" count="1" />
+<reagents>
+<item id="36926" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41574" />
+</taught-by-item>
+</spell>
+<spell id="53870" requires-skill-level="350" colors="350 375 395 415">
+<name>强攻暗影水晶</name>
+<create id="39933" class="3.3" count="1" />
+<reagents>
+<item id="36926" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53871" requires-skill-level="350" colors="350 375 395 415">
+<name>守护者的暗影水晶</name>
+<create id="39940" class="3.3" count="1" />
+<reagents>
+<item id="36926" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53872" requires-skill-level="350" colors="350 375 395 415">
+<name>铭文茶晶石</name>
+<create id="39947" class="3.5" count="1" />
+<reagents>
+<item id="36929" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53873" requires-skill-level="350" colors="350 375 395 415">
+<name>蚀刻茶晶石</name>
+<create id="39948" class="3.5" count="1" />
+<reagents>
+<item id="36929" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53874" requires-skill-level="350" colors="350 375 395 415">
+<name>勇士的茶晶石</name>
+<create id="39949" class="3.5" count="1" />
+<reagents>
+<item id="36929" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53875" requires-skill-level="350" colors="350 375 395 415">
+<name>灿烂茶晶石</name>
+<create id="39950" class="3.5" count="1" />
+<reagents>
+<item id="36929" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41566" />
+</taught-by-item>
+</spell>
+<spell id="53876" requires-skill-level="350" colors="350 375 395 415">
+<name>凶猛茶晶石</name>
+<create id="39951" class="3.5" count="1" />
+<reagents>
+<item id="36929" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53877" requires-skill-level="350" colors="350 375 395 415">
+<name>致命茶晶石</name>
+<create id="39952" class="3.5" count="1" />
+<reagents>
+<item id="36929" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41562" />
+</taught-by-item>
+</spell>
+<spell id="53878" requires-skill-level="350" colors="350 375 395 415">
+<name>反光茶晶石</name>
+<create id="39953" class="3.5" count="1" />
+<reagents>
+<item id="36929" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53879" requires-skill-level="350" colors="350 375 395 415">
+<name>透明茶晶石</name>
+<create id="39954" class="3.5" count="1" />
+<reagents>
+<item id="36929" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41565" />
+</taught-by-item>
+</spell>
+<spell id="53880" requires-skill-level="350" colors="350 375 395 415">
+<name>轻巧茶晶石</name>
+<create id="39955" class="3.5" count="1" />
+<reagents>
+<item id="36929" count="1" />
+</reagents>
+<taught-by-npc cost="8500">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53881" requires-skill-level="350" colors="350 375 395 415">
+<name>辉光茶晶石</name>
+<create id="39946" class="3.5" count="1" />
+<reagents>
+<item id="36929" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53882" requires-skill-level="350" colors="350 375 395 415">
+<name>高能茶晶石</name>
+<create id="39956" class="3.5" count="1" />
+<reagents>
+<item id="36929" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53883" requires-skill-level="350" colors="350 375 395 415">
+<name>隐秘茶晶石</name>
+<create id="39957" class="3.5" count="1" />
+<reagents>
+<item id="36929" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53884" requires-skill-level="350" colors="350 375 395 415">
+<name>耐久茶晶石</name>
+<create id="39958" class="3.5" count="1" />
+<reagents>
+<item id="36929" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41563" />
+</taught-by-item>
+</spell>
+<spell id="53885" requires-skill-level="350" colors="350 375 395 415">
+<name>鲁莽茶晶石</name>
+<create id="39959" class="3.5" count="1" />
+<reagents>
+<item id="36929" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41561" />
+</taught-by-item>
+</spell>
+<spell id="53886" requires-skill-level="350" colors="350 375 395 415">
+<name>邪恶茶晶石</name>
+<create id="39960" class="3.5" count="1" />
+<reagents>
+<item id="36929" count="1" />
+</reagents>
+<taught-by-npc cost="8500">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53887" requires-skill-level="350" colors="350 375 395 415">
+<name>原始茶晶石</name>
+<create id="39961" class="3.5" count="1" />
+<reagents>
+<item id="36929" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53888" requires-skill-level="350" colors="350 375 395 415">
+<name>增效茶晶石</name>
+<create id="39962" class="3.5" count="1" />
+<reagents>
+<item id="36929" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41564" />
+</taught-by-item>
+</spell>
+<spell id="53889" requires-skill-level="350" colors="350 375 395 415">
+<name>荒凉茶晶石</name>
+<create id="39963" class="3.5" count="1" />
+<reagents>
+<item id="36929" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53890" requires-skill-level="350" colors="350 375 395 415">
+<name>坚韧茶晶石</name>
+<create id="39964" class="3.5" count="1" />
+<reagents>
+<item id="36929" count="1" />
+</reagents>
+<taught-by-npc cost="8500">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53892" requires-skill-level="350" colors="350 375 395 415">
+<name>精确茶晶石</name>
+<create id="39966" class="3.5" count="1" />
+<reagents>
+<item id="36929" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53893" requires-skill-level="350" colors="350 375 395 415">
+<name>坚毅茶晶石</name>
+<create id="39967" class="3.5" count="1" />
+<reagents>
+<item id="36929" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53894" requires-skill-level="350" colors="350 375 395 415">
+<name>永恒黑玉</name>
+<create id="39968" class="3.4" count="1" />
+<reagents>
+<item id="36932" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53916" requires-skill-level="350" colors="350 375 395 415">
+<name>裂纹黑玉</name>
+<create id="39974" class="3.4" count="1" />
+<reagents>
+<item id="36932" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53917" requires-skill-level="350" colors="350 375 395 415">
+<name>鲜艳黑玉</name>
+<create id="39975" class="3.4" count="1" />
+<reagents>
+<item id="36932" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41567" />
+</taught-by-item>
+</spell>
+<spell id="53918" requires-skill-level="350" colors="350 375 395 415">
+<name>坚硬黑玉</name>
+<create id="39976" class="3.4" count="1" />
+<reagents>
+<item id="36932" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53919" requires-skill-level="350" colors="350 375 395 415">
+<name>稳固黑玉</name>
+<create id="39977" class="3.4" count="1" />
+<reagents>
+<item id="36932" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41572" />
+</taught-by-item>
+</spell>
+<spell id="53920" requires-skill-level="350" colors="350 375 395 415">
+<name>坚强黑玉</name>
+<create id="39978" class="3.4" count="1" />
+<reagents>
+<item id="36932" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53921" requires-skill-level="350" colors="350 375 395 415">
+<name>先知的黑玉</name>
+<create id="39979" class="3.4" count="1" />
+<reagents>
+<item id="36932" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41568" />
+</taught-by-item>
+</spell>
+<spell id="53922" requires-skill-level="350" colors="350 375 395 415">
+<name>迷雾黑玉</name>
+<create id="39980" class="3.4" count="1" />
+<reagents>
+<item id="36932" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53923" requires-skill-level="350" colors="350 375 395 415">
+<name>辉煌黑玉</name>
+<create id="39981" class="3.4" count="1" />
+<reagents>
+<item id="36932" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53924" requires-skill-level="350" colors="350 375 395 415">
+<name>混沌黑玉</name>
+<create id="39982" class="3.4" count="1" />
+<reagents>
+<item id="36932" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41571" />
+</taught-by-item>
+</spell>
+<spell id="53925" requires-skill-level="350" colors="350 375 395 415">
+<name>复杂黑玉</name>
+<create id="39983" class="3.4" count="1" />
+<reagents>
+<item id="36932" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53926" requires-skill-level="350" colors="350 375 395 415">
+<name>炫光黑玉</name>
+<create id="39984" class="3.4" count="1" />
+<reagents>
+<item id="36932" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53927" requires-skill-level="350" colors="350 375 395 415">
+<name>碎裂黑玉</name>
+<create id="39985" class="3.4" count="1" />
+<reagents>
+<item id="36932" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53928" requires-skill-level="350" colors="350 375 395 415">
+<name>烁光黑玉</name>
+<create id="39986" class="3.4" count="1" />
+<reagents>
+<item id="36932" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53929" requires-skill-level="350" colors="350 375 395 415">
+<name>晦暗黑玉</name>
+<create id="39988" class="3.4" count="1" />
+<reagents>
+<item id="36932" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41573" />
+</taught-by-item>
+</spell>
+<spell id="53930" requires-skill-level="350" colors="350 375 395 415">
+<name>活跃黑玉</name>
+<create id="39989" class="3.4" count="1" />
+<reagents>
+<item id="36932" count="1" />
+</reagents>
+<taught-by-npc cost="8500">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53931" requires-skill-level="350" colors="350 375 395 415">
+<name>辐光黑玉</name>
+<create id="39990" class="3.4" count="1" />
+<reagents>
+<item id="36932" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53932" requires-skill-level="350" colors="350 375 395 415">
+<name>焦虑黑玉</name>
+<create id="39991" class="3.4" count="1" />
+<reagents>
+<item id="36932" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41570" />
+</taught-by-item>
+</spell>
+<spell id="53933" requires-skill-level="350" colors="350 375 395 415">
+<name>破碎黑玉</name>
+<create id="39992" class="3.4" count="1" />
+<reagents>
+<item id="36932" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41569" />
+</taught-by-item>
+</spell>
+<spell id="53934" requires-skill-level="350" colors="350 375 395 415">
+<name>致密玉髓石</name>
+<create id="39919" class="3.1" count="1" />
+<reagents>
+<item id="36923" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53940" requires-skill-level="350" colors="350 375 395 415">
+<name>火花玉髓石</name>
+<create id="39920" class="3.1" count="1" />
+<reagents>
+<item id="36923" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53941" requires-skill-level="350" colors="350 375 395 415">
+<name>异彩玉髓石</name>
+<create id="39927" class="3.1" count="1" />
+<reagents>
+<item id="36923" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53943" requires-skill-level="350" colors="350 375 395 415">
+<name>风暴玉髓石</name>
+<create id="39932" class="3.1" count="1" />
+<reagents>
+<item id="36923" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41560" />
+</taught-by-item>
+</spell>
+<spell id="54017" requires-skill-level="350" colors="350 375 395 415">
+<name>精准血石</name>
+<create id="39910" class="3.0" count="1" />
+<reagents>
+<item id="36917" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="56193" requires-skill-level="350" colors="350 380 400 420">
+<name>血石指环</name>
+<create id="42336" class="4.-2" count="1" />
+<reagents>
+<item id="37701" count="2" />
+<item id="36917" count="1" />
+</reagents>
+<taught-by-npc cost="27000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="56194" requires-skill-level="350" colors="350 380 400 420">
+<name>烈日石戒</name>
+<create id="42337" class="4.-2" count="1" />
+<reagents>
+<item id="37701" count="2" />
+<item id="36920" count="1" />
+</reagents>
+<taught-by-npc cost="27000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="58141" requires-skill-level="350" colors="350 380 400 420">
+<name>水晶茶晶石项链</name>
+<create id="43244" class="4.-3" count="1" />
+<reagents>
+<item id="37701" count="2" />
+<item id="36929" count="1" />
+</reagents>
+<taught-by-npc cost="27000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="58142" requires-skill-level="350" colors="350 380 400 420">
+<name>水晶玉髓石项圈</name>
+<create id="43245" class="4.-3" count="1" />
+<reagents>
+<item id="37701" count="2" />
+<item id="36923" count="1" />
+</reagents>
+<taught-by-npc cost="27000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="31054" requires-skill-level="355" colors="355 365 372 380">
+<name>冰霜氪金指环</name>
+<create id="24080" class="4.-2" count="1" />
+<reagents>
+<item id="23449" count="2" />
+<item id="31079" count="4" />
+<item id="21885" count="3" />
+</reagents>
+<taught-by-item>
+<item id="24159" />
+</taught-by-item>
+</spell>
+<spell id="31055" requires-skill-level="355" colors="355 365 372 380">
+<name>炼狱氪金指环</name>
+<create id="24082" class="4.-2" count="1" />
+<reagents>
+<item id="23449" count="2" />
+<item id="31079" count="4" />
+<item id="21884" count="3" />
+</reagents>
+<taught-by-item>
+<item id="24160" />
+</taught-by-item>
+</spell>
+<spell id="31060" requires-skill-level="355" colors="355 365 375 385">
+<name>精致恒金戒指</name>
+<create id="24088" class="4.-2" count="1" />
+<reagents>
+<item id="23447" count="1" />
+<item id="31079" count="5" />
+</reagents>
+<taught-by-item>
+<item id="24164" />
+</taught-by-item>
+</spell>
+<spell id="31067" requires-skill-level="355" colors="355 365 375 385">
+<name>厚重魔钢项链</name>
+<create id="24106" class="4.-3" count="1" />
+<reagents>
+<item id="23448" count="2" />
+<item id="31079" count="3" />
+</reagents>
+<taught-by-item>
+<item id="24166" />
+</taught-by-item>
+</spell>
+<spell id="31068" requires-skill-level="355" colors="355 365 375 385">
+<name>红曜石坠饰</name>
+<create id="24110" class="4.-3" count="1" />
+<reagents>
+<item id="23449" count="4" />
+<item id="31079" count="1" />
+<item id="23436" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24167" />
+</taught-by-item>
+</spell>
+<spell id="42558" requires-skill-level="360" colors="360 365 370 375">
+<name>胡里奥之心</name>
+<create id="33133" class="3.0" count="1" />
+<reagents>
+<item id="23436" count="1" />
+</reagents>
+<taught-by-item>
+<item id="33305" />
+</taught-by-item>
+</spell>
+<spell id="42588" requires-skill-level="360" colors="360 365 370 375">
+<name>凯蕾的玫瑰</name>
+<create id="33134" class="3.0" count="1" />
+<reagents>
+<item id="23436" count="1" />
+</reagents>
+<taught-by-item>
+<item id="33155" />
+</taught-by-item>
+</spell>
+<spell id="42589" requires-skill-level="360" colors="360 365 370 375">
+<name>血色残阳</name>
+<create id="33131" class="3.0" count="1" />
+<reagents>
+<item id="23436" count="1" />
+</reagents>
+<taught-by-item>
+<item id="33156" />
+</taught-by-item>
+</spell>
+<spell id="42590" requires-skill-level="360" colors="360 365 370 375">
+<name>坠星石</name>
+<create id="33135" class="3.1" count="1" />
+<reagents>
+<item id="23438" count="1" />
+</reagents>
+<taught-by-item>
+<item id="33157" />
+</taught-by-item>
+</spell>
+<spell id="42591" requires-skill-level="360" colors="360 365 370 375">
+<name>刀锋之石</name>
+<create id="33143" class="3.2" count="1" />
+<reagents>
+<item id="23440" count="1" />
+</reagents>
+<taught-by-item>
+<item id="33158" />
+</taught-by-item>
+</spell>
+<spell id="42592" requires-skill-level="360" colors="360 365 370 375">
+<name>琥珀之血</name>
+<create id="33140" class="3.2" count="1" />
+<reagents>
+<item id="23440" count="1" />
+</reagents>
+<taught-by-item>
+<item id="33159" />
+</taught-by-item>
+</spell>
+<spell id="42593" requires-skill-level="360" colors="360 365 370 375">
+<name>永恒之钻</name>
+<create id="33144" class="3.2" count="1" />
+<reagents>
+<item id="23440" count="1" />
+</reagents>
+<taught-by-item>
+<item id="33160" />
+</taught-by-item>
+</spell>
+<spell id="31056" requires-skill-level="360" colors="360 370 375 380">
+<name>绿叶氪金指环</name>
+<create id="24085" class="4.-2" count="1" />
+<reagents>
+<item id="23449" count="2" />
+<item id="31079" count="4" />
+<item id="21886" count="3" />
+</reagents>
+<taught-by-item>
+<item id="24161" />
+</taught-by-item>
+</spell>
+<spell id="31062" requires-skill-level="360" colors="360 370 375 380">
+<name>冰冷烈焰坠饰</name>
+<create id="24092" class="4.-3" count="1" />
+<reagents>
+<item id="23448" count="2" />
+<item id="21885" count="6" />
+<item id="21884" count="4" />
+<item id="31079" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24174" />
+</taught-by-item>
+</spell>
+<spell id="31063" requires-skill-level="360" colors="360 370 375 380">
+<name>融雪坠饰</name>
+<create id="24093" class="4.-3" count="1" />
+<reagents>
+<item id="23448" count="2" />
+<item id="21884" count="6" />
+<item id="21885" count="4" />
+<item id="31079" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24175" />
+</taught-by-item>
+</spell>
+<spell id="31064" requires-skill-level="360" colors="360 370 375 380">
+<name>凋零坠饰</name>
+<create id="24095" class="4.-3" count="1" />
+<reagents>
+<item id="23448" count="2" />
+<item id="22456" count="6" />
+<item id="21886" count="4" />
+<item id="31079" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24176" />
+</taught-by-item>
+</spell>
+<spell id="31065" requires-skill-level="360" colors="360 370 375 380">
+<name>暗影终结坠饰</name>
+<create id="24097" class="4.-3" count="1" />
+<reagents>
+<item id="23448" count="2" />
+<item id="21886" count="6" />
+<item id="22456" count="4" />
+<item id="31079" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24177" />
+</taught-by-item>
+</spell>
+<spell id="31066" requires-skill-level="360" colors="360 370 375 380">
+<name>空洞符文坠饰</name>
+<create id="24098" class="4.-3" count="1" />
+<reagents>
+<item id="23448" count="2" />
+<item id="22457" count="8" />
+<item id="31079" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24178" />
+</taught-by-item>
+</spell>
+<spell id="31071" requires-skill-level="360" colors="360 370 375 380">
+<name>夜晚之眼</name>
+<create id="24116" class="4.-3" count="1" />
+<reagents>
+<item id="23573" count="2" />
+<item id="31079" count="2" />
+<item id="23441" count="1" />
+</reagents>
+<taught-by-item>
+<item id="24169" />
+</taught-by-item>
+</spell>
+<spell id="37855" requires-skill-level="360" colors="360 370 375 380">
+<name>奥术护盾指环</name>
+<create id="30825" class="4.-2" count="1" />
+<reagents>
+<item id="23447" count="2" />
+<item id="22457" count="8" />
+</reagents>
+<taught-by-item>
+<item id="30826" />
+</taught-by-item>
+</spell>
+<spell id="31070" requires-skill-level="360" colors="360 370 377 385">
+<name>恒金饰链</name>
+<create id="24114" class="4.-3" count="1" />
+<reagents>
+<item id="23447" count="2" />
+<item id="31079" count="3" />
+</reagents>
+<taught-by-item>
+<item id="24168" />
+</taught-by-item>
+</spell>
+<spell id="56206" requires-skill-level="360" colors="360 370 380 390">
+<name>暗影水晶聚焦射线</name>
+<create id="42420" class="0.8" count="1" />
+<reagents>
+<item id="36926" count="1" />
+</reagents>
+<taught-by-npc cost="18000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53843" requires-skill-level="360" colors="360 375 395 415">
+<name>诡秘血石</name>
+<create id="39907" class="3.0" count="1" />
+<reagents>
+<item id="36917" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53868" requires-skill-level="360" colors="360 375 395 415">
+<name>华丽暗影水晶</name>
+<create id="39938" class="3.3" count="1" />
+<reagents>
+<item id="36926" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53891" requires-skill-level="360" colors="360 375 395 415">
+<name>黯光茶晶石</name>
+<create id="39965" class="3.5" count="1" />
+<reagents>
+<item id="36929" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="56530" requires-skill-level="360" colors="360 380 400 420">
+<name>魔化珍珠</name>
+<create id="42701" class="3.8" count="1" />
+<reagents>
+<item id="36783" count="1" />
+<item id="34054" count="1" />
+</reagents>
+<taught-by-npc cost="18000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="31057" requires-skill-level="365" colors="365 370 375 380">
+<name>奥法氪金指环</name>
+<create id="24086" class="4.-2" count="1" />
+<reagents>
+<item id="23449" count="2" />
+<item id="31079" count="4" />
+<item id="22457" count="3" />
+</reagents>
+<taught-by-item>
+<item id="24162" />
+</taught-by-item>
+</spell>
+<spell id="31061" requires-skill-level="365" colors="365 375 377 380">
+<name>闪耀恒金指环</name>
+<create id="24089" class="4.-2" count="1" />
+<reagents>
+<item id="23447" count="2" />
+<item id="31079" count="4" />
+<item id="21884" count="4" />
+</reagents>
+<taught-by-item>
+<item id="24165" />
+</taught-by-item>
+</spell>
+<spell id="32866" requires-skill-level="365" colors="365 375 377 380">
+<name>强能之大地风暴钻石</name>
+<create id="25896" class="3.6" count="1" />
+<reagents>
+<item id="25867" count="1" />
+</reagents>
+<taught-by-item>
+<item id="25902" />
+</taught-by-item>
+</spell>
+<spell id="32867" requires-skill-level="365" colors="365 375 377 380">
+<name>鼓舞之大地风暴钻石</name>
+<create id="25897" class="3.6" count="1" />
+<reagents>
+<item id="25867" count="1" />
+</reagents>
+<taught-by-item>
+<item id="25903" />
+</taught-by-item>
+</spell>
+<spell id="32868" requires-skill-level="365" colors="365 375 377 380">
+<name>坚韧之大地风暴钻石</name>
+<create id="25898" class="3.6" count="1" />
+<reagents>
+<item id="25867" count="1" />
+</reagents>
+<taught-by-item>
+<item id="25905" />
+</taught-by-item>
+</spell>
+<spell id="32869" requires-skill-level="365" colors="365 375 377 380">
+<name>蛮力之大地风暴钻石</name>
+<create id="25899" class="3.6" count="1" />
+<reagents>
+<item id="25867" count="1" />
+</reagents>
+<taught-by-item>
+<item id="25906" />
+</taught-by-item>
+</spell>
+<spell id="32870" requires-skill-level="365" colors="365 375 377 380">
+<name>洞察之大地风暴钻石</name>
+<create id="25901" class="3.6" count="1" />
+<reagents>
+<item id="25867" count="1" />
+</reagents>
+<taught-by-item>
+<item id="25904" />
+</taught-by-item>
+</spell>
+<spell id="32871" requires-skill-level="365" colors="365 375 377 380">
+<name>毁灭之天火钻石</name>
+<create id="25890" class="3.6" count="1" />
+<reagents>
+<item id="25868" count="1" />
+</reagents>
+<taught-by-item>
+<item id="25907" />
+</taught-by-item>
+</spell>
+<spell id="32872" requires-skill-level="365" colors="365 375 377 380">
+<name>秘法之天火钻石</name>
+<create id="25893" class="3.6" count="1" />
+<reagents>
+<item id="25868" count="1" />
+</reagents>
+<taught-by-item>
+<item id="25909" />
+</taught-by-item>
+</spell>
+<spell id="32873" requires-skill-level="365" colors="365 375 377 380">
+<name>迅捷之天火钻石</name>
+<create id="25894" class="3.6" count="1" />
+<reagents>
+<item id="25868" count="1" />
+</reagents>
+<taught-by-item>
+<item id="25908" />
+</taught-by-item>
+</spell>
+<spell id="32874" requires-skill-level="365" colors="365 375 377 380">
+<name>神秘之天火钻石</name>
+<create id="25895" class="3.6" count="1" />
+<reagents>
+<item id="25868" count="1" />
+</reagents>
+<taught-by-item>
+<item id="25910" />
+</taught-by-item>
+</spell>
+<spell id="39961" requires-skill-level="365" colors="365 375 377 380">
+<name>残酷之大地风暴钻石</name>
+<create id="32409" class="3.6" count="1" />
+<reagents>
+<item id="25867" count="1" />
+</reagents>
+<taught-by-item>
+<!--<item id="32412" />-->
+<item id="33622" />
+</taught-by-item>
+</spell>
+<spell id="39963" requires-skill-level="365" colors="365 375 377 380">
+<name>雷鸣之天火钻石</name>
+<create id="32410" class="3.6" count="1" />
+<reagents>
+<item id="25868" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32411" />
+</taught-by-item>
+</spell>
+<spell id="44794" requires-skill-level="365" colors="365 375 377 380">
+<name>混乱之天火钻石</name>
+<create id="34220" class="3.6" count="1" />
+<reagents>
+<item id="25868" count="1" />
+</reagents>
+<taught-by-item>
+<item id="34689" />
+</taught-by-item>
+</spell>
+<spell id="31072" requires-skill-level="365" colors="365 375 380 385">
+<name>黎明的拥抱</name>
+<create id="24117" class="4.-3" count="1" />
+<reagents>
+<item id="23447" count="2" />
+<item id="31079" count="4" />
+<item id="23112" count="2" />
+</reagents>
+<taught-by-item>
+<item id="24170" />
+</taught-by-item>
+</spell>
+<spell id="31076" requires-skill-level="365" colors="365 375 380 385">
+<name>夜枭之链</name>
+<create id="24121" class="4.-3" count="1" />
+<reagents>
+<item id="23449" count="2" />
+<item id="31079" count="4" />
+<item id="23117" count="2" />
+</reagents>
+<taught-by-item>
+<item id="24171" />
+</taught-by-item>
+</spell>
+<spell id="41418" requires-skill-level="365" colors="365 375 380 385">
+<name>海巫之冠</name>
+<create id="32776" class="4.1.1" count="1" />
+<reagents>
+<item id="23449" count="12" />
+<item id="31079" count="4" />
+<item id="24478" count="20" />
+<item id="24479" count="3" />
+</reagents>
+<taught-by-npc cost="27000">
+<npc id="18751" />
+<npc id="18774" />
+<npc id="19063" />
+<npc id="19539" />
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+<npc id="33614" />
+<npc id="33637" />
+<npc id="33680" />
+</taught-by-npc>
+</spell>
+<spell id="46122" requires-skill-level="365" colors="365 375 380 385">
+<name>熔铸能量指环</name>
+<create id="34362" class="4.-2" count="1" />
+<reagents>
+<item id="35128" count="4" />
+<item id="23571" count="4" />
+<item id="31079" count="12" />
+<item id="34664" count="5" />
+</reagents>
+<taught-by-item>
+<item id="35198" />
+</taught-by-item>
+</spell>
+<spell id="46123" requires-skill-level="365" colors="365 375 380 385">
+<name>涌动生命指环</name>
+<create id="34363" class="4.-2" count="1" />
+<reagents>
+<item id="35128" count="4" />
+<item id="21886" count="20" />
+<item id="31079" count="12" />
+<item id="34664" count="5" />
+</reagents>
+<taught-by-item>
+<item id="35199" />
+</taught-by-item>
+</spell>
+<spell id="46124" requires-skill-level="365" colors="365 375 380 385">
+<name>硬化氪金指环</name>
+<create id="34361" class="4.-2" count="1" />
+<reagents>
+<item id="35128" count="4" />
+<item id="22451" count="20" />
+<item id="31079" count="12" />
+<item id="34664" count="5" />
+</reagents>
+<taught-by-item>
+<item id="35200" />
+</taught-by-item>
+</spell>
+<spell id="46125" requires-skill-level="365" colors="365 375 380 385">
+<name>阳炎坠饰</name>
+<create id="34359" class="4.-3" count="1" />
+<reagents>
+<item id="31079" count="12" />
+<item id="32227" count="3" />
+<item id="32228" count="3" />
+</reagents>
+<taught-by-item>
+<item id="35201" />
+</taught-by-item>
+</spell>
+<spell id="46126" requires-skill-level="365" colors="365 375 380 385">
+<name>涌动生命护符</name>
+<create id="34360" class="4.-3" count="1" />
+<reagents>
+<item id="31079" count="6" />
+<item id="32249" count="6" />
+</reagents>
+<taught-by-item>
+<item id="35202" />
+</taught-by-item>
+</spell>
+<spell id="46127" requires-skill-level="365" colors="365 375 380 385">
+<name>硬化氪金项链</name>
+<create id="34358" class="4.-3" count="1" />
+<reagents>
+<item id="35128" count="6" />
+<item id="23572" count="9" />
+</reagents>
+<taught-by-item>
+<item id="35203" />
+</taught-by-item>
+</spell>
+<spell id="46597" requires-skill-level="370" colors="370 375 377 380">
+<name>永恒之大地风暴钻石</name>
+<create id="35501" class="3.6" count="1" />
+<reagents>
+<item id="25867" count="1" />
+</reagents>
+<taught-by-item>
+<item id="35502" />
+</taught-by-item>
+</spell>
+<spell id="46601" requires-skill-level="370" colors="370 375 377 380">
+<name>灰烬之天火钻石</name>
+<create id="35503" class="3.6" count="1" />
+<reagents>
+<item id="25868" count="1" />
+</reagents>
+<taught-by-item>
+<item id="35505" />
+</taught-by-item>
+</spell>
+<spell id="31077" requires-skill-level="370" colors="370 375 380 385">
+<name>翠绿火焰宝冠</name>
+<create id="24122" class="4.1.1" count="1" />
+<reagents>
+<item id="23449" count="20" />
+<item id="21886" count="20" />
+<item id="23437" count="2" />
+<item id="31079" count="5" />
+</reagents>
+<taught-by-item>
+<item id="24172" />
+</taught-by-item>
+</spell>
+<spell id="31078" requires-skill-level="370" colors="370 375 380 385">
+<name>奥法能量头饰</name>
+<create id="24123" class="4.1.1" count="1" />
+<reagents>
+<item id="23448" count="20" />
+<item id="22457" count="20" />
+<item id="23438" count="2" />
+<item id="31079" count="5" />
+</reagents>
+<taught-by-item>
+<item id="24173" />
+</taught-by-item>
+</spell>
+<spell id="31079" requires-skill-level="370" colors="370 375 380 385">
+<name>雕像</name>
+<create id="24124" class="4.-4" count="1" />
+<reagents>
+<item id="23448" count="8" />
+<item id="23077" count="2" />
+<item id="22452" count="4" />
+</reagents>
+<taught-by-item>
+<item id="24179" />
+</taught-by-item>
+</spell>
+<spell id="31080" requires-skill-level="370" colors="370 375 380 385">
+<name>雕像</name>
+<create id="24125" class="4.-4" count="1" />
+<reagents>
+<item id="23449" count="4" />
+<item id="23440" count="2" />
+<item id="23112" count="4" />
+</reagents>
+<taught-by-item>
+<item id="24180" />
+<item id="31358" />
+</taught-by-item>
+</spell>
+<spell id="31081" requires-skill-level="370" colors="370 375 380 385">
+<name>雕像</name>
+<create id="24126" class="4.-4" count="1" />
+<reagents>
+<item id="23448" count="2" />
+<item id="23436" count="2" />
+<item id="21884" count="4" />
+</reagents>
+<taught-by-item>
+<item id="24181" />
+</taught-by-item>
+</spell>
+<spell id="31082" requires-skill-level="370" colors="370 375 380 385">
+<name>雕像</name>
+<create id="24127" class="4.-4" count="1" />
+<reagents>
+<item id="23447" count="2" />
+<item id="23437" count="2" />
+<item id="22457" count="4" />
+</reagents>
+<taught-by-item>
+<item id="24182" />
+</taught-by-item>
+</spell>
+<spell id="31083" requires-skill-level="370" colors="370 375 380 385">
+<name>雕像</name>
+<create id="24128" class="4.-4" count="1" />
+<reagents>
+<item id="23573" count="6" />
+<item id="23441" count="2" />
+<item id="22456" count="2" />
+</reagents>
+<taught-by-item>
+<item id="24183" />
+</taught-by-item>
+</spell>
+<spell id="56208" requires-skill-level="370" colors="370 380 390 400">
+<name>暗影翡翠聚焦射线</name>
+<create id="42421" class="0.8" count="1" />
+<reagents>
+<item id="36926" count="1" />
+<item id="36932" count="1" />
+</reagents>
+<taught-by-npc cost="18000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="58143" requires-skill-level="370" colors="370 390 405 420">
+<name>地影指环</name>
+<create id="43246" class="4.-2" count="1" />
+<reagents>
+<item id="35624" count="1" />
+<item id="36926" count="2" />
+</reagents>
+<taught-by-npc cost="25500">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="58144" requires-skill-level="370" colors="370 390 405 420">
+<name>斩杀之翡翠戒指</name>
+<create id="43247" class="4.-2" count="1" />
+<reagents>
+<item id="35624" count="1" />
+<item id="36932" count="2" />
+</reagents>
+<taught-by-npc cost="27000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="56049" requires-skill-level="370" colors="370 390 415 440">
+<name>朴素龙眼石</name>
+<create id="42142" class="3.0" count="1" />
+<reagents>
+<item id="42225" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42298" />
+</taught-by-item>
+</spell>
+<spell id="56052" requires-skill-level="370" colors="370 390 415 440">
+<name>精致龙眼石</name>
+<create id="42143" class="3.0" count="1" />
+<reagents>
+<item id="42225" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42301" />
+</taught-by-item>
+</spell>
+<spell id="56053" requires-skill-level="370" colors="370 390 415 440">
+<name>符文龙眼石</name>
+<create id="42144" class="3.0" count="1" />
+<reagents>
+<item id="42225" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42309" />
+</taught-by-item>
+</spell>
+<spell id="56054" requires-skill-level="370" colors="370 390 415 440">
+<name>明亮龙眼石</name>
+<create id="36766" class="3.0" count="1" />
+<reagents>
+<item id="42225" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42299" />
+</taught-by-item>
+</spell>
+<spell id="56055" requires-skill-level="370" colors="370 390 415 440">
+<name>诡秘龙眼石</name>
+<create id="42151" class="3.0" count="1" />
+<reagents>
+<item id="42225" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42314" />
+</taught-by-item>
+</spell>
+<spell id="56056" requires-skill-level="370" colors="370 390 415 440">
+<name>闪光龙眼石</name>
+<create id="42152" class="3.0" count="1" />
+<reagents>
+<item id="42225" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42302" />
+</taught-by-item>
+</spell>
+<spell id="56074" requires-skill-level="370" colors="370 390 415 440">
+<name>闪耀龙眼石</name>
+<create id="42148" class="3.2" count="1" />
+<reagents>
+<item id="42225" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42300" />
+</taught-by-item>
+</spell>
+<spell id="56076" requires-skill-level="370" colors="370 390 415 440">
+<name>断裂龙眼石</name>
+<create id="42153" class="3.0" count="1" />
+<reagents>
+<item id="42225" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42303" />
+</taught-by-item>
+</spell>
+<spell id="56077" requires-skill-level="370" colors="370 390 415 440">
+<name>异彩龙眼石</name>
+<create id="42146" class="3.1" count="1" />
+<reagents>
+<item id="42225" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42304" />
+</taught-by-item>
+</spell>
+<spell id="56079" requires-skill-level="370" colors="370 390 415 440">
+<name>秘法龙眼石</name>
+<create id="42158" class="3.2" count="1" />
+<reagents>
+<item id="42225" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42305" />
+</taught-by-item>
+</spell>
+<spell id="56081" requires-skill-level="370" colors="370 390 415 440">
+<name>精准龙眼石</name>
+<create id="42154" class="3.0" count="1" />
+<reagents>
+<item id="42225" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42306" />
+</taught-by-item>
+</spell>
+<spell id="56083" requires-skill-level="370" colors="370 390 415 440">
+<name>迅捷龙眼石</name>
+<create id="42150" class="3.2" count="1" />
+<reagents>
+<item id="42225" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42307" />
+</taught-by-item>
+</spell>
+<spell id="56084" requires-skill-level="370" colors="370 390 415 440">
+<name>刚硬龙眼石</name>
+<create id="42156" class="3.2" count="1" />
+<reagents>
+<item id="42225" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42308" />
+</taught-by-item>
+</spell>
+<spell id="56085" requires-skill-level="370" colors="370 390 415 440">
+<name>圆润龙眼石</name>
+<create id="42149" class="3.2" count="1" />
+<reagents>
+<item id="42225" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42310" />
+</taught-by-item>
+</spell>
+<spell id="56086" requires-skill-level="370" colors="370 390 415 440">
+<name>致密龙眼石</name>
+<create id="36767" class="3.1" count="1" />
+<reagents>
+<item id="42225" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42311" />
+</taught-by-item>
+</spell>
+<spell id="56087" requires-skill-level="370" colors="370 390 415 440">
+<name>火花龙眼石</name>
+<create id="42145" class="3.1" count="1" />
+<reagents>
+<item id="42225" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42312" />
+</taught-by-item>
+</spell>
+<spell id="56088" requires-skill-level="370" colors="370 390 415 440">
+<name>风暴龙眼石</name>
+<create id="42155" class="3.1" count="1" />
+<reagents>
+<item id="42225" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42313" />
+</taught-by-item>
+</spell>
+<spell id="56089" requires-skill-level="370" colors="370 390 415 440">
+<name>厚重龙眼石</name>
+<create id="42157" class="3.2" count="1" />
+<reagents>
+<item id="42225" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42315" />
+</taught-by-item>
+</spell>
+<spell id="38503" requires-skill-level="375" colors="0 375 380 385">
+<name>冰霜之眼</name>
+<create id="31398" class="4.-2" count="1" />
+<reagents>
+<item id="31079" count="4" />
+<item id="23449" count="2" />
+<item id="21885" count="6" />
+<item id="21884" count="6" />
+</reagents>
+<taught-by-item>
+<item id="31401" />
+</taught-by-item>
+</spell>
+<spell id="38504" requires-skill-level="375" colors="0 375 380 385">
+<name>自然屏障</name>
+<create id="31399" class="4.-2" count="1" />
+<reagents>
+<item id="31079" count="4" />
+<item id="23448" count="2" />
+<item id="21886" count="6" />
+<item id="22456" count="6" />
+</reagents>
+<taught-by-item>
+<item id="31402" />
+</taught-by-item>
+</spell>
+<spell id="39705" requires-skill-level="375" colors="0 375 380 385">
+<name>朴素赤尖石</name>
+<create id="32193" class="3.0" count="1" />
+<reagents>
+<item id="32227" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32274" />
+<item id="35244" />
+</taught-by-item>
+</spell>
+<spell id="39706" requires-skill-level="375" colors="0 375 380 385">
+<name>精致赤尖石</name>
+<create id="32194" class="3.0" count="1" />
+<reagents>
+<item id="32227" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32277" />
+<item id="35246" />
+</taught-by-item>
+</spell>
+<spell id="39710" requires-skill-level="375" colors="0 375 380 385">
+<name>泪珠赤尖石</name>
+<create id="32195" class="3.0" count="1" />
+<reagents>
+<item id="32227" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32281" />
+<item id="35250" />
+</taught-by-item>
+</spell>
+<spell id="39711" requires-skill-level="375" colors="0 375 380 385">
+<name>符文赤尖石</name>
+<create id="32196" class="3.0" count="1" />
+<reagents>
+<item id="32227" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32282" />
+<item id="35248" />
+</taught-by-item>
+</spell>
+<spell id="39712" requires-skill-level="375" colors="0 375 380 385">
+<name>明亮赤尖石</name>
+<create id="32197" class="3.0" count="1" />
+<reagents>
+<item id="32227" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32283" />
+<item id="35245" />
+</taught-by-item>
+</spell>
+<spell id="39713" requires-skill-level="375" colors="0 375 380 385">
+<name>诡秘赤尖石</name>
+<create id="32198" class="3.0" count="1" />
+<reagents>
+<item id="32227" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32284" />
+<item id="35249" />
+</taught-by-item>
+</spell>
+<spell id="39714" requires-skill-level="375" colors="0 375 380 385">
+<name>闪光赤尖石</name>
+<create id="32199" class="3.0" count="1" />
+<reagents>
+<item id="32227" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32285" />
+<item id="35247" />
+</taught-by-item>
+</spell>
+<spell id="39715" requires-skill-level="375" colors="0 375 380 385">
+<name>致密天蓝宝石</name>
+<create id="32200" class="3.1" count="1" />
+<reagents>
+<item id="32228" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32286" />
+<item id="35263" />
+</taught-by-item>
+</spell>
+<spell id="39716" requires-skill-level="375" colors="0 375 380 385">
+<name>火花天蓝宝石</name>
+<create id="32201" class="3.1" count="1" />
+<reagents>
+<item id="32228" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32287" />
+<item id="35264" />
+</taught-by-item>
+</spell>
+<spell id="39717" requires-skill-level="375" colors="0 375 380 385">
+<name>异彩天蓝宝石</name>
+<create id="32202" class="3.1" count="1" />
+<reagents>
+<item id="32228" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32288" />
+<item id="35262" />
+</taught-by-item>
+</spell>
+<spell id="39718" requires-skill-level="375" colors="0 375 380 385">
+<name>风暴天蓝宝石</name>
+<create id="32203" class="3.1" count="1" />
+<reagents>
+<item id="32228" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32289" />
+<item id="35265" />
+</taught-by-item>
+</spell>
+<spell id="39719" requires-skill-level="375" colors="0 375 380 385">
+<name>闪耀狮眼石</name>
+<create id="32204" class="3.2" count="1" />
+<reagents>
+<item id="32229" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32290" />
+<item id="35255" />
+</taught-by-item>
+</spell>
+<spell id="39720" requires-skill-level="375" colors="0 375 380 385">
+<name>圆润狮眼石</name>
+<create id="32205" class="3.2" count="1" />
+<reagents>
+<item id="32229" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32291" />
+<item id="35260" />
+</taught-by-item>
+</spell>
+<spell id="39721" requires-skill-level="375" colors="0 375 380 385">
+<name>刚硬狮眼石</name>
+<create id="32206" class="3.2" count="1" />
+<reagents>
+<item id="32229" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32292" />
+<item id="35259" />
+</taught-by-item>
+</spell>
+<spell id="39722" requires-skill-level="375" colors="0 375 380 385">
+<name>柔光狮眼石</name>
+<create id="32207" class="3.2" count="1" />
+<reagents>
+<item id="32229" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32293" />
+<item id="35256" />
+</taught-by-item>
+</spell>
+<spell id="39723" requires-skill-level="375" colors="0 375 380 385">
+<name>厚重狮眼石</name>
+<create id="32208" class="3.2" count="1" />
+<reagents>
+<item id="32229" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32294" />
+<item id="35261" />
+</taught-by-item>
+</spell>
+<spell id="39724" requires-skill-level="375" colors="0 375 380 385">
+<name>秘法狮眼石</name>
+<create id="32209" class="3.2" count="1" />
+<reagents>
+<item id="32229" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32295" />
+<item id="35258" />
+</taught-by-item>
+</spell>
+<spell id="39725" requires-skill-level="375" colors="0 375 380 385">
+<name>巨型狮眼石</name>
+<create id="32210" class="3.2" count="1" />
+<reagents>
+<item id="32229" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32296" />
+<item id="35257" />
+</taught-by-item>
+</spell>
+<spell id="39727" requires-skill-level="375" colors="0 375 380 385">
+<name>统御影歌紫玉</name>
+<create id="32211" class="3.3" count="1" />
+<reagents>
+<item id="32230" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32297" />
+<item id="35243" />
+</taught-by-item>
+</spell>
+<spell id="39728" requires-skill-level="375" colors="0 375 380 385">
+<name>狡诈影歌紫玉</name>
+<create id="32212" class="3.3" count="1" />
+<reagents>
+<item id="32230" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32298" />
+<item id="35242" />
+</taught-by-item>
+</spell>
+<spell id="39729" requires-skill-level="375" colors="0 375 380 385">
+<name>平衡影歌紫玉</name>
+<create id="32213" class="3.3" count="1" />
+<reagents>
+<item id="32230" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32299" />
+<item id="35238" />
+</taught-by-item>
+</spell>
+<spell id="39730" requires-skill-level="375" colors="0 375 380 385">
+<name>充能影歌紫玉</name>
+<create id="32214" class="3.3" count="1" />
+<reagents>
+<item id="32230" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32300" />
+<item id="35240" />
+</taught-by-item>
+</spell>
+<spell id="39731" requires-skill-level="375" colors="0 375 380 385">
+<name>炽热影歌紫玉</name>
+<create id="32215" class="3.3" count="1" />
+<reagents>
+<item id="32230" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32301" />
+<item id="35239" />
+</taught-by-item>
+</spell>
+<spell id="39732" requires-skill-level="375" colors="0 375 380 385">
+<name>皇家影歌紫玉</name>
+<create id="32216" class="3.3" count="1" />
+<reagents>
+<item id="32230" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32302" />
+<item id="35241" />
+</taught-by-item>
+</spell>
+<spell id="39733" requires-skill-level="375" colors="0 375 380 385">
+<name>铭文焚石</name>
+<create id="32217" class="3.5" count="1" />
+<reagents>
+<item id="32231" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32303" />
+<item id="35267" />
+</taught-by-item>
+</spell>
+<spell id="39734" requires-skill-level="375" colors="0 375 380 385">
+<name>高能焚石</name>
+<create id="32218" class="3.5" count="1" />
+<reagents>
+<item id="32231" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32304" />
+<item id="35269" />
+</taught-by-item>
+</spell>
+<spell id="39735" requires-skill-level="375" colors="0 375 380 385">
+<name>辉光焚石</name>
+<create id="32219" class="3.5" count="1" />
+<reagents>
+<item id="32231" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32305" />
+<item id="35268" />
+</taught-by-item>
+</spell>
+<spell id="39736" requires-skill-level="375" colors="0 375 380 385">
+<name>反光焚石</name>
+<create id="32220" class="3.5" count="1" />
+<reagents>
+<item id="32231" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32306" />
+<item id="35266" />
+</taught-by-item>
+</spell>
+<spell id="39737" requires-skill-level="375" colors="0 375 380 385">
+<name>隐秘焚石</name>
+<create id="32221" class="3.5" count="1" />
+<reagents>
+<item id="32231" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32307" />
+<item id="35270" />
+</taught-by-item>
+</spell>
+<spell id="39738" requires-skill-level="375" colors="0 375 380 385">
+<name>邪恶焚石</name>
+<create id="32222" class="3.5" count="1" />
+<reagents>
+<item id="32231" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32308" />
+<item id="35271" />
+</taught-by-item>
+</spell>
+<spell id="39739" requires-skill-level="375" colors="0 375 380 385">
+<name>坚硬海浪翡翠</name>
+<create id="32223" class="3.4" count="1" />
+<reagents>
+<item id="32249" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32309" />
+<item id="35252" />
+</taught-by-item>
+</spell>
+<spell id="39740" requires-skill-level="375" colors="0 375 380 385">
+<name>辐光海浪翡翠</name>
+<create id="32224" class="3.4" count="1" />
+<reagents>
+<item id="32249" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32310" />
+<item id="35254" />
+</taught-by-item>
+</spell>
+<spell id="39741" requires-skill-level="375" colors="0 375 380 385">
+<name>眩光海浪翡翠</name>
+<create id="32225" class="3.4" count="1" />
+<reagents>
+<item id="32249" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32311" />
+<item id="35251" />
+</taught-by-item>
+</spell>
+<spell id="39742" requires-skill-level="375" colors="0 375 380 385">
+<name>裂纹海浪翡翠</name>
+<create id="32226" class="3.4" count="1" />
+<reagents>
+<item id="32249" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32312" />
+<item id="35253" />
+</taught-by-item>
+</spell>
+<spell id="46775" requires-skill-level="375" colors="0 375 380 385">
+<name>雕像</name>
+<create id="35693" class="4.-4" count="1" />
+<reagents>
+<item id="23449" count="8" />
+<item id="32228" count="2" />
+<item id="23440" count="6" />
+</reagents>
+<taught-by-item>
+<item id="35695" />
+</taught-by-item>
+</spell>
+<spell id="46776" requires-skill-level="375" colors="0 375 380 385">
+<name>雕像</name>
+<create id="35694" class="4.-4" count="1" />
+<reagents>
+<item id="23449" count="8" />
+<item id="32231" count="2" />
+<item id="22452" count="8" />
+</reagents>
+<taught-by-item>
+<item id="35696" />
+</taught-by-item>
+</spell>
+<spell id="46777" requires-skill-level="375" colors="0 375 380 385">
+<name>雕像</name>
+<create id="35700" class="4.-4" count="1" />
+<reagents>
+<item id="23447" count="8" />
+<item id="32227" count="2" />
+<item id="21884" count="8" />
+</reagents>
+<taught-by-item>
+<item id="35697" />
+</taught-by-item>
+</spell>
+<spell id="46778" requires-skill-level="375" colors="0 375 380 385">
+<name>雕像</name>
+<create id="35702" class="4.-4" count="1" />
+<reagents>
+<item id="23573" count="4" />
+<item id="32230" count="2" />
+<item id="22456" count="8" />
+</reagents>
+<taught-by-item>
+<item id="35698" />
+</taught-by-item>
+</spell>
+<spell id="46779" requires-skill-level="375" colors="0 375 380 385">
+<name>雕像</name>
+<create id="35703" class="4.-4" count="1" />
+<reagents>
+<item id="23447" count="8" />
+<item id="32249" count="2" />
+<item id="22457" count="8" />
+</reagents>
+<taught-by-item>
+<item id="35699" />
+</taught-by-item>
+</spell>
+<spell id="47053" requires-skill-level="375" colors="0 375 380 385">
+<name>坚强海浪翡翠</name>
+<create id="35759" class="3.4" count="1" />
+<reagents>
+<item id="32249" count="1" />
+</reagents>
+<taught-by-item>
+<item id="35765" />
+<item id="35769" />
+</taught-by-item>
+</spell>
+<spell id="47054" requires-skill-level="375" colors="0 375 380 385">
+<name>稳固海浪翡翠</name>
+<create id="35758" class="3.4" count="1" />
+<reagents>
+<item id="32249" count="1" />
+</reagents>
+<taught-by-item>
+<item id="35764" />
+<item id="35766" />
+</taught-by-item>
+</spell>
+<spell id="47055" requires-skill-level="375" colors="0 375 380 385">
+<name>鲁莽焚石</name>
+<create id="35760" class="3.5" count="1" />
+<reagents>
+<item id="32231" count="1" />
+</reagents>
+<taught-by-item>
+<item id="35762" />
+<item id="35767" />
+</taught-by-item>
+</spell>
+<spell id="47056" requires-skill-level="375" colors="0 375 380 385">
+<name>迅捷狮眼石</name>
+<create id="35761" class="3.2" count="1" />
+<reagents>
+<item id="32229" count="1" />
+</reagents>
+<taught-by-item>
+<item id="35763" />
+<item id="35768" />
+</taught-by-item>
+</spell>
+<spell id="48789" requires-skill-level="375" colors="0 375 380 385">
+<name>纯净影歌紫玉</name>
+<create id="37503" class="3.3" count="1" />
+<reagents>
+<item id="32230" count="1" />
+</reagents>
+<taught-by-item>
+<item id="37504" />
+</taught-by-item>
+</spell>
+<spell id="56195" requires-skill-level="380" colors="380 400 410 420">
+<name>翡翠匕首坠饰</name>
+<create id="42338" class="4.-3" count="1" />
+<reagents>
+<item id="35624" count="1" />
+<item id="36929" count="2" />
+<item id="36932" count="2" />
+</reagents>
+<taught-by-npc cost="108000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="56196" requires-skill-level="380" colors="380 400 410 420">
+<name>血阳项链</name>
+<create id="42339" class="4.-3" count="1" />
+<reagents>
+<item id="35624" count="1" />
+<item id="36917" count="1" />
+<item id="36920" count="2" />
+<item id="36923" count="1" />
+</reagents>
+<taught-by-npc cost="72000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="58145" requires-skill-level="390" colors="390 410 420 430">
+<name>石卫指环</name>
+<create id="43248" class="4.-2" count="1" />
+<reagents>
+<item id="35624" count="2" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="58146" requires-skill-level="390" colors="390 410 420 430">
+<name>暗影力量之戒</name>
+<create id="43249" class="4.-2" count="1" />
+<reagents>
+<item id="35624" count="1" />
+<item id="35627" count="1" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53830" requires-skill-level="390" colors="390 410 425 440">
+<name>朴素血玉石</name>
+<create id="39996" class="3.0" count="1" />
+<reagents>
+<item id="36918" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41576" />
+</taught-by-item>
+</spell>
+<spell id="53945" requires-skill-level="390" colors="390 410 425 440">
+<name>精致血玉石</name>
+<create id="39997" class="3.0" count="1" />
+<reagents>
+<item id="36918" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41577" />
+</taught-by-item>
+</spell>
+<spell id="53946" requires-skill-level="390" colors="390 410 425 440">
+<name>符文血玉石</name>
+<create id="39998" class="3.0" count="1" />
+<reagents>
+<item id="36918" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41718" />
+</taught-by-item>
+</spell>
+<spell id="53947" requires-skill-level="390" colors="390 410 425 440">
+<name>明亮血玉石</name>
+<create id="39999" class="3.0" count="1" />
+<reagents>
+<item id="36918" count="1" />
+</reagents>
+<taught-by-npc cost="100000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53948" requires-skill-level="390" colors="390 410 425 440">
+<name>诡秘血玉石</name>
+<create id="40000" class="3.0" count="1" />
+<reagents>
+<item id="36918" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41719" />
+</taught-by-item>
+</spell>
+<spell id="53949" requires-skill-level="390" colors="390 410 425 440">
+<name>闪光血玉石</name>
+<create id="40001" class="3.0" count="1" />
+<reagents>
+<item id="36918" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41578" />
+</taught-by-item>
+</spell>
+<spell id="53950" requires-skill-level="390" colors="390 410 425 440">
+<name>断裂血玉石</name>
+<create id="40002" class="3.0" count="1" />
+<reagents>
+<item id="36918" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41817" />
+</taught-by-item>
+</spell>
+<spell id="53951" requires-skill-level="390" colors="390 410 425 440">
+<name>精准血玉石</name>
+<create id="40003" class="3.0" count="1" />
+<reagents>
+<item id="36918" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41790" />
+</taught-by-item>
+</spell>
+<spell id="53952" requires-skill-level="390" colors="390 410 425 440">
+<name>致密天蓝石</name>
+<create id="40008" class="3.1" count="1" />
+<reagents>
+<item id="36924" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42138" />
+</taught-by-item>
+</spell>
+<spell id="53953" requires-skill-level="390" colors="390 410 425 440">
+<name>火花天蓝石</name>
+<create id="40009" class="3.1" count="1" />
+<reagents>
+<item id="36924" count="1" />
+</reagents>
+<taught-by-npc cost="100000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53954" requires-skill-level="390" colors="390 410 425 440">
+<name>异彩天蓝石</name>
+<create id="40010" class="3.1" count="1" />
+<reagents>
+<item id="36924" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41581" />
+</taught-by-item>
+</spell>
+<spell id="53955" requires-skill-level="390" colors="390 410 425 440">
+<name>风暴天蓝石</name>
+<create id="40011" class="3.1" count="1" />
+<reagents>
+<item id="36924" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41728" />
+</taught-by-item>
+</spell>
+<spell id="53956" requires-skill-level="390" colors="390 410 425 440">
+<name>闪耀秋色石</name>
+<create id="40012" class="3.2" count="1" />
+<reagents>
+<item id="36921" count="1" />
+</reagents>
+<taught-by-npc cost="100000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53957" requires-skill-level="390" colors="390 410 425 440">
+<name>圆润秋色石</name>
+<create id="40013" class="3.2" count="1" />
+<reagents>
+<item id="36921" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41720" />
+</taught-by-item>
+</spell>
+<spell id="53958" requires-skill-level="390" colors="390 410 425 440">
+<name>刚硬秋色石</name>
+<create id="40014" class="3.2" count="1" />
+<reagents>
+<item id="36921" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41580" />
+</taught-by-item>
+</spell>
+<spell id="53959" requires-skill-level="390" colors="390 410 425 440">
+<name>厚重秋色石</name>
+<create id="40015" class="3.2" count="1" />
+<reagents>
+<item id="36921" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41791" />
+</taught-by-item>
+</spell>
+<spell id="53960" requires-skill-level="390" colors="390 410 425 440">
+<name>秘法秋色石</name>
+<create id="40016" class="3.2" count="1" />
+<reagents>
+<item id="36921" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41727" />
+</taught-by-item>
+</spell>
+<spell id="53961" requires-skill-level="390" colors="390 410 425 440">
+<name>迅捷秋色石</name>
+<create id="40017" class="3.2" count="1" />
+<reagents>
+<item id="36921" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41579" />
+</taught-by-item>
+</spell>
+<spell id="53962" requires-skill-level="390" colors="390 410 425 440">
+<name>统御曙光猫眼石</name>
+<create id="40022" class="3.3" count="1" />
+<reagents>
+<item id="36927" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41784" />
+</taught-by-item>
+</spell>
+<spell id="53963" requires-skill-level="390" colors="390 410 425 440">
+<name>狡诈曙光猫眼石</name>
+<create id="40023" class="3.3" count="1" />
+<reagents>
+<item id="36927" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41747" />
+</taught-by-item>
+</spell>
+<spell id="53964" requires-skill-level="390" colors="390 410 425 440">
+<name>纤细曙光猫眼石</name>
+<create id="40024" class="3.3" count="1" />
+<reagents>
+<item id="36927" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41785" />
+</taught-by-item>
+</spell>
+<spell id="53965" requires-skill-level="390" colors="390 410 425 440">
+<name>炽热曙光猫眼石</name>
+<create id="40025" class="3.3" count="1" />
+<reagents>
+<item id="36927" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41725" />
+</taught-by-item>
+</spell>
+<spell id="53966" requires-skill-level="390" colors="390 410 425 440">
+<name>纯净曙光猫眼石</name>
+<create id="40026" class="3.3" count="1" />
+<reagents>
+<item id="36927" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41783" />
+</taught-by-item>
+</spell>
+<spell id="53967" requires-skill-level="390" colors="390 410 425 440">
+<name>皇家曙光猫眼石</name>
+<create id="40027" class="3.3" count="1" />
+<reagents>
+<item id="36927" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41701" />
+</taught-by-item>
+</spell>
+<spell id="53968" requires-skill-level="390" colors="390 410 425 440">
+<name>神秘曙光猫眼石</name>
+<create id="40028" class="3.3" count="1" />
+<reagents>
+<item id="36927" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41740" />
+</taught-by-item>
+</spell>
+<spell id="53969" requires-skill-level="390" colors="390 410 425 440">
+<name>平衡曙光猫眼石</name>
+<create id="40029" class="3.3" count="1" />
+<reagents>
+<item id="36927" count="1" />
+</reagents>
+<taught-by-npc cost="100000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53970" requires-skill-level="390" colors="390 410 425 440">
+<name>充能曙光猫眼石</name>
+<create id="40030" class="3.3" count="1" />
+<reagents>
+<item id="36927" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41796" />
+</taught-by-item>
+</spell>
+<spell id="53971" requires-skill-level="390" colors="390 410 425 440">
+<name>华丽曙光猫眼石</name>
+<create id="40031" class="3.3" count="1" />
+<reagents>
+<item id="36927" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41703" />
+</taught-by-item>
+</spell>
+<spell id="53972" requires-skill-level="390" colors="390 410 425 440">
+<name>防御者的曙光猫眼石</name>
+<create id="40032" class="3.3" count="1" />
+<reagents>
+<item id="36927" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41820" />
+</taught-by-item>
+</spell>
+<spell id="53973" requires-skill-level="390" colors="390 410 425 440">
+<name>强攻曙光猫眼石</name>
+<create id="40033" class="3.3" count="1" />
+<reagents>
+<item id="36927" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41702" />
+</taught-by-item>
+</spell>
+<spell id="53974" requires-skill-level="390" colors="390 410 425 440">
+<name>守护者的曙光猫眼石</name>
+<create id="40034" class="3.3" count="1" />
+<reagents>
+<item id="36927" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41726" />
+</taught-by-item>
+</spell>
+<spell id="53975" requires-skill-level="390" colors="390 410 425 440">
+<name>铭文帝黄晶</name>
+<create id="40037" class="3.5" count="1" />
+<reagents>
+<item id="36930" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41789" />
+</taught-by-item>
+</spell>
+<spell id="53976" requires-skill-level="390" colors="390 410 425 440">
+<name>蚀刻帝黄晶</name>
+<create id="40038" class="3.5" count="1" />
+<reagents>
+<item id="36930" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41777" />
+</taught-by-item>
+</spell>
+<spell id="53977" requires-skill-level="390" colors="390 410 425 440">
+<name>勇士的帝黄晶</name>
+<create id="40039" class="3.5" count="1" />
+<reagents>
+<item id="36930" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41780" />
+</taught-by-item>
+</spell>
+<spell id="53978" requires-skill-level="390" colors="390 410 425 440">
+<name>灿烂帝黄晶</name>
+<create id="40040" class="3.5" count="1" />
+<reagents>
+<item id="36930" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41734" />
+</taught-by-item>
+</spell>
+<spell id="53979" requires-skill-level="390" colors="390 410 425 440">
+<name>致命帝黄晶</name>
+<create id="40043" class="3.5" count="1" />
+<reagents>
+<item id="36930" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41794" />
+</taught-by-item>
+</spell>
+<spell id="53980" requires-skill-level="390" colors="390 410 425 440">
+<name>反光帝黄晶</name>
+<create id="40044" class="3.5" count="1" />
+<reagents>
+<item id="36930" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41582" />
+</taught-by-item>
+</spell>
+<spell id="53981" requires-skill-level="390" colors="390 410 425 440">
+<name>透明帝黄晶</name>
+<create id="40045" class="3.5" count="1" />
+<reagents>
+<item id="36930" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41733" />
+</taught-by-item>
+</spell>
+<spell id="53982" requires-skill-level="390" colors="390 410 425 440">
+<name>轻巧帝黄晶</name>
+<create id="40046" class="3.5" count="1" />
+<reagents>
+<item id="36930" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41792" />
+</taught-by-item>
+</spell>
+<spell id="53983" requires-skill-level="390" colors="390 410 425 440">
+<name>辉光帝黄晶</name>
+<create id="40047" class="3.5" count="1" />
+<reagents>
+<item id="36930" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41689" />
+</taught-by-item>
+</spell>
+<spell id="53984" requires-skill-level="390" colors="390 410 425 440">
+<name>高能帝黄晶</name>
+<create id="40048" class="3.5" count="1" />
+<reagents>
+<item id="36930" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41686" />
+</taught-by-item>
+</spell>
+<spell id="53985" requires-skill-level="390" colors="390 410 425 440">
+<name>隐秘帝黄晶</name>
+<create id="40049" class="3.5" count="1" />
+<reagents>
+<item id="36930" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41688" />
+</taught-by-item>
+</spell>
+<spell id="53986" requires-skill-level="390" colors="390 410 425 440">
+<name>耐久帝黄晶</name>
+<create id="40050" class="3.5" count="1" />
+<reagents>
+<item id="36930" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41730" />
+</taught-by-item>
+</spell>
+<spell id="53987" requires-skill-level="390" colors="390 410 425 440">
+<name>鲁莽帝黄晶</name>
+<create id="40051" class="3.5" count="1" />
+<reagents>
+<item id="36930" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41690" />
+</taught-by-item>
+</spell>
+<spell id="53988" requires-skill-level="390" colors="390 410 425 440">
+<name>邪恶帝黄晶</name>
+<create id="40052" class="3.5" count="1" />
+<reagents>
+<item id="36930" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41721" />
+</taught-by-item>
+</spell>
+<spell id="53989" requires-skill-level="390" colors="390 410 425 440">
+<name>原始帝黄晶</name>
+<create id="40053" class="3.5" count="1" />
+<reagents>
+<item id="36930" count="1" />
+</reagents>
+<taught-by-npc cost="100000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="53990" requires-skill-level="390" colors="390 410 425 440">
+<name>增效帝黄晶</name>
+<create id="40054" class="3.5" count="1" />
+<reagents>
+<item id="36930" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41732" />
+</taught-by-item>
+</spell>
+<spell id="53991" requires-skill-level="390" colors="390 410 425 440">
+<name>荒凉帝黄晶</name>
+<create id="40055" class="3.5" count="1" />
+<reagents>
+<item id="36930" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41687" />
+</taught-by-item>
+</spell>
+<spell id="53992" requires-skill-level="390" colors="390 410 425 440">
+<name>坚韧帝黄晶</name>
+<create id="40056" class="3.5" count="1" />
+<reagents>
+<item id="36930" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41779" />
+</taught-by-item>
+</spell>
+<spell id="53993" requires-skill-level="390" colors="390 410 425 440">
+<name>黯光帝黄晶</name>
+<create id="40057" class="3.5" count="1" />
+<reagents>
+<item id="36930" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41722" />
+</taught-by-item>
+</spell>
+<spell id="53994" requires-skill-level="390" colors="390 410 425 440">
+<name>精确帝黄晶</name>
+<create id="40058" class="3.5" count="1" />
+<reagents>
+<item id="36930" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41818" />
+</taught-by-item>
+</spell>
+<spell id="53995" requires-skill-level="390" colors="390 410 425 440">
+<name>永恒森林翡翠</name>
+<create id="40085" class="3.4" count="1" />
+<reagents>
+<item id="36933" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41795" />
+</taught-by-item>
+</spell>
+<spell id="53996" requires-skill-level="390" colors="390 410 425 440">
+<name>裂纹森林翡翠</name>
+<create id="40086" class="3.4" count="1" />
+<reagents>
+<item id="36933" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41723" />
+</taught-by-item>
+</spell>
+<spell id="53997" requires-skill-level="390" colors="390 410 425 440">
+<name>鲜艳森林翡翠</name>
+<create id="40088" class="3.4" count="1" />
+<reagents>
+<item id="36933" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41698" />
+</taught-by-item>
+</spell>
+<spell id="53998" requires-skill-level="390" colors="390 410 425 440">
+<name>坚硬森林翡翠</name>
+<create id="40089" class="3.4" count="1" />
+<reagents>
+<item id="36933" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41697" />
+</taught-by-item>
+</spell>
+<spell id="54000" requires-skill-level="390" colors="390 410 425 440">
+<name>稳固森林翡翠</name>
+<create id="40090" class="3.4" count="1" />
+<reagents>
+<item id="36933" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41738" />
+</taught-by-item>
+</spell>
+<spell id="54001" requires-skill-level="390" colors="390 410 425 440">
+<name>坚强森林翡翠</name>
+<create id="40091" class="3.4" count="1" />
+<reagents>
+<item id="36933" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41693" />
+</taught-by-item>
+</spell>
+<spell id="54002" requires-skill-level="390" colors="390 410 425 440">
+<name>先知的森林翡翠</name>
+<create id="40092" class="3.4" count="1" />
+<reagents>
+<item id="36933" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41699" />
+</taught-by-item>
+</spell>
+<spell id="54003" requires-skill-level="390" colors="390 410 425 440">
+<name>迷雾森林翡翠</name>
+<create id="40095" class="3.4" count="1" />
+<reagents>
+<item id="36933" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41781" />
+</taught-by-item>
+</spell>
+<spell id="54004" requires-skill-level="390" colors="390 410 425 440">
+<name>辉煌森林翡翠</name>
+<create id="40099" class="3.4" count="1" />
+<reagents>
+<item id="36933" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41782" />
+</taught-by-item>
+</spell>
+<spell id="54005" requires-skill-level="390" colors="390 410 425 440">
+<name>混沌森林翡翠</name>
+<create id="40102" class="3.4" count="1" />
+<reagents>
+<item id="36933" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41737" />
+</taught-by-item>
+</spell>
+<spell id="54006" requires-skill-level="390" colors="390 410 425 440">
+<name>复杂森林翡翠</name>
+<create id="40104" class="3.4" count="1" />
+<reagents>
+<item id="36933" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41694" />
+</taught-by-item>
+</spell>
+<spell id="54007" requires-skill-level="390" colors="390 410 425 440">
+<name>炫光森林翡翠</name>
+<create id="40094" class="3.4" count="1" />
+<reagents>
+<item id="36933" count="1" />
+</reagents>
+<taught-by-npc cost="100000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="54008" requires-skill-level="390" colors="390 410 425 440">
+<name>碎裂森林翡翠</name>
+<create id="40096" class="3.4" count="1" />
+<reagents>
+<item id="36933" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41724" />
+</taught-by-item>
+</spell>
+<spell id="54009" requires-skill-level="390" colors="390 410 425 440">
+<name>烁光森林翡翠</name>
+<create id="40100" class="3.4" count="1" />
+<reagents>
+<item id="36933" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41696" />
+</taught-by-item>
+</spell>
+<spell id="54010" requires-skill-level="390" colors="390 410 425 440">
+<name>晦暗森林翡翠</name>
+<create id="40103" class="3.4" count="1" />
+<reagents>
+<item id="36933" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41739" />
+</taught-by-item>
+</spell>
+<spell id="54011" requires-skill-level="390" colors="390 410 425 440">
+<name>活跃森林翡翠</name>
+<create id="40105" class="3.4" count="1" />
+<reagents>
+<item id="36933" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41692" />
+</taught-by-item>
+</spell>
+<spell id="54012" requires-skill-level="390" colors="390 410 425 440">
+<name>辐光森林翡翠</name>
+<create id="40098" class="3.4" count="1" />
+<reagents>
+<item id="36933" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41819" />
+</taught-by-item>
+</spell>
+<spell id="54013" requires-skill-level="390" colors="390 410 425 440">
+<name>焦虑森林翡翠</name>
+<create id="40101" class="3.4" count="1" />
+<reagents>
+<item id="36933" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41736" />
+</taught-by-item>
+</spell>
+<spell id="54014" requires-skill-level="390" colors="390 410 425 440">
+<name>破碎森林翡翠</name>
+<create id="40106" class="3.4" count="1" />
+<reagents>
+<item id="36933" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41735" />
+</taught-by-item>
+</spell>
+<spell id="54019" requires-skill-level="390" colors="390 410 425 440">
+<name>凶猛帝黄晶</name>
+<create id="40041" class="3.5" count="1" />
+<reagents>
+<item id="36930" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41793" />
+</taught-by-item>
+</spell>
+<spell id="54023" requires-skill-level="390" colors="390 410 425 440">
+<name>坚毅帝黄晶</name>
+<create id="40059" class="3.5" count="1" />
+<reagents>
+<item id="36930" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41778" />
+</taught-by-item>
+</spell>
+<spell id="56531" requires-skill-level="390" colors="390 410 425 440">
+<name>魔化之泪</name>
+<create id="42702" class="3.8" count="1" />
+<reagents>
+<item id="36784" count="1" />
+<item id="34054" count="4" />
+</reagents>
+<taught-by-npc cost="100000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="56199" requires-skill-level="400" colors="400 430 440 450">
+<name>红宝石野兔</name>
+<create id="42341" class="4.-4" count="1" />
+<reagents>
+<item id="41163" count="2" />
+<item id="36918" count="2" />
+<item id="36921" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="56201" requires-skill-level="400" colors="400 430 440 450">
+<name>暮光毒蛇</name>
+<create id="42395" class="4.-4" count="1" />
+<reagents>
+<item id="41163" count="2" />
+<item id="36927" count="2" />
+<item id="36930" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="56202" requires-skill-level="400" colors="400 430 440 450">
+<name>蓝宝石猫头鹰</name>
+<create id="42413" class="4.-4" count="1" />
+<reagents>
+<item id="41163" count="2" />
+<item id="36924" count="2" />
+<item id="36933" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="56203" requires-skill-level="400" colors="400 430 440 450">
+<name>翡翠野猪</name>
+<create id="42418" class="4.-4" count="1" />
+<reagents>
+<item id="41163" count="2" />
+<item id="36933" count="2" />
+<item id="36918" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="59759" requires-skill-level="400" colors="400 430 440 450">
+<name>帝黄晶螃蟹</name>
+<create id="44063" class="4.-4" count="1" />
+<reagents>
+<item id="41163" count="2" />
+<item id="36930" count="2" />
+<item id="36933" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="55384" requires-skill-level="420" colors="420 440 450 460">
+<name>光辉之天焰钻石</name>
+<create id="41377" class="3.6" count="1" />
+<reagents>
+<item id="41266" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41705" />
+</taught-by-item>
+</spell>
+<spell id="55386" requires-skill-level="420" colors="420 440 450 460">
+<name>持久之天焰钻石</name>
+<create id="41375" class="3.6" count="1" />
+<reagents>
+<item id="41266" count="1" />
+</reagents>
+<taught-by-npc cost="120000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="55387" requires-skill-level="420" colors="420 440 450 460">
+<name>遗忘之天焰钻石</name>
+<create id="41378" class="3.6" count="1" />
+<reagents>
+<item id="41266" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41743" />
+</taught-by-item>
+</spell>
+<spell id="55388" requires-skill-level="420" colors="420 440 450 460">
+<name>冷酷之天焰钻石</name>
+<create id="41379" class="3.6" count="1" />
+<reagents>
+<item id="41266" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41744" />
+</taught-by-item>
+</spell>
+<spell id="55389" requires-skill-level="420" colors="420 440 450 460">
+<name>混乱之天焰钻石</name>
+<create id="41285" class="3.6" count="1" />
+<reagents>
+<item id="41266" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41704" />
+</taught-by-item>
+</spell>
+<spell id="55390" requires-skill-level="420" colors="420 440 450 460">
+<name>毁灭之天焰钻石</name>
+<create id="41307" class="3.6" count="1" />
+<reagents>
+<item id="41266" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41786" />
+</taught-by-item>
+</spell>
+<spell id="55392" requires-skill-level="420" colors="420 440 450 460">
+<name>灰烬之天焰钻石</name>
+<create id="41333" class="3.6" count="1" />
+<reagents>
+<item id="41266" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41706" />
+</taught-by-item>
+</spell>
+<spell id="55393" requires-skill-level="420" colors="420 440 450 460">
+<name>神秘之天焰钻石</name>
+<create id="41335" class="3.6" count="1" />
+<reagents>
+<item id="41266" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41742" />
+</taught-by-item>
+</spell>
+<spell id="55394" requires-skill-level="420" colors="420 440 450 460">
+<name>迅捷之天焰钻石</name>
+<create id="41339" class="3.6" count="1" />
+<reagents>
+<item id="41266" count="1" />
+</reagents>
+<taught-by-npc cost="120000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="55395" requires-skill-level="420" colors="420 440 450 460">
+<name>雷鸣之天焰钻石</name>
+<create id="41400" class="3.6" count="1" />
+<reagents>
+<item id="41266" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41787" />
+</taught-by-item>
+</spell>
+<spell id="55396" requires-skill-level="420" colors="420 440 450 460">
+<name>洞察之大地侵攻钻石</name>
+<create id="41401" class="3.6" count="1" />
+<reagents>
+<item id="41334" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41708" />
+</taught-by-item>
+</spell>
+<spell id="55397" requires-skill-level="420" colors="420 440 450 460">
+<name>鼓舞之大地侵攻钻石</name>
+<create id="41395" class="3.6" count="1" />
+<reagents>
+<item id="41334" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41798" />
+</taught-by-item>
+</spell>
+<spell id="55398" requires-skill-level="420" colors="420 440 450 460">
+<name>永恒之大地侵攻钻石</name>
+<create id="41396" class="3.6" count="1" />
+<reagents>
+<item id="41334" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41799" />
+</taught-by-item>
+</spell>
+<spell id="55399" requires-skill-level="420" colors="420 440 450 460">
+<name>强能之大地侵攻钻石</name>
+<create id="41397" class="3.6" count="1" />
+<reagents>
+<item id="41334" count="1" />
+</reagents>
+<taught-by-npc cost="120000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="55400" requires-skill-level="420" colors="420 440 450 460">
+<name>残酷之大地侵攻钻石</name>
+<create id="41398" class="3.6" count="1" />
+<reagents>
+<item id="41334" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41710" />
+</taught-by-item>
+</spell>
+<spell id="55401" requires-skill-level="420" colors="420 440 450 460">
+<name>质朴之大地侵攻钻石</name>
+<create id="41380" class="3.6" count="1" />
+<reagents>
+<item id="41334" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41797" />
+</taught-by-item>
+</spell>
+<spell id="55402" requires-skill-level="420" colors="420 440 450 460">
+<name>稳固之大地侵攻钻石</name>
+<create id="41381" class="3.6" count="1" />
+<reagents>
+<item id="41334" count="1" />
+</reagents>
+<taught-by-npc cost="120000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="55403" requires-skill-level="420" colors="420 440 450 460">
+<name>锋利之大地侵攻钻石</name>
+<create id="41382" class="3.6" count="1" />
+<reagents>
+<item id="41334" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41711" />
+</taught-by-item>
+</spell>
+<spell id="55404" requires-skill-level="420" colors="420 440 450 460">
+<name>充沛之大地侵攻钻石</name>
+<create id="41385" class="3.6" count="1" />
+<reagents>
+<item id="41334" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41709" />
+</taught-by-item>
+</spell>
+<spell id="55405" requires-skill-level="420" colors="420 440 450 460">
+<name>明亮之大地侵攻钻石</name>
+<create id="41389" class="3.6" count="1" />
+<reagents>
+<item id="41334" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41788" />
+</taught-by-item>
+</spell>
+<spell id="55407" requires-skill-level="420" colors="420 440 450 460">
+<name>复苏之天焰钻石</name>
+<create id="41376" class="3.6" count="1" />
+<reagents>
+<item id="41266" count="1" />
+</reagents>
+<taught-by-item>
+<item id="41707" />
+</taught-by-item>
+</spell>
+<spell id="56197" requires-skill-level="420" colors="420 440 450 460">
+<name>梦境徽记</name>
+<create id="42340" class="4.-2" count="1" />
+<reagents>
+<item id="41163" count="1" />
+<item id="36933" count="1" />
+<item id="34052" count="1" />
+</reagents>
+<taught-by-npc cost="100000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="58147" requires-skill-level="420" colors="420 440 450 460">
+<name>土灵之力指环</name>
+<create id="43250" class="4.-2" count="1" />
+<reagents>
+<item id="41163" count="2" />
+<item id="35624" count="2" />
+</reagents>
+<taught-by-item>
+<item id="43317" />
+</taught-by-item>
+</spell>
+<spell id="58148" requires-skill-level="420" colors="420 440 450 460">
+<name>血色暗影之戒</name>
+<create id="43251" class="4.-2" count="1" />
+<reagents>
+<item id="41163" count="2" />
+<item id="35627" count="3" />
+<item id="36918" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43318" />
+</taught-by-item>
+</spell>
+<spell id="58149" requires-skill-level="420" colors="420 440 450 460">
+<name>风火指环</name>
+<create id="43252" class="4.-2" count="1" />
+<reagents>
+<item id="41163" count="2" />
+<item id="35623" count="1" />
+<item id="36860" count="2" />
+</reagents>
+<taught-by-item>
+<item id="43319" />
+</taught-by-item>
+</spell>
+<spell id="58150" requires-skill-level="420" colors="420 440 450 460">
+<name>北地泪珠指环</name>
+<create id="43253" class="4.-2" count="1" />
+<reagents>
+<item id="41163" count="2" />
+<item id="35622" count="1" />
+<item id="36783" count="4" />
+</reagents>
+<taught-by-item>
+<item id="43320" />
+</taught-by-item>
+</spell>
+<spell id="58492" requires-skill-level="420" colors="420 440 450 460">
+<name>野蛮泰坦神铁之戒</name>
+<create id="43482" class="4.-2" count="1" />
+<reagents>
+<item id="41163" count="4" />
+<item id="36860" count="4" />
+</reagents>
+<taught-by-item>
+<item id="43485" />
+</taught-by-item>
+</spell>
+<spell id="58507" requires-skill-level="420" colors="420 440 450 460">
+<name>野蛮泰坦神铁指环</name>
+<create id="43498" class="4.-2" count="1" />
+<reagents>
+<item id="41163" count="4" />
+<item id="36860" count="4" />
+</reagents>
+<taught-by-item>
+<item id="43497" />
+</taught-by-item>
+</spell>
+<spell id="58954" requires-skill-level="420" colors="420 440 450 460">
+<name>泰坦神铁霜卫指环</name>
+<create id="43582" class="4.-2" count="1" />
+<reagents>
+<item id="41163" count="2" />
+<item id="35622" count="3" />
+<item id="36860" count="3" />
+<item id="43102" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43597" />
+</taught-by-item>
+</spell>
+<spell id="64725" requires-skill-level="420" colors="420 440 450 460">
+<name>翡翠项圈</name>
+<create id="45812" class="4.-3" count="1" />
+<reagents>
+<item id="41163" count="1" />
+<item id="36933" count="3" />
+</reagents>
+<taught-by-npc cost="90000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="64726" requires-skill-level="420" colors="420 440 450 460">
+<name>蓝玉护符</name>
+<create id="45813" class="4.-3" count="1" />
+<reagents>
+<item id="41163" count="2" />
+<item id="36924" count="2" />
+</reagents>
+<taught-by-npc cost="90000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="64727" requires-skill-level="420" colors="420 440 450 460">
+<name>符文法力指环</name>
+<create id="45808" class="4.-2" count="1" />
+<reagents>
+<item id="41163" count="2" />
+<item id="36927" count="2" />
+</reagents>
+<taught-by-npc cost="90000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="64728" requires-skill-level="420" colors="420 440 450 460">
+<name>血红徽记之戒</name>
+<create id="45809" class="4.-2" count="1" />
+<reagents>
+<item id="41163" count="2" />
+<item id="36918" count="1" />
+</reagents>
+<taught-by-npc cost="90000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="62242" requires-skill-level="425" colors="425 445 457 470">
+<name>冰冻棱柱</name>
+<create id="44943" class="0.0" count="1" />
+<reagents>
+<item id="43102" count="1" />
+<item id="36923" count="1" />
+<item id="36926" count="1" />
+<item id="36932" count="1" />
+</reagents>
+<taught-by-npc cost="135000">
+<npc id="26915" />
+<npc id="26960" />
+<npc id="26982" />
+<npc id="26997" />
+<npc id="28701" />
+<npc id="33590" />
+</taught-by-npc>
+</spell>
+<spell id="56496" requires-skill-level="430" colors="430 450 455 460">
+<name>泰坦神铁冲击指环</name>
+<create id="42642" class="4.-2" count="1" />
+<reagents>
+<item id="41163" count="2" />
+<item id="42225" count="4" />
+<item id="36860" count="4" />
+<item id="35627" count="4" />
+<item id="43102" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42648" />
+</taught-by-item>
+</spell>
+<spell id="56497" requires-skill-level="430" colors="430 450 455 460">
+<name>泰坦神铁地卫指环</name>
+<create id="42643" class="4.-2" count="1" />
+<reagents>
+<item id="41163" count="2" />
+<item id="42225" count="4" />
+<item id="35624" count="4" />
+<item id="35625" count="4" />
+<item id="43102" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42649" />
+</taught-by-item>
+</spell>
+<spell id="56498" requires-skill-level="430" colors="430 450 455 460">
+<name>泰坦神铁魔震指环</name>
+<create id="42644" class="4.-2" count="1" />
+<reagents>
+<item id="41163" count="2" />
+<item id="42225" count="4" />
+<item id="35622" count="4" />
+<item id="35623" count="4" />
+<item id="43102" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42650" />
+</taught-by-item>
+</spell>
+<spell id="56499" requires-skill-level="440" colors="440 450 455 460">
+<name>泰坦神铁冲击项圈</name>
+<create id="42645" class="4.-3" count="1" />
+<reagents>
+<item id="41163" count="2" />
+<item id="42225" count="4" />
+<item id="35623" count="6" />
+<item id="36860" count="6" />
+<item id="43102" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42651" />
+</taught-by-item>
+</spell>
+<spell id="56500" requires-skill-level="440" colors="440 450 455 460">
+<name>泰坦神铁地卫项圈</name>
+<create id="42646" class="4.-3" count="1" />
+<reagents>
+<item id="41163" count="2" />
+<item id="42225" count="4" />
+<item id="35625" count="6" />
+<item id="35624" count="6" />
+<item id="43102" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42652" />
+</taught-by-item>
+</spell>
+<spell id="56501" requires-skill-level="440" colors="440 450 455 460">
+<name>泰坦神铁魔震项链</name>
+<create id="42647" class="4.-3" count="1" />
+<reagents>
+<item id="41163" count="2" />
+<item id="42225" count="4" />
+<item id="35627" count="6" />
+<item id="35622" count="6" />
+<item id="43102" count="1" />
+</reagents>
+<taught-by-item>
+<item id="42653" />
+</taught-by-item>
+</spell>
+<spell id="66338" requires-skill-level="450" colors="0 450 452 465">
+<name>坚硬祖尔之眼</name>
+<create id="40167" class="3.4" count="1" />
+<reagents>
+<item id="36934" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46897" />
+</taught-by-item>
+</spell>
+<spell id="66428" requires-skill-level="450" colors="0 450 452 465">
+<name>稳固祖尔之眼</name>
+<create id="40168" class="3.4" count="1" />
+<reagents>
+<item id="36934" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46898" />
+</taught-by-item>
+</spell>
+<spell id="66429" requires-skill-level="450" colors="0 450 452 465">
+<name>鲜艳祖尔之眼</name>
+<create id="40166" class="3.4" count="1" />
+<reagents>
+<item id="36934" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46899" />
+</taught-by-item>
+</spell>
+<spell id="66430" requires-skill-level="450" colors="0 450 452 465">
+<name>炫光祖尔之眼</name>
+<create id="40175" class="3.4" count="1" />
+<reagents>
+<item id="36934" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46900" />
+</taught-by-item>
+</spell>
+<spell id="66431" requires-skill-level="450" colors="0 450 452 465">
+<name>裂纹祖尔之眼</name>
+<create id="40165" class="3.4" count="1" />
+<reagents>
+<item id="36934" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46901" />
+</taught-by-item>
+</spell>
+<spell id="66432" requires-skill-level="450" colors="0 450 452 465">
+<name>永恒祖尔之眼</name>
+<create id="40164" class="3.4" count="1" />
+<reagents>
+<item id="36934" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46902" />
+</taught-by-item>
+</spell>
+<spell id="66433" requires-skill-level="450" colors="0 450 452 465">
+<name>先知的祖尔之眼</name>
+<create id="40170" class="3.4" count="1" />
+<reagents>
+<item id="36934" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46903" />
+</taught-by-item>
+</spell>
+<spell id="66434" requires-skill-level="450" colors="0 450 452 465">
+<name>坚强祖尔之眼</name>
+<create id="40169" class="3.4" count="1" />
+<reagents>
+<item id="36934" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46904" />
+</taught-by-item>
+</spell>
+<spell id="66435" requires-skill-level="450" colors="0 450 452 465">
+<name>迷雾祖尔之眼</name>
+<create id="40171" class="3.4" count="1" />
+<reagents>
+<item id="36934" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46905" />
+</taught-by-item>
+</spell>
+<spell id="66436" requires-skill-level="450" colors="0 450 452 465">
+<name>碎裂祖尔之眼</name>
+<create id="40176" class="3.4" count="1" />
+<reagents>
+<item id="36934" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46906" />
+</taught-by-item>
+</spell>
+<spell id="66437" requires-skill-level="450" colors="0 450 452 465">
+<name>辉煌祖尔之眼</name>
+<create id="40172" class="3.4" count="1" />
+<reagents>
+<item id="36934" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46907" />
+</taught-by-item>
+</spell>
+<spell id="66438" requires-skill-level="450" colors="0 450 452 465">
+<name>焦虑祖尔之眼</name>
+<create id="40181" class="3.4" count="1" />
+<reagents>
+<item id="36934" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46908" />
+</taught-by-item>
+</spell>
+<spell id="66439" requires-skill-level="450" colors="0 450 452 465">
+<name>烁光祖尔之眼</name>
+<create id="40177" class="3.4" count="1" />
+<reagents>
+<item id="36934" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46909" />
+</taught-by-item>
+</spell>
+<spell id="66440" requires-skill-level="450" colors="0 450 452 465">
+<name>复杂祖尔之眼</name>
+<create id="40174" class="3.4" count="1" />
+<reagents>
+<item id="36934" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46910" />
+</taught-by-item>
+</spell>
+<spell id="66441" requires-skill-level="450" colors="0 450 452 465">
+<name>辐光祖尔之眼</name>
+<create id="40180" class="3.4" count="1" />
+<reagents>
+<item id="36934" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46911" />
+</taught-by-item>
+</spell>
+<spell id="66442" requires-skill-level="450" colors="0 450 452 465">
+<name>活跃祖尔之眼</name>
+<create id="40179" class="3.4" count="1" />
+<reagents>
+<item id="36934" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46912" />
+</taught-by-item>
+</spell>
+<spell id="66443" requires-skill-level="450" colors="0 450 452 465">
+<name>破碎祖尔之眼</name>
+<create id="40182" class="3.4" count="1" />
+<reagents>
+<item id="36934" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46913" />
+</taught-by-item>
+</spell>
+<spell id="66444" requires-skill-level="450" colors="0 450 452 465">
+<name>晦暗祖尔之眼</name>
+<create id="40178" class="3.4" count="1" />
+<reagents>
+<item id="36934" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46914" />
+</taught-by-item>
+</spell>
+<spell id="66445" requires-skill-level="450" colors="0 450 452 465">
+<name>混沌祖尔之眼</name>
+<create id="40173" class="3.4" count="1" />
+<reagents>
+<item id="36934" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46915" />
+</taught-by-item>
+</spell>
+<spell id="66446" requires-skill-level="450" colors="0 450 452 465">
+<name>符文赤玉石</name>
+<create id="40113" class="3.0" count="1" />
+<reagents>
+<item id="36919" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46916" />
+</taught-by-item>
+</spell>
+<spell id="66447" requires-skill-level="450" colors="0 450 452 465">
+<name>朴素赤玉石</name>
+<create id="40111" class="3.0" count="1" />
+<reagents>
+<item id="36919" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46917" />
+</taught-by-item>
+</spell>
+<spell id="66448" requires-skill-level="450" colors="0 450 452 465">
+<name>精致赤玉石</name>
+<create id="40112" class="3.0" count="1" />
+<reagents>
+<item id="36919" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46918" />
+</taught-by-item>
+</spell>
+<spell id="66449" requires-skill-level="450" colors="0 450 452 465">
+<name>明亮赤玉石</name>
+<create id="40114" class="3.0" count="1" />
+<reagents>
+<item id="36919" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46919" />
+</taught-by-item>
+</spell>
+<spell id="66450" requires-skill-level="450" colors="0 450 452 465">
+<name>精准赤玉石</name>
+<create id="40118" class="3.0" count="1" />
+<reagents>
+<item id="36919" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46920" />
+</taught-by-item>
+</spell>
+<spell id="66451" requires-skill-level="450" colors="0 450 452 465">
+<name>断裂赤玉石</name>
+<create id="40117" class="3.0" count="1" />
+<reagents>
+<item id="36919" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46921" />
+</taught-by-item>
+</spell>
+<spell id="66452" requires-skill-level="450" colors="0 450 452 465">
+<name>诡秘赤玉石</name>
+<create id="40115" class="3.0" count="1" />
+<reagents>
+<item id="36919" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46922" />
+</taught-by-item>
+</spell>
+<spell id="66453" requires-skill-level="450" colors="0 450 452 465">
+<name>闪光赤玉石</name>
+<create id="40116" class="3.0" count="1" />
+<reagents>
+<item id="36919" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46923" />
+</taught-by-item>
+</spell>
+<spell id="66497" requires-skill-level="450" colors="0 450 452 465">
+<name>致密巨锆石</name>
+<create id="40119" class="3.1" count="1" />
+<reagents>
+<item id="36925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46924" />
+</taught-by-item>
+</spell>
+<spell id="66498" requires-skill-level="450" colors="0 450 452 465">
+<name>火花巨锆石</name>
+<create id="40120" class="3.1" count="1" />
+<reagents>
+<item id="36925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46925" />
+</taught-by-item>
+</spell>
+<spell id="66499" requires-skill-level="450" colors="0 450 452 465">
+<name>风暴巨锆石</name>
+<create id="40122" class="3.1" count="1" />
+<reagents>
+<item id="36925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46926" />
+</taught-by-item>
+</spell>
+<spell id="66500" requires-skill-level="450" colors="0 450 452 465">
+<name>异彩巨锆石</name>
+<create id="40121" class="3.1" count="1" />
+<reagents>
+<item id="36925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46927" />
+</taught-by-item>
+</spell>
+<spell id="66501" requires-skill-level="450" colors="0 450 452 465">
+<name>刚硬王者琥珀</name>
+<create id="40125" class="3.2" count="1" />
+<reagents>
+<item id="36922" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46928" />
+</taught-by-item>
+</spell>
+<spell id="66502" requires-skill-level="450" colors="0 450 452 465">
+<name>圆润王者琥珀</name>
+<create id="40124" class="3.2" count="1" />
+<reagents>
+<item id="36922" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46929" />
+</taught-by-item>
+</spell>
+<spell id="66503" requires-skill-level="450" colors="0 450 452 465">
+<name>闪耀王者琥珀</name>
+<create id="40123" class="3.2" count="1" />
+<reagents>
+<item id="36922" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46930" />
+</taught-by-item>
+</spell>
+<spell id="66504" requires-skill-level="450" colors="0 450 452 465">
+<name>厚重王者琥珀</name>
+<create id="40126" class="3.2" count="1" />
+<reagents>
+<item id="36922" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46931" />
+</taught-by-item>
+</spell>
+<spell id="66505" requires-skill-level="450" colors="0 450 452 465">
+<name>秘法王者琥珀</name>
+<create id="40127" class="3.2" count="1" />
+<reagents>
+<item id="36922" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46932" />
+</taught-by-item>
+</spell>
+<spell id="66506" requires-skill-level="450" colors="0 450 452 465">
+<name>迅捷王者琥珀</name>
+<create id="40128" class="3.2" count="1" />
+<reagents>
+<item id="36922" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46933" />
+</taught-by-item>
+</spell>
+<spell id="66553" requires-skill-level="450" colors="0 450 452 465">
+<name>平衡恐惧石</name>
+<create id="40136" class="3.3" count="1" />
+<reagents>
+<item id="36928" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46934" />
+</taught-by-item>
+</spell>
+<spell id="66554" requires-skill-level="450" colors="0 450 452 465">
+<name>统御恐惧石</name>
+<create id="40129" class="3.3" count="1" />
+<reagents>
+<item id="36928" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46935" />
+</taught-by-item>
+</spell>
+<spell id="66555" requires-skill-level="450" colors="0 450 452 465">
+<name>炽热恐惧石</name>
+<create id="40132" class="3.3" count="1" />
+<reagents>
+<item id="36928" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46936" />
+</taught-by-item>
+</spell>
+<spell id="66556" requires-skill-level="450" colors="0 450 452 465">
+<name>纯净恐惧石</name>
+<create id="40133" class="3.3" count="1" />
+<reagents>
+<item id="36928" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46937" />
+</taught-by-item>
+</spell>
+<spell id="66557" requires-skill-level="450" colors="0 450 452 465">
+<name>狡诈恐惧石</name>
+<create id="40130" class="3.3" count="1" />
+<reagents>
+<item id="36928" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46938" />
+</taught-by-item>
+</spell>
+<spell id="66558" requires-skill-level="450" colors="0 450 452 465">
+<name>皇家恐惧石</name>
+<create id="40134" class="3.3" count="1" />
+<reagents>
+<item id="36928" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46939" />
+</taught-by-item>
+</spell>
+<spell id="66559" requires-skill-level="450" colors="0 450 452 465">
+<name>华丽恐惧石</name>
+<create id="40138" class="3.3" count="1" />
+<reagents>
+<item id="36928" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46940" />
+</taught-by-item>
+</spell>
+<spell id="66560" requires-skill-level="450" colors="0 450 452 465">
+<name>防御者的恐惧石</name>
+<create id="40139" class="3.3" count="1" />
+<reagents>
+<item id="36928" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46941" />
+</taught-by-item>
+</spell>
+<spell id="66561" requires-skill-level="450" colors="0 450 452 465">
+<name>守护者的恐惧石</name>
+<create id="40141" class="3.3" count="1" />
+<reagents>
+<item id="36928" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46942" />
+</taught-by-item>
+</spell>
+<spell id="66562" requires-skill-level="450" colors="0 450 452 465">
+<name>神秘恐惧石</name>
+<create id="40135" class="3.3" count="1" />
+<reagents>
+<item id="36928" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46943" />
+</taught-by-item>
+</spell>
+<spell id="66563" requires-skill-level="450" colors="0 450 452 465">
+<name>强攻恐惧石</name>
+<create id="40140" class="3.3" count="1" />
+<reagents>
+<item id="36928" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46944" />
+</taught-by-item>
+</spell>
+<spell id="66564" requires-skill-level="450" colors="0 450 452 465">
+<name>充能恐惧石</name>
+<create id="40137" class="3.3" count="1" />
+<reagents>
+<item id="36928" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46945" />
+</taught-by-item>
+</spell>
+<spell id="66565" requires-skill-level="450" colors="0 450 452 465">
+<name>纤细恐惧石</name>
+<create id="40131" class="3.3" count="1" />
+<reagents>
+<item id="36928" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46946" />
+</taught-by-item>
+</spell>
+<spell id="66566" requires-skill-level="450" colors="0 450 452 465">
+<name>辉光无瑕紫黄晶</name>
+<create id="40151" class="3.5" count="1" />
+<reagents>
+<item id="36931" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46947" />
+</taught-by-item>
+</spell>
+<spell id="66567" requires-skill-level="450" colors="0 450 452 465">
+<name>铭文无瑕紫黄晶</name>
+<create id="40142" class="3.5" count="1" />
+<reagents>
+<item id="36931" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46948" />
+</taught-by-item>
+</spell>
+<spell id="66568" requires-skill-level="450" colors="0 450 452 465">
+<name>致命无瑕紫黄晶</name>
+<create id="40147" class="3.5" count="1" />
+<reagents>
+<item id="36931" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46949" />
+</taught-by-item>
+</spell>
+<spell id="66569" requires-skill-level="450" colors="0 450 452 465">
+<name>高能无瑕紫黄晶</name>
+<create id="40152" class="3.5" count="1" />
+<reagents>
+<item id="36931" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46950" />
+</taught-by-item>
+</spell>
+<spell id="66570" requires-skill-level="450" colors="0 450 452 465">
+<name>隐秘无瑕紫黄晶</name>
+<create id="40153" class="3.5" count="1" />
+<reagents>
+<item id="36931" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46951" />
+</taught-by-item>
+</spell>
+<spell id="66571" requires-skill-level="450" colors="0 450 452 465">
+<name>耐久无瑕紫黄晶</name>
+<create id="40154" class="3.5" count="1" />
+<reagents>
+<item id="36931" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46952" />
+</taught-by-item>
+</spell>
+<spell id="66572" requires-skill-level="450" colors="0 450 452 465">
+<name>蚀刻无瑕紫黄晶</name>
+<create id="40143" class="3.5" count="1" />
+<reagents>
+<item id="36931" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46953" />
+</taught-by-item>
+</spell>
+<spell id="66573" requires-skill-level="450" colors="0 450 452 465">
+<name>原始无瑕紫黄晶</name>
+<create id="40157" class="3.5" count="1" />
+<reagents>
+<item id="36931" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46956" />
+</taught-by-item>
+</spell>
+<spell id="66574" requires-skill-level="450" colors="0 450 452 465">
+<name>鲁莽无瑕紫黄晶</name>
+<create id="40155" class="3.5" count="1" />
+<reagents>
+<item id="36931" count="1" />
+</reagents>
+<taught-by-item>
+<item id="47007" />
+</taught-by-item>
+</spell>
+<spell id="66575" requires-skill-level="450" colors="0 450 452 465">
+<name>反光无瑕紫黄晶</name>
+<create id="40148" class="3.5" count="1" />
+<reagents>
+<item id="36931" count="1" />
+</reagents>
+<taught-by-item>
+<item id="47008" />
+</taught-by-item>
+</spell>
+<spell id="66576" requires-skill-level="450" colors="0 450 452 465">
+<name>精确无瑕紫黄晶</name>
+<create id="40162" class="3.5" count="1" />
+<reagents>
+<item id="36931" count="1" />
+</reagents>
+<taught-by-item>
+<item id="47010" />
+</taught-by-item>
+</spell>
+<spell id="66577" requires-skill-level="450" colors="0 450 452 465">
+<name>邪恶无瑕紫黄晶</name>
+<create id="40156" class="3.5" count="1" />
+<reagents>
+<item id="36931" count="1" />
+</reagents>
+<taught-by-item>
+<item id="47011" />
+</taught-by-item>
+</spell>
+<spell id="66578" requires-skill-level="450" colors="0 450 452 465">
+<name>黯光无瑕紫黄晶</name>
+<create id="40161" class="3.5" count="1" />
+<reagents>
+<item id="36931" count="1" />
+</reagents>
+<taught-by-item>
+<item id="47012" />
+</taught-by-item>
+</spell>
+<spell id="66579" requires-skill-level="450" colors="0 450 452 465">
+<name>勇士的无瑕紫黄晶</name>
+<create id="40144" class="3.5" count="1" />
+<reagents>
+<item id="36931" count="1" />
+</reagents>
+<taught-by-item>
+<item id="47015" />
+</taught-by-item>
+</spell>
+<spell id="66580" requires-skill-level="450" colors="0 450 452 465">
+<name>增效无瑕紫黄晶</name>
+<create id="40158" class="3.5" count="1" />
+<reagents>
+<item id="36931" count="1" />
+</reagents>
+<taught-by-item>
+<item id="47016" />
+</taught-by-item>
+</spell>
+<spell id="66581" requires-skill-level="450" colors="0 450 452 465">
+<name>坚韧无瑕紫黄晶</name>
+<create id="40160" class="3.5" count="1" />
+<reagents>
+<item id="36931" count="1" />
+</reagents>
+<taught-by-item>
+<item id="47017" />
+</taught-by-item>
+</spell>
+<spell id="66582" requires-skill-level="450" colors="0 450 452 465">
+<name>灿烂无瑕紫黄晶</name>
+<create id="40145" class="3.5" count="1" />
+<reagents>
+<item id="36931" count="1" />
+</reagents>
+<taught-by-item>
+<item id="47018" />
+</taught-by-item>
+</spell>
+<spell id="66583" requires-skill-level="450" colors="0 450 452 465">
+<name>凶猛无瑕紫黄晶</name>
+<create id="40146" class="3.5" count="1" />
+<reagents>
+<item id="36931" count="1" />
+</reagents>
+<taught-by-item>
+<item id="47019" />
+</taught-by-item>
+</spell>
+<spell id="66584" requires-skill-level="450" colors="0 450 452 465">
+<name>轻巧无瑕紫黄晶</name>
+<create id="40150" class="3.5" count="1" />
+<reagents>
+<item id="36931" count="1" />
+</reagents>
+<taught-by-item>
+<item id="47020" />
+</taught-by-item>
+</spell>
+<spell id="66585" requires-skill-level="450" colors="0 450 452 465">
+<name>透明无瑕紫黄晶</name>
+<create id="40149" class="3.5" count="1" />
+<reagents>
+<item id="36931" count="1" />
+</reagents>
+<taught-by-item>
+<item id="47021" />
+</taught-by-item>
+</spell>
+<spell id="66586" requires-skill-level="450" colors="0 450 452 465">
+<name>坚毅无瑕紫黄晶</name>
+<create id="40163" class="3.5" count="1" />
+<reagents>
+<item id="36931" count="1" />
+</reagents>
+<taught-by-item>
+<item id="47022" />
+</taught-by-item>
+</spell>
+<spell id="66587" requires-skill-level="450" colors="0 450 452 465">
+<name>荒凉无瑕紫黄晶</name>
+<create id="40159" class="3.5" count="1" />
+<reagents>
+<item id="36931" count="1" />
+</reagents>
+<taught-by-item>
+<item id="47023" />
+</taught-by-item>
+</spell>
+<spell id="68253" requires-skill-level="450" colors="0 450 452 465">
+<name>梦魇之泪</name>
+<create id="49110" class="3.8" count="1" />
+<reagents>
+<item id="42225" count="1" />
+<item id="34054" count="5" />
+</reagents>
+<taught-by-item>
+<item id="49112" />
+</taught-by-item>
+</spell>
+</spells>

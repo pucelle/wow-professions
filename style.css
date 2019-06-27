@@ -1,0 +1,535 @@
+﻿/*鼠标样式*/
+body, a			{cursor: url("cursor/Point.cur"),auto;}	/*IE,对文件夹的层次会以html为准*/
+.cur-attack		{cursor: url("cursor/Attack.cur"),auto;}
+.cur-buy		{cursor: url("cursor/Buy.cur"),auto;}
+.cur-complete	{cursor: url("cursor/QuestTurnIn.cur"),auto;}
+.cur-daily		{cursor: url("cursor/QuestRepeatable.cur"),auto;}
+.cur-direction	{cursor: url("cursor/Directions.cur"),auto;}
+.cur-drive		{cursor: url("cursor/Drive.cur"),auto;}
+.cur-gather		{cursor: url("cursor/GatherHerbs.cur"),auto;}
+.cur-inspect	{cursor: url("cursor/Inspect.cur"),auto;}
+.cur-interact	{cursor: url("cursor/Interact.cur"),auto;}
+.cur-lock		{cursor: url("cursor/PickLock.cur"),auto;}
+.cur-loot		{cursor: url("cursor/Pickup.cur"),auto;}
+.cur-mail		{cursor: url("cursor/Mail.cur"),auto;}
+.cur-mine		{cursor: url("cursor/Mine.cur"),auto;}
+.cur-quest		{cursor: url("cursor/Quest.cur"),auto;}
+.cur-repair		{cursor: url("cursor/Repair.cur"),auto;}
+.cur-skin		{cursor: url("cursor/skin.cur"),auto;}
+.cur-speak		{cursor: url("cursor/Speak.cur"),auto;}
+.cur-taxi		{cursor: url("cursor/Taxi.cur"),auto;}
+.cur-train		{cursor: url("cursor/Trainer.cur"),auto;}
+.cur-fish		{cursor: url("cursor/Fishing.cur"),auto;}
+
+
+/*小图标*/
+.si-honor, .si-gold, .si-silver, .si-copper, .si-arena{
+	padding: 0px 16px 0px 2px;
+	background-repeat: no-repeat;
+	background-position: center right;
+}
+.alliance .si-honor		{background-image: url("background/money-alliance.png");_background-image:url("background/money-alliance.gif");}
+.horde .si-honor		{background-image: url("background/money-horde.png");_background-image:url("background/money-horde.gif");}
+.si-gold				{background-image: url("background/money-gold.png");_background-image: url("background/money-gold.gif");}
+.si-silver				{background-image: url("background/money-silver.png");_background-image: url("background/money-silver.gif");}
+.si-copper				{background-image: url("background/money-copper.png");_background-image: url("background/money-copper.gif");}
+.si-arena				{background-image: url("background/money-arena.png");_background-image: url("background/money-arena.gif");}
+/*居左*/
+.si-buy, .si-train, .si-loot, .si-quest, .si-qwords, .si-talk, .si-interact, .si-whell, .si-alliance, .si-horde, .si-daily, .socket-red, .socket-yellow, .socket-blue, .socket-meta{
+	padding-left: 18px;
+	background-repeat: no-repeat;
+	background-position: top left;
+}
+.socket-red, .socket-yellow, .socket-blue, .socket-meta{color: #9d9d9d;}
+.si-indent	{padding-left: 18px;}	/*定义一块缩进区域,不要和其他的si混合使用*/
+.si-buy		{background-image: url("background/buy.png");}
+.si-train	{background-image: url("background/train.png");}
+.si-loot	{background-image: url("background/loot.png");}
+.si-quest	{background-image: url("background/quest-start.png");}
+.si-qwords	{background-image: url("background/questwords.png");}
+.si-talk	{background-image: url("background/talk.png");}
+.si-alliance{background-image: url("background/money-alliance.png");}
+.si-horde	{background-image: url("background/money-horde.png");}
+.si-interact{background-image: url("background/interact.png");}
+.si-whell	{background-image: url("background/whell.png");}
+.si-daily	{background-image: url("background/daily.png");}
+.socket-red	{background-image: url("background/socket-red.png");}
+.socket-yellow	{background-image: url("background/socket-yellow.png");}
+.socket-blue	{background-image: url("background/socket-blue.png");}
+.socket-meta	{background-image: url("background/socket-meta.png");}
+/*一般样式*/
+body{
+	background-color: #000;
+	background-position: top center;
+	background-repeat: no-repeat;
+	font-family: Arial,Verdana,Sans-Serif;
+	font-size: 12px; 
+	color: #eee;
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	overflow-y:scroll;
+	*overflow-y:visible;
+	padding-top:10px;
+}
+table{
+	border-collapse: collapse;
+	border-spacing: 0px;
+}
+td{padding: 0px;}
+th{
+	padding: 0px;
+	font-weight: normal;
+	text-align: right;
+}
+a{outline: none;}
+.bold{font-weight: bold}
+
+/*定义tooltip样式*/
+table.tip{
+	border-collapse: collapse;
+	border-spacing: 0px;
+	position: absolute;
+	z-index: 100;
+	transition:opacity 0.4s;
+}
+table.tip th{padding-left: 10px;}
+td.cc{
+	color: #ddd;
+	text-align: left;
+}
+/*
+td.tl, td.tc, td.tr, td.cl, td.cc, td.cr, td.bl, td.bc, td.br{
+	background-image: url("background/tip.png");
+}
+*/
+td.tl, td.tc, td.tr, td.bl, td.bc, td.br{height: 12px;}
+td.tl, td.tr, td.cl, td.cr, td.bl, td.br{width: 12px;}
+/*
+td.tl{background-position:   0px   0px;}
+td.tc{background-position: -12px   0px;}
+td.tr{background-position:  100%   0px;}
+td.cl{background-position:   0px -12px;}
+td.cc{background-position: -12px -12px;}
+td.cr{background-position:  100% -12px;}
+td.bl{background-position:   0px  100%;}
+td.bc{background-position: -12px  100%;}
+td.br{background-position:  100%  100%;}
+*/
+td.tl{background-image:url("background/tip-01.png");}
+td.tc{background-image:url("background/tip-02.png");}
+td.tr{background-image:url("background/tip-03.png");}
+td.cl{background-image:url("background/tip-04.png");}
+td.cc{background-image:url("background/tip-05.png");}
+td.cr{background-image:url("background/tip-06.png");}
+td.bl{background-image:url("background/tip-07.png");}
+td.bc{background-image:url("background/tip-08.png");}
+td.br{background-image:url("background/tip-09.png");}
+.cc table{width: 100%;}
+.cc img{display:block;}
+
+/*通用的截图属性*/
+.screenshot{margin-bottom:3px; width:100%; background-color:#000; *margin-bottom:6px;}
+.screenshot img{margin:0px auto;}
+/*
+.screenshot-bottom{
+	background-image:url("background/gradient-bottom.png");
+	background-repeat:repeat-x;
+	height:30px;
+	width:100%;
+	position:absolute;
+	bottom:0px;
+}*/
+.screenshot-name{color: #ffd100;}
+
+
+/*定义各种颜色*/
+.q	{color: #ffd100;}	/*黄*/
+.q0	{color: #9d9d9d;}	/*灰*/
+.q1	{color: #dddddd;}	/*白*/
+.q2	{color: #1eff00;}	/*绿*/
+.q3	{color: #0070dd;}	/*蓝*/
+.q4	{color: #a335ee;}	/*紫*/
+.q5	{color: #ff8000;}	/*橙*/
+.q6	{color: #e5cc80;}	/*暗金色*/
+.q7	{color: #e5cc80;}	/*暗金色*/
+.q8	{color: #ffff98;}	/*传家宝*/
+.q9	{color: #71d5ff;}	/*淡蓝色*/
+.q10{color: #ff0000;}	/*红色*/
+
+/*react*/
+.r0	{color: #9d9d9d;}
+.r1	{color: #ffd100;}	/*中立*/
+.r2	{color: #1eff00;}	/*友善*/
+.r3	{color: #ff0000;}	/*仇恨*/
+
+/*difficulty*/
+.d0	{color: #ff0000;}	/*红*/
+.d1	{color: #ff8000;}
+.d2	{color: #ffd100;}
+.d3	{color: #1eff00;}
+.d4	{color: #9d9d9d;}	/*灰*/
+
+/*class*/
+.c1	{color:#c69b6d;}	/*warrior*/
+.c2	{color:#f48cba;}	/*paladin*/
+.c3	{color:#aad372;}	/*hunter*/
+.c4	{color:#fff468;}	/*rogue*/
+.c5	{color:#ffffff;}	/*priest*/
+.c6	{color:#c41e3b;}	/*DK*/
+.c7	{color:#2359ff;}	/*shaman*/
+.c8	{color:#68ccef;}	/*mage*/
+.c9	{color:#9382c9;}	/*warlock*/
+.c11{color:#ff7c0a;}	/*druid*/
+
+/*页面样式*/
+#wrapper{
+	margin: 0px auto;
+	width: 960px;
+	background-image: url("");
+	background-repeat: no-repeat;
+}
+div#browser		{position:absolute; right:5px; top:5px; font-weight:bold; padding-left:108px; background:url(background/try.png) no-repeat;}
+div#browser a		{width:16px; height:16px; margin:0px 3px; display:block; float:left; *filter:alpha(opacity=50)}
+div#browser a:hover	{*filter:alpha(opacity=100);}
+div#browser span	{width:16px; height:16px; display:block;}
+#ff span{background-image:url("background/ff.png");}
+#op	span{background-image:url("background/op.png");}
+#ch	span{background-image:url("background/ch.png");}
+#sf	span{background-image:url("background/sf.png");}
+
+#header{
+	margin: 10px 0px 10px 0px;
+	height: 80px;
+	position:relative;
+	background-position: top center;
+	background-repeat: no-repeat;
+}
+.alliance #headerbg{
+	background-image: url("background/header-alliance.png");
+}
+.horde #headerbg{
+	background-image: url("background/header-horde.png");
+}
+#headerbg{
+	position:absolute;
+	width:620px;
+	height:80px;
+	left:170px;
+}
+#skills{
+	position:absolute;
+	width:422px;
+	top:31px;
+	left:270px;
+}
+#camp{
+	position:absolute;
+	right:60px;
+	top:68px;
+}
+#version{
+	position:absolute;
+ 	left:5px;
+	top:68px;
+	color:#666;
+	font-weight:bold;
+}
+#menu-top{height: 21px; margin-left: 3px;}
+#menu-bottom{height: 21px; margin-right: 2px; float: right;}
+#menu-top a, #menu-bottom a{
+	text-decoration:none;
+	display: block;
+	float: left;
+	font-weight: bold;
+	text-align: center;
+	width: 60px;
+	padding-top: 2px;
+	margin-right: 1px;
+	color: #ffd100;
+	height: 18px;
+	background-color: #252525;
+	border-top: 1px solid #444;
+	border-left: 1px solid #444;
+	border-right: 1px solid #111;
+}
+#menu-bottom a{border-top: 0px;}
+#menu-top a.active, #menu-bottom a.active{
+	color: #1eff00;
+	height: 19px;
+	background-color: #383838;
+	border-top: 1px solid #555;
+	border-left: 1px solid #555;
+	border-right: 1px solid #222;
+}
+#menu-bottom a.active{
+	border-top: 0px;
+	height: 18px;
+}
+#menu-top a:hover, #menu-bottom a:hover{
+	background-color: #383838;
+	color: #1eff00;
+}	/*同样的问题,使用非a元素的伪类会导致ie性能大幅下降*/
+#content{
+	border-left: 1px solid #555;
+	border-top: 1px solid #555;
+}
+#footer{
+	height: 50px;
+	clear: both;
+}
+#search{
+	float: right;
+	position: relative;
+	margin-right: 4px;
+}
+input#text{
+	width: 166px;
+	float: left;
+	height: 14px;
+	cursor: text;
+}
+#go{
+	float: right;
+	background: url("background/go.png") center center no-repeat;
+	position: absolute;
+	right: 3px;
+	top : 1px;
+	height: 18px;
+	width: 18px;
+}
+/*主列表*/
+div.table{border-top: 3px solid #383838;}
+table.list{
+	/*background-color: #fff;*/
+	border-spacing: 3px;
+	border: 3px solid #383838;
+	border-left-width: 2px;
+	border-top: 0px;
+	width: 100%;
+}
+table.list thead th{
+	font-weight: bold;
+	background-color: #555;
+	text-align: center;
+	border-bottom: 1px solid #222;
+	border-right: 1px solid #222;
+}
+table.list thead th div{
+	padding: 2px 0px;
+	border-top: 1px solid #777;
+	border-left: 1px solid #777;
+	border-right: 1px solid #222;
+}
+table.list td, table.list th{
+	background-color: #111;
+	border-right: 2px solid #383838;
+	border-bottom: 2px solid #383838;
+}
+table.list th{white-space:pre;}
+
+
+/*list列表下的table样式*/
+td.colors{
+	font-weight: bold;
+	text-align: center;
+}
+td.source{
+	padding: 5px 5px;
+}
+td.source table{
+	border-spacing: 0px;
+	width: 100%;
+}
+td.source td{
+	width: 50%;
+	padding: 0px;
+	border: 0px;
+	text-align: left;
+	/*white-space: nowrap;*/
+}
+td.source th{
+	width: 50%;
+	border: 0px;
+	padding: 0px;
+	font-weight: normal;
+	text-align: right;
+	/*white-space: nowrap;*/
+}
+td.map{
+	padding: 3px 0px;
+	overflow: hidden;
+	text-align: center;
+}
+td.rate{
+	padding: 3px 0px;
+	text-align: center;
+	font-weight: bold;
+}
+
+
+/*图标*/
+.icon, .icon-border, .icon-metal, .icon-medal, .icon a{
+	background-position:center center;
+	background-repeat:no-repeat;
+	width:42px;
+	height:42px;
+}
+.icon a {
+	display: block;
+	position:absolute;
+	_margin:2px 0px 0px 2px;
+}	/*经测试,使用a以外的伪类在IE7下速度奇慢无比*/
+.icon{
+	position: relative;
+	float: left;		/*使其可以与周围元素处于同一行*/
+}
+.icon-border, .icon-metal, .icon-medal{
+	position: absolute;
+	z-index: 2;
+}
+.icon-border	{background-image: url("background/border-icon.png");}
+.icon-metal		{background-image: url("background/border-metal.png");}
+.icon-medal		{background-image: url("background/border-medal.png");}
+.icon-name		{padding: 14px 5px 0px 48px;}	/*紧接着图片的名称,由于之前的元素为relative,所以要重设padding-left*/
+.icon-border a:hover	{background-image: url("background/Highlight.png"); _background-image:none;}
+/*.icon-border .highlightie6	{background-image: url("background/Highlight.png");}
+.icon-metal .highlightie6	{background-image: url("background/Highlight-1.png");}*/
+.icon-metal a:hover		{background-image: url("background/Highlight-1.png"); _background-image:none;}
+.icon-medal a			{background-image: url("background/Highlight-2.png");}
+.stroke{
+	position: absolute;
+	z-index: 1;
+	right: 5px;
+	bottom: 7px;
+	_bottom: 2px;
+	height: 14px;
+	font-family: Palatino Linotype,Times New Roman,Book Antiqua,Symbol;
+	font-weight: bold;
+	font-size: 14px;
+}
+.shadow{position: absolute;color: #000000;}
+.stack{position: absolute;color: #ffffff;}
+.stance{visibility: hidden;}
+
+
+/*物品窗口*/
+.item-name{white-space: nowrap;}
+.item-tip{line-height: 16px;}
+.item-tip .name{}
+
+
+/*地图*/
+.map-name{
+	/*font-weight: bold;*/
+	color: #ffd100;
+	white-space: nowrap;
+	/*cursor: url("cursor/Directions.cur"),auto;
+	*cursor: url("cursor/Directions.cur");*//*同样改由js控制*/
+}
+.map-tip{position: relative;}
+.map-tip img{width: 300px;height: 200px;}
+.coords{position: absolute;top: 0px;left: 0px;}
+.coord, .coord-1{
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	background: url("marks/icon-0.png") no-repeat;
+	opacity: 0.70;
+}
+.coord-1{
+	opacity: 0.35;
+}
+
+/*npc*/
+.alliance .a0{color: #9d9d9d;}
+.alliance .a1{color: #ffd100;}
+.alliance .a2{color: #1eff00;}
+.alliance .a3{
+	color: #ff0000;
+	cursor: url("cursor/Attack.cur"),auto;
+	*cursor: url("cursor/Attack.cur");
+}
+.horde .h0{color: #9d9d9d;}
+.horde .h1{color: #ffd100;}
+.horde .h2{color: #1eff00;}
+.horde .h3{
+	color: #ff0000;
+	cursor: url("cursor/Attack.cur"),auto;
+	*cursor: url("cursor/Attack.cur");
+}
+.npc-name{white-space: nowrap;}
+.npc-tip{text-align: center;}
+.npc-tip .name{}
+.rank{color: #9d9d9d;}
+.level{color: #ffd100;}
+.event{color: #ffd100;}
+
+
+/*任务*/
+.quest-name{color: #ffd100;white-space: nowrap;}
+.quest-tip{}
+.quest-tip .name{color: #ffd100;}
+/*不能接受的任务换个颜色显示*/
+.alliance .side1, .alliance .side2, .horde .side1, .horde .side3 {color: #ffd100;}
+.alliance .side3, .horde .side2{color: #9d9d9d;}
+.alliance .side0, .horde .side0{color: #9d9d9d;}
+.quest-tip .desc{margin-top: 0px;}
+
+
+/*成就*/
+.achievement-name{color: #ffd100;white-space: nowrap;}
+.achievement-tip{}
+.achievement-tip .name{font-weight: bold;color: #ffd100;margin-bottom: 5px;}
+
+
+/*技能*/
+.spell-name{color: #ffd100;white-space: nowrap;}
+.spell-tip{}
+.spell-tip .name{color: #ffd100;margin-bottom: 5px;}
+
+
+/*道具*/
+.object-name{
+	white-space: nowrap;
+	color: #ffd100;
+	/*cursor: url("cursor/Interact.cur"),auto;	这里设置的话,优先级最高,会覆盖诸如任务的样式,改由wowtip.name设置
+	*cursor: url("cursor/Interact.cur");*/
+}
+.object-tip{text-align: center;}
+.object-tip .name{color: #ffd100;}
+
+.alliance .onlycamp2, .horde .onlycamp1{display:none;}	/*1不部落;2联盟*/
+.topsearchbar, .bottomsearchbar{position:relative; z-index:4;}
+.topsearchbar span, .bottomsearchbar span{display:block; height:19px; width:100%;}
+.topsearchbar ul, .bottomsearchbar ul{
+	list-style-type:none;
+	display:none;
+	margin:0px;
+	padding:0px;
+	position:absolute;
+	top:-1px;
+	left:60px; 
+	border-left:1px solid #111;
+	border-right:1px solid #111;
+	-webkit-box-shadow:0px 0px 10px #000;
+	-moz-box-shadow:0px 0px 10px #000;
+	box-shadow:0px 0px 10px #000;
+}
+.bottomsearchbar ul{top:auto; left:auto; bottom:0px; right:61px;}
+.topsearchbar li, .bottomsearchbar li{
+	color:#ffd100;
+	width:60px;
+	background:#333;
+	text-align:left;
+	white-space:nowrap;
+	font-weight:normal;
+	padding:1px 5px;
+	border-bottom:1px solid #111;
+	border-left:1px solid #555;
+	border-top:1px solid #555;
+}
+.topsearchbar li:hover, .bottomsearchbar li:hover{
+	color:#1eff00;
+	background:#383838;
+}

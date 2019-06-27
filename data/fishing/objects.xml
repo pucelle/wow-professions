@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<objects>
+<object id="176582">
+<name>贝壳陷阱</name>
+<screenshot>20627</screenshot>
+<coords map="405">
+<coord x="50" y="150" />
+<coord x="60" y="140" />
+<coord x="60" y="150" />
+<coord x="60" y="160" />
+<coord x="70" y="150" />
+</coords>
+</object>
+</objects>

@@ -1,0 +1,1716 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<spells>
+<spell id="7418" icon="spell_holy_greaterheal">
+<name>附魔护腕 - 初级生命</name>
+<code>
+[span class="q"]附魔护腕 - 初级生命[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双护腕附魔，使它们获得生命值+5的效果。[/span]
+</code>
+</spell>
+<spell id="7420" icon="spell_holy_greaterheal" cost="50">
+<name>附魔胸甲 - 初级生命</name>
+<code>
+[span class="q"]附魔胸甲 - 初级生命[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使它获得生命值+5的效果。[/span]
+</code>
+</spell>
+<spell id="7426" icon="spell_holy_greaterheal" cost="100">
+<name>附魔胸甲 - 初级吸收</name>
+<code>
+[span class="q"]附魔胸甲 - 初级吸收[/span][br /]5秒施法时间[br /][span class="q2"]为一件胸甲附魔，使它每次被击中时都有2%的机会吸收10点伤害。[/span]
+</code>
+</spell>
+<spell id="7428" icon="spell_holy_greaterheal">
+<name>附魔护腕 - 初级偏斜</name>
+<code>
+[span class="q"]附魔护腕 - 初级偏斜[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得防御等级+2的效果。[/span]
+</code>
+</spell>
+<spell id="7443" icon="inv_enchant_formulagood_01">
+<name>附魔胸甲 - 初级法力</name>
+<code>
+[span class="q"]附魔胸甲 - 初级法力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使其获得法力值+5的效果。[/span]
+</code>
+</spell>
+<spell id="7454" icon="spell_holy_greaterheal" cost="100">
+<name>附魔披风 - 初级抗性</name>
+<code>
+[span class="q"]附魔披风 - 初级抗性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使它获得所有魔法抗性+1的效果。[/span]
+</code>
+</spell>
+<spell id="7457" icon="spell_holy_greaterheal" cost="250">
+<name>附魔护腕 - 初级耐力</name>
+<code>
+[span class="q"]附魔护腕 - 初级耐力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一只护腕附魔，使它获得耐力+1的效果。[/span]
+</code>
+</spell>
+<spell id="7745" icon="spell_holy_greaterheal" cost="500">
+<name>附魔双手武器 - 初级冲击</name>
+<code>
+[span class="q"]附魔双手武器 - 初级冲击[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把双手近战武器附魔，使其获得伤害提高2点的效果。[/span]
+</code>
+</spell>
+<spell id="7748" icon="spell_holy_greaterheal" cost="250">
+<name>附魔胸甲 - 次级生命</name>
+<code>
+[span class="q"]附魔胸甲 - 次级生命[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使它获得生命值+15的效果。[/span]
+</code>
+</spell>
+<spell id="7766" icon="inv_enchant_formulagood_01">
+<name>附魔护腕 - 初级精神</name>
+<code>
+[span class="q"]附魔护腕 - 初级精神[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得精神+1的效果。[/span]
+</code>
+</spell>
+<spell id="7771" icon="spell_holy_greaterheal" cost="200">
+<name>附魔披风 - 初级防护</name>
+<code>
+[span class="q"]附魔披风 - 初级防护[/span][br /]5秒施法时间[br /][span class="q2"]为一件披风附魔，使它获得护甲+10的效果。[/span]
+</code>
+</spell>
+<spell id="7776" icon="inv_enchant_formulagood_01">
+<name>附魔胸甲 - 次级法力</name>
+<code>
+[span class="q"]附魔胸甲 - 次级法力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使其获得法力值+20的效果。[/span]
+</code>
+</spell>
+<spell id="7779" icon="spell_holy_greaterheal" cost="400">
+<name>附魔护腕 - 初级敏捷</name>
+<code>
+[span class="q"]附魔护腕 - 初级敏捷[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一只护腕附魔，使它获得敏捷+1的效果。[/span]
+</code>
+</spell>
+<spell id="7782" icon="inv_enchant_formulagood_01">
+<name>附魔护腕 - 初级力量</name>
+<code>
+[span class="q"]附魔护腕 - 初级力量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得力量+1的效果。[/span]
+</code>
+</spell>
+<spell id="7786" icon="inv_enchant_formulagood_01">
+<name>附魔武器 - 初级屠兽</name>
+<screenshot>87231</screenshot>
+<code>
+[span class="q"]附魔武器 - 初级屠兽[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得对野兽伤害提高2点的效果。[/span]
+</code>
+</spell>
+<spell id="7788" icon="spell_holy_greaterheal" cost="500">
+<name>附魔武器 - 初级攻击</name>
+<screenshot>18182</screenshot>
+<code>
+[span class="q"]附魔武器 - 初级攻击[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得伤害提高1点的效果。[/span]
+</code>
+</spell>
+<spell id="7793" icon="inv_misc_note_01">
+<name>附魔双手武器 - 次级智力</name>
+<code>
+[span class="q"]附魔双手武器 - 次级智力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把双手近战武器附魔，使其获得智力+3的效果。[/span]
+</code>
+</spell>
+<spell id="7857" icon="spell_holy_greaterheal" cost="900">
+<name>附魔胸甲 - 生命</name>
+<code>
+[span class="q"]附魔胸甲 - 生命[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使它获得生命值+25的效果。[/span]
+</code>
+</spell>
+<spell id="7859" icon="inv_enchant_formulagood_01">
+<name>附魔护腕 - 次级精神</name>
+<code>
+[span class="q"]附魔护腕 - 次级精神[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得精神+3的效果。[/span]
+</code>
+</spell>
+<spell id="7861" icon="spell_holy_greaterheal" cost="1125">
+<name>附魔披风 - 次级火焰抗性</name>
+<code>
+[span class="q"]附魔披风 - 次级火焰抗性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使它获得火焰抗性+5的效果。[/span]
+</code>
+</spell>
+<spell id="7863" icon="spell_holy_greaterheal" cost="1260">
+<name>附魔靴子 - 初级耐力</name>
+<code>
+[span class="q"]附魔靴子 - 初级耐力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使其获得耐力+1的效果。[/span]
+</code>
+</spell>
+<spell id="7867" icon="inv_enchant_formulagood_01">
+<name>附魔靴子 - 初级敏捷</name>
+<code>
+[span class="q"]附魔靴子 - 初级敏捷[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使其获得敏捷+1的效果。[/span]
+</code>
+</spell>
+<spell id="13262" icon="inv_enchant_disenchant">
+<name>分解</name>
+<code>
+[span class="q"]分解[/span][br /]3秒施法时间[br /][span class="q2"]从优质（绿色）或更好的武器或护甲中提炼出其中的魔法元素，在这个过程中该武器或护甲会被摧毁。[/span]
+</code>
+</spell>
+<spell id="13378" icon="spell_holy_greaterheal" cost="540">
+<name>附魔盾牌 - 初级耐力</name>
+<code>
+[span class="q"]附魔盾牌 - 初级耐力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一面盾牌附魔，使它获得耐力+1的效果。[/span]
+</code>
+</spell>
+<spell id="13380" icon="inv_enchant_formulagood_01">
+<name>附魔双手武器 - 次级精神</name>
+<code>
+[span class="q"]附魔双手武器 - 次级精神[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把双手近战武器附魔，使其获得精神+3的效果。[/span]
+</code>
+</spell>
+<spell id="13419" icon="inv_enchant_formulagood_01">
+<name>附魔披风 - 初级敏捷</name>
+<code>
+[span class="q"]附魔披风 - 初级敏捷[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得敏捷+1的效果。[/span]
+</code>
+</spell>
+<spell id="13421" icon="spell_holy_greaterheal" cost="720">
+<name>附魔披风 - 次级防护</name>
+<code>
+[span class="q"]附魔披风 - 次级防护[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使它获得护甲+20的效果。[/span]
+</code>
+</spell>
+<spell id="13464" icon="inv_enchant_formulagood_01">
+<name>附魔盾牌 - 次级防护</name>
+<code>
+[span class="q"]附魔盾牌 - 次级防护[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一面盾牌附魔，使其获得护甲值+30的效果。[/span]
+</code>
+</spell>
+<spell id="13485" icon="spell_holy_greaterheal" cost="1350">
+<name>附魔盾牌 - 次级精神</name>
+<code>
+[span class="q"]附魔盾牌 - 次级精神[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一面盾牌附魔，使它获得精神+3的效果。[/span]
+</code>
+</spell>
+<spell id="13501" icon="spell_holy_greaterheal" cost="1350">
+<name>附魔护腕 - 次级耐力</name>
+<code>
+[span class="q"]附魔护腕 - 次级耐力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一只护腕附魔，使它获得耐力+3的效果。[/span]
+</code>
+</spell>
+<spell id="13503" icon="spell_holy_greaterheal" cost="1800">
+<name>附魔武器 - 次级攻击</name>
+<screenshot>18188</screenshot>
+<code>
+[span class="q"]附魔武器 - 次级攻击[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得伤害提高2点的效果。[/span]
+</code>
+</spell>
+<spell id="13522" icon="inv_enchant_formulagood_01">
+<name>附魔披风 - 次级暗影抵抗</name>
+<code>
+[span class="q"]附魔披风 - 次级暗影抵抗[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得暗影抗性+10的效果。[/span]
+</code>
+</spell>
+<spell id="13529" icon="spell_holy_greaterheal" cost="2040">
+<name>附魔双手武器 - 次级冲击</name>
+<screenshot>20029</screenshot>
+<code>
+[span class="q"]附魔双手武器 - 次级冲击[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把双手近战武器附魔，使其获得伤害提高3点的效果。[/span]
+</code>
+</spell>
+<spell id="13536" icon="inv_enchant_formulagood_01">
+<name>附魔护腕 - 次级力量</name>
+<code>
+[span class="q"]附魔护腕 - 次级力量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得力量+3的效果。[/span]
+</code>
+</spell>
+<spell id="13538" icon="spell_holy_greaterheal" cost="2250">
+<name>附魔胸甲 - 次级吸收</name>
+<code>
+[span class="q"]附魔胸甲 - 次级吸收[/span][br /]5秒施法时间[br /][span class="q2"]为一件胸甲附魔，使它每次被击中时都有5%的机会吸收25点伤害。[/span]
+</code>
+</spell>
+<spell id="13607" icon="spell_holy_greaterheal" cost="2040">
+<name>附魔胸甲 - 法力</name>
+<code>
+[span class="q"]附魔胸甲 - 法力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使它获得法力值+30的效果。[/span]
+</code>
+</spell>
+<spell id="13612" icon="inv_enchant_formulagood_01">
+<name>附魔手套 - 采矿</name>
+<code>
+[span class="q"]附魔手套 - 采矿[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得采矿技能+2的效果。[/span]
+</code>
+</spell>
+<spell id="13617" icon="inv_enchant_formulagood_01">
+<name>附魔手套 - 草药学</name>
+<code>
+[span class="q"]附魔手套 - 草药学[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得草药学技能+2的效果。[/span]
+</code>
+</spell>
+<spell id="13620" icon="inv_enchant_formulagood_01">
+<name>附魔手套 - 钓鱼</name>
+<code>
+[span class="q"]附魔手套 - 钓鱼[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得钓鱼技能+2的效果。[/span]
+</code>
+</spell>
+<spell id="13622" icon="spell_holy_greaterheal" cost="2250">
+<name>附魔护腕 - 次级智力</name>
+<code>
+[span class="q"]附魔护腕 - 次级智力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一只护腕附魔，使它获得智力+3的效果。[/span]
+</code>
+</spell>
+<spell id="13626" icon="spell_holy_greaterheal" cost="2125">
+<name>附魔胸甲 - 初级属性</name>
+<code>
+[span class="q"]附魔胸甲 - 初级属性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使它获得所有属性+1的效果。[/span]
+</code>
+</spell>
+<spell id="13631" icon="spell_holy_greaterheal" cost="2340">
+<name>附魔盾牌 - 次级耐力</name>
+<code>
+[span class="q"]附魔盾牌 - 次级耐力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一面盾牌附魔，使它获得耐力+3的效果。[/span]
+</code>
+</spell>
+<spell id="13635" icon="spell_holy_greaterheal" cost="2210">
+<name>附魔披风 - 防御</name>
+<code>
+[span class="q"]附魔披风 - 防御[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使它获得护甲+30的效果。[/span]
+</code>
+</spell>
+<spell id="13637" icon="spell_holy_greaterheal" cost="2380">
+<name>附魔靴子 - 次级敏捷</name>
+<code>
+[span class="q"]附魔靴子 - 次级敏捷[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使它们获得敏捷+3的效果。[/span]
+</code>
+</spell>
+<spell id="13640" icon="spell_holy_greaterheal" cost="2430">
+<name>附魔胸甲 - 强效生命</name>
+<code>
+[span class="q"]附魔胸甲 - 强效生命[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使它获得生命值+35的效果。[/span]
+</code>
+</spell>
+<spell id="13642" icon="spell_holy_greaterheal" cost="2520">
+<name>附魔护腕 - 精神</name>
+<code>
+[span class="q"]附魔护腕 - 精神[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使它们获得精神+5的效果。[/span]
+</code>
+</spell>
+<spell id="13644" icon="spell_holy_greaterheal" cost="2380">
+<name>附魔靴子 - 次级耐力</name>
+<code>
+[span class="q"]附魔靴子 - 次级耐力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使它们获得耐力+3的效果。[/span]
+</code>
+</spell>
+<spell id="13646" icon="inv_enchant_formulagood_01">
+<name>附魔护腕 - 次级偏斜</name>
+<code>
+[span class="q"]附魔护腕 - 次级偏斜[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得防御等级+3的效果。[/span]
+</code>
+</spell>
+<spell id="13648" icon="spell_holy_greaterheal" cost="2520">
+<name>附魔护腕 - 耐力</name>
+<code>
+[span class="q"]附魔护腕 - 耐力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使它们获得耐力+5的效果。[/span]
+</code>
+</spell>
+<spell id="13653" icon="inv_enchant_formulagood_01">
+<name>附魔武器 - 次级屠兽</name>
+<screenshot>87232</screenshot>
+<code>
+[span class="q"]附魔武器 - 次级屠兽[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得对野兽伤害提高6点的效果。[/span]
+</code>
+</spell>
+<spell id="13655" icon="inv_enchant_formulagood_01">
+<name>附魔武器 - 次级元素杀手</name>
+<screenshot>70306</screenshot>
+<code>
+[span class="q"]附魔武器 - 次级元素杀手[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得对元素生物伤害提高6点的效果。[/span]
+</code>
+</spell>
+<spell id="13657" icon="spell_holy_greaterheal" cost="2550">
+<name>附魔披风 - 火焰抗性</name>
+<code>
+[span class="q"]附魔披风 - 火焰抗性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使它获得火焰抗性+7的效果。[/span]
+</code>
+</spell>
+<spell id="13659" icon="spell_holy_greaterheal" cost="2720">
+<name>附魔盾牌 - 精神</name>
+<code>
+[span class="q"]附魔盾牌 - 精神[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一面盾牌附魔，使它获得精神+5的效果。[/span]
+</code>
+</spell>
+<spell id="13661" icon="spell_holy_greaterheal" cost="3060">
+<name>附魔护腕 - 力量</name>
+<code>
+[span class="q"]附魔护腕 - 力量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使它们获得力量+5的效果。[/span]
+</code>
+</spell>
+<spell id="13663" icon="spell_holy_greaterheal" cost="3230">
+<name>附魔胸甲 - 强效法力</name>
+<code>
+[span class="q"]附魔胸甲 - 强效法力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使它获得法力值+50的效果。[/span]
+</code>
+</spell>
+<spell id="13687" icon="inv_enchant_formulagood_01">
+<name>附魔靴子 - 次级精神</name>
+<code>
+[span class="q"]附魔靴子 - 次级精神[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使其获得精神+3的效果。[/span]
+</code>
+</spell>
+<spell id="13689" icon="inv_enchant_formulagood_01">
+<name>附魔盾牌 - 次级格挡</name>
+<code>
+[span class="q"]附魔盾牌 - 次级格挡[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一面盾牌附魔，使其获得格挡等级+10的效果。[/span]
+</code>
+</spell>
+<spell id="13693" icon="spell_holy_greaterheal" cost="3400">
+<name>附魔武器 - 攻击</name>
+<screenshot>83072</screenshot>
+<code>
+[span class="q"]附魔武器 - 攻击[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得伤害提高3点的效果。[/span]
+</code>
+</spell>
+<spell id="13695" icon="spell_holy_greaterheal" cost="3600">
+<name>附魔双手武器 - 冲击</name>
+<screenshot>21226</screenshot>
+<code>
+[span class="q"]附魔双手武器 - 冲击[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把双手近战武器附魔，使其获得伤害提高5点的效果。[/span]
+</code>
+</spell>
+<spell id="13698" icon="inv_enchant_formulagood_01">
+<name>附魔手套 - 剥皮</name>
+<code>
+[span class="q"]附魔手套 - 剥皮[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得剥皮技能+5的效果。[/span]
+</code>
+</spell>
+<spell id="13700" icon="spell_holy_greaterheal" cost="3400">
+<name>附魔胸甲 - 次级状态</name>
+<code>
+[span class="q"]附魔胸甲 - 次级状态[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使它获得所有属性+2的效果。[/span]
+</code>
+</spell>
+<spell id="13746" icon="spell_holy_greaterheal" cost="3570">
+<name>附魔披风 - 强效防御</name>
+<code>
+[span class="q"]附魔披风 - 强效防御[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使它获得护甲+50的效果。[/span]
+</code>
+</spell>
+<spell id="13794" icon="spell_holy_greaterheal" cost="3570">
+<name>附魔披风 - 抗性</name>
+<code>
+[span class="q"]附魔披风 - 抗性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使它获得所有魔法抗性+3的效果。[/span]
+</code>
+</spell>
+<spell id="13815" icon="spell_holy_greaterheal" cost="3740">
+<name>附魔手套 - 敏捷</name>
+<code>
+[span class="q"]附魔手套 - 敏捷[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔， 使它们获得敏捷+5的效果。[/span]
+</code>
+</spell>
+<spell id="13817" icon="inv_enchant_formulagood_01">
+<name>附魔盾牌 - 耐力</name>
+<code>
+[span class="q"]附魔盾牌 - 耐力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一面盾牌附魔，使其获得耐力+5的效果。[/span]
+</code>
+</spell>
+<spell id="13822" icon="spell_holy_greaterheal" cost="3740">
+<name>附魔护腕 - 智力</name>
+<code>
+[span class="q"]附魔护腕 - 智力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使它们获得智力+5的效果。[/span]
+</code>
+</spell>
+<spell id="13836" icon="spell_holy_greaterheal" cost="3910">
+<name>附魔靴子 - 耐力</name>
+<code>
+[span class="q"]附魔靴子 - 耐力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使它们获得耐力+5的效果。[/span]
+</code>
+</spell>
+<spell id="13841" icon="inv_enchant_formulagood_01">
+<name>附魔手套 - 高级采矿</name>
+<code>
+[span class="q"]附魔手套 - 高级采矿[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得采矿技能+5的效果。[/span]
+</code>
+</spell>
+<spell id="13846" icon="inv_enchant_formulagood_01">
+<name>附魔护腕 - 强效精神</name>
+<code>
+[span class="q"]附魔护腕 - 强效精神[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得精神+7的效果。[/span]
+</code>
+</spell>
+<spell id="13858" icon="spell_holy_greaterheal" cost="4080">
+<name>附魔胸甲 - 超强生命</name>
+<code>
+[span class="q"]附魔胸甲 - 超强生命[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使它获得生命值+50的效果。[/span]
+</code>
+</spell>
+<spell id="13868" icon="inv_enchant_formulagood_01">
+<name>附魔手套 - 高级草药学</name>
+<code>
+[span class="q"]附魔手套 - 高级草药学[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得草药学技能+5的效果。[/span]
+</code>
+</spell>
+<spell id="13882" icon="inv_enchant_formulagood_01">
+<name>附魔披风 - 次级敏捷</name>
+<code>
+[span class="q"]附魔披风 - 次级敏捷[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得敏捷+3的效果。[/span]
+</code>
+</spell>
+<spell id="13887" icon="spell_holy_greaterheal" cost="4500">
+<name>附魔手套 - 力量</name>
+<code>
+[span class="q"]附魔手套 - 力量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔， 使它们获得力量+5的效果。[/span]
+</code>
+</spell>
+<spell id="13890" icon="spell_holy_greaterheal" cost="4250">
+<name>附魔靴子 - 初级速度</name>
+<code>
+[span class="q"]附魔靴子 - 初级速度[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使它们获得略微提升移动速度的效果。[/span]
+</code>
+</spell>
+<spell id="13898" icon="inv_enchant_formulagood_01">
+<name>附魔武器 - 烈焰</name>
+<screenshot>77618</screenshot>
+<code>
+[span class="q"]附魔武器 - 烈焰[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其在命中目标时经常附加40点火焰伤害。[/span]
+</code>
+</spell>
+<spell id="13905" icon="spell_holy_greaterheal" cost="4590">
+<name>附魔盾牌 - 强效精神</name>
+<code>
+[span class="q"]附魔盾牌 - 强效精神[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一面盾牌附魔，使它获得精神+7的效果。[/span]
+</code>
+</spell>
+<spell id="13915" icon="inv_enchant_formulagood_01">
+<name>附魔武器 - 屠魔</name>
+<screenshot>70298</screenshot>
+<code>
+[span class="q"]附魔武器 - 屠魔[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其有一定几率击晕恶魔并对其造成额外伤害。[/span]
+</code>
+</spell>
+<spell id="13917" icon="spell_holy_greaterheal" cost="4860">
+<name>附魔胸甲 - 超强法力</name>
+<code>
+[span class="q"]附魔胸甲 - 超强法力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使它获得法力值+65的效果。[/span]
+</code>
+</spell>
+<spell id="13931" icon="inv_enchant_formulagood_01">
+<name>附魔护腕 - 偏斜</name>
+<code>
+[span class="q"]附魔护腕 - 偏斜[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得防御等级+5的效果。[/span]
+</code>
+</spell>
+<spell id="13933" icon="inv_enchant_formulagood_01">
+<name>附魔盾牌 - 冰霜抗性</name>
+<code>
+[span class="q"]附魔盾牌 - 冰霜抗性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一面盾牌附魔，使其获得冰霜抗性+8的效果。[/span]
+</code>
+</spell>
+<spell id="13935" icon="spell_holy_greaterheal" cost="4930">
+<name>附魔靴子 - 敏捷</name>
+<code>
+[span class="q"]附魔靴子 - 敏捷[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使它们获得敏捷+5的效果。[/span]
+</code>
+</spell>
+<spell id="13937" icon="spell_holy_greaterheal" cost="5270">
+<name>附魔双手武器 - 强效冲击</name>
+<screenshot>31080</screenshot>
+<code>
+[span class="q"]附魔双手武器 - 强效冲击[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把双手近战武器附魔，使其获得伤害提高7点的效果。[/span]
+</code>
+</spell>
+<spell id="13939" icon="spell_holy_greaterheal" cost="5270">
+<name>附魔护腕 - 强效力量</name>
+<code>
+[span class="q"]附魔护腕 - 强效力量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使它们获得力量+7的效果。[/span]
+</code>
+</spell>
+<spell id="13941" icon="spell_holy_greaterheal" cost="5580">
+<name>附魔胸甲 - 状态</name>
+<code>
+[span class="q"]附魔胸甲 - 状态[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使它获得所有属性+3的效果。[/span]
+</code>
+</spell>
+<spell id="13943" icon="spell_holy_greaterheal" cost="5270">
+<name>附魔武器 - 强效攻击</name>
+<screenshot>70302</screenshot>
+<code>
+[span class="q"]附魔武器 - 强效攻击[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得伤害提高4点的效果。[/span]
+</code>
+</spell>
+<spell id="13945" icon="inv_enchant_formulagood_01">
+<name>附魔护腕 - 强效耐力</name>
+<code>
+[span class="q"]附魔护腕 - 强效耐力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得耐力+7的效果。[/span]
+</code>
+</spell>
+<spell id="13947" icon="inv_enchant_formulagood_01">
+<name>附魔手套 - 骑乘</name>
+<code>
+[span class="q"]附魔手套 - 骑乘[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔， 使它们获得坐骑移动速度提高2%的效果。装备者的等级必须不高于70级才能获得这个效果。[/span]
+</code>
+</spell>
+<spell id="13948" icon="spell_holy_greaterheal" cost="5850">
+<name>附魔手套 - 初级加速</name>
+<code>
+[span class="q"]附魔手套 - 初级加速[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得急速等级提高10的效果。[/span]
+</code>
+</spell>
+<spell id="20008" icon="inv_enchant_formulagood_01" cost="9000">
+<name>附魔护腕 - 强效智力</name>
+<code>
+[span class="q"]附魔护腕 - 强效智力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得智力+7的效果。[/span]
+</code>
+</spell>
+<spell id="20009" icon="inv_enchant_formulagood_01">
+<name>附魔护腕 - 超强精神</name>
+<code>
+[span class="q"]附魔护腕 - 超强精神[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得精神+9的效果。[/span]
+</code>
+</spell>
+<spell id="20010" icon="inv_enchant_formulagood_01">
+<name>附魔护腕 - 超强力量</name>
+<code>
+[span class="q"]附魔护腕 - 超强力量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得力量+9的效果。[/span]
+</code>
+</spell>
+<spell id="20011" icon="inv_enchant_formulagood_01">
+<name>附魔护腕 - 超强耐力</name>
+<code>
+[span class="q"]附魔护腕 - 超强耐力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得耐力+9的效果。[/span]
+</code>
+</spell>
+<spell id="20012" icon="inv_enchant_formulagood_01" cost="9000">
+<name>附魔手套 - 强效敏捷</name>
+<code>
+[span class="q"]附魔手套 - 强效敏捷[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得敏捷+7的效果。[/span]
+</code>
+</spell>
+<spell id="20013" icon="inv_enchant_formulagood_01" cost="18000">
+<name>附魔手套 - 强效力量</name>
+<code>
+[span class="q"]附魔手套 - 强效力量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得力量+7的效果。[/span]
+</code>
+</spell>
+<spell id="20014" icon="inv_enchant_formulagood_01" cost="8500">
+<name>附魔披风 - 强效抗性</name>
+<code>
+[span class="q"]附魔披风 - 强效抗性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得所有抗性+5的效果。[/span]
+</code>
+</spell>
+<spell id="20015" icon="inv_misc_note_01">
+<name>附魔披风 - 超强防御</name>
+<code>
+[span class="q"]附魔披风 - 超强防御[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得护甲值+70的效果。[/span]
+</code>
+</spell>
+<spell id="20016" icon="inv_enchant_formulagood_01" cost="12750">
+<name>附魔盾牌 - 活力</name>
+<code>
+[span class="q"]附魔盾牌 - 活力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一面盾牌附魔，使其获得每5秒回复4点法力值和生命值的效果。[/span]
+</code>
+</spell>
+<spell id="20017" icon="inv_misc_note_01">
+<name>附魔盾牌 - 强效耐力</name>
+<code>
+[span class="q"]附魔盾牌 - 强效耐力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一面盾牌附魔，使其获得耐力+7的效果。[/span]
+</code>
+</spell>
+<spell id="20020" icon="inv_enchant_formulagood_01">
+<name>附魔靴子 - 强效耐力</name>
+<code>
+[span class="q"]附魔靴子 - 强效耐力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使其获得耐力+7的效果。[/span]
+</code>
+</spell>
+<spell id="20023" icon="inv_enchant_formulagood_01" cost="17000">
+<name>附魔靴子 - 强效敏捷</name>
+<code>
+[span class="q"]附魔靴子 - 强效敏捷[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使其获得敏捷+7的效果。[/span]
+</code>
+</spell>
+<spell id="20024" icon="inv_enchant_formulagood_01">
+<name>附魔靴子 - 精神</name>
+<code>
+[span class="q"]附魔靴子 - 精神[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使其获得精神+5的效果。[/span]
+</code>
+</spell>
+<spell id="20025" icon="inv_enchant_formulagood_01">
+<name>附魔胸甲 - 强效属性</name>
+<code>
+[span class="q"]附魔胸甲 - 强效属性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使其获得所有属性提高4点的效果。[/span]
+</code>
+</spell>
+<spell id="20026" icon="inv_misc_note_01">
+<name>附魔胸甲 - 特效生命</name>
+<code>
+[span class="q"]附魔胸甲 - 特效生命[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使其获得生命值+100的效果。[/span]
+</code>
+</spell>
+<spell id="20028" icon="inv_enchant_formulagood_01" cost="12750">
+<name>附魔胸甲 - 特效法力</name>
+<code>
+[span class="q"]附魔胸甲 - 特效法力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使其获得法力值+100的效果。[/span]
+</code>
+</spell>
+<spell id="20029" icon="inv_enchant_formulagood_01">
+<name>附魔武器 - 冰寒</name>
+<screenshot>167688</screenshot>
+<code>
+[span class="q"]附魔武器 - 冰寒[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其可以释放冰寒，使目标的移动和攻击速度减慢。对60级以上玩家的效果降低。[/span]
+</code>
+</spell>
+<spell id="20030" icon="inv_enchant_formulagood_01">
+<name>附魔双手武器 - 超强冲击</name>
+<screenshot>70295</screenshot>
+<code>
+[span class="q"]附魔双手武器 - 超强冲击[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把双手近战武器附魔，使其获得伤害+9的效果。[/span]
+</code>
+</spell>
+<spell id="20031" icon="inv_enchant_formulagood_01">
+<name>附魔武器 - 超强打击</name>
+<screenshot>70323</screenshot>
+<code>
+[span class="q"]附魔武器 - 超强打击[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得伤害提高5点的效果。[/span]
+</code>
+</spell>
+<spell id="20032" icon="inv_enchant_formulasuperior_01">
+<name>附魔武器 - 生命吸取</name>
+<screenshot>65999</screenshot>
+<code>
+[span class="q"]附魔武器 - 生命吸取[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使它可从敌人那儿吸取生命值。对60级以上玩家的效果降低。[/span]
+</code>
+</spell>
+<spell id="20033" icon="inv_enchant_formulagood_01">
+<name>附魔武器 - 邪恶武器</name>
+<screenshot>77418</screenshot>
+<code>
+[span class="q"]附魔武器 - 邪恶武器[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其可以诅咒目标，减少目标造成的近战伤害。[/span]
+</code>
+</spell>
+<spell id="20034" icon="inv_enchant_formulagood_01">
+<name>附魔武器 - 十字军</name>
+<screenshot>18233</screenshot>
+<code>
+[span class="q"]附魔武器 - 十字军[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其在近战攻击命中目标时经常获得神圣之力，为装备者恢复75到125点生命值，并使其力量提高100点，持续15秒。对60级以上玩家的效果降低。[/span]
+</code>
+</spell>
+<spell id="20035" icon="inv_enchant_formulagood_01">
+<name>附魔双手武器 - 特效精神</name>
+<screenshot>70293</screenshot>
+<code>
+[span class="q"]附魔双手武器 - 特效精神[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把双手近战武器附魔，使其获得精神提高9点的效果。[/span]
+</code>
+</spell>
+<spell id="20036" icon="inv_enchant_formulagood_01">
+<name>附魔双手武器 - 特效智力</name>
+<screenshot>70292</screenshot>
+<code>
+[span class="q"]附魔双手武器 - 特效智力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把双手近战武器附魔，使其获得智力提高9点的效果。[/span]
+</code>
+</spell>
+<spell id="21931" icon="inv_enchant_formulagood_01">
+<name>附魔武器 - 寒冬之力</name>
+<code>
+[span class="q"]附魔武器 - 寒冬之力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得冰霜法术强度提高7点的效果。[/span]
+</code>
+</spell>
+<spell id="22749" icon="inv_enchant_formulasuperior_01">
+<name>附魔武器 - 法术能量</name>
+<screenshot>70318</screenshot>
+<code>
+[span class="q"]附魔武器 - 法术能量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得法术强度提高30点的效果。[/span]
+</code>
+</spell>
+<spell id="22750" icon="inv_enchant_formulasuperior_01">
+<name>附魔武器 - 治疗能量</name>
+<screenshot>70303</screenshot>
+<code>
+[span class="q"]附魔武器 - 治疗能量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得法术强度提高29点的效果。[/span]
+</code>
+</spell>
+<spell id="23799" icon="inv_misc_note_01">
+<name>附魔武器 - 力量</name>
+<screenshot>70320</screenshot>
+<code>
+[span class="q"]附魔武器 - 力量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得力量提高15点的效果。[/span]
+</code>
+</spell>
+<spell id="23800" icon="inv_misc_note_01">
+<name>附魔武器 - 敏捷</name>
+<screenshot>25661</screenshot>
+<code>
+[span class="q"]附魔武器 - 敏捷[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得敏捷提高15点的效果。[/span]
+</code>
+</spell>
+<spell id="23801" icon="inv_misc_note_01">
+<name>附魔护腕 - 法力回复</name>
+<code>
+[span class="q"]附魔护腕 - 法力回复[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得每5秒回复5点法力值的效果。[/span]
+</code>
+</spell>
+<spell id="23802" icon="inv_misc_note_01">
+<name>附魔护腕 - 治疗能力</name>
+<code>
+[span class="q"]附魔护腕 - 治疗能力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得法术强度提高15点的效果。[/span]
+</code>
+</spell>
+<spell id="23803" icon="inv_misc_note_01">
+<name>附魔武器 - 强效精神</name>
+<screenshot>78560</screenshot>
+<code>
+[span class="q"]附魔武器 - 强效精神[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得精神提高20点的效果。[/span]
+</code>
+</spell>
+<spell id="23804" icon="inv_misc_note_01">
+<name>附魔武器 - 强效智力</name>
+<screenshot>70312</screenshot>
+<code>
+[span class="q"]附魔武器 - 强效智力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得智力提高22点的效果。[/span]
+</code>
+</spell>
+<spell id="25072" icon="inv_enchant_formulasuperior_01">
+<name>附魔手套 - 威胁</name>
+<code>
+[span class="q"]附魔手套 - 威胁[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使装备它的人物获得对怪物所造成的威胁值提高2%的效果。[/span]
+</code>
+</spell>
+<spell id="25073" icon="inv_enchant_formulasuperior_01">
+<name>附魔手套 - 暗影能量</name>
+<code>
+[span class="q"]附魔手套 - 暗影能量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得暗影法术强度提高20点的效果。[/span]
+</code>
+</spell>
+<spell id="25074" icon="inv_enchant_formulasuperior_01">
+<name>附魔手套 - 冰霜能量</name>
+<code>
+[span class="q"]附魔手套 - 冰霜能量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得冰霜法术强度提高20点的效果。[/span]
+</code>
+</spell>
+<spell id="25078" icon="inv_enchant_formulasuperior_01">
+<name>附魔手套 - 火焰能量</name>
+<code>
+[span class="q"]附魔手套 - 火焰能量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得火焰法术强度提高20点的效果。[/span]
+</code>
+</spell>
+<spell id="25079" icon="inv_enchant_formulasuperior_01">
+<name>附魔手套 - 治疗能量</name>
+<code>
+[span class="q"]附魔手套 - 治疗能量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得法术强度提高16点的效果。[/span]
+</code>
+</spell>
+<spell id="25080" icon="inv_enchant_formulasuperior_01">
+<name>附魔手套 - 超强敏捷</name>
+<code>
+[span class="q"]附魔手套 - 超强敏捷[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得敏捷提高15点的效果。[/span]
+</code>
+</spell>
+<spell id="25081" icon="inv_misc_note_01">
+<name>附魔披风 - 强效火焰抗性</name>
+<code>
+[span class="q"]附魔披风 - 强效火焰抗性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得火焰抗性+15的效果。[/span]
+</code>
+</spell>
+<spell id="25082" icon="inv_misc_note_01">
+<name>附魔披风 - 强效自然抗性</name>
+<code>
+[span class="q"]附魔披风 - 强效自然抗性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得自然抗性+15的效果。[/span]
+</code>
+</spell>
+<spell id="25083" icon="inv_enchant_formulasuperior_01">
+<name>附魔披风 - 潜行</name>
+<code>
+[span class="q"]附魔披风 - 潜行[/span][br /]5秒施法时间[br /][span class="q2"]给一条披风永久性地附魔，使装备它的角色人物获得潜行能力提高的效果。[/span]
+</code>
+</spell>
+<spell id="25084" icon="inv_enchant_formulasuperior_01">
+<name>附魔披风 - 狡诈</name>
+<code>
+[span class="q"]附魔披风 - 狡诈[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得对怪物造成的威胁值降低2%的效果。[/span]
+</code>
+</spell>
+<spell id="25086" icon="inv_enchant_formulasuperior_01">
+<name>附魔披风 - 躲闪</name>
+<code>
+[span class="q"]附魔披风 - 躲闪[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得躲闪等级+12的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27837" icon="inv_misc_note_01">
+<name>附魔双手武器 - 敏捷</name>
+<screenshot>71145</screenshot>
+<code>
+[span class="q"]附魔双手武器 - 敏捷[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把双手近战武器附魔，使其获得敏捷提高25点的效果。[/span]
+</code>
+</spell>
+<spell id="27899" icon="spell_holy_greaterheal" cost="11250">
+<name>附魔护腕 - 强壮</name>
+<code>
+[span class="q"]附魔护腕 - 强壮[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使它们获得力量提高12点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27905" icon="spell_holy_greaterheal" cost="11250">
+<name>附魔护腕 - 属性</name>
+<code>
+[span class="q"]附魔护腕 - 属性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使它们获得所有属性提高4点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27906" icon="inv_enchant_formulagood_01">
+<name>附魔护腕 - 特效防御</name>
+<code>
+[span class="q"]附魔护腕 - 特效防御[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得防御等级+12的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27911" icon="inv_misc_note_01">
+<name>附魔护腕 - 超强治疗</name>
+<code>
+[span class="q"]附魔护腕 - 超强治疗[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得法术强度提高15点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27913" icon="inv_enchant_formulagood_01">
+<name>附魔护腕 - 优秀法力回复</name>
+<code>
+[span class="q"]附魔护腕 - 优秀法力回复[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得每5秒回复8点法力值的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27914" icon="inv_enchant_formulagood_01">
+<name>附魔护腕 - 坚韧</name>
+<code>
+[span class="q"]附魔护腕 - 坚韧[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得耐力提高+12的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27917" icon="inv_enchant_formulagood_01">
+<name>附魔护腕 - 法术能量</name>
+<code>
+[span class="q"]附魔护腕 - 法术能量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得法术强度提高15点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27920" icon="inv_misc_note_01">
+<name>附魔戒指 - 打击</name>
+<code>
+[span class="q"]附魔戒指 - 打击[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一只戒指附魔，使其获得物理伤害+2的效果。只有附魔师自己的戒指才能附魔，且对戒指附魔会使它变为灵魂绑定物品。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27924" icon="inv_misc_note_01">
+<name>附魔戒指 - 法术能量</name>
+<code>
+[span class="q"]附魔戒指 - 法术能量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一只戒指附魔，使其获得法术强度+12的效果。只有附魔师自己的戒指才能附魔，且对戒指附魔会使它变为灵魂绑定物品。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27926" icon="inv_misc_note_01">
+<name>附魔戒指 - 治疗能量</name>
+<code>
+[span class="q"]附魔戒指 - 治疗能量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一只戒指附魔，使其获得法术强度+12的效果。只有附魔师自己的戒指才能附魔，且对戒指附魔会使它变为灵魂绑定物品。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27927" icon="inv_misc_note_01">
+<name>附魔戒指 - 属性</name>
+<code>
+[span class="q"]附魔戒指 - 属性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一只戒指附魔，使其获得所有属性+4的效果。只有附魔师自己的戒指才能附魔，且对戒指附魔会使它变为灵魂绑定物品。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27944" icon="spell_holy_greaterheal" cost="13500">
+<name>附魔盾牌 - 坚韧盾牌</name>
+<code>
+[span class="q"]附魔盾牌 - 坚韧盾牌[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一面盾牌附魔，使它获得格挡值提高36点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27945" icon="inv_misc_note_01">
+<name>附魔盾牌 - 智力</name>
+<code>
+[span class="q"]附魔盾牌 - 智力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一面盾牌附魔，使其获得智力+12的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27946" icon="inv_enchant_formulagood_01">
+<name>附魔盾牌 - 盾牌格挡</name>
+<code>
+[span class="q"]附魔盾牌 - 盾牌格挡[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一面盾牌附魔，使其获得格挡等级+15的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27947" icon="inv_enchant_formulagood_01">
+<name>附魔盾牌 - 抗性</name>
+<code>
+[span class="q"]附魔盾牌 - 抗性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一面盾牌附魔，使其获得所有魔法抗性+5的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27948" icon="inv_enchant_formulagood_01">
+<name>附魔长靴 - 活力</name>
+<code>
+[span class="q"]附魔长靴 - 活力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使它们获得每5秒回复5点生命值和法力值的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27950" icon="inv_enchant_formulagood_01">
+<name>附魔长靴 - 坚韧</name>
+<code>
+[span class="q"]附魔长靴 - 坚韧[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使它们获得耐力提高12点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27951" icon="inv_enchant_formulagood_01">
+<name>附魔长靴 - 灵巧</name>
+<code>
+[span class="q"]附魔长靴 - 灵巧[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使它们获得敏捷提高12点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27954" icon="inv_enchant_formulagood_01">
+<name>附魔长靴 - 稳固</name>
+<code>
+[span class="q"]附魔长靴 - 稳固[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使其获得爆击等级和命中等级提高10的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27957" icon="spell_holy_greaterheal" cost="15750">
+<name>附魔胸甲 - 优异生命</name>
+<code>
+[span class="q"]附魔胸甲 - 优异生命[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使它获得生命值提高150点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27958" icon="spell_holy_greaterheal" cost="45000">
+<name>附魔胸甲 - 优异法力</name>
+<code>
+[span class="q"]附魔胸甲 - 优异法力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使其获得法力值提高250点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="27960" icon="inv_misc_note_01">
+<name>附魔胸甲 - 优异属性</name>
+<code>
+[span class="q"]附魔胸甲 - 优异属性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使其获得所有属性提高6点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27961" icon="spell_holy_greaterheal" cost="13500">
+<name>附魔披风 - 特效护甲</name>
+<code>
+[span class="q"]附魔披风 - 特效护甲[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使它获得护甲值提高120点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27962" icon="inv_enchant_formulagood_01">
+<name>附魔披风 - 特效抗性</name>
+<code>
+[span class="q"]附魔披风 - 特效抗性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得所有抗性+7的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27967" icon="inv_misc_note_01">
+<name>附魔武器 - 特效打击</name>
+<screenshot>70311</screenshot>
+<code>
+[span class="q"]附魔武器 - 特效打击[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得伤害提高7点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27968" icon="inv_enchant_formulagood_01">
+<name>附魔武器 - 特效智力</name>
+<screenshot>70309</screenshot>
+<code>
+[span class="q"]附魔武器 - 特效智力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得智力提高30点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27971" icon="inv_enchant_formulagood_01">
+<name>附魔双手武器 - 野蛮</name>
+<screenshot>26238</screenshot>
+<code>
+[span class="q"]附魔双手武器 - 野蛮[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把双手近战武器附魔，使其获得攻击强度提高70点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27972" icon="inv_enchant_formulagood_01">
+<name>附魔武器 - 潜能</name>
+<screenshot>65677</screenshot>
+<code>
+[span class="q"]附魔武器 - 潜能[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得力量提高20点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27975" icon="inv_enchant_formulagood_01">
+<name>附魔武器 - 特效法术能量</name>
+<screenshot>85739</screenshot>
+<code>
+[span class="q"]附魔武器 - 特效法术能量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得法术强度提高40点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27977" icon="inv_enchant_formulagood_01">
+<name>附魔双手武器 - 特效敏捷</name>
+<screenshot>27494</screenshot>
+<code>
+[span class="q"]附魔双手武器 - 特效敏捷[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把双手近战武器附魔，使其获得敏捷提高35点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27981" icon="inv_enchant_formulasuperior_01">
+<name>附魔武器 - 阳炎</name>
+<screenshot>29404</screenshot>
+<code>
+[span class="q"]附魔武器 - 阳炎[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得奥术和火焰法术强度提高50点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27982" icon="inv_enchant_formulasuperior_01">
+<name>附魔武器 - 魂霜</name>
+<screenshot>74498</screenshot>
+<code>
+[span class="q"]附魔武器 - 魂霜[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得冰霜和暗影法术强度提高54点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="27984" icon="inv_enchant_formulasuperior_01">
+<name>附魔武器 - 猫鼬</name>
+<screenshot>25274</screenshot>
+<code>
+[span class="q"]附魔武器 - 猫鼬[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其有一定几率令你的敏捷提高120点，攻击速度略微提升。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="28003" icon="inv_enchant_formulagood_01">
+<name>附魔武器 - 魔法激荡</name>
+<screenshot>70319</screenshot>
+<code>
+[span class="q"]附魔武器 - 魔法激荡[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得在施法时有一定几率为附近的小队成员恢复100点法力值的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="28004" icon="inv_enchant_formulagood_01">
+<name>附魔武器 - 作战专家</name>
+<screenshot>70296</screenshot>
+<code>
+[span class="q"]附魔武器 - 作战专家[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其有一定几率在命中目标后为附近的小队成员恢复180到300点生命值的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="33990" icon="spell_holy_greaterheal" cost="18000">
+<name>附魔胸甲 - 特效精神</name>
+<code>
+[span class="q"]附魔胸甲 - 特效精神[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使它获得精神提高15点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="33991" icon="spell_holy_greaterheal" cost="11250">
+<name>附魔胸甲 - 优秀法力回复</name>
+<code>
+[span class="q"]附魔胸甲 - 优秀法力回复[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使它获得每5秒回复7点法力值的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="33992" icon="inv_enchant_formulagood_01">
+<name>附魔胸甲 - 特效韧性</name>
+<code>
+[span class="q"]附魔胸甲 - 特效韧性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使其获得韧性等级提高15的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="33993" icon="spell_holy_greaterheal" cost="11250">
+<name>附魔手套 - 冲击</name>
+<code>
+[span class="q"]附魔手套 - 冲击[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得爆击等级提高10的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="33994" icon="inv_enchant_formulagood_01">
+<name>附魔手套 - 精确打击</name>
+<code>
+[span class="q"]附魔手套 - 精确打击[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得命中等级提高15的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="33995" icon="spell_holy_greaterheal" cost="22500">
+<name>附魔手套 - 特效力量</name>
+<code>
+[span class="q"]附魔手套 - 特效力量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使它们获得力量提高15点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="33996" icon="spell_holy_greaterheal" cost="13500">
+<name>附魔手套 - 突袭</name>
+<code>
+[span class="q"]附魔手套 - 突袭[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使它们获得攻击强度提高26点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="33997" icon="inv_enchant_formulagood_01">
+<name>附魔手套 - 特效法术能量</name>
+<code>
+[span class="q"]附魔手套 - 特效法术能量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得法术强度提高20点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="33999" icon="inv_enchant_formulagood_01">
+<name>附魔手套 - 特效治疗</name>
+<code>
+[span class="q"]附魔手套 - 特效治疗[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得法术强度提高19点的效果。该物品等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="34001" icon="spell_holy_greaterheal" cost="11250">
+<name>附魔护腕 - 特效智力</name>
+<code>
+[span class="q"]附魔护腕 - 特效智力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使它们获得智力提高12点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="34002" icon="spell_holy_greaterheal" cost="11250">
+<name>附魔护腕 - 突袭</name>
+<code>
+[span class="q"]附魔护腕 - 突袭[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使它们获得攻击强度提高24点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="34003" icon="inv_enchant_formulagood_01">
+<name>附魔披风 - 法术穿透</name>
+<code>
+[span class="q"]附魔披风 - 法术穿透[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得法术穿透+20的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="34004" icon="spell_holy_greaterheal" cost="13500">
+<name>附魔披风 - 强效敏捷</name>
+<code>
+[span class="q"]附魔披风 - 强效敏捷[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使它获得敏捷提高12点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="34005" icon="inv_enchant_formulasuperior_01">
+<name>附魔披风 - 强效奥术抗性</name>
+<code>
+[span class="q"]附魔披风 - 强效奥术抗性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得奥术抗性+15的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="34006" icon="inv_enchant_formulasuperior_01">
+<name>附魔披风 - 强效暗影抗性</name>
+<code>
+[span class="q"]附魔披风 - 强效暗影抗性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得暗影抗性+15的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="34007" icon="inv_enchant_formulasuperior_01">
+<name>附魔长靴 - 豹之迅捷</name>
+<code>
+[span class="q"]附魔长靴 - 豹之迅捷[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使其获得移动速度略微提升以及敏捷提高6点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="34008" icon="inv_enchant_formulasuperior_01">
+<name>附魔长靴 - 野猪之速</name>
+<code>
+[span class="q"]附魔长靴 - 野猪之速[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使其获得移动速度略微提升以及耐力提高9点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="34009" icon="inv_misc_note_01">
+<name>附魔盾牌 - 特效耐力</name>
+<code>
+[span class="q"]附魔盾牌 - 特效耐力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一面盾牌附魔，使其获得耐力+18的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="34010" icon="inv_enchant_formulagood_01">
+<name>附魔武器 - 特效治疗</name>
+<screenshot>78559</screenshot>
+<code>
+[span class="q"]附魔武器 - 特效治疗[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得法术强度提高40点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="42620" icon="inv_misc_note_01">
+<name>附魔武器 - 强效敏捷</name>
+<screenshot>70301</screenshot>
+<code>
+[span class="q"]附魔武器 - 强效敏捷[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得敏捷提高20点的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="42974" icon="inv_enchant_formulasuperior_01">
+<name>附魔武器 - 斩杀</name>
+<screenshot>142689</screenshot>
+<code>
+[span class="q"]附魔武器 - 斩杀[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其有一定几率获得护甲穿透等级提高120的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44383" icon="spell_holy_greaterheal" cost="22500">
+<name>附魔盾牌 - 韧性</name>
+<code>
+[span class="q"]附魔盾牌 - 韧性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一面盾牌附魔，使它获得韧性等级提高12的效果。该物品等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="44483" icon="inv_enchant_formulagood_01">
+<name>附魔披风 - 超强冰霜抗性</name>
+<code>
+[span class="q"]附魔披风 - 超强冰霜抗性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得冰霜抗性提高20点的效果。该物品等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44484" icon="spell_holy_greaterheal" cost="135000">
+<name>附魔手套 - 精准</name>
+<code>
+[span class="q"]附魔手套 - 精准[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得精准等级提高15的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44488" icon="spell_holy_greaterheal" cost="135000">
+<name>附魔手套 - 精确</name>
+<code>
+[span class="q"]附魔手套 - 精确[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得命中等级提高20的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44489" icon="spell_holy_greaterheal" cost="135000">
+<name>附魔盾牌 - 防御</name>
+<code>
+[span class="q"]附魔盾牌 - 防御[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一面盾牌附魔，使其获得防御等级提高20的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44492" icon="spell_holy_greaterheal" cost="90000">
+<name>附魔胸甲 - 极效生命</name>
+<code>
+[span class="q"]附魔胸甲 - 极效生命[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使其获得生命值提高200点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44494" icon="inv_enchant_formulagood_01">
+<name>附魔披风 - 超强自然抗性</name>
+<code>
+[span class="q"]附魔披风 - 超强自然抗性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得自然抗性提高20点的效果。该物品等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44500" icon="inv_enchant_formulagood_01" cost="90000">
+<name>附魔披风 - 超强敏捷</name>
+<code>
+[span class="q"]附魔披风 - 超强敏捷[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得敏捷提高16点的效果。该物品等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44506" icon="spell_holy_greaterheal" cost="45000">
+<name>附魔手套 - 采集</name>
+<code>
+[span class="q"]附魔手套 - 采集[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得草药学、采矿和剥皮技能提高5点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44508" icon="spell_holy_greaterheal" cost="135000">
+<name>附魔靴子 - 强效精神</name>
+<code>
+[span class="q"]附魔靴子 - 强效精神[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使其获得精神提高18点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44509" icon="spell_holy_greaterheal" cost="135000">
+<name>附魔胸甲 - 强效法力回复</name>
+<code>
+[span class="q"]附魔胸甲 - 强效法力回复[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使其获得每5秒恢复10点法力值的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44510" icon="spell_holy_greaterheal" cost="135000">
+<name>附魔武器 - 优异精神</name>
+<screenshot>108520</screenshot>
+<code>
+[span class="q"]附魔武器 - 优异精神[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得精神提高45点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44513" icon="inv_enchant_formulagood_01" cost="90000">
+<name>附魔手套 - 强效突袭</name>
+<code>
+[span class="q"]附魔手套 - 强效突袭[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得攻击强度提高35点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44524" icon="inv_enchant_formulasuperior_01">
+<name>附魔武器 - 破冰</name>
+<screenshot>124266</screenshot>
+<code>
+[span class="q"]附魔武器 - 破冰[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其在命中目标时有一定几率附加火焰伤害。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44528" icon="spell_holy_greaterheal" cost="81000">
+<name>附魔靴子 - 强效坚韧</name>
+<code>
+[span class="q"]附魔靴子 - 强效坚韧[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使其获得耐力提高22点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44529" icon="spell_holy_greaterheal" cost="135000">
+<name>附魔手套 - 特效敏捷</name>
+<code>
+[span class="q"]附魔手套 - 特效敏捷[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副手套附魔，使其获得敏捷提高20点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44555" icon="spell_holy_greaterheal" cost="45000">
+<name>附魔护腕 - 优异智力</name>
+<code>
+[span class="q"]附魔护腕 - 优异智力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得智力提高16点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44556" icon="inv_enchant_formulagood_01">
+<name>附魔披风 - 超强火焰抗性</name>
+<code>
+[span class="q"]附魔披风 - 超强火焰抗性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得火焰抗性提高20点的效果。该物品等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44575" icon="inv_enchant_formulagood_01">
+<name>附魔护腕 - 强效突袭</name>
+<code>
+[span class="q"]附魔护腕 - 强效突袭[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得攻击强度提高50点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44576" icon="inv_enchant_formulasuperior_01">
+<name>附魔武器 - 生命护卫</name>
+<screenshot>136696</screenshot>
+<code>
+[span class="q"]附魔武器 - 生命护卫[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其在命中目标时有一定几率为装备者恢复生命值。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44582" icon="spell_holy_greaterheal" cost="90000">
+<name>附魔披风 - 法术穿刺</name>
+<code>
+[span class="q"]附魔披风 - 法术穿刺[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得法术穿透提高35的效果。该物品等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44584" icon="spell_holy_greaterheal" cost="135000">
+<name>附魔靴子 - 强效活力</name>
+<code>
+[span class="q"]附魔靴子 - 强效活力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使其获得每5秒恢复7点法力值的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44588" icon="inv_enchant_formulagood_01">
+<name>附魔胸甲 - 优异韧性</name>
+<code>
+[span class="q"]附魔胸甲 - 优异韧性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使其获得韧性等级提高20的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44589" icon="spell_holy_greaterheal" cost="135000">
+<name>附魔靴子 - 超强敏捷</name>
+<code>
+[span class="q"]附魔靴子 - 超强敏捷[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使其获得敏捷提高16点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44590" icon="inv_enchant_formulagood_01">
+<name>附魔披风 - 超强暗影抗性</name>
+<code>
+[span class="q"]附魔披风 - 超强暗影抗性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得暗影抗性提高20点的效果。该物品等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44591" icon="inv_enchant_formulagood_01">
+<name>附魔披风 - 泰坦之纹</name>
+<code>
+[span class="q"]附魔披风 - 泰坦之纹[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得防御等级提高16的效果。该物品等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44592" icon="spell_holy_greaterheal" cost="45000">
+<name>附魔手套 - 优异法术强度</name>
+<code>
+[span class="q"]附魔手套 - 优异法术强度[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得法术强度提高28点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44593" icon="spell_holy_greaterheal" cost="135000">
+<name>附魔护腕 - 特效精神</name>
+<code>
+[span class="q"]附魔护腕 - 特效精神[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得精神提高18点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44595" icon="inv_enchant_formulasuperior_01">
+<name>附魔双手武器 - 天灾斩除</name>
+<code>
+[span class="q"]附魔双手武器 - 天灾斩除[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把双手近战武器附魔，使其获得对亡灵的攻击强度提高140点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44596" icon="inv_enchant_formulagood_01">
+<name>附魔披风 - 超强奥术抗性</name>
+<code>
+[span class="q"]附魔披风 - 超强奥术抗性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得奥术抗性提高20点的效果。该物品等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44598" icon="inv_enchant_formulagood_01" cost="135000">
+<name>附魔护腕 - 精准</name>
+<code>
+[span class="q"]附魔护腕 - 精准[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得精准等级提高15的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44616" icon="spell_holy_greaterheal" cost="90000">
+<name>附魔护腕 - 强效属性</name>
+<code>
+[span class="q"]附魔护腕 - 强效属性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得所有属性提高6点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44621" icon="inv_enchant_formulasuperior_01">
+<name>附魔武器 - 巨人杀手</name>
+<code>
+[span class="q"]附魔武器 - 巨人杀手[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其有一定几率降低目标移动速度、以及对巨人造成额外伤害的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44623" icon="spell_holy_greaterheal" cost="45000">
+<name>附魔胸甲 - 超级属性</name>
+<code>
+[span class="q"]附魔胸甲 - 超级属性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使其获得所有属性提高8点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44625" icon="inv_enchant_formulagood_01">
+<name>附魔手套 - 士兵</name>
+<code>
+[span class="q"]附魔手套 - 士兵[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得威胁值提高2%、招架等级提高10的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44629" icon="spell_holy_greaterheal" cost="90000">
+<name>附魔武器 - 优异法术能量</name>
+<screenshot>111751</screenshot>
+<code>
+[span class="q"]附魔武器 - 优异法术能量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得法术强度提高50点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44630" icon="inv_enchant_formulagood_01" cost="72000">
+<name>附魔双手武器 - 强效野蛮</name>
+<screenshot>119196</screenshot>
+<code>
+[span class="q"]附魔双手武器 - 强效野蛮[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把双手近战武器附魔，使其获得攻击强度提高85点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44631" icon="inv_enchant_formulagood_01">
+<name>附魔披风 - 暗影护甲</name>
+<code>
+[span class="q"]附魔披风 - 暗影护甲[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得潜行等级略微提高、敏捷提高10点的效果。该物品等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44633" icon="spell_holy_greaterheal" cost="135000">
+<name>附魔武器 - 优异敏捷</name>
+<screenshot>138672</screenshot>
+<code>
+[span class="q"]附魔武器 - 优异敏捷[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得敏捷提高26点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44635" icon="spell_holy_greaterheal" cost="90000">
+<name>附魔护腕 - 强效法术强度</name>
+<code>
+[span class="q"]附魔护腕 - 强效法术强度[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得法术强度提高23点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="44636" icon="spell_holy_greaterheal" cost="90000">
+<name>附魔戒指 - 强效法术能量</name>
+<code>
+[span class="q"]附魔戒指 - 强效法术能量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一只戒指附魔，使其获得法术强度提高23点的效果。只有附魔师自己的戒指才能附魔，且对戒指附魔会使它变为灵魂绑定物品。[/span]
+</code>
+</spell>
+<spell id="44645" icon="spell_holy_greaterheal" cost="90000">
+<name>附魔戒指 - 突袭</name>
+<code>
+[span class="q"]附魔戒指 - 突袭[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一只戒指附魔，使其获得攻击强度提高40点的效果。只有附魔师自己的戒指才能附魔，且对戒指附魔会使它变为灵魂绑定物品。[/span]
+</code>
+</spell>
+<spell id="46578" icon="inv_enchant_formulasuperior_01">
+<name>附魔武器 - 死亡霜冻</name>
+<screenshot>85275</screenshot>
+<code>
+[span class="q"]附魔武器 - 死亡霜冻[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使你的伤害性法术和近战武器攻击有一定几率对目标造成额外的冰霜伤害，并使其近战、远程和施法速度降低。该装备等级不得低于60级。[br][br]减速效果对73级以上目标无效。[/span]
+</code>
+</spell>
+<spell id="46594" icon="inv_misc_note_01">
+<name>附魔胸甲 - 防御</name>
+<code>
+[span class="q"]附魔胸甲 - 防御[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使其获得防御等级提高16的效果。该装备等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="47051" icon="inv_enchant_formulasuperior_01">
+<name>附魔披风 - 钢纹</name>
+<code>
+[span class="q"]附魔披风 - 钢纹[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得防御等级+12的效果。该物品等级不得低于35级。[/span]
+</code>
+</spell>
+<spell id="47672" icon="inv_enchant_formulagood_01">
+<name>附魔披风 - 极效护甲</name>
+<code>
+[span class="q"]附魔披风 - 极效护甲[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得护甲值提高225点的效果。该物品等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="47766" icon="spell_holy_greaterheal" cost="90000">
+<name>附魔胸甲 - 强效防御</name>
+<code>
+[span class="q"]附魔胸甲 - 强效防御[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使其获得防御等级提高22的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="47898" icon="inv_enchant_formulagood_01">
+<name>附魔披风 - 强效速度</name>
+<code>
+[span class="q"]附魔披风 - 强效速度[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得急速等级提高23的效果。该物品等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="47899" icon="inv_enchant_formulagood_01">
+<name>附魔披风 - 智慧</name>
+<code>
+[span class="q"]附魔披风 - 智慧[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得威胁值略微降低、精神提高10点的效果。该物品等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="47900" icon="spell_holy_greaterheal" cost="135000">
+<name>附魔胸甲 - 超级生命</name>
+<code>
+[span class="q"]附魔胸甲 - 超级生命[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使其获得生命值提高275点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="47901" icon="inv_enchant_formulagood_01">
+<name>附魔靴子 - 海象人的活力</name>
+<code>
+[span class="q"]附魔靴子 - 海象人的活力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使其获得耐力提高15点、移动速度略微提高的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="59619" icon="inv_enchant_formulasuperior_01">
+<name>附魔武器 - 精确</name>
+<code>
+[span class="q"]附魔武器 - 精确[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得爆击等级和命中等级提高25的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="59621" icon="inv_enchant_formulasuperior_01">
+<name>附魔武器 - 狂暴</name>
+<screenshot>107017</screenshot>
+<code>
+[span class="q"]附魔武器 - 狂暴[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得有时令你的攻击强度提高400点、但是护甲值降低的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="59625" icon="inv_enchant_formulasuperior_01">
+<name>附魔武器 - 黑魔法</name>
+<screenshot>112039</screenshot>
+<code>
+[span class="q"]附魔武器 - 黑魔法[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使你的伤害法术有时可以附加可怕的诅咒。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="59636" icon="spell_holy_greaterheal" cost="90000">
+<name>附魔戒指 - 耐力</name>
+<code>
+[span class="q"]附魔戒指 - 耐力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一只戒指附魔，使其获得耐力+30的效果。只有附魔师自己的戒指才能附魔，且对戒指附魔会使它变为灵魂绑定物品。[/span]
+</code>
+</spell>
+<spell id="60606" icon="spell_holy_greaterheal" cost="45000">
+<name>附魔靴子 - 突袭</name>
+<code>
+[span class="q"]附魔靴子 - 突袭[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使其获得攻击强度提高24点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="60609" icon="spell_holy_greaterheal" cost="45000">
+<name>附魔披风 - 速度</name>
+<code>
+[span class="q"]附魔披风 - 速度[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得急速等级提高15的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="60616" icon="spell_holy_greaterheal" cost="45000">
+<name>附魔护腕 - 打击</name>
+<code>
+[span class="q"]附魔护腕 - 打击[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得攻击强度提高38点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="60621" icon="spell_holy_greaterheal" cost="72000">
+<name>附魔武器 - 强效潜能</name>
+<screenshot>119307</screenshot>
+<code>
+[span class="q"]附魔武器 - 强效潜能[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得攻击强度提高50点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="60623" icon="spell_holy_greaterheal" cost="81000">
+<name>附魔靴子 - 履冰</name>
+<code>
+[span class="q"]附魔靴子 - 履冰[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使其获得爆击等级和命中等级提高12的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="60653" icon="spell_holy_greaterheal" cost="90000">
+<name>附魔盾牌 - 强效智力</name>
+<code>
+[span class="q"]附魔盾牌 - 强效智力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一面盾牌附魔，使其获得智力提高25点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="60663" icon="spell_holy_greaterheal" cost="135000">
+<name>附魔披风 - 特效敏捷</name>
+<code>
+[span class="q"]附魔披风 - 特效敏捷[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件披风附魔，使其获得敏捷提高22点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="60668" icon="spell_holy_greaterheal" cost="135000">
+<name>附魔手套 - 碾压</name>
+<code>
+[span class="q"]附魔手套 - 碾压[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得攻击强度提高44点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="60691" icon="inv_enchant_formulasuperior_01">
+<name>附魔双手武器 - 杀戮</name>
+<code>
+[span class="q"]附魔双手武器 - 杀戮[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把双手近战武器附魔，使其获得攻击强度提高110点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="60692" icon="inv_enchant_formulagood_01">
+<name>附魔胸甲 - 强力属性</name>
+<code>
+[span class="q"]附魔胸甲 - 强力属性[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件胸甲附魔，使其获得所有属性提高10点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="60707" icon="inv_enchant_formulasuperior_01">
+<name>附魔武器 - 超强潜能</name>
+<screenshot>112255</screenshot>
+<code>
+[span class="q"]附魔武器 - 超强潜能[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得攻击强度提高65点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="60714" icon="inv_enchant_formulasuperior_01">
+<name>附魔武器 - 极效法术能量</name>
+<screenshot>109634</screenshot>
+<code>
+[span class="q"]附魔武器 - 极效法术能量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把近战武器附魔，使其获得法术强度提高63点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="60763" icon="inv_enchant_formulagood_01">
+<name>附魔靴子 - 强效突袭</name>
+<code>
+[span class="q"]附魔靴子 - 强效突袭[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使其获得攻击强度提高32点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="60767" icon="inv_enchant_formulagood_01">
+<name>附魔护腕 - 超强法术能量</name>
+<code>
+[span class="q"]附魔护腕 - 超强法术能量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得法术强度提高30点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="62256" icon="inv_enchant_formulasuperior_01">
+<name>附魔护腕 - 特效耐力</name>
+<code>
+[span class="q"]附魔护腕 - 特效耐力[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一副护腕附魔，使其获得耐力+40的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="62948" icon="inv_enchant_formulasuperior_01">
+<name>附魔法杖 - 强效法术能量</name>
+<screenshot>128201</screenshot>
+<code>
+[span class="q"]附魔法杖 - 强效法术能量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把法杖附魔，使其获得法术强度提高81点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="62959" icon="spell_holy_greaterheal" cost="85500">
+<name>附魔法杖 - 法术能量</name>
+<screenshot>127045</screenshot>
+<code>
+[span class="q"]附魔法杖 - 法术能量[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一把法杖附魔，使其获得法术强度提高69点的效果。该装备等级不得低于60级。[/span]
+</code>
+</spell>
+<spell id="63746" icon="spell_holy_greaterheal" cost="4750">
+<name>附魔靴子 - 次级精确</name>
+<code>
+[span class="q"]附魔靴子 - 次级精确[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双靴子附魔，使其获得命中等级+5的效果。[/span]
+</code>
+</spell>
+<spell id="64441" icon="inv_misc_note_01">
+<name>附魔武器 - 利刃防护</name>
+<screenshot>128900</screenshot>
+<code>
+[span class="q"]附魔武器 - 利刃防护[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件武器附魔，使其在攻击敌人时有可能触发利刃防护效果。利刃防护效果可以使你的招架等级提高200，并在下一次招架时造成600到800点伤害，效果持续10秒。[br][br]装备者的等级不得低于75级。[/span]
+</code>
+</spell>
+<spell id="64579" icon="inv_misc_note_01">
+<name>附魔武器 - 吸血</name>
+<screenshot>126301</screenshot>
+<code>
+[span class="q"]附魔武器 - 吸血[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一件武器附魔，在攻击敌人或受到流血伤害时，它有可能触发储备血浆效果。当你的生命值低于35%时，储备血浆可以为你恢复360至440点生命值。持续20秒，可以叠加最多5次。[br][br]装备者的等级不得低于75级。[/span]
+</code>
+</spell>
+<spell id="69412" icon="inv_enchant_abysscrystal" cost="127500">
+<name>深渊碎裂</name>
+<code>
+[span class="q"]深渊碎裂[/span][br /]3秒施法时间[br /][span class="q2"]将一块深渊水晶分解为强效宇宙精华或无限之尘。[/span]
+</code>
+</spell>
+<spell id="71692" icon="inv_enchant_formulagood_01">
+<name>附魔手套 - 垂钓者</name>
+<code>
+[span class="q"]附魔手套 - 垂钓者[/span][br /]5秒施法时间[br /][span class="q2"]永久性地为一双手套附魔，使其获得垂钓技能+5的效果。[/span]
+</code>
+</spell>
+<spell id="2018" icon="trade_blacksmithing" cost="10">
+<name>锻造</name>
+<code>
+[table][tbody][tr][td][span class="name q"]锻造[/span][/td][/tr][/tbody][/table][div class="q2"]使铁匠可以制造武器和护甲。需要通过采矿得到的石块和金属。[/div]
+</code>
+</spell>
+<spell id="2108" icon="inv_misc_armorkit_17" cost="10">
+<name>制皮</name>
+<code>
+[table][tbody][tr][td][span class="name q"]制皮[/span][/td][/tr][/tbody][/table][div class="q2"]使制皮匠可以制造皮甲。需要剥皮师从野兽身上剥皮的皮毛。[/div]
+</code>
+</spell>
+<spell id="2259" icon="trade_alchemy" cost="10">
+<name>炼金术</name>
+<code>
+[table][tbody][tr][td][span class="name q"]炼金术[/span][/td][/tr][/tbody][/table][div class="q2"]使炼金师可以配制药水。需要由采药师收集的草药。[/div]
+</code>
+</spell>
+<spell id="2550" icon="inv_misc_food_15" cost="100">
+<name>烹饪</name>
+<code>
+[table][tbody][tr][td][span class="name q"]烹饪[/span][/td][/tr][/tbody][/table][div class="q2"]使厨师可以制造食物。需要火焰和从野兽身上收集的肉块以烹制食物。[/div]
+</code>
+</spell>
+<spell id="3908" icon="trade_tailoring" cost="10">
+<name>裁缝</name>
+<code>
+[table][tbody][tr][td][span class="name q"]裁缝[/span][/td][/tr][/tbody][/table][div class="q2"]使裁缝可以制造衬衣和布甲。需要从人型生物身上获得的布料。[/div]
+</code>
+</spell>
+<spell id="4036" icon="trade_engineering" cost="10">
+<name>工程学</name>
+<code>
+[table][tbody][tr][td][span class="name q"]工程学[/span][/td][/tr][/tbody][/table][div class="q2"]使技师可以制造工程学物品。需要通过采矿得到的石块和金属。[/div]
+</code>
+</spell>
+<spell id="7411" icon="trade_engraving" cost="10">
+<name>附魔</name>
+<code>
+[table][tbody][tr][td][span class="name q"]附魔[/span][/td][/tr][/tbody][/table][div class="q2"]使附魔师可以为装备附魔。需要由分解魔法装备而得到的魔法尘和魔法精华。[/div]
+</code>
+</spell>
+<spell id="25229" icon="inv_misc_gem_01" cost="10">
+<name>珠宝加工</name>
+<code>
+[table][tbody][tr][td][span class="name q"]珠宝加工[/span][/td][/tr][/tbody][/table][div class="q2"]使珠宝匠可以制作珠宝。需要通过采矿技能获得的珍贵宝石和金属。[/div]
+</code>
+</spell>
+<spell id="45357" icon="inv_inscription_tradeskill01" cost="10">
+<name>铭文</name>
+<code>
+[table][tbody][tr][td][span class="name q"]铭文[/span][/td][/tr][/tbody][/table][div class="q2"]使铭文师可以制造魔法铭文物品。需要由采药师收集的草药。[/div]
+</code>
+</spell>
+<spell id="62734" icon="trade_fishing">
+<name>钓鱼</name>
+<code>
+[table][tbody][tr][td][span class="name q"]钓鱼[/span][/td][/tr][tr][td]10-20码距离[/td][/tr][/tbody][/table][div class="q2"]装备鱼竿之后可以寻找一片水域钓鱼。当水中的鱼漂溅起水花的时候，立刻右键点击鱼漂以捕捉上钩的鱼。钓鱼技能的等级越高，你越有可能在高等级的水域中钓到鱼。[/div]
+</code>
+</spell>
+</spells>

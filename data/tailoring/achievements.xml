@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<achievements>
+<achievement id="1288" icon="spell_holy_championsbond">
+<name>诺森德地下城大师</name>
+<code>
+[span class="q"]诺森德地下城大师[/span][br /]
+完成下列诺森德地下城成就。[br /][br /]
+[span class="q"]达成条件:[/span][br /]
+[span class="q0"]
+- 乌特加德城堡[br /]
+- 魔枢[br /]
+- 时光之穴：斯坦索姆[br /]
+- 艾卓-尼鲁布[br /]
+- 安卡赫特：古代王国[br /]
+- 达克萨隆要塞[br /]
+- 紫罗兰监狱[br /]
+- 古达克[br /]
+- 岩石大厅[br /]
+- 闪电大厅[br /]
+- 魔环[br /]
+- 乌特加德之巅[/span]
+</code>
+</achievement>
+<achievement id="41" icon="achievement_zone_northrend_01">
+<name>诺森德的博学者</name>
+<code>
+[span class="q"]诺森德的博学者[/span][br /]
+完成下列诺森德任务成就。[br /][br /]
+[span class="q"]达成条件:[/span][br /]
+[span class="q0"]
+- 这个苔原不太远[br /]
+- 龙骨荒野之力[br /]
+- 祖达克帝国[br /]
+- 欢迎来到灰熊丘陵[br /]
+- 峡湾巡游[br /]
+- 进入盆地[br /]
+- 风暴峭壁之巅[br /]
+- 冰冠冰川：终极目标
+[/span]
+</code>
+</achievement>
+<achievement id="1360" icon="achievement_zone_northrend_01">
+<name>诺森德的博学者</name>
+<code>
+[span class="q"]诺森德的博学者[/span][br /]
+完成下列诺森德任务成就。[br /][br /]
+[span class="q"]达成条件:[/span][br /]
+[span class="q0"]
+- 这个苔原不太远[br /]
+- 龙骨荒野之力[br /]
+- 祖达克帝国[br /]
+- 欢迎来到灰熊丘陵[br /]
+- 峡湾巡游[br /]
+- 进入盆地[br /]
+- 风暴峭壁之巅[br /]
+- 冰冠冰川：终极目标
+[/span]
+</code>
+</achievement>
+</achievements>

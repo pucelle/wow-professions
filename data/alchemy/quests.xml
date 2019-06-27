@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quests>
+<quest id="429" level="11" requires-level="10" side="3" colors="0 0 10 14 17">
+<start type="npc" id="1950" />
+<name>荒野之心</name>
+<description>收集6颗变色的狼心，把它们交给瑟伯切尔的药剂师伦弗利尔。</description>
+</quest>
+<quest id="715" level="37" requires-level="35" side="1" colors="0 0 35 40 46">
+<start type="npc" id="2920" />
+<name>卢希恩的药水</name>
+<description>为荒芜之地的卢希恩·枪穗找到一瓶次级隐形药水和一瓶治疗药水。</description>
+</quest>
+<quest id="2203" level="44" requires-level="40" side="3" colors="0 40 42 47 54">
+<start type="npc" id="6868" />
+<name>荒芜之地的试剂 II</name>
+<description>用空的魔瓶吸收荒芜之地的烈焰守护者的血液。装满所有瓶子之后，把它们交给卡加斯的加卡尔。</description>
+</quest>
+<quest id="2501" level="44" requires-level="40" side="2" colors="0 40 42 47 54">
+<start type="npc" id="1470" />
+<name>荒芜之地的材料 II</name>
+<description>在荒芜之地的守护火龙身上使用空的魔瓶。将这些容器都盛满之后，把它们交给塞尔萨玛的加克。</description>
+</quest>
+<quest id="2521" level="55" requires-level="45" side="1" colors="45 51 53 58 66">
+<start type="npc" id="7363" />
+<name>为库米沙效力</name>
+<description>在你探索诅咒之地的旅程中，如果碰巧发现了无暇的德莱尼水晶球，就把它交给收藏家库米沙。\n\n你要知道，这种宝石是整个艾泽拉斯最珍稀的水晶。诅咒之地上的任何一种生物都有可能带着一颗无暇的德莱尼水晶球。\n\n每找到一颗，你都会得到相应的酬劳。</description>
+</quest>
+<quest id="2522" level="55" requires-level="45" side="1" colors="45 51 53 58 66">
+<start type="npc" id="7363" />
+<name>库米沙的努力</name>
+<description>找到一颗无暇的德莱尼水晶球，把它交给收藏家库米沙。</description>
+</quest>
+<quest id="2882" level="45" requires-level="40" side="1" colors="40 41 43 48 55">
+<start type="item" id="9254" />
+<name>科尔戈的黄金</name>
+<description>找到科尔戈的黄金！</description>
+</quest>
+<quest id="3385" level="50" requires-level="40" side="1" colors="40 46 48 53 61">
+<start type="npc" id="8439" />
+<name>黑市交易</name>
+<description>杀了贸易首领考维克和他的同伙科朗克。从他的尸体上拿回商人的背包，把它交给尼莉丝。</description>
+</quest>
+<quest id="3481" level="50" requires-level="40" side="1" colors="40 46 48 53 61">
+<start type="object" id="149502" />
+<name>打开箱子…</name>
+<description>打开箱子。</description>
+</quest>
+<quest id="6984" requires-level="30" side="3" colors="0 0 0 0 0">
+<start type="npc" id="13418" />
+<name>烟林牧场的感谢</name>
+<description>和奥格瑞玛的冬天爷爷谈一谈。</description>
+</quest>
+<quest id="7045" requires-level="30" side="2" colors="0 0 0 0 0">
+<start type="npc" id="13433" />
+<name>烟林牧场的感谢</name>
+<description>和铁炉堡的冬天爷爷谈一谈。</description>
+</quest>
+<quest id="7840" level="49" requires-level="44" side="3" colors="44 45 47 52 59">
+<start type="npc" id="14731" />
+<name>拉尔德的午餐</name>
+<description>辛特兰恶齿村的拉尔德要求你去找到拉尔德的午餐。完成任务之后就回到他那里去。\n\n拉尔德说他把午餐留在了北面的岛上。当心邪枝巨魔。</description>
+</quest>
+<quest id="7931" requires-level="15" side="1" colors="0 0 0 0 0">
+<start type="npc" id="14828" />
+<name>5张奖券 - 小奖品</name>
+</quest>
+<quest id="7932" requires-level="30" side="1" colors="0 0 0 0 0">
+<start type="npc" id="14828" />
+<name>12张奖券 - 普通奖品</name>
+</quest>
+<quest id="7937" requires-level="10" side="1" colors="0 0 0 0 0">
+<start type="item" id="19423" />
+<name>财富在等着你……</name>
+<description>到艾尔文森林的东谷伐木场去寻找你的财宝吧。</description>
+</quest>
+<quest id="7938" requires-level="10" side="1" colors="0 0 0 0 0">
+<start type="item" id="19424" />
+<name>财富在等着你……</name>
+<description>到西部荒野的死亡矿井中去寻找你的财宝吧。</description>
+</quest>
+<quest id="7944" requires-level="10" side="1" colors="0 0 0 0 0">
+<start type="item" id="19443" />
+<name>财富在等着你……</name>
+<description>到贫瘠之地的哀嚎洞穴中去寻找你的财宝吧。</description>
+</quest>
+<quest id="7945" requires-level="10" side="1" colors="0 0 0 0 0">
+<start type="item" id="19452" />
+<name>财富在等着你……</name>
+<description>到莫高雷的灰月洞穴去寻找你的财宝吧。</description>
+</quest>
+<quest id="8769" requires-level="40" side="1" colors="0 0 0 0 0">
+<start type="object" id="180748" />
+<name>条纹礼物盒</name>
+<description>打开圣诞树下的条纹礼物盒。</description>
+</quest>
+<quest id="10899" level="70" requires-level="68" side="1" colors="0 0 68 73 83">
+<start type="npc" id="22427" />
+<name>转化大师</name>
+<description>虚空风暴风暴尖塔的萨雷维要你给他带去4份源生之能。\n\n*注意！* 你只能选择一种炼金术专精。</description>
+</quest>
+<quest id="10897" level="70" requires-level="68" side="1" colors="0 0 68 73 83">
+<start type="npc" id="17909" />
+<name>药水大师</name>
+<description>劳兰娜·萨维尔要你前往风暴要塞的生态船，从高级植物学家弗雷温手中夺得植物学家的指南。此外，将5瓶超级治疗药水、5瓶超级法力药水和5瓶特效无梦睡眠药水一并交给她。\n\n*注意！* 你只能选择一种炼金术专精。</description>
+</quest>
+<quest id="10902" level="70" requires-level="68" side="1" colors="0 0 68 73 83">
+<start type="npc" id="19052" />
+<name>药剂大师</name>
+<description>进入时光之穴的黑色沼泽，从裂隙领主和裂隙守卫者身上获取10份永恒精华。将这些与5瓶特效防御药剂、5瓶掌控药剂和5瓶特效敏捷药剂一起交给沙塔斯城贫民窟中的罗罗基姆。\n\n*注意* 你只能选择一种炼金术专精。</description>
+</quest>
+<quest id="14151" requires-level="65" side="1" colors="0 0 0 0 0">
+<start type="npc" id="28703" />
+<name>赤玉石</name>
+<description>达拉然的林奇·黑箭想让你以你的炼金术技能成功地转化5种史诗宝石。这五种史诗宝石是：紫黄晶、祖尔之眼、恐石、王者琥珀和巨锆石。</description>
+</quest>
+<quest id="428" level="12" requires-level="10" side="3" colors="0 0 10 15 18">
+<start type="npc" id="1952" />
+<name>失踪的亡灵哨兵</name>
+<description>找到亡灵哨兵兰妮·尤瑞克和奎恩·尤瑞克。</description>
+</quest>
+<quest id="3379" level="50" requires-level="40" side="1" colors="40 46 48 53 61">
+<start type="npc" id="8439" />
+<name>暗影蛛丝</name>
+<description>杀死在灼热峡谷游荡的暗影蛛丝偷猎者小队。尼莉丝认为他们共有5名成员，你的任务就是把他们全都干掉。</description>
+</quest>
+<quest id="3442" level="48" requires-level="40" side="1" colors="40 44 46 51 58">
+<start type="npc" id="8479" />
+<name>无瑕之焰</name>
+<description>收集4份烈焰之心和4份傀儡之油，然后把这些东西交给卡拉然·温布雷。</description>
+</quest>
+<quest id="6963" requires-level="30" side="3" colors="0 0 0 0 0">
+<start type="npc" id="13418" />
+<name>被偷走的冬幕节礼物</name>
+<description>前往奥特兰克山脉雪域寻找失踪的烟林牧场密探。</description>
+</quest>
+<quest id="7042" requires-level="30" side="2" colors="0 0 0 0 0">
+<start type="npc" id="13434" />
+<name>被偷走的冬幕节礼物</name>
+<description>前往奥特兰克山脉雪域寻找失踪的烟林牧场密探。</description>
+</quest>
+<quest id="10907" level="70" requires-level="68" side="1" colors="0 0 68 73 83">
+<name>转化大师</name>
+<description>前往虚空风暴的风暴尖塔，与萨雷维谈一谈。\n\n*注意！*你只能选择一种炼金术分支。</description>
+</quest>
+<quest id="10905" level="70" requires-level="68" side="1" colors="0 0 68 73 83">
+<name>药水大师</name>
+<description>前往赞加沼泽的塞纳里奥庇护所，与劳兰娜·萨维尔谈一谈。\n\n*注意！*你只能选择一种炼金术分支。</description>
+</quest>
+<quest id="10906" level="70" requires-level="68" side="1" colors="0 0 68 73 83">
+<name>药剂大师</name>
+<description>前往沙塔斯城的贫民窟，与罗罗基姆谈一谈。\n\n*注意！*你只能选择一种炼金术分支。</description>
+</quest>
+</quests>

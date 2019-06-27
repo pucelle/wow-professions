@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quests>
+<quest id="2521" level="55" requires-level="45" side="1" colors="45 51 53 58 66">
+<start type="npc" id="7363" />
+<name>为库米沙效力</name>
+<description>在你探索诅咒之地的旅程中，如果碰巧发现了无暇的德莱尼水晶球，就把它交给收藏家库米沙。\n\n你要知道，这种宝石是整个艾泽拉斯最珍稀的水晶。诅咒之地上的任何一种生物都有可能带着一颗无暇的德莱尼水晶球。\n\n每找到一颗，你都会得到相应的酬劳。</description>
+</quest>
+<quest id="2522" level="55" requires-level="45" side="1" colors="45 51 53 58 66">
+<start type="npc" id="7363" />
+<name>库米沙的努力</name>
+<description>找到一颗无暇的德莱尼水晶球，把它交给收藏家库米沙。</description>
+</quest>
+<quest id="2747" level="60" requires-level="42" side="1" colors="42 56 58 63 72">
+<start type="npc" id="7763" />
+<name>特别的蛋</name>
+<description>从菲拉斯发现的各种蛋中，我只见过极少数 "特别的蛋"。这种蛋真的非常稀有...</description>
+</quest>
+<quest id="2882" level="45" requires-level="40" side="1" colors="40 41 43 48 55">
+<start type="item" id="9254" />
+<name>科尔戈的黄金</name>
+<description>找到科尔戈的黄金！</description>
+</quest>
+<quest id="3385" level="50" requires-level="40" side="1" colors="40 46 48 53 61">
+<start type="npc" id="8439" />
+<name>黑市交易</name>
+<description>杀了贸易首领考维克和他的同伙科朗克。从他的尸体上拿回商人的背包，把它交给尼莉丝。</description>
+</quest>
+<quest id="3481" level="50" requires-level="40" side="1" colors="40 46 48 53 61">
+<start type="object" id="149502" />
+<name>打开箱子…</name>
+<description>打开箱子。</description>
+</quest>
+<quest id="6984" requires-level="30" side="3" colors="0 0 0 0 0">
+<start type="npc" id="13418" />
+<name>烟林牧场的感谢</name>
+<description>和奥格瑞玛的冬天爷爷谈一谈。</description>
+</quest>
+<quest id="7045" requires-level="30" side="2" colors="0 0 0 0 0">
+<start type="npc" id="13433" />
+<name>烟林牧场的感谢</name>
+<description>和铁炉堡的冬天爷爷谈一谈。</description>
+</quest>
+<quest id="7840" level="49" requires-level="44" side="3" colors="44 45 47 52 59">
+<start type="npc" id="14731" />
+<name>拉尔德的午餐</name>
+<description>辛特兰恶齿村的拉尔德要求你去找到拉尔德的午餐。完成任务之后就回到他那里去。\n\n拉尔德说他把午餐留在了北面的岛上。当心邪枝巨魔。</description>
+</quest>
+<quest id="7931" requires-level="15" side="1" colors="0 0 0 0 0">
+<start type="npc" id="14828" />
+<name>5张奖券 - 小奖品</name>
+</quest>
+<quest id="7932" requires-level="30" side="1" colors="0 0 0 0 0">
+<start type="npc" id="14828" />
+<name>12张奖券 - 普通奖品</name>
+</quest>
+<quest id="7933" requires-level="45" side="1" colors="0 0 0 0 0">
+<start type="npc" id="14828" />
+<name>40张奖券 - 高级奖品</name>
+</quest>
+<quest id="7937" requires-level="10" side="1" colors="0 0 0 0 0">
+<start type="item" id="19423" />
+<name>财富在等着你……</name>
+<description>到艾尔文森林的东谷伐木场去寻找你的财宝吧。</description>
+</quest>
+<quest id="7938" requires-level="10" side="1" colors="0 0 0 0 0">
+<start type="item" id="19424" />
+<name>财富在等着你……</name>
+<description>到西部荒野的死亡矿井中去寻找你的财宝吧。</description>
+</quest>
+<quest id="7944" requires-level="10" side="1" colors="0 0 0 0 0">
+<start type="item" id="19443" />
+<name>财富在等着你……</name>
+<description>到贫瘠之地的哀嚎洞穴中去寻找你的财宝吧。</description>
+</quest>
+<quest id="7945" requires-level="10" side="1" colors="0 0 0 0 0">
+<start type="item" id="19452" />
+<name>财富在等着你……</name>
+<description>到莫高雷的灰月洞穴去寻找你的财宝吧。</description>
+</quest>
+<quest id="8769" requires-level="40" side="1" colors="0 0 0 0 0">
+<start type="object" id="180748" />
+<name>条纹礼物盒</name>
+<description>打开圣诞树下的条纹礼物盒。</description>
+</quest>
+<quest id="3379" level="50" requires-level="40" side="1" colors="40 46 48 53 61">
+<start type="npc" id="8439" />
+<name>暗影蛛丝</name>
+<description>杀死在灼热峡谷游荡的暗影蛛丝偷猎者小队。尼莉丝认为他们共有5名成员，你的任务就是把他们全都干掉。</description>
+</quest>
+<quest id="3442" level="48" requires-level="40" side="1" colors="40 44 46 51 58">
+<start type="npc" id="8479" />
+<name>无瑕之焰</name>
+<description>收集4份烈焰之心和4份傀儡之油，然后把这些东西交给卡拉然·温布雷。</description>
+</quest>
+<quest id="6963" requires-level="30" side="3" colors="0 0 0 0 0">
+<start type="npc" id="13418" />
+<name>被偷走的冬幕节礼物</name>
+<description>前往奥特兰克山脉雪域寻找失踪的烟林牧场密探。</description>
+</quest>
+<quest id="7042" requires-level="30" side="2" colors="0 0 0 0 0">
+<start type="npc" id="13434" />
+<name>被偷走的冬幕节礼物</name>
+<description>前往奥特兰克山脉雪域寻找失踪的烟林牧场密探。</description>
+</quest>
+</quests>

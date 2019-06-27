@@ -1,0 +1,3662 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<items>
+<item id="159" icon="inv_drink_07" quality="1">
+<name>清凉的泉水</name>
+<code>
+[div class="name q1"]清凉的泉水[/div][div class="q2"]使用: 在18秒内恢复总计151点法力值，喝水时必须保持坐姿。[/div]售价: [span class="si-copper"]25[/span]
+</code>
+</item>
+<item id="723" icon="inv_misc_organ_04" quality="1">
+<name>血牙野猪的肝</name>
+<code>
+[div class="name q1"]血牙野猪的肝[/div]
+</code>
+</item>
+<item id="724" icon="inv_misc_food_10" quality="1">
+<name>猪肝馅饼</name>
+<code>
+[div class="name q1"]猪肝馅饼[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高4点，持续15分钟。[/div]
+</code>
+</item>
+<item id="729" icon="inv_misc_food_16" quality="1">
+<name>秃鹫肉条</name>
+<code>
+[div class="name q1"]秃鹫肉条[/div]
+</code>
+</item>
+<item id="730" icon="inv_misc_eye_01" quality="1">
+<name>鱼人的眼球</name>
+<code>
+[div class="name q1"]鱼人的眼球[/div]
+</code>
+</item>
+<item id="731" icon="spell_magic_polymorphpig" quality="1">
+<name>血牙野猪的头</name>
+<code>
+[div class="name q1"]血牙野猪的头[/div]
+</code>
+</item>
+<item id="733" icon="inv_misc_bowl_01" quality="1">
+<name>杂味炖肉</name>
+<code>
+[div class="name q1"]杂味炖肉[/div][div]需要等级 5[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="769" icon="inv_misc_food_14" quality="1">
+<name>大块野猪肉</name>
+<code>
+[div class="name q1"]大块野猪肉[/div]
+</code>
+</item>
+<item id="785" icon="inv_jewelry_talisman_03" quality="1">
+<name>魔皇草</name>
+<code>
+[div class="name q1"]魔皇草[/div]售价: [span class="si-copper"]80[/span]
+</code>
+</item>
+<item id="787" icon="inv_misc_fish_24" quality="1">
+<name>滑皮鲭鱼</name>
+<code>
+[div class="name q1"]滑皮鲭鱼[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。[/div]售价: [span class="si-copper"]25[/span]
+</code>
+</item>
+<item id="1015" icon="inv_misc_food_14" quality="1">
+<name>狼肋排</name>
+<code>
+[div class="name q1"]狼肋排[/div]
+</code>
+</item>
+<item id="1017" icon="inv_misc_food_16" quality="1">
+<name>干烤狼肉串</name>
+<code>
+[div class="name q1"]干烤狼肉串[/div][div]需要等级 15[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高6点，持续15分钟。[/div]
+</code>
+</item>
+<item id="1080" icon="inv_misc_food_72" quality="1">
+<name>硬秃鹫肉</name>
+<code>
+[div class="name q1"]硬秃鹫肉[/div]
+</code>
+</item>
+<item id="1081" icon="inv_misc_monsterspidercarapace_01" quality="1">
+<name>香脆蜘蛛肉</name>
+<code>
+[div class="name q1"]香脆蜘蛛肉[/div]
+</code>
+</item>
+<item id="1082" icon="inv_misc_bowl_01" quality="1">
+<name>赤脊山炖肉</name>
+<code>
+[div class="name q1"]赤脊山炖肉[/div][div]需要等级 10[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高6点，持续15分钟。[/div]
+</code>
+</item>
+<item id="1179" icon="inv_drink_milk_01" quality="1">
+<name>冰镇牛奶</name>
+<code>
+[div class="name q1"]冰镇牛奶[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计437点法力值，喝水时必须保持坐姿。[/div]售价: [span class="si-silver"]1[/span][span class="si-copper"]25[/span]
+</code>
+</item>
+<item id="1468" icon="inv_misc_monsterscales_02" quality="1">
+<name>鱼人的鳍</name>
+<code>
+[div class="name q1"]鱼人的鳍[/div]
+</code>
+</item>
+<item id="2251" icon="inv_misc_monsterspidercarapace_01" quality="1">
+<name>粘糊的蜘蛛腿</name>
+<code>
+[div class="name q1"]粘糊的蜘蛛腿[/div]
+</code>
+</item>
+<item id="2452" icon="inv_misc_herb_04" quality="1">
+<name>雨燕草</name>
+<code>
+[div class="name q1"]雨燕草[/div]
+</code>
+</item>
+<item id="2593" icon="inv_potion_12" quality="1">
+<name>波尔多酒</name>
+<code>
+[div class="name q1"]波尔多酒[/div][div class="q2"]使用: 普通的酒类饮料。[/div]售价: [span class="si-silver"]1[/span][span class="si-copper"]50[/span]
+</code>
+</item>
+<item id="2594" icon="inv_drink_05" quality="1">
+<name>壶装蜜酒</name>
+<code>
+[div class="name q1"]壶装蜜酒[/div][div class="q2"]使用: 酒精含量较高的饮料。[/div]售价: [span class="si-silver"]15[/span]
+</code>
+</item>
+<item id="2596" icon="inv_drink_milk_02" quality="1">
+<name>矮人烈酒</name>
+<code>
+[div class="name q1"]矮人烈酒[/div][div class="q2"]使用: 普通的酒类饮料。[/div]售价: [span class="si-silver"]1[/span][span class="si-copper"]20[/span]
+</code>
+</item>
+<item id="2672" icon="inv_misc_food_14" quality="1">
+<name>多汁狼肉</name>
+<code>
+[div class="name q1"]多汁狼肉[/div]
+</code>
+</item>
+<item id="2673" icon="inv_misc_food_69" quality="1">
+<name>山狗肉</name>
+<code>
+[div class="name q1"]山狗肉[/div]
+</code>
+</item>
+<item id="2674" icon="inv_misc_food_51" quality="1">
+<name>蟹肉</name>
+<code>
+[div class="name q1"]蟹肉[/div]
+</code>
+</item>
+<item id="2675" icon="inv_misc_birdbeck_02" quality="1">
+<name>蟹爪</name>
+<code>
+[div class="name q1"]蟹爪[/div]
+</code>
+</item>
+<item id="2677" icon="inv_misc_food_16" quality="1">
+<name>猪排</name>
+<code>
+[div class="name q1"]猪排[/div]
+</code>
+</item>
+<item id="2678" icon="inv_misc_food_wheat_02" quality="1">
+<name>甜香料</name>
+<code>
+[div class="name q1"]甜香料[/div][div class="q"]"用以让食物的味道更加可口。"[/div]售价: [span class="si-copper"]10[/span]
+</code>
+</item>
+<item id="2679" icon="inv_misc_food_18" quality="1">
+<name>烧烤狼肉</name>
+<code>
+[div class="name q1"]烧烤狼肉[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="2680" icon="inv_misc_food_65" quality="1">
+<name>香辣狼肉</name>
+<code>
+[div class="name q1"]香辣狼肉[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高2点，持续15分钟。[/div]
+</code>
+</item>
+<item id="2681" icon="inv_misc_food_18" quality="1">
+<name>烤野猪肉</name>
+<code>
+[div class="name q1"]烤野猪肉[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="2682" icon="inv_misc_birdbeck_02" quality="1">
+<name>煮蟹爪</name>
+<code>
+[div class="name q1"]煮蟹爪[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计294点生命值和294点法力值。在进食的时候必须保持坐姿。[/div]
+</code>
+</item>
+<item id="2683" icon="inv_misc_food_08" quality="1">
+<name>蟹肉蛋糕</name>
+<code>
+[div class="name q1"]蟹肉蛋糕[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高4点，持续15分钟。[/div]
+</code>
+</item>
+<item id="2684" icon="inv_misc_food_65" quality="1">
+<name>山狗肉排</name>
+<code>
+[div class="name q1"]山狗肉排[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高4点，持续15分钟。[/div]
+</code>
+</item>
+<item id="2685" icon="inv_misc_food_16" quality="1">
+<name>多汁猪排</name>
+<code>
+[div class="name q1"]多汁猪排[/div][div]需要等级 10[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="2687" icon="inv_misc_food_48" quality="1">
+<name>猪肉干</name>
+<code>
+[div class="name q1"]猪肉干[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高4点，持续15分钟。[/div]
+</code>
+</item>
+<item id="2886" icon="inv_misc_food_16" quality="1">
+<name>峭壁野猪肋排</name>
+<code>
+[div class="name q1"]峭壁野猪肋排[/div]
+</code>
+</item>
+<item id="2888" icon="inv_misc_food_48" quality="1">
+<name>啤酒烤猪排</name>
+<code>
+[div class="name q1"]啤酒烤猪排[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高2点，持续15分钟。[/div]
+</code>
+</item>
+<item id="2924" icon="inv_misc_food_14" quality="1">
+<name>鳄鱼肉</name>
+<code>
+[div class="name q1"]鳄鱼肉[/div]
+</code>
+</item>
+<item id="3172" icon="inv_misc_organ_05" quality="1">
+<name>猪大肠</name>
+<code>
+[div class="name q1"]猪大肠[/div]
+</code>
+</item>
+<item id="3173" icon="inv_misc_food_71" quality="1">
+<name>熊肉</name>
+<code>
+[div class="name q1"]熊肉[/div]
+</code>
+</item>
+<item id="3174" icon="inv_misc_slime_01" quality="1">
+<name>蜘蛛的毒液</name>
+<code>
+[div class="name q1"]蜘蛛的毒液[/div]
+</code>
+</item>
+<item id="3220" icon="inv_misc_food_49" quality="1">
+<name>血肠</name>
+<code>
+[div class="name q1"]血肠[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高4点，持续15分钟。[/div]
+</code>
+</item>
+<item id="3404" icon="inv_misc_monsterscales_02" quality="1">
+<name>秃鹫的翅膀</name>
+<code>
+[div class="name q1"]秃鹫的翅膀[/div]
+</code>
+</item>
+<item id="3662" icon="inv_misc_food_47" quality="1">
+<name>鳄鱼肉排</name>
+<code>
+[div class="name q1"]鳄鱼肉排[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高4点，持续15分钟。[/div]
+</code>
+</item>
+<item id="3663" icon="inv_misc_bowl_01" quality="1">
+<name>鱼人鳍汤</name>
+<code>
+[div class="name q1"]鱼人鳍汤[/div][div]需要等级 15[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高6点，持续15分钟。[/div]
+</code>
+</item>
+<item id="3664" icon="inv_misc_bowl_01" quality="1">
+<name>鳄鱼浓汤</name>
+<code>
+[div class="name q1"]鳄鱼浓汤[/div][div]需要等级 15[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高6点，持续15分钟。[/div]
+</code>
+</item>
+<item id="3665" icon="inv_egg_04" quality="1">
+<name>美味煎蛋卷</name>
+<code>
+[div class="name q1"]美味煎蛋卷[/div][div]需要等级 15[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高6点，持续15分钟。[/div]
+</code>
+</item>
+<item id="3666" icon="inv_misc_food_10" quality="1">
+<name>蜘蛛蛋糕</name>
+<code>
+[div class="name q1"]蜘蛛蛋糕[/div][div]需要等级 15[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高6点，持续15分钟。[/div]
+</code>
+</item>
+<item id="3667" icon="inv_misc_food_14" quality="1">
+<name>嫩鳄鱼肉</name>
+<code>
+[div class="name q1"]嫩鳄鱼肉[/div]
+</code>
+</item>
+<item id="3685" icon="inv_egg_03" quality="1">
+<name>迅猛龙蛋</name>
+<code>
+[div class="name q1"]迅猛龙蛋[/div]
+</code>
+</item>
+<item id="3712" icon="inv_misc_food_70" quality="1">
+<name>海龟肉</name>
+<code>
+[div class="name q1"]海龟肉[/div]
+</code>
+</item>
+<item id="3726" icon="inv_misc_food_47" quality="1">
+<name>大块的熊排</name>
+<code>
+[div class="name q1"]大块的熊排[/div][div]需要等级 15[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高6点，持续15分钟。[/div]
+</code>
+</item>
+<item id="3727" icon="inv_misc_food_18" quality="1">
+<name>烤狮排</name>
+<code>
+[div class="name q1"]烤狮排[/div][div]需要等级 15[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高6点，持续15分钟。[/div]
+</code>
+</item>
+<item id="3728" icon="inv_misc_food_14" quality="1">
+<name>香烤狮肉</name>
+<code>
+[div class="name q1"]香烤狮肉[/div][div]需要等级 20[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高8点，持续15分钟。[/div]
+</code>
+</item>
+<item id="3729" icon="inv_misc_bowl_01" quality="1">
+<name>海龟汤</name>
+<code>
+[div class="name q1"]海龟汤[/div][div]需要等级 25[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高8点，持续15分钟。[/div]
+</code>
+</item>
+<item id="3730" icon="inv_misc_food_14" quality="1">
+<name>大块的熊肉</name>
+<code>
+[div class="name q1"]大块的熊肉[/div]
+</code>
+</item>
+<item id="3731" icon="inv_misc_food_71" quality="1">
+<name>狮肉</name>
+<code>
+[div class="name q1"]狮肉[/div]
+</code>
+</item>
+<item id="3821" icon="inv_misc_herb_15" quality="1">
+<name>金棘草</name>
+<code>
+[div class="name q1"]金棘草[/div]
+</code>
+</item>
+<item id="4402" icon="inv_misc_organ_06" quality="1">
+<name>火囊</name>
+<code>
+[div class="name q1"]火囊[/div]
+</code>
+</item>
+<item id="4457" icon="inv_misc_food_18" quality="1">
+<name>烧烤秃鹰翅膀</name>
+<code>
+[div class="name q1"]烧烤秃鹰翅膀[/div][div]需要等级 25[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高8点，持续15分钟。[/div]
+</code>
+</item>
+<item id="4592" icon="inv_misc_fish_32" quality="1">
+<name>长嘴泥鳅</name>
+<code>
+[div class="name q1"]长嘴泥鳅[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。[/div]售价: [span class="si-copper"]20[/span]
+</code>
+</item>
+<item id="4593" icon="inv_misc_fish_30" quality="1">
+<name>刺须鲶鱼</name>
+<code>
+[div class="name q1"]刺须鲶鱼[/div][div]需要等级 15[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。[/div]售价: [span class="si-silver"]5[/span]
+</code>
+</item>
+<item id="4594" icon="inv_misc_fish_04" quality="1">
+<name>石鳞鳕鱼</name>
+<code>
+[div class="name q1"]石鳞鳕鱼[/div][div]需要等级 25[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。[/div]售价: [span class="si-silver"]10[/span]
+</code>
+</item>
+<item id="4603" icon="inv_misc_fish_01" quality="1">
+<name>新鲜的斑点黄尾鱼</name>
+<code>
+[div class="name q1"]新鲜的斑点黄尾鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="4655" icon="inv_misc_food_51" quality="1">
+<name>大块蚌肉</name>
+<code>
+[div class="name q1"]大块蚌肉[/div]
+</code>
+</item>
+<item id="5051" icon="inv_misc_pelt_bear_ruin_04" quality="1">
+<name>掘地鼠</name>
+<code>
+[div class="name q1"]掘地鼠[/div]售价: [span class="si-copper"]1[/span]
+</code>
+</item>
+<item id="5095" icon="inv_misc_fish_27" quality="1">
+<name>彩鳍鱼</name>
+<code>
+[div class="name q1"]彩鳍鱼[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="5465" icon="inv_misc_monsterspidercarapace_01" quality="1">
+<name>小蜘蛛腿</name>
+<code>
+[div class="name q1"]小蜘蛛腿[/div]
+</code>
+</item>
+<item id="5466" icon="spell_nature_nullifypoison" quality="1">
+<name>蝎刺</name>
+<code>
+[div class="name q1"]蝎刺[/div]
+</code>
+</item>
+<item id="5467" icon="inv_misc_food_14" quality="1">
+<name>科多兽的肉</name>
+<code>
+[div class="name q1"]科多兽的肉[/div]
+</code>
+</item>
+<item id="5468" icon="inv_misc_fish_04" quality="1">
+<name>柔软的狂鱼肉</name>
+<code>
+[div class="name q1"]柔软的狂鱼肉[/div]
+</code>
+</item>
+<item id="5469" icon="inv_misc_food_16" quality="1">
+<name>陆行鸟肉</name>
+<code>
+[div class="name q1"]陆行鸟肉[/div]
+</code>
+</item>
+<item id="5470" icon="inv_misc_bone_04" quality="1">
+<name>雷霆蜥蜴的尾巴</name>
+<code>
+[div class="name q1"]雷霆蜥蜴的尾巴[/div]
+</code>
+</item>
+<item id="5471" icon="inv_misc_pelt_wolf_ruin_03" quality="1">
+<name>鹿肉</name>
+<code>
+[div class="name q1"]鹿肉[/div]
+</code>
+</item>
+<item id="5472" icon="inv_misc_food_68" quality="1">
+<name>卡多雷蜘蛛烤肉</name>
+<code>
+[div class="name q1"]卡多雷蜘蛛烤肉[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高2点，持续15分钟。[/div]
+</code>
+</item>
+<item id="5473" icon="inv_misc_food_10" quality="1">
+<name>蝎肉大餐</name>
+<code>
+[div class="name q1"]蝎肉大餐[/div][div class="q2"]使用: 在21秒内恢复总计294点生命值，但有可能在这个过程中食物中毒。[/div]
+</code>
+</item>
+<item id="5474" icon="inv_misc_food_60" quality="1">
+<name>烤科多肉</name>
+<code>
+[div class="name q1"]烤科多肉[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高2点，持续15分钟。[/div]
+</code>
+</item>
+<item id="5476" icon="inv_misc_fish_05" quality="1">
+<name>狂鱼肉片</name>
+<code>
+[div class="name q1"]狂鱼肉片[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高4点，持续15分钟。[/div]
+</code>
+</item>
+<item id="5477" icon="inv_misc_bowl_01" quality="1">
+<name>炖陆行鸟</name>
+<code>
+[div class="name q1"]炖陆行鸟[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高4点，持续15分钟。[/div]
+</code>
+</item>
+<item id="5478" icon="inv_misc_bowl_01" quality="1">
+<name>掘地鼠炖肉</name>
+<code>
+[div class="name q1"]掘地鼠炖肉[/div][div]需要等级 10[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="5479" icon="inv_misc_food_17" quality="1">
+<name>脆炸蜥蜴尾</name>
+<code>
+[div class="name q1"]脆炸蜥蜴尾[/div][div]需要等级 12[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高6点，持续15分钟。[/div]
+</code>
+</item>
+<item id="5480" icon="inv_misc_food_72" quality="1">
+<name>瘦鹿肉</name>
+<code>
+[div class="name q1"]瘦鹿肉[/div][div]需要等级 15[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高6点，持续15分钟。[/div]
+</code>
+</item>
+<item id="5503" icon="inv_misc_food_51" quality="1">
+<name>蚌肉</name>
+<code>
+[div class="name q1"]蚌肉[/div]
+</code>
+</item>
+<item id="5504" icon="inv_misc_food_51" quality="1">
+<name>有腥味的蚌肉</name>
+<code>
+[div class="name q1"]有腥味的蚌肉[/div]
+</code>
+</item>
+<item id="5525" icon="inv_misc_shell_02" quality="1">
+<name>水煮蚌肉</name>
+<code>
+[div class="name q1"]水煮蚌肉[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高4点，持续15分钟。[/div]
+</code>
+</item>
+<item id="5526" icon="inv_potion_01" quality="1">
+<name>杂烩蚌肉</name>
+<code>
+[div class="name q1"]杂烩蚌肉[/div][div]需要等级 10[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="5527" icon="inv_misc_shell_01" quality="1">
+<name>地精芥末蘸蚌肉</name>
+<code>
+[div class="name q1"]地精芥末蘸蚌肉[/div][div]需要等级 15[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高6点，持续15分钟。[/div]
+</code>
+</item>
+<item id="6038" icon="inv_ammo_firetar" quality="1">
+<name>烧烤巨蚌</name>
+<code>
+[div class="name q1"]烧烤巨蚌[/div][div]需要等级 25[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高8点，持续15分钟。[/div]
+</code>
+</item>
+<item id="6289" icon="inv_misc_fish_32" quality="1">
+<name>新鲜的长嘴泥鳅</name>
+<code>
+[div class="name q1"]新鲜的长嘴泥鳅[/div][div]需要等级 5[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="6290" icon="inv_misc_fish_07" quality="1">
+<name>美味小鱼</name>
+<code>
+[div class="name q1"]美味小鱼[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="6291" icon="inv_misc_fish_08" quality="1">
+<name>新鲜的美味小鱼</name>
+<code>
+[div class="name q1"]新鲜的美味小鱼[/div][div class="q2"]使用: 在15秒内恢复总计30点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="6303" icon="inv_misc_fish_24" quality="1">
+<name>新鲜的滑皮鲭鱼</name>
+<code>
+[div class="name q1"]新鲜的滑皮鲭鱼[/div][div class="q2"]使用: 在15秒内恢复总计30点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="6308" icon="inv_misc_fish_30" quality="1">
+<name>新鲜的刺须鲶鱼</name>
+<code>
+[div class="name q1"]新鲜的刺须鲶鱼[/div][div]需要等级 15[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="6316" icon="inv_potion_01" quality="1">
+<name>洛克湖狂鱼</name>
+<code>
+[div class="name q1"]洛克湖狂鱼[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="6317" icon="inv_misc_fish_03" quality="1">
+<name>新鲜的洛克湖狂鱼</name>
+<code>
+[div class="name q1"]新鲜的洛克湖狂鱼[/div][div]需要等级 5[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="6361" icon="inv_misc_fish_25" quality="1">
+<name>新鲜的彩鳍鱼</name>
+<code>
+[div class="name q1"]新鲜的彩鳍鱼[/div][div]需要等级 5[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="6362" icon="inv_misc_fish_04" quality="1">
+<name>新鲜的石鳞鳕鱼</name>
+<code>
+[div class="name q1"]新鲜的石鳞鳕鱼[/div][div]需要等级 25[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="6522" icon="inv_misc_monsterhead_01" quality="1">
+<name>变异鱼</name>
+<code>
+[div class="name q1"]变异鱼[/div][div class="q2"]使用: 吃我。[/div]
+</code>
+</item>
+<item id="6657" icon="inv_misc_monsterhead_04" quality="1">
+<name>美味风蛇</name>
+<screenshot>118537</screenshot>
+<screenshot>158304</screenshot>
+<code>
+[div class="name q1"]美味风蛇[/div][div class="q2"]使用: 吃我。[/div]
+</code>
+</item>
+<item id="6887" icon="inv_misc_fish_01" quality="1">
+<name>斑点黄尾鱼</name>
+<code>
+[div class="name q1"]斑点黄尾鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在30秒内恢复总计1392点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="6888" icon="inv_egg_03" quality="1">
+<name>草药烘蛋</name>
+<code>
+[div class="name q1"]草药烘蛋[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高2点，持续15分钟。[/div]
+</code>
+</item>
+<item id="6889" icon="inv_egg_01" quality="1">
+<name>小蛋</name>
+<code>
+[div class="name q1"]小蛋[/div]
+</code>
+</item>
+<item id="6890" icon="inv_misc_food_13" quality="1">
+<name>熏熊肉</name>
+<code>
+[div class="name q1"]熏熊肉[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="7676" icon="inv_drink_milk_05" quality="1">
+<name>菊花茶</name>
+<code>
+[div class="name q1"]菊花茶[/div][div]职业: 潜行者[/div][div]需要等级 5[/div][div class="q2"]使用: 当你的角色等级不高于40时，可以立即恢复100点能量值。之后每一级减少2点能量值。[/div]
+</code>
+</item>
+<item id="7974" icon="inv_misc_food_51" quality="1">
+<name>美味的蚌肉</name>
+<code>
+[div class="name q1"]美味的蚌肉[/div]
+</code>
+</item>
+<item id="8150" icon="inv_misc_dust_02" quality="1">
+<name>石中盐</name>
+<code>
+[div class="name q1"]石中盐[/div]
+</code>
+</item>
+<item id="8364" icon="inv_misc_fish_02" quality="1">
+<name>银头鲑鱼</name>
+<code>
+[div class="name q1"]银头鲑鱼[/div][div]需要等级 25[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="8365" icon="inv_misc_fish_02" quality="1">
+<name>新鲜的银头鲑鱼</name>
+<code>
+[div class="name q1"]新鲜的银头鲑鱼[/div][div]需要等级 25[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="9061" icon="inv_cask_02" quality="1">
+<name>地精火箭燃油</name>
+<code>
+[div class="name q1"]地精火箭燃油[/div][div class="q"]"地精技师以此为他们制造的装置提供动力"[/div]
+</code>
+</item>
+<item id="10841" icon="inv_drink_15" quality="1">
+<name>金棘茶</name>
+<code>
+[div class="name q1"]金棘茶[/div][div]需要等级 25[/div][div class="q2"]使用: 在27秒内恢复总计1345点法力值，喝水时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="12037" icon="inv_misc_food_67" quality="1">
+<name>神秘的肉</name>
+<code>
+[div class="name q1"]神秘的肉[/div]售价: [span class="si-silver"]3[/span][span class="si-copper"]50[/span]
+</code>
+</item>
+<item id="12184" icon="inv_misc_food_69" quality="1">
+<name>迅猛龙肉</name>
+<code>
+[div class="name q1"]迅猛龙肉[/div]
+</code>
+</item>
+<item id="12202" icon="inv_misc_food_14" quality="1">
+<name>虎肉</name>
+<code>
+[div class="name q1"]虎肉[/div]
+</code>
+</item>
+<item id="12203" icon="inv_misc_food_71" quality="1">
+<name>红狼肉</name>
+<code>
+[div class="name q1"]红狼肉[/div]
+</code>
+</item>
+<item id="12204" icon="inv_misc_food_70" quality="1">
+<name>科多兽肉</name>
+<code>
+[div class="name q1"]科多兽肉[/div]
+</code>
+</item>
+<item id="12205" icon="inv_misc_food_51" quality="1">
+<name>白蜘蛛肉</name>
+<code>
+[div class="name q1"]白蜘蛛肉[/div]
+</code>
+</item>
+<item id="12206" icon="inv_misc_food_51" quality="1">
+<name>嫩螃蟹肉</name>
+<code>
+[div class="name q1"]嫩螃蟹肉[/div]
+</code>
+</item>
+<item id="12207" icon="inv_egg_03" quality="1">
+<name>巨蛋</name>
+<code>
+[div class="name q1"]巨蛋[/div]
+</code>
+</item>
+<item id="12208" icon="inv_misc_food_14" quality="1">
+<name>嫩狼肉</name>
+<code>
+[div class="name q1"]嫩狼肉[/div]
+</code>
+</item>
+<item id="12209" icon="inv_misc_food_47" quality="1">
+<name>瘦狼排</name>
+<code>
+[div class="name q1"]瘦狼排[/div][div]需要等级 15[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高6点，持续15分钟。[/div]
+</code>
+</item>
+<item id="12210" icon="inv_misc_food_50" quality="1">
+<name>烤迅猛龙肉</name>
+<code>
+[div class="name q1"]烤迅猛龙肉[/div][div]需要等级 25[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高8点，持续15分钟。[/div]
+</code>
+</item>
+<item id="12212" icon="inv_drink_17" quality="1">
+<name>丛林大杂烩</name>
+<code>
+[div class="name q1"]丛林大杂烩[/div][div]需要等级 25[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高8点，持续15分钟。[/div]
+</code>
+</item>
+<item id="12213" icon="inv_misc_food_49" quality="1">
+<name>腐肉大餐</name>
+<code>
+[div class="name q1"]腐肉大餐[/div][div]需要等级 25[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高8点，持续15分钟。[/div]
+</code>
+</item>
+<item id="12214" icon="inv_drink_19" quality="1">
+<name>神秘杂烩</name>
+<code>
+[div class="name q1"]神秘杂烩[/div][div]需要等级 25[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高8点，持续15分钟。[/div]
+</code>
+</item>
+<item id="12215" icon="inv_drink_19" quality="1">
+<name>科多肉杂烩</name>
+<code>
+[div class="name q1"]科多肉杂烩[/div][div]需要等级 35[/div][div class="q2"]使用: 在30秒内恢复总计1392点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高12点，持续15分钟。[/div]
+</code>
+</item>
+<item id="12216" icon="inv_misc_food_48" quality="1">
+<name>辣椒蟹肉</name>
+<code>
+[div class="name q1"]辣椒蟹肉[/div][div]需要等级 40[/div][div class="q2"]使用: 在30秒内恢复总计1392点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高12点，持续15分钟。[/div]
+</code>
+</item>
+<item id="12217" icon="inv_drink_17" quality="1">
+<name>龙息红椒</name>
+<code>
+[div class="name q1"]龙息红椒[/div][div]需要等级 35[/div][div class="q2"]使用: 在10分钟内有可能在击中敌人时对其喷出烈焰。[/div]
+</code>
+</item>
+<item id="12218" icon="inv_misc_food_06" quality="1">
+<name>超级煎蛋卷</name>
+<code>
+[div class="name q1"]超级煎蛋卷[/div][div]需要等级 40[/div][div class="q2"]使用: 在30秒内恢复总计1392点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高12点，持续15分钟。[/div]
+</code>
+</item>
+<item id="12223" icon="inv_misc_pelt_bear_ruin_05" quality="1">
+<name>蝙蝠肉翅</name>
+<code>
+[div class="name q1"]蝙蝠肉翅[/div]
+</code>
+</item>
+<item id="12224" icon="inv_misc_food_46" quality="1">
+<name>香脆蝙蝠翅</name>
+<code>
+[div class="name q1"]香脆蝙蝠翅[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高2点，持续15分钟。[/div]
+</code>
+</item>
+<item id="12808" icon="spell_shadow_shadetruesight" quality="2">
+<name>死灵精华</name>
+<code>
+[div class="name q2"]死灵精华[/div]
+</code>
+</item>
+<item id="13754" icon="inv_misc_monsterhead_03" quality="1">
+<name>新鲜的光滑大鱼</name>
+<code>
+[div class="name q1"]新鲜的光滑大鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="13755" icon="inv_misc_fish_13" quality="1">
+<name>冬鱿鱼</name>
+<code>
+[div class="name q1"]冬鱿鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="13756" icon="inv_misc_fish_03" quality="1">
+<name>新鲜的夏日鲈鱼</name>
+<code>
+[div class="name q1"]新鲜的夏日鲈鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="13757" icon="inv_misc_fish_12" quality="1">
+<name>电鳗</name>
+<code>
+[div class="name q1"]电鳗[/div]
+</code>
+</item>
+<item id="13758" icon="inv_misc_fish_06" quality="1">
+<name>新鲜的红腮鱼</name>
+<code>
+[div class="name q1"]新鲜的红腮鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="13759" icon="inv_misc_fish_23" quality="1">
+<name>新鲜的夜鳞鲷鱼</name>
+<code>
+[div class="name q1"]新鲜的夜鳞鲷鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="13760" icon="inv_misc_fish_19" quality="1">
+<name>新鲜的阳鳞鲑鱼</name>
+<code>
+[div class="name q1"]新鲜的阳鳞鲑鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="13851" icon="inv_misc_food_48" quality="1">
+<name>辣味狼排</name>
+<code>
+[div class="name q1"]辣味狼排[/div][div]需要等级 25[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高8点，持续15分钟。[/div]
+</code>
+</item>
+<item id="13888" icon="inv_misc_fish_14" quality="1">
+<name>黑爪龙虾</name>
+<code>
+[div class="name q1"]黑爪龙虾[/div][div]需要等级 45[/div][div class="q2"]使用: 在30秒内恢复总计1392点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="13889" icon="inv_misc_fish_20" quality="1">
+<name>新鲜的白鳞鲑鱼</name>
+<code>
+[div class="name q1"]新鲜的白鳞鲑鱼[/div][div]需要等级 45[/div][div class="q2"]使用: 在30秒内恢复总计1392点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="13893" icon="inv_misc_monsterhead_02" quality="1">
+<name>新鲜的大鱼</name>
+<code>
+[div class="name q1"]新鲜的大鱼[/div][div]需要等级 45[/div][div class="q2"]使用: 在30秒内恢复总计1392点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="13927" icon="inv_misc_monsterhead_03" quality="1">
+<name>煮熟的光滑大鱼</name>
+<code>
+[div class="name q1"]煮熟的光滑大鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。另外你的耐力也将提高10点，持续10分钟。[/div]
+</code>
+</item>
+<item id="13928" icon="inv_misc_fish_13" quality="1">
+<name>烤鱿鱼</name>
+<code>
+[div class="name q1"]烤鱿鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的敏捷将提高10点，持续10分钟。[/div]
+</code>
+</item>
+<item id="13929" icon="inv_misc_fish_03" quality="1">
+<name>烟熏鲈鱼</name>
+<code>
+[div class="name q1"]烟熏鲈鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。另外你的精神也将提高10点，持续10分钟。[/div]
+</code>
+</item>
+<item id="13930" icon="inv_misc_fish_06" quality="1">
+<name>油炸红腮鱼</name>
+<code>
+[div class="name q1"]油炸红腮鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在30秒内恢复总计1392点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="13931" icon="inv_drink_17" quality="1">
+<name>夜鳞鱼汤</name>
+<code>
+[div class="name q1"]夜鳞鱼汤[/div][div]需要等级 35[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。另外你也将获得每5秒回复10点法力值的效果，持续10分钟。[/div]
+</code>
+</item>
+<item id="13932" icon="inv_misc_fish_19" quality="1">
+<name>水煮阳鳞鲑鱼</name>
+<code>
+[div class="name q1"]水煮阳鳞鲑鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。另外你也将获得每5秒回复6点生命值的效果，持续10分钟。[/div]
+</code>
+</item>
+<item id="13933" icon="inv_drink_17" quality="1">
+<name>炖龙虾</name>
+<code>
+[div class="name q1"]炖龙虾[/div][div]需要等级 45[/div][div class="q2"]使用: 在30秒内恢复总计2148点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="13934" icon="inv_misc_food_47" quality="1">
+<name>大鱼片</name>
+<code>
+[div class="name q1"]大鱼片[/div][div]需要等级 45[/div][div class="q2"]使用: 在30秒内恢复总计4320点生命值，进食时必须保持坐姿。另外你的耐力也将提高10点，持续10分钟。[/div]
+</code>
+</item>
+<item id="13935" icon="inv_misc_fish_20" quality="1">
+<name>烤鲑鱼</name>
+<code>
+[div class="name q1"]烤鲑鱼[/div][div]需要等级 45[/div][div class="q2"]使用: 在30秒内恢复总计2148点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="16766" icon="inv_drink_17" quality="1">
+<name>安德麦蚌肉杂烩</name>
+<code>
+[div class="name q1"]安德麦蚌肉杂烩[/div][div]需要等级 35[/div][div class="q2"]使用: 在30秒内恢复总计1392点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="17194" icon="inv_misc_bag_11" quality="1">
+<name>节日香料</name>
+<code>
+[div class="name q1"]节日香料[/div]售价: [span class="si-copper"]10[/span]
+</code>
+</item>
+<item id="17196" icon="inv_drink_10" quality="1">
+<name>节日美酒</name>
+<code>
+[div class="name q1"]节日美酒[/div][div class="q2"]使用: 酒精含量较少的饮料。[/div]售价: [span class="si-copper"]50[/span]
+</code>
+</item>
+<item id="17197" icon="inv_misc_food_62" quality="1">
+<name>姜饼</name>
+<code>
+[div class="name q1"]姜饼[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高2点，持续15分钟。[/div]
+</code>
+</item>
+<item id="17198" icon="inv_drink_04" quality="1">
+<name>蛋奶酒</name>
+<code>
+[div class="name q1"]蛋奶酒[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，饮用时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高2点，持续15分钟，而且会让你觉得很刺激……[/div]
+</code>
+</item>
+<item id="17222" icon="inv_misc_food_66" quality="1">
+<name>蜘蛛肉肠</name>
+<code>
+[div class="name q1"]蜘蛛肉肠[/div][div]需要等级 35[/div][div class="q2"]使用: 在30秒内恢复总计1392点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高12点，持续15分钟。[/div]
+</code>
+</item>
+<item id="18045" icon="inv_misc_food_47" quality="1">
+<name>嫩狼肉排</name>
+<code>
+[div class="name q1"]嫩狼肉排[/div][div]需要等级 40[/div][div class="q2"]使用: 在30秒内恢复总计1392点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高12点，持续15分钟。[/div]
+</code>
+</item>
+<item id="18254" icon="inv_misc_food_63" quality="1">
+<name>洛恩塔姆薯块</name>
+<code>
+[div class="name q1"]洛恩塔姆薯块[/div][div]需要等级 45[/div][div class="q2"]使用: 在27秒内恢复总计1933点生命值，进食时必须保持坐姿。另外你的智力也将提高10点，持续10分钟。[/div]
+</code>
+</item>
+<item id="18255" icon="inv_misc_food_55" quality="1">
+<name>洛恩塔姆地薯</name>
+<code>
+[div class="name q1"]洛恩塔姆地薯[/div][div]需要等级 45[/div][div class="q2"]使用: 在30秒内恢复总计1392点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="20074" icon="inv_misc_food_64" quality="1">
+<name>鳄鱼炖肉</name>
+<code>
+[div class="name q1"]鳄鱼炖肉[/div][div]需要等级 20[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高8点，持续15分钟。[/div]
+</code>
+</item>
+<item id="20424" icon="inv_misc_food_51" quality="1">
+<name>沙虫的肉</name>
+<code>
+[div class="name q1"]沙虫的肉[/div]
+</code>
+</item>
+<item id="20452" icon="inv_misc_food_64" quality="1">
+<name>沙漠肉丸子</name>
+<code>
+[div class="name q1"]沙漠肉丸子[/div][div]需要等级 45[/div][div class="q2"]使用: 在30秒内恢复2148点生命值，持续30秒。进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得20点力量的加成，持续15分钟。[/div]
+</code>
+</item>
+<item id="20949" icon="inv_letter_16" quality="1">
+<name>魔法账本</name>
+<code>
+[div class="name q1"]魔法账本[/div][div]拾取后绑定[/div][div]唯一[/div][div]该物品将触发一个任务[/div]
+</code>
+</item>
+<item id="21023" icon="inv_misc_food_65" quality="1">
+<name>迪尔格的超美味奇美拉肉片</name>
+<code>
+[div class="name q1"]迪尔格的超美味奇美拉肉片[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内4320点生命值，进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得25点耐力的加成，持续15分钟。[/div]
+</code>
+</item>
+<item id="21024" icon="inv_misc_food_70" quality="1">
+<name>奇美洛克的腰肋肉</name>
+<code>
+[div class="name q1"]奇美洛克的腰肋肉[/div]
+</code>
+</item>
+<item id="21071" icon="inv_misc_fish_20" quality="1">
+<name>新鲜的鼠尾鱼</name>
+<code>
+[div class="name q1"]新鲜的鼠尾鱼[/div][div]需要等级 10[/div][div class="q2"]使用: 在21秒内恢复155点生命值和315点法力值。进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="21072" icon="inv_misc_fish_20" quality="1">
+<name>烤鼠尾鱼</name>
+<code>
+[div class="name q1"]烤鼠尾鱼[/div][div]需要等级 10[/div][div class="q2"]使用: 在21秒内恢复378点生命值和567点法力值。进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得每5秒回复4点法力值的效果，持续15分钟。[/div]
+</code>
+</item>
+<item id="21153" icon="inv_misc_fish_21" quality="1">
+<name>新鲜的大鼠尾鱼</name>
+<code>
+[div class="name q1"]新鲜的大鼠尾鱼[/div][div]需要等级 30[/div][div class="q2"]使用: 在21秒内恢复567点生命值和882点法力值。进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="21217" icon="inv_misc_fish_21" quality="1">
+<name>美味鼠尾鱼</name>
+<code>
+[div class="name q1"]美味鼠尾鱼[/div][div]需要等级 30[/div][div class="q2"]使用: 在21秒内恢复840点生命值和1260点法力值。进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得每5秒回复8点法力值的效果，持续15分钟。[/div]
+</code>
+</item>
+<item id="22577" icon="inv_elemental_mote_shadow01" quality="1">
+<name>暗影微粒</name>
+<code>
+[div class="name q1"]暗影微粒[/div][div class="q2"]使用: 将十份暗影微粒合成为一份源生暗影。[/div]售价: [span class="si-silver"]16[/span]
+</code>
+</item>
+<item id="22644" icon="inv_misc_ahnqirajtrinket_02" quality="1">
+<name>松脆蜘蛛腿</name>
+<code>
+[div class="name q1"]松脆蜘蛛腿[/div]
+</code>
+</item>
+<item id="22645" icon="inv_misc_food_88_ravagernuggets" quality="1">
+<name>松脆蜘蛛</name>
+<code>
+[div class="name q1"]松脆蜘蛛[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高4点，持续15分钟。[/div]
+</code>
+</item>
+<item id="23676" icon="inv_misc_food_69" quality="1">
+<name>月痕鹿的嫩腰肉</name>
+<code>
+[div class="name q1"]月痕鹿的嫩腰肉[/div][div class="q"]"鲜嫩的肉汁令你垂涎欲滴。"[/div]
+</code>
+</item>
+<item id="24105" icon="inv_misc_food_60" quality="1">
+<name>月痕鹿腰肉</name>
+<code>
+[div class="name q1"]月痕鹿腰肉[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高2点，持续15分钟。[/div]
+</code>
+</item>
+<item id="24245" icon="inv_mushroom_02" quality="1">
+<name>亮顶蘑菇</name>
+<code>
+[div class="name q1"]亮顶蘑菇[/div]
+</code>
+</item>
+<item id="24477" icon="inv_misc_food_51" quality="1">
+<name>裂开的蚌肉</name>
+<code>
+[div class="name q1"]裂开的蚌肉[/div]
+</code>
+</item>
+<item id="27422" icon="inv_misc_fish_37" quality="1">
+<name>刺鳃鲑鱼</name>
+<code>
+[div class="name q1"]刺鳃鲑鱼[/div]
+</code>
+</item>
+<item id="27425" icon="inv_misc_fish_39" quality="1">
+<name>斑点魔尾鱼</name>
+<code>
+[div class="name q1"]斑点魔尾鱼[/div]
+</code>
+</item>
+<item id="27429" icon="inv_misc_fish_34" quality="1">
+<name>赞加孢子鱼</name>
+<code>
+[div class="name q1"]赞加孢子鱼[/div]
+</code>
+</item>
+<item id="27435" icon="inv_misc_fish_41" quality="1">
+<name>菲格鲁泥鱼</name>
+<code>
+[div class="name q1"]菲格鲁泥鱼[/div]
+</code>
+</item>
+<item id="27437" icon="inv_misc_fish_23" quality="1">
+<name>冰鳞蓝鱼</name>
+<code>
+[div class="name q1"]冰鳞蓝鱼[/div]
+</code>
+</item>
+<item id="27438" icon="inv_misc_fish_36" quality="1">
+<name>金镖鱼</name>
+<code>
+[div class="name q1"]金镖鱼[/div]
+</code>
+</item>
+<item id="27439" icon="inv_misc_fish_14" quality="1">
+<name>狂暴龙虾</name>
+<code>
+[div class="name q1"]狂暴龙虾[/div]
+</code>
+</item>
+<item id="27515" icon="inv_misc_fish_39" quality="1">
+<name>粗斑魔尾鱼</name>
+<code>
+[div class="name q1"]粗斑魔尾鱼[/div][div]副手[/div]
+</code>
+</item>
+<item id="27516" icon="inv_misc_fish_37" quality="1">
+<name>巨刺鲑鱼</name>
+<code>
+[div class="name q1"]巨刺鲑鱼[/div][div]副手[/div]
+</code>
+</item>
+<item id="27635" icon="inv_misc_food_47" quality="1">
+<name>山猫肉排</name>
+<code>
+[div class="name q1"]山猫肉排[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高2点，持续15分钟。[/div]
+</code>
+</item>
+<item id="27636" icon="inv_misc_food_86_basilisk" quality="1">
+<name>美味蝙蝠</name>
+<code>
+[div class="name q1"]美味蝙蝠[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高4点，持续15分钟。[/div]
+</code>
+</item>
+<item id="27651" icon="inv_misc_food_85_stegadonbite" quality="1">
+<name>美味秃鹫</name>
+<code>
+[div class="name q1"]美味秃鹫[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计4320点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高20点，持续30分钟。[/div]
+</code>
+</item>
+<item id="27655" icon="inv_misc_food_53" quality="1">
+<name>掠食者热狗</name>
+<code>
+[div class="name q1"]掠食者热狗[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复?320点生命值，进食时必须保持坐姿。如果你花费至少10秒常愕墓击?0点，精神将提高20点，持续30分钟。[/div][div class="q"]"不要问这东西是用什么做成的……"[/div]
+</code>
+</item>
+<item id="27656" icon="inv_misc_food_87_sporelingsnack" quality="1">
+<name>孢子小吃</name>
+<code>
+[div class="name q1"]孢子小吃[/div][div]需要等级 55[/div][div class="q2"]使用: 使你的宠物的耐力和精神提高20点，持续30分钟。[/div][div class="q"]"宠物们最喜欢孢子小吃了！"[/div]
+</code>
+</item>
+<item id="27657" icon="inv_misc_food_86_basilisk" quality="1">
+<name>烟熏蜥蜴</name>
+<code>
+[div class="name q1"]烟熏蜥蜴[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的法术强度将提高23点，精神将提高20点，持续30分钟。[/div][div class="q"]"无上的美食！"[/div]售价: [span class="si-silver"]6[/span]
+</code>
+</item>
+<item id="27658" icon="inv_misc_food_60" quality="1">
+<name>烧烤裂蹄牛</name>
+<code>
+[div class="name q1"]烧烤裂蹄牛[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的力量和精神都将提高20点，持续30分钟。[/div]
+</code>
+</item>
+<item id="27659" icon="inv_misc_food_65" quality="1">
+<name>迁跃兽汉堡</name>
+<code>
+[div class="name q1"]迁跃兽汉堡[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的敏捷和精神都将提高20点，持续30分钟。[/div]
+</code>
+</item>
+<item id="27660" icon="inv_misc_food_84_roastclefthoof" quality="1">
+<name>塔布肉排</name>
+<code>
+[div class="name q1"]塔布肉排[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高20点，持续30分钟。[/div]
+</code>
+</item>
+<item id="27661" icon="inv_misc_food_77" quality="1">
+<name>烟熏鲑鱼</name>
+<code>
+[div class="name q1"]烟熏鲑鱼[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计4320点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="27662" icon="inv_misc_food_74" quality="1">
+<name>美味魔尾鱼</name>
+<code>
+[div class="name q1"]美味魔尾鱼[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计4320点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高20点，持续30分钟。[/div]
+</code>
+</item>
+<item id="27663" icon="inv_misc_food_79" quality="1">
+<name>烟熏孢子鱼</name>
+<code>
+[div class="name q1"]烟熏孢子鱼[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计4320点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力将提高20点，每5秒回复法力值提高10点，持续30分钟。[/div]
+</code>
+</item>
+<item id="27664" icon="inv_misc_food_78" quality="1">
+<name>烤泥鱼</name>
+<code>
+[div class="name q1"]烤泥鱼[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的敏捷和精神都将提高20点，持续30分钟。[/div]
+</code>
+</item>
+<item id="27665" icon="inv_misc_food_76" quality="1">
+<name>水煮蓝鱼</name>
+<code>
+[div class="name q1"]水煮蓝鱼[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的法术强度将提高23点，精神将提高20点，持续30分钟。[/div]
+</code>
+</item>
+<item id="27666" icon="inv_misc_fish_18" quality="1">
+<name>金色鱼柳</name>
+<code>
+[div class="name q1"]金色鱼柳[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的法术强度将提高23点，精神将提高20点，持续30分钟。[/div]售价: [span class="si-silver"]6[/span]
+</code>
+</item>
+<item id="27667" icon="inv_misc_fish_16" quality="1">
+<name>香辣小龙虾</name>
+<code>
+[div class="name q1"]香辣小龙虾[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力将提高30点，精神将提高20点，持续30分钟。[/div]售价: [span class="si-silver"]6[/span]
+</code>
+</item>
+<item id="27668" icon="inv_misc_food_71" quality="1">
+<name>山猫肉</name>
+<code>
+[div class="name q1"]山猫肉[/div]
+</code>
+</item>
+<item id="27669" icon="inv_misc_food_70" quality="1">
+<name>蝙蝠肉</name>
+<code>
+[div class="name q1"]蝙蝠肉[/div]
+</code>
+</item>
+<item id="27671" icon="inv_misc_food_82" quality="1">
+<name>秃鹰肉</name>
+<code>
+[div class="name q1"]秃鹰肉[/div]
+</code>
+</item>
+<item id="27674" icon="inv_misc_food_72" quality="1">
+<name>掠食者的肉</name>
+<code>
+[div class="name q1"]掠食者的肉[/div]
+</code>
+</item>
+<item id="27676" icon="inv_misc_dust_04" quality="1">
+<name>奇怪的孢子</name>
+<code>
+[div class="name q1"]奇怪的孢子[/div]
+</code>
+</item>
+<item id="27677" icon="inv_misc_food_81" quality="1">
+<name>蜥蜴肉块</name>
+<code>
+[div class="name q1"]蜥蜴肉块[/div]
+</code>
+</item>
+<item id="27678" icon="inv_misc_food_80" quality="1">
+<name>裂蹄牛肉</name>
+<code>
+[div class="name q1"]裂蹄牛肉[/div]
+</code>
+</item>
+<item id="27681" icon="inv_misc_food_83_talbuksteak" quality="1">
+<name>迁跃兽肉</name>
+<code>
+[div class="name q1"]迁跃兽肉[/div]
+</code>
+</item>
+<item id="27682" icon="inv_misc_food_71" quality="1">
+<name>塔布羊肉</name>
+<code>
+[div class="name q1"]塔布羊肉[/div]
+</code>
+</item>
+<item id="30155" icon="inv_misc_food_27" quality="1">
+<name>蚌柳</name>
+<code>
+[div class="name q1"]蚌柳[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计4320点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高20点，持续30分钟。[/div][div class="q"]"美味多汁！"[/div]
+</code>
+</item>
+<item id="30816" icon="inv_misc_food_95_grainbread" quality="1">
+<name>香料面包</name>
+<code>
+[div class="name q1"]香料面包[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="30817" icon="inv_misc_food_wheat_01" quality="1">
+<name>面粉</name>
+<code>
+[div class="name q1"]面粉[/div]售价: [span class="si-copper"]25[/span]
+</code>
+</item>
+<item id="31670" icon="inv_misc_food_16" quality="1">
+<name>迅猛龙肋排</name>
+<code>
+[div class="name q1"]迅猛龙肋排[/div]
+</code>
+</item>
+<item id="31671" icon="inv_misc_food_98_talbuk" quality="1">
+<name>蛇肉</name>
+<code>
+[div class="name q1"]蛇肉[/div]
+</code>
+</item>
+<item id="31672" icon="inv_misc_food_48" quality="1">
+<name>莫克纳萨肋排</name>
+<code>
+[div class="name q1"]莫克纳萨肋排[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高20点，持续30分钟。[/div]
+</code>
+</item>
+<item id="31673" icon="inv_misc_food_88_ravagernuggets" quality="1">
+<name>香脆蛇</name>
+<code>
+[div class="name q1"]香脆蛇[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的法术强度将提高23点，精神将提高20点，持续30分钟。[/div]
+</code>
+</item>
+<item id="33004" icon="inv_misc_shell_03" quality="1">
+<name>蚌肉大餐</name>
+<code>
+[span class="name q1"]蚌肉大餐[/span][br /]拾取后绑定[br /]需要等级 35[br /][span class="q2"]使用: 在30秒内恢复总计2148点生命值和2934点法力值。进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得24点攻击强度加成和14点法术强度加成，持续60分钟。[/span]
+</code>
+</item>
+<item id="33048" icon="inv_misc_food_64" quality="1">
+<name>炖鲑鱼</name>
+<code>
+[div class="name q1"]炖鲑鱼[/div][div]需要等级 65[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="33052" icon="inv_misc_food_88_ravagernuggets" quality="1">
+<name>渔夫的美味</name>
+<code>
+[div class="name q1"]渔夫的美味[/div][div]需要等级 65[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力将提高30点，精神将提高20点，持续30分钟。[/div]
+</code>
+</item>
+<item id="33053" icon="inv_misc_food_76" quality="1">
+<name>黄油鲑鱼</name>
+<code>
+[div class="name q1"]黄油鲑鱼[/div][div]需要等级 65[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值和7200点法力值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="33823" icon="inv_misc_fish_29" quality="1">
+<name>血鳞鲶鱼</name>
+<code>
+[div class="name q1"]血鳞鲶鱼[/div]
+</code>
+</item>
+<item id="33824" icon="inv_misc_fish_40" quality="1">
+<name>弯尾骨鱼</name>
+<code>
+[div class="name q1"]弯尾骨鱼[/div]
+</code>
+</item>
+<item id="33825" icon="inv_misc_food_63" quality="1">
+<name>骨鱼汤</name>
+<code>
+[div class="name q1"]骨鱼汤[/div][div]需要等级 65[/div][div class="q2"]使用: 在30秒内恢复7200点法力值。饮水时必须保持坐姿。如果你花费至少10秒来饮水，你将获得启迪效果，精神值和爆击等级提高20，持续30分钟。[/div]
+</code>
+</item>
+<item id="33866" icon="inv_misc_food_91" quality="1">
+<name>风暴牛排</name>
+<code>
+[div class="name q1"]风暴牛排[/div][div]需要等级 55[/div][div class="q2"]使用: 使你获得闪电的力量，在接下来的30分钟内会偶然对敌人释放闪电。[/div]
+</code>
+</item>
+<item id="33867" icon="inv_misc_fish_29" quality="1">
+<name>烤血鳞鱼</name>
+<code>
+[div class="name q1"]烤血鳞鱼[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计4320点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你对所有魔法的抗性都将提高8点，持续30分钟。[/div]
+</code>
+</item>
+<item id="33872" icon="inv_misc_food_84_roastclefthoof" quality="1">
+<name>热辣塔布羊排</name>
+<code>
+[div class="name q1"]热辣塔布羊排[/div][div]需要等级 65[/div][div class="q2"]使用: 在30秒内恢复7500点生命值。进食时必须保持坐姿。如果你花费至少10秒来进食，你将获得进食充分效果，精神值和命中等级提高20，持续30分钟。[/div]
+</code>
+</item>
+<item id="33874" icon="inv_misc_food_49" quality="1">
+<name>金布勒宠物食品</name>
+<code>
+[div class="name q1"]金布勒宠物食品[/div][div]需要等级 55[/div][div class="q2"]使用: 使你的宠物的力量和耐力提高20点，持续60分钟。[/div][div class="q"]"爱宠佳肴，猎人认证。"[/div]
+</code>
+</item>
+<item id="33924" icon="inv_misc_celebrationcake_01" quality="1">
+<name>美味巧克力蛋糕</name>
+<code>
+[div class="name q1"]美味巧克力蛋糕[/div][div class="q2"]使用: 如果你花费至少5秒来进食，你将会变得非常快乐，持续60分钟。[/div]
+</code>
+</item>
+<item id="34411" icon="inv_drink_23" quality="1">
+<name>热苹果酒</name>
+<code>
+[div class="name q1"]热苹果酒[/div][div]需要等级 65[/div][div class="q2"]使用: 在30秒内恢复7200点法力值。饮水时必须保持坐姿。如果你花费至少10秒来饮水，你将获得进食充分效果，耐力和精神提高20点，持续30分钟。普通的酒精饮料。[/div]
+</code>
+</item>
+<item id="34412" icon="inv_drink_22" quality="1">
+<name>气泡苹果酒</name>
+<code>
+[div class="name q1"]气泡苹果酒[/div][div]持续时间: 2 天[/div][div]需要等级 35[/div][div class="q2"]使用: 在30秒内恢复1992点法力值。饮水时必须保持坐姿。如果你花费至少10秒来饮水，你将获得进食充分效果，耐力和精神提高12点，持续15分钟。[/div]售价: [span class="si-silver"]10[/span]
+</code>
+</item>
+<item id="34736" icon="inv_misc_food_107_venison" quality="1">
+<name>猛犸肉</name>
+<code>
+[div class="name q1"]猛犸肉[/div]
+</code>
+</item>
+<item id="34747" icon="inv_misc_food_117_heartysoup" quality="1">
+<name>诺森德炖肉</name>
+<code>
+[div class="name q1"]诺森德炖肉[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="34748" icon="inv_misc_food_116_condorleg" quality="1">
+<name>猛犸肉餐</name>
+<code>
+[div class="name q1"]猛犸肉餐[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值。如果你花费至少10秒钟来进食，你的攻击强度将提高60点，耐力将提高30点，持续60分钟。[/div]
+</code>
+</item>
+<item id="34749" icon="inv_misc_food_89" quality="1">
+<name>铲齿鹿排</name>
+<code>
+[div class="name q1"]铲齿鹿排[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值。如果你花费至少10秒钟来进食，你的法术强度将提高35点，耐力将提高30点，持续60分钟。[/div]
+</code>
+</item>
+<item id="34750" icon="inv_misc_food_124_skewer" quality="1">
+<name>虫肉美食</name>
+<code>
+[div class="name q1"]虫肉美食[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值。如果你花费至少10秒钟来进食，你的爆击等级将提高30，耐力将提高30点，持续60分钟。[/div]
+</code>
+</item>
+<item id="34751" icon="inv_misc_food_86_basilisk" quality="1">
+<name>烘烤座狼</name>
+<code>
+[div class="name q1"]烘烤座狼[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值。如果你花费至少10秒钟来进食，你的急速等级将提高30，耐力将提高30点，持续60分钟。[/div]
+</code>
+</item>
+<item id="34752" icon="inv_misc_food_53" quality="1">
+<name>犀牛热狗</name>
+<code>
+[div class="name q1"]犀牛热狗[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值。如果你花费至少10秒钟来进食，你的爆击等级将提高12，耐力将提高30点，持续60分钟。[/div]
+</code>
+</item>
+<item id="34753" icon="ability_hunter_pet_boar" quality="1">
+<name>大型筵席</name>
+<screenshot>94489</screenshot>
+<code>
+[div class="name q1"]大型筵席[/div][div]需要等级 70[/div][div]需要 烹饪 (375)[/div][div class="q2"]使用: 摆放一桌筵席，供你的队友大快朵颐！在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟进食，还可以获得进食充分效果，攻击强度提高60点，法术强度提高35点，耐力提高30点，持续60分钟。[/div]
+</code>
+</item>
+<item id="34754" icon="inv_misc_food_108_meadcaribou" quality="1">
+<name>猛犸肉大餐</name>
+<code>
+[div class="name q1"]猛犸肉大餐[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值。如果你花费至少10秒钟来进食，你的攻击强度将提高80点，耐力将提高40点，持续60分钟。[/div]
+</code>
+</item>
+<item id="34755" icon="inv_misc_food_122_steak" quality="1">
+<name>香嫩铲齿鹿排</name>
+<code>
+[div class="name q1"]香嫩铲齿鹿排[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值。如果你花费至少10秒钟来进食，你的法术强度将提高46点，耐力将提高40点，持续60分钟。[/div]
+</code>
+</item>
+<item id="34756" icon="inv_misc_food_65" quality="1">
+<name>香辣虫肉汉堡</name>
+<code>
+[div class="name q1"]香辣虫肉汉堡[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值。如果你花费至少10秒钟来进食，你的爆击等级将提高40，耐力将提高40点，持续60分钟。[/div]
+</code>
+</item>
+<item id="34757" icon="inv_misc_food_60" quality="1">
+<name>焦烤座狼</name>
+<code>
+[div class="name q1"]焦烤座狼[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值。如果你花费至少10秒钟来进食，你的急速等级将提高40，耐力将提高40点，持续60分钟。[/div]
+</code>
+</item>
+<item id="34758" icon="inv_misc_food_66" quality="1">
+<name>巨型犀牛热狗</name>
+<code>
+[div class="name q1"]巨型犀牛热狗[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值。如果你花费至少10秒钟来进食，你的每5秒法力恢复将提高16点，耐力将提高40点，持续60分钟。[/div]
+</code>
+</item>
+<item id="34759" icon="inv_misc_food_131_fish" quality="1">
+<name>熏烤石鳞鲶鱼</name>
+<code>
+[div class="name q1"]熏烤石鳞鲶鱼[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="34760" icon="inv_misc_food_143_fish" quality="1">
+<name>烧烤骨鳞鱼</name>
+<code>
+[div class="name q1"]烧烤骨鳞鱼[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="34761" icon="inv_misc_food_125_fishchunk" quality="1">
+<name>嫩煎虾虎鱼</name>
+<code>
+[div class="name q1"]嫩煎虾虎鱼[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="34762" icon="inv_misc_food_79" quality="1">
+<name>烤蚌背鱼</name>
+<code>
+[div class="name q1"]烤蚌背鱼[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的攻击强度将提高60点，耐力将提高40点，持续60分钟。[/div]
+</code>
+</item>
+<item id="34763" icon="inv_misc_food_130_fish" quality="1">
+<name>熏烤鲑鱼</name>
+<code>
+[div class="name q1"]熏烤鲑鱼[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的法术强度将提高35点，耐力将提高40点，持续60分钟。[/div]
+</code>
+</item>
+<item id="34764" icon="inv_misc_food_138_fish" quality="1">
+<name>煮水母</name>
+<code>
+[div class="name q1"]煮水母[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的爆击等级将提高30，耐力将提高40点，持续60分钟。[/div]
+</code>
+</item>
+<item id="34765" icon="inv_misc_food_76" quality="1">
+<name>腌制利齿青鱼</name>
+<code>
+[div class="name q1"]腌制利齿青鱼[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的每5秒法力恢复将提高12点，耐力将提高40点，持续60分钟。[/div]
+</code>
+</item>
+<item id="34766" icon="inv_misc_food_77" quality="1">
+<name>水煮北地蚌背鱼</name>
+<code>
+[div class="name q1"]水煮北地蚌背鱼[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的攻击强度将提高80点，耐力将提高40点，持续60分钟。[/div]
+</code>
+</item>
+<item id="34767" icon="inv_misc_food_141_fish" quality="1">
+<name>爆炒鲑鱼</name>
+<code>
+[div class="name q1"]爆炒鲑鱼[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的法术强度将提高46点，耐力将提高40点，持续60分钟。[/div]
+</code>
+</item>
+<item id="34768" icon="inv_misc_food_139_fish" quality="1">
+<name>香辣蓝色水母</name>
+<code>
+[div class="name q1"]香辣蓝色水母[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的爆击等级将提高40，耐力将提高40点，持续60分钟。[/div]
+</code>
+</item>
+<item id="34769" icon="inv_misc_food_121_buttermeat" quality="1">
+<name>帝王鳐鱼片</name>
+<code>
+[div class="name q1"]帝王鳐鱼片[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的急速等级将提高40，耐力将提高40点，持续60分钟。[/div]
+</code>
+</item>
+<item id="34832" icon="inv_drink_03" quality="1">
+<name>拉姆瑟船长的特酿啤酒</name>
+<code>
+[div class="name q1"]拉姆瑟船长的特酿啤酒[/div][div class="q2"]使用: 使你微醉，钓鱼技能提高10点，持续3分钟。[/div]
+</code>
+</item>
+<item id="35562" icon="inv_misc_food_13" quality="1">
+<name>熊腰肉</name>
+<code>
+[div class="name q1"]熊腰肉[/div]
+</code>
+</item>
+<item id="35563" icon="inv_misc_food_68" quality="1">
+<name>熊肉串烧</name>
+<code>
+[div class="name q1"]熊肉串烧[/div][div]需要等级 45[/div][div class="q2"]使用: 在27秒内恢复总计1933点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的攻击强度将提高24点，持续15分钟。[/div]
+</code>
+</item>
+<item id="35565" icon="inv_misc_food_65" quality="1">
+<name>多汁熊肉汉堡</name>
+<code>
+[div class="name q1"]多汁熊肉汉堡[/div][div]需要等级 45[/div][div class="q2"]使用: 在27秒内恢复总计1933点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的法术强度将提高14点，持续15分钟。[/div]
+</code>
+</item>
+<item id="35948" icon="inv_misc_food_105_snowplum" quality="1">
+<name>美味雪梅</name>
+<code>
+[div class="name q1"]美味雪梅[/div][div]需要等级 75[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值，进食时必须保持坐姿。[/div]售价: [span class="si-gold"]1[/span][span class="si-silver"]60[/span]
+</code>
+</item>
+<item id="35949" icon="inv_misc_food_104_tundraberries" quality="1">
+<name>苔原浆果</name>
+<code>
+[div class="name q1"]苔原浆果[/div][div]需要等级 65[/div][div class="q2"]使用: 在30秒内恢复总计18480点生命值，进食时必须保持坐姿。[/div]售价: [span class="si-silver"]85[/span]
+</code>
+</item>
+<item id="36782" icon="inv_misc_food_126_clammeat" quality="1">
+<name>多汁的蚌肉</name>
+<code>
+[div class="name q1"]多汁的蚌肉[/div]
+</code>
+</item>
+<item id="39520" icon="inv_drink_21" quality="1">
+<name>甜果酒</name>
+<code>
+[div class="name q1"]甜果酒[/div][div]需要等级 75[/div][div class="q2"]使用: 使你变得醉醺醺的，在30秒内恢复总计19200点法力值。饮酒时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="41800" icon="inv_misc_fish_60" quality="1">
+<name>深海巨腹鱼</name>
+<code>
+[div class="name q1"]深海巨腹鱼[/div]
+</code>
+</item>
+<item id="41801" icon="inv_misc_fish_70" quality="1">
+<name>月光墨鱼</name>
+<code>
+[div class="name q1"]月光墨鱼[/div]
+</code>
+</item>
+<item id="41802" icon="inv_misc_fish_59" quality="1">
+<name>帝王鳐</name>
+<code>
+[div class="name q1"]帝王鳐[/div]
+</code>
+</item>
+<item id="41803" icon="inv_misc_fish_46" quality="1">
+<name>石鳞鲶鱼</name>
+<code>
+[div class="name q1"]石鳞鲶鱼[/div]
+</code>
+</item>
+<item id="41805" icon="inv_misc_fish_49" quality="1">
+<name>北风水母</name>
+<code>
+[div class="name q1"]北风水母[/div]
+</code>
+</item>
+<item id="41806" icon="inv_misc_fish_62" quality="1">
+<name>蚌背鱼</name>
+<code>
+[div class="name q1"]蚌背鱼[/div]
+</code>
+</item>
+<item id="41807" icon="inv_misc_fish_54" quality="1">
+<name>龙鳞天使鱼</name>
+<code>
+[div class="name q1"]龙鳞天使鱼[/div]
+</code>
+</item>
+<item id="41808" icon="inv_misc_fish_48" quality="1">
+<name>骨鳞钳鱼</name>
+<code>
+[div class="name q1"]骨鳞钳鱼[/div]
+</code>
+</item>
+<item id="41809" icon="inv_misc_fish_51" quality="1">
+<name>冰河鲑鱼</name>
+<code>
+[div class="name q1"]冰河鲑鱼[/div]
+</code>
+</item>
+<item id="41810" icon="inv_misc_fish_67" quality="1">
+<name>利齿青鱼</name>
+<code>
+[div class="name q1"]利齿青鱼[/div]
+</code>
+</item>
+<item id="41812" icon="inv_misc_fish_57" quality="1">
+<name>圆头虾虎鱼</name>
+<code>
+[div class="name q1"]圆头虾虎鱼[/div]
+</code>
+</item>
+<item id="41813" icon="inv_misc_fish_72" quality="1">
+<name>水母</name>
+<code>
+[div class="name q1"]水母[/div]
+</code>
+</item>
+<item id="42942" icon="inv_misc_food_140_fish" quality="1">
+<name>烤鳐鱼</name>
+<code>
+[div class="name q1"]烤鳐鱼[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的急速等级将提高30，耐力将提高40点，持续60分钟。[/div]
+</code>
+</item>
+<item id="42993" icon="inv_misc_food_78" quality="1">
+<name>香辣油炸青鱼</name>
+<code>
+[div class="name q1"]香辣油炸青鱼[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的法力恢复将提高每5秒16点，耐力将提高40点，持续60分钟。[/div]
+</code>
+</item>
+<item id="42994" icon="inv_misc_food_47" quality="1">
+<name>虫犀肉排</name>
+<code>
+[div class="name q1"]虫犀肉排[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值。如果你花费至少10秒钟来进食，你的精准将提高40，耐力将提高40点，持续60分钟。[/div]
+</code>
+</item>
+<item id="42995" icon="inv_misc_food_115_condorsoup" quality="1">
+<name>犀牛大餐</name>
+<code>
+[div class="name q1"]犀牛大餐[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值。如果你花费至少10秒钟来进食，你的护甲穿透将提高40，耐力将提高40点，持续60分钟。[/div]
+</code>
+</item>
+<item id="42996" icon="inv_misc_food_129_fish" quality="1">
+<name>钳鱼大餐</name>
+<code>
+[div class="name q1"]钳鱼大餐[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的命中等级将提高40，耐力将提高40点，持续60分钟。[/div]
+</code>
+</item>
+<item id="42997" icon="inv_misc_food_84_roastclefthoof" quality="1">
+<name>熏烤座狼肉排</name>
+<code>
+[div class="name q1"]熏烤座狼肉排[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值。如果你花费至少10秒钟来进食，你将获得追踪人型生物的能力，持续60分钟。[/div]
+</code>
+</item>
+<item id="42998" icon="inv_misc_food_133_meat" quality="1">
+<name>墨鱼片</name>
+<code>
+[div class="name q1"]墨鱼片[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的精神将提高40点，耐力将提高40点，持续60分钟。[/div]
+</code>
+</item>
+<item id="42999" icon="inv_misc_food_142_fish" quality="1">
+<name>熏烤龙鳞鱼</name>
+<code>
+[div class="name q1"]熏烤龙鳞鱼[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的敏捷将提高40点，耐力将提高40点，持续60分钟。[/div]
+</code>
+</item>
+<item id="43000" icon="inv_misc_food_75" quality="1">
+<name>龙鳞鱼片</name>
+<code>
+[div class="name q1"]龙鳞鱼片[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的力量将提高40点，耐力将提高40点，持续60分钟。[/div]
+</code>
+</item>
+<item id="43001" icon="inv_misc_food_85_stegadonbite" quality="1">
+<name>追踪快餐</name>
+<code>
+[div class="name q1"]追踪快餐[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值。如果你花费至少10秒钟来进食，你将获得追踪野兽的能力，持续60分钟。[/div]
+</code>
+</item>
+<item id="43004" icon="inv_misc_food_88_ravagernuggets" quality="1">
+<name>小动物的零食</name>
+<code>
+[div class="name q1"]小动物的零食[/div][div]需要等级 70[/div][div class="q2"]使用: 将小动物的零食丢给某只小动物以控制它。所谓"小动物"是指老鼠或火鸡之类的无害的……小动物。[/div]
+</code>
+</item>
+<item id="43005" icon="inv_misc_food_123_roast" quality="1">
+<name>香辣猛犸小吃</name>
+<code>
+[div class="name q1"]香辣猛犸小吃[/div][div]需要等级 70[/div][div class="q2"]使用: 使你的宠物的力量和耐力提高30点，持续60分钟。[/div]
+</code>
+</item>
+<item id="43007" icon="inv_misc_ammo_gunpowder_05" quality="1">
+<name>北地香料</name>
+<code>
+[div class="name q1"]北地香料[/div]售价: 达拉然烹饪奖牌(1/10)
+</code>
+</item>
+<item id="43009" icon="inv_misc_food_135_meat" quality="1">
+<name>铲齿鹿肋排</name>
+<code>
+[div class="name q1"]铲齿鹿肋排[/div]
+</code>
+</item>
+<item id="43010" icon="inv_misc_food_137_meat" quality="1">
+<name>虫肉</name>
+<code>
+[div class="name q1"]虫肉[/div]
+</code>
+</item>
+<item id="43011" icon="inv_misc_food_72" quality="1">
+<name>座狼腰肉</name>
+<code>
+[div class="name q1"]座狼腰肉[/div]
+</code>
+</item>
+<item id="43012" icon="inv_misc_food_119_rhinomeat" quality="1">
+<name>犀牛肉</name>
+<code>
+[div class="name q1"]犀牛肉[/div]
+</code>
+</item>
+<item id="43013" icon="inv_misc_food_120_sharkmeat" quality="1">
+<name>冰冷的肉</name>
+<code>
+[div class="name q1"]冰冷的肉[/div]
+</code>
+</item>
+<item id="43015" icon="inv_misc_fish_52" quality="1">
+<name>鱼肉筵席</name>
+<screenshot>117056</screenshot>
+<code>
+[div class="name q1"]鱼肉筵席[/div][div]需要等级 70[/div][div]需要 烹饪 (425)[/div][div class="q2"]使用: 摆放一桌筵席，供你的队友大快朵颐！在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟进食，还可以获得进食充分效果，攻击强度提高80点，法术强度提高46点，耐力提高40点，持续60分钟。[/div]
+</code>
+</item>
+<item id="43016" icon="inv_misc_ribbon_01" quality="2">
+<name>达拉然烹饪奖牌</name>
+<code>
+[div class="name q2"]达拉然烹饪奖牌[/div][div]拾取后绑定[/div][div class="q"]"在达拉然的烹饪供应商处兑换物品。"[/div]
+</code>
+</item>
+<item id="43268" icon="inv_misc_cauldron_frost" quality="1">
+<name>达拉然蚌肉杂烩</name>
+<code>
+[div class="name q1"]达拉然蚌肉杂烩[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的攻击强度将提高60点，法术强度将提高35点，耐力将提高30点，持续60分钟。[/div]
+</code>
+</item>
+<item id="43478" icon="ability_hunter_pet_boar" quality="1">
+<name>丰盛筵席</name>
+<code>
+[div class="name q1"]丰盛筵席[/div][div]需要等级 70[/div][div]需要 烹饪 (375)[/div][div class="q2"]使用: 摆放一桌筵席，供你的队友大快朵颐！在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟进食，你的体型会变大！[/div]
+</code>
+</item>
+<item id="43480" icon="ability_hunter_pet_boar" quality="1">
+<name>小型筵席</name>
+<screenshot>111164</screenshot>
+<code>
+[div class="name q1"]小型筵席[/div][div]需要等级 70[/div][div]需要 烹饪 (375)[/div][div class="q2"]使用: 摆放一桌筵席，供你的队友大快朵颐！在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟进食，你的体型会变小。[/div]
+</code>
+</item>
+<item id="43488" icon="inv_misc_food_114_orcablubber" quality="1">
+<name>上周的猛犸肉</name>
+<code>
+[div class="name q1"]上周的猛犸肉[/div][div class="q2"]使用: 吃了一头老猛犸象之后，你感到很悲伤。[/div]
+</code>
+</item>
+<item id="43490" icon="inv_valentineschocolate01" quality="1">
+<name>美味蛋糕</name>
+<code>
+[div class="name q1"]美味蛋糕[/div][div class="q2"]使用: 美味的蛋糕让你感到快乐。[/div]
+</code>
+</item>
+<item id="43491" icon="inv_misc_shell_01" quality="1">
+<name>坏掉的蚌肉</name>
+<code>
+[div class="name q1"]坏掉的蚌肉[/div][div class="q2"]使用: 吃了坏掉的蚌肉之后，你变得非常生气。[/div]
+</code>
+</item>
+<item id="43492" icon="inv_misc_fish_66" quality="1">
+<name>闹鬼的青鱼</name>
+<code>
+[div class="name q1"]闹鬼的青鱼[/div][div class="q2"]使用: 闹鬼的青鱼使你感到恐惧。[/div]
+</code>
+</item>
+<item id="43501" icon="inv_egg_01" quality="1">
+<name>北地之卵</name>
+<code>
+[div class="name q1"]北地之卵[/div]
+</code>
+</item>
+<item id="44834" icon="inv_misc_food_15" quality="1">
+<name>完整的火鸡</name>
+<code>
+[span class="name q1"]完整的火鸡[/span][br /][span class="q"]"可以在艾尔文森林或者提瑞斯法林地捕猎到。"[/span]
+</code>
+</item>
+<item id="44835" icon="inv_misc_herb_14" quality="1">
+<name>秋季香草</name>
+<code>
+[span class="name q1"]秋季香草[/span][br /]持续时间: 7 天[br /][span class="q"]"可以向主城的旅人丰年祭商人购买。"[/span][br /]售价: [span class="si-copper"]10[/span]
+</code>
+</item>
+<item id="44836" icon="inv_thanksgiving_pumpkinpie" quality="1">
+<name>南瓜馅饼</name>
+<code>
+[span class="name q1"]南瓜馅饼[/span][br /]持续时间: 7 天[br /][span class="q2"]使用: 每秒恢复总生命值的4%，持续30秒。进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得耐力和精神加成，持续60分钟。[/span]
+</code>
+</item>
+<item id="44837" icon="inv_thanksgiving_stuffing" quality="1">
+<name>玉米馅料</name>
+<code>
+[span class="name q1"]玉米馅料[/span][br /]持续时间: 7 天[br /][span class="q2"]使用: 每秒恢复总生命值的4%，持续30秒。进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得耐力和命中等级加成，持续60分钟。[/span]
+</code>
+</item>
+<item id="44838" icon="inv_thanksgiving_turkey" quality="1">
+<name>慢烤火鸡</name>
+<code>
+[span class="name q1"]慢烤火鸡[/span][br /]持续时间: 7 天[br /][span class="q2"]使用: 每秒恢复总生命值的4%，持续30秒。进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得耐力和攻击强度加成，持续60分钟。[/span]
+</code>
+</item>
+<item id="44839" icon="inv_thanksgiving_sweetpotato-" quality="1">
+<name>甜山药</name>
+<code>
+[span class="name q1"]甜山药[/span][br /]持续时间: 7 天[br /][span class="q2"]使用: 每秒恢复总生命值的4%，持续30秒。进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得耐力和急速等级加成，持续60分钟。[/span]
+</code>
+</item>
+<item id="44840" icon="inv_thanksgiving_cranberrysauce" quality="1">
+<name>酸果蔓酱</name>
+<code>
+[span class="name q1"]酸果蔓酱[/span][br /]持续时间: 7 天[br /][span class="q2"]使用: 每秒恢复总生命值的4%，持续30秒。进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得耐力和法术强度加成，持续60分钟。[/span]
+</code>
+</item>
+<item id="44853" icon="inv_potion_147" quality="1">
+<name>蜂蜜</name>
+<code>
+[span class="name q1"]蜂蜜[/span][br /]持续时间: 7 天[br /][span class="q"]"可以向主城的旅人丰年祭商人购买。"[/span][br /]售价: [span class="si-copper"]25[/span]
+</code>
+</item>
+<item id="44854" icon="inv_misc_food_104_tundraberries" quality="1">
+<name>酸果蔓</name>
+<code>
+[span class="name q1"]酸果蔓[/span][br /]持续时间: 7 天[br /][span class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。[/span][br /][span class="q"]"可以向铁炉堡外的旅人丰年祭商人购买。"[/span][br /][/span]售价: [span class="si-copper"]25[/span]
+</code>
+</item>
+<item id="44855" icon="inv_misc_herb_07" quality="1">
+<name>山药</name>
+<code>
+[span class="name q1"]山药[/span][br /]持续时间: 7 天[br /][span class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。[/span][br /][span class="q"]"可以向达纳苏斯外的旅人丰年祭商人购买。"[/span][br /][/span]售价: [span class="si-copper"]25[/span]
+</code>
+</item>
+<item id="44953" icon="inv_misc_food_71" quality="1">
+<name>生拌狼肉糜</name>
+<code>
+[span class="name q1"]生拌狼肉糜[/span][br /]需要等级 70[br /][span class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的命中等级将提高40，耐力将提高40点，持续60分钟。[/span]
+</code>
+</item>
+<item id="45932" icon="inv_misc_slime_02" quality="1">
+<name>黑肉冻</name>
+<code>
+[span class="name q1"]黑肉冻[/span][br /]需要等级 75[br /][span class="q2"]使用: 在1分钟内恢复总计45000点生命值和38400点法力值。进食时必须保持坐姿。[/span]
+</code>
+</item>
+<item id="46349" icon="achievement_profession_chefhat" quality="3">
+<name>大厨的帽子</name>
+<screenshot>142325</screenshot>
+<screenshot>126402</screenshot>
+<code>
+[span class="name q3"]大厨的帽子[/span][br /]拾取后绑定[br /]头部[br /][span class="q2"]装备: 使你的烹饪速度加快。[/span][br /]售价: 达拉然烹饪奖牌(100)
+</code>
+</item>
+<item id="46691" icon="inv_misc_breadofthedead" quality="1">
+<name>悼念糕饼</name>
+<code>
+[span class="name q1"]悼念糕饼[/span][br /]拾取后绑定[br /]需要亡者节[br /][span class="q2"]使用: 每秒恢复总生命值的2%，持续24秒。进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得耐力和精神加成，持续15分钟。[/span]
+</code>
+</item>
+<item id="46784" icon="inv_misc_food_25" quality="1">
+<name>成熟的艾尔文南瓜</name>
+<code>
+[span class="name q1"]成熟的艾尔文南瓜[/span][br /]持续时间: 7天[br /][span class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。[/span][br /][span class="q"]"可以向暴风城外的旅人丰年祭商人购买。"[/span][br /]售价: [span class="si-copper"]25[/span]
+</code>
+</item>
+<item id="46793" icon="inv_misc_food_104_tundraberries" quality="1">
+<name>酸果蔓</name>
+<code>
+[span class="name q1"]酸果蔓[/span][br /]持续时间: 7天[br /][span class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。[/span][br /][span class="q"]"可以向奥格瑞玛外的旅人丰年祭商人购买。"[/span][br /]售价: [span class="si-copper"]25[/span]
+</code>
+</item>
+<item id="46796" icon="inv_misc_food_25" quality="1">
+<name>成熟的提瑞斯法南瓜</name>
+<code>
+[span class="name q1"]成熟的提瑞斯法南瓜[/span][br /]持续时间: 7天[br /][span class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。[/span][br /][span class="q"]"可以向幽暗城外的旅人丰年祭商人购买。"[/span][br /]售价: [span class="si-copper"]25[/span]
+</code>
+</item>
+<item id="46797" icon="inv_misc_herb_07" quality="1">
+<name>山药</name>
+<code>
+[span class="name q1"]山药[/span][br /]持续时间: 7天[br /][span class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。[/span][br /][span class="q"]"可以向雷霆崖的旅人丰年祭商人购买。"[/span][br /]售价: [span class="si-copper"]25[/span]
+</code>
+</item>
+<item id="728" icon="inv_scroll_03" quality="1">
+<name>食谱：杂味炖肉</name>
+<code>
+[div class="name q1"]食谱：杂味炖肉[/div][div]需要 烹饪 (75)[/div][div]使用: 教你学会烹制杂味炖肉。[/div][br /][div class="name q1"]杂味炖肉[/div][div]需要等级 5[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。[/div][br /][div]需要: 秃鹫肉条(1) 鱼人的眼球(1) 血牙野猪的头(1) [/div]售价: [span class="si-silver"]2[/span]
+</code>
+<sold-by>
+<npc id="340" />
+</sold-by>
+<reward-from>
+<quest id="38" />
+</reward-from>
+</item>
+<item id="2697" icon="inv_scroll_03" quality="1">
+<name>食谱：猪肝馅饼</name>
+<code>
+[div class="name q1"]食谱：猪肝馅饼[/div][div]需要 烹饪 (50)[/div][div]使用: 教你学会烹制猪肝馅饼。[/div][br /][div class="name q1"]猪肝馅饼[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高4点，持续15分钟。[/div][br /][div]需要: 血牙野猪的肝(1) [/div]售价: [span class="si-silver"]4[/span]
+</code>
+<sold-by>
+<npc id="340" />
+</sold-by>
+<reward-from>
+<quest id="22" />
+</reward-from>
+</item>
+<item id="2698" icon="inv_scroll_03" quality="1">
+<name>食谱：煮蟹爪</name>
+<code>
+[div class="name q1"]食谱：煮蟹爪[/div][div]需要 烹饪 (85)[/div][div]使用: 教你学会烹制煮蟹爪。[/div][br /][div class="name q1"]煮蟹爪[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计294点生命值和294点法力值。在进食的时候必须保持坐姿。[/div][br /][div]需要: 蟹爪(1) [/div]售价: [span class="si-silver"]4[/span]
+</code>
+<sold-by>
+<npc id="340" />
+</sold-by>
+<dropped-by>
+<npc id="846" rate="5/1701" />
+<npc id="2070" rate="48/16384" />
+<npc id="6789" rate="22/8109" />
+<npc id="2069" rate="105/52299" />
+<npc id="6180" rate="22/11884" />
+<npc id="520" rate="5/2769" />
+<npc id="831" rate="16/8894" />
+<npc id="834" rate="116/69272" />
+<npc id="2322" rate="26/15689" />
+<npc id="1236" rate="23/14097" />
+</dropped-by>
+</item>
+<item id="2699" icon="inv_scroll_03" quality="1">
+<name>食谱：赤脊山炖肉</name>
+<code>
+[div class="name q1"]食谱：赤脊山炖肉[/div][div]需要 烹饪 (100)[/div][div]使用: 教你学会烹制赤脊山炖肉。[/div][br /][div class="name q1"]赤脊山炖肉[/div][div]需要等级 10[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高6点，持续15分钟。[/div][br /][div]需要: 香脆蜘蛛肉(1) 硬秃鹫肉(1) [/div]售价: [span class="si-silver"]8[/span]
+</code>
+<sold-by>
+<npc id="340" />
+</sold-by>
+<reward-from>
+<quest id="92" />
+</reward-from>
+</item>
+<item id="2700" icon="inv_scroll_03" quality="1">
+<name>食谱：多汁猪排</name>
+<code>
+[div class="name q1"]食谱：多汁猪排[/div][div]需要 烹饪 (110)[/div][div]使用: 教你学会烹制多汁猪排。[/div][br /][div class="name q1"]多汁猪排[/div][div]需要等级 10[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。[/div][br /][div]需要: 猪排(2) [/div]售价: [span class="si-silver"]4[/span]
+</code>
+<sold-by>
+<npc id="340" />
+</sold-by>
+<dropped-by>
+<npc id="14266" rate="2/725" />
+<npc id="7170" rate="4/1743" />
+<npc id="1183" rate="42/19231" />
+<npc id="14272" rate="3/1419" />
+<npc id="1181" rate="49/24579" />
+<npc id="1225" rate="8/4381" />
+<npc id="1180" rate="44/24265" />
+<npc id="1205" rate="3/1700" />
+<npc id="1399" rate="1/569" />
+<npc id="1380" rate="2/1170" />
+</dropped-by>
+</item>
+<item id="2701" icon="inv_scroll_03" quality="1">
+<name>食谱：干烤狼肉串</name>
+<code>
+[div class="name q1"]食谱：干烤狼肉串[/div][div]需要 烹饪 (100)[/div][div]使用: 教你学会烹制干烤狼肉串。[/div][br /][div class="name q1"]干烤狼肉串[/div][div]需要等级 15[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高6点，持续15分钟。[/div][br /][div]需要: 狼肋排(2) [/div]售价: [span class="si-silver"]16[/span]
+</code>
+<sold-by>
+<npc id="340" />
+</sold-by>
+<reward-from>
+<quest id="90" />
+</reward-from>
+</item>
+<item id="2889" icon="inv_scroll_03" quality="1">
+<name>食谱：啤酒烤猪排</name>
+<code>
+[div class="name q1"]食谱：啤酒烤猪排[/div][div]需要 烹饪 (10)[/div][div]使用: 教你学会烹制啤酒烤猪排。[/div][br /][div class="name q1"]啤酒烤猪排[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高2点，持续15分钟。[/div][br /][div]需要: 峭壁野猪肋排(1) [/div]售价: [span class="si-silver"]2[/span][span class="si-copper"]40[/span]
+</code>
+<sold-by>
+<npc id="340" />
+</sold-by>
+<reward-from>
+<quest id="384" />
+</reward-from>
+</item>
+<item id="3678" icon="inv_scroll_03" quality="1">
+<name>食谱：鳄鱼煎排</name>
+<code>
+[div class="name q1"]食谱：鳄鱼煎排[/div][div]需要 烹饪 (80)[/div][div]使用: 教你学会烹制鳄鱼煎排。[/div][br /][div class="name q1"]鳄鱼肉排[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高4点，持续15分钟。[/div][br /][div]需要: 鳄鱼肉(1) [/div]售价: [span class="si-silver"]4[/span]
+</code>
+<sold-by>
+<npc id="340" />
+</sold-by>
+<reward-from>
+<quest id="385" />
+</reward-from>
+</item>
+<item id="3679" icon="inv_scroll_03" quality="1">
+<name>食谱：血肠</name>
+<code>
+[div class="name q1"]食谱：血肠[/div][div]需要 烹饪 (60)[/div][div]使用: 教你学会烹制血肠。[/div][br /][div class="name q1"]血肠[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高4点，持续15分钟。[/div][br /][div]需要: 熊肉(1) 猪大肠(1) 蜘蛛的毒液(1) [/div]售价: [span class="si-silver"]4[/span]
+</code>
+<sold-by>
+<npc id="340" />
+</sold-by>
+<reward-from>
+<quest id="418" />
+</reward-from>
+</item>
+<item id="3680" icon="inv_scroll_03" quality="1">
+<name>食谱：鱼人鳍汤</name>
+<code>
+[div class="name q1"]食谱：鱼人鳍汤[/div][div]需要 烹饪 (90)[/div][div]使用: 教你学会烹制鱼人鳍汤。[/div][br /][div class="name q1"]鱼人鳍汤[/div][div]需要等级 15[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高6点，持续15分钟。[/div][br /][div]需要: 鱼人的鳍(2) [/div]售价: [span class="si-silver"]16[/span]
+</code>
+<sold-by>
+<npc id="340" />
+</sold-by>
+<reward-from>
+<quest id="127" />
+</reward-from>
+</item>
+<item id="3681" icon="inv_scroll_03" quality="1">
+<name>食谱：鳄鱼浓汤</name>
+<code>
+[div class="name q1"]食谱：鳄鱼浓汤[/div][div]需要 烹饪 (120)[/div][div]使用: 教你学会烹制鳄鱼浓汤。[/div][br /][div class="name q1"]鳄鱼浓汤[/div][div]需要等级 15[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高6点，持续15分钟。[/div][br /][div]需要: 嫩鳄鱼肉(1) [/div]售价: [span class="si-silver"]16[/span]
+</code>
+<sold-by>
+<npc id="340" />
+</sold-by>
+<reward-from>
+<quest id="471" />
+</reward-from>
+</item>
+<item id="3682" icon="inv_scroll_03" quality="1">
+<name>食谱：美味煎蛋卷</name>
+<code>
+[div class="name q1"]食谱：美味煎蛋卷[/div][div]需要 烹饪 (130)[/div][div]使用: 教你学会烹制美味煎蛋卷。[/div][br /][div class="name q1"]美味煎蛋卷[/div][div]需要等级 15[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高6点，持续15分钟。[/div][br /][div]需要: 迅猛龙蛋(1) [/div]售价: [span class="si-silver"]16[/span]
+</code>
+<sold-by>
+<npc id="340" />
+<npc id="1148" />
+<npc id="2821" />
+</sold-by>
+<reward-from>
+<quest id="296" />
+</reward-from>
+</item>
+<item id="3683" icon="inv_scroll_03" quality="1">
+<name>食谱：蜘蛛蛋糕</name>
+<code>
+[div class="name q1"]食谱：蜘蛛蛋糕[/div][div]需要 烹饪 (110)[/div][div]使用: 教你学会烹制蜘蛛蛋糕。[/div][br /][div class="name q1"]蜘蛛蛋糕[/div][div]需要等级 15[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高6点，持续15分钟。[/div][br /][div]需要: 粘糊的蜘蛛腿(2) [/div]售价: [span class="si-silver"]16[/span]
+</code>
+<sold-by>
+<npc id="340" />
+</sold-by>
+<reward-from>
+<quest id="93" />
+</reward-from>
+</item>
+<item id="3734" icon="inv_scroll_03" quality="1">
+<name>食谱：烤熊排</name>
+<code>
+[div class="name q1"]食谱：烤熊排[/div][div]需要 烹饪 (110)[/div][div]使用: 教你学会烹制烤熊排。[/div][br /][div class="name q1"]大块的熊排[/div][div]需要等级 15[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高6点，持续15分钟。[/div][br /][div]需要: 大块的熊肉(1) [/div]售价: [span class="si-silver"]16[/span]
+</code>
+<sold-by>
+<npc id="3960" />
+<npc id="12246" count="1" />
+</sold-by>
+<reward-from>
+<quest id="498" />
+</reward-from>
+</item>
+<item id="3735" icon="inv_scroll_03" quality="1">
+<name>食谱：烤狮排</name>
+<code>
+[div class="name q1"]食谱：烤狮排[/div][div]需要 烹饪 (125)[/div][div]使用: 教你学会烹制烤狮排。[/div][br /][div class="name q1"]烤狮排[/div][div]需要等级 15[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高6点，持续15分钟。[/div][br /][div]需要: 狮肉(1) [/div]售价: [span class="si-silver"]18[/span]
+</code>
+<sold-by>
+<npc id="3489" />
+<npc id="12245" count="1" />
+</sold-by>
+<reward-from>
+<quest id="501" />
+</reward-from>
+</item>
+<item id="3736" icon="inv_scroll_03" quality="1">
+<name>食谱：香烤狮肉</name>
+<code>
+[div class="name q1"]食谱：香烤狮肉[/div][div]需要 烹饪 (150)[/div][div]使用: 教你学会烹制香烤狮肉。[/div][br /][div class="name q1"]香烤狮肉[/div][div]需要等级 20[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高8点，持续15分钟。[/div][br /][div]需要: 狮肉(2) [/div]
+</code>
+<reward-from>
+<quest id="564" />
+</reward-from>
+</item>
+<item id="3737" icon="inv_scroll_03" quality="1">
+<name>食谱：海龟汤</name>
+<code>
+[div class="name q1"]食谱：海龟汤[/div][div]需要 烹饪 (175)[/div][div]使用: 教你学会烹制海龟汤。[/div][br /][div class="name q1"]海龟汤[/div][div]需要等级 25[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高8点，持续15分钟。[/div][br /][div]需要: 海龟肉(1) [/div]
+</code>
+<reward-from>
+<quest id="555" />
+<quest id="7321" />
+</reward-from>
+</item>
+<item id="4609" icon="inv_scroll_03" quality="1">
+<name>食谱：烧烤秃鹰翅膀</name>
+<code>
+[div class="name q1"]食谱：烧烤秃鹰翅膀[/div][div]需要 烹饪 (175)[/div][div]使用: 教你学会烹制烧烤秃鹰翅膀。[/div][br /][div class="name q1"]烧烤秃鹰翅膀[/div][div]需要等级 25[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高8点，持续15分钟。[/div][br /][div]需要: 秃鹫的翅膀(1) [/div]售价: [span class="si-silver"]10[/span]
+</code>
+<sold-by>
+<npc id="2814" />
+<npc id="12246" count="1" />
+</sold-by>
+<reward-from>
+<quest id="703" />
+</reward-from>
+</item>
+<item id="5482" icon="inv_scroll_03" quality="1">
+<name>食谱：卡多雷蜘蛛烤肉</name>
+<code>
+[div class="name q1"]食谱：卡多雷蜘蛛烤肉[/div][div]需要 烹饪 (10)[/div][div]使用: 教你学会烹制卡多雷蜘蛛烤肉。[/div][br /][div class="name q1"]卡多雷蜘蛛烤肉[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高2点，持续15分钟。[/div][br /][div]需要: 小蜘蛛腿(1) [/div]
+</code>
+<reward-from>
+<quest id="4161" />
+</reward-from>
+</item>
+<item id="5483" icon="inv_scroll_03" quality="1">
+<name>食谱：蝎肉大餐</name>
+<code>
+[div class="name q1"]食谱：蝎肉大餐[/div][div]需要 烹饪 (20)[/div][div]使用: 教你学会烹制蝎肉大餐。[/div][br /][div class="name q1"]蝎肉大餐[/div][div class="q2"]使用: 在21秒内恢复总计294点生命值，但有可能在这个过程中食物中毒。[/div][br /][div]需要: 蝎刺(1) [/div]售价: [span class="si-silver"]1[/span][span class="si-copper"]40[/span]
+</code>
+<sold-by>
+<npc id="3881" />
+</sold-by>
+</item>
+<item id="5484" icon="inv_scroll_03" quality="1">
+<name>食谱：炒科多肉</name>
+<code>
+[div class="name q1"]食谱：炒科多肉[/div][div]需要 烹饪 (35)[/div][div]使用: 教你学会烹制炒科多肉。[/div][br /][div class="name q1"]烤科多肉[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高2点，持续15分钟。[/div][br /][div]需要: 科多兽的肉(1) [/div]售价: [span class="si-silver"]2[/span][span class="si-copper"]40[/span]
+</code>
+<sold-by>
+<npc id="3081" />
+</sold-by>
+</item>
+<item id="5485" icon="inv_scroll_03" quality="1">
+<name>食谱：狂鱼肉片</name>
+<code>
+[div class="name q1"]食谱：狂鱼肉片[/div][div]需要 烹饪 (50)[/div][div]使用: 教你学会烹制狂鱼肉片。[/div][br /][div class="name q1"]狂鱼肉片[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高4点，持续15分钟。[/div][br /][div]需要: 柔软的狂鱼肉(1) [/div]售价: [span class="si-silver"]4[/span]
+</code>
+<sold-by>
+<npc id="4200" />
+</sold-by>
+</item>
+<item id="5486" icon="inv_scroll_03" quality="1">
+<name>食谱：炖陆行鸟</name>
+<code>
+[div class="name q1"]食谱：炖陆行鸟[/div][div]需要 烹饪 (50)[/div][div]使用: 教你学会烹制炖陆行鸟。[/div][br /][div class="name q1"]炖陆行鸟[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高4点，持续15分钟。[/div][br /][div]需要: 陆行鸟肉(1) [/div]售价: [span class="si-silver"]4[/span][span class="si-copper"]40[/span]
+</code>
+<sold-by>
+<npc id="3482" />
+</sold-by>
+<reward-from>
+<quest id="2178" />
+</reward-from>
+</item>
+<item id="5487" icon="inv_scroll_03" quality="1">
+<name>食谱：掘地鼠炖肉</name>
+<code>
+[div class="name q1"]食谱：掘地鼠炖肉[/div][div]需要 烹饪 (90)[/div][div]使用: 教你学会烹制焖鼠肉。[/div][br /][div class="name q1"]掘地鼠炖肉[/div][div]需要等级 10[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。[/div][br /][div]需要: 掘地鼠(1) [/div]
+</code>
+<reward-from>
+<quest id="862" />
+</reward-from>
+</item>
+<item id="5488" icon="inv_scroll_03" quality="1">
+<name>食谱：脆炸蜥蜴尾</name>
+<code>
+[div class="name q1"]食谱：脆炸蜥蜴尾[/div][div]需要 烹饪 (100)[/div][div]使用: 教你学会烹制脆炸蜥蜴尾。[/div][br /][div class="name q1"]脆炸蜥蜴尾[/div][div]需要等级 12[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高6点，持续15分钟。[/div][br /][div]需要: 雷霆蜥蜴的尾巴(1) [/div]售价: [span class="si-silver"]4[/span]
+</code>
+<sold-by>
+<npc id="3482" />
+</sold-by>
+</item>
+<item id="5489" icon="inv_scroll_03" quality="1">
+<name>食谱：瘦鹿肉</name>
+<code>
+[div class="name q1"]食谱：瘦鹿肉[/div][div]需要 烹饪 (110)[/div][div]使用: 教你学会烹制瘦鹿肉。[/div][br /][div class="name q1"]瘦鹿肉[/div][div]需要等级 15[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高6点，持续15分钟。[/div][br /][div]需要: 鹿肉(1) [/div]售价: [span class="si-silver"]12[/span]
+</code>
+<sold-by>
+<npc id="3960" />
+<npc id="12245" count="1" />
+</sold-by>
+</item>
+<item id="5528" icon="inv_scroll_03" quality="1">
+<name>食谱：杂烩蚌肉</name>
+<code>
+[div class="name q1"]食谱：杂烩蚌肉[/div][div]需要 烹饪 (90)[/div][div]使用: 教你学会烹制杂烩蚌肉。[/div][br /][div class="name q1"]杂烩蚌肉[/div][div]需要等级 10[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。[/div][br /][div]需要: 蚌肉(1) 冰镇牛奶(1) [/div]售价: [span class="si-silver"]8[/span]
+</code>
+<sold-by>
+<npc id="4305" />
+<npc id="4307" />
+</sold-by>
+</item>
+<item id="6039" icon="inv_scroll_03" quality="1">
+<name>食谱：烤巨蚌</name>
+<code>
+[div class="name q1"]食谱：烤巨蚌[/div][div]需要 烹饪 (175)[/div][div]使用: 教你学会烹制烤巨蚌。[/div][br /][div class="name q1"]烧烤巨蚌[/div][div]需要等级 25[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高8点，持续15分钟。[/div][br /][div]需要: 大块蚌肉(1) [/div]售价: [span class="si-silver"]50[/span]
+</code>
+<sold-by>
+<npc id="2664" />
+</sold-by>
+</item>
+<item id="6325" icon="inv_scroll_03" quality="1">
+<name>食谱：美味小鱼</name>
+<code>
+[div class="name q1"]食谱：美味小鱼[/div][div]需要 烹饪 (1)[/div][div]使用: 教你学会烹制美味小鱼。[/div][br /][div class="name q1"]美味小鱼[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。[/div][br /][div]需要: 新鲜的美味小鱼(1) [/div]售价: [span class="si-copper"]40[/span]
+</code>
+<sold-by>
+<npc id="66" />
+<npc id="1684" />
+<npc id="3029" />
+<npc id="3550" />
+<npc id="4265" />
+<npc id="4574" />
+<npc id="5494" />
+<npc id="5940" />
+<npc id="8508" />
+</sold-by>
+</item>
+<item id="6326" icon="inv_scroll_03" quality="1">
+<name>食谱：滑皮鲭鱼</name>
+<code>
+[div class="name q1"]食谱：滑皮鲭鱼[/div][div]需要 烹饪 (1)[/div][div]使用: 教你学会烹制滑皮鲭鱼。[/div][br /][div class="name q1"]滑皮鲭鱼[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。[/div][br /][div]需要: 新鲜的滑皮鲭鱼(1) [/div]售价: [span class="si-copper"]40[/span]
+</code>
+<sold-by>
+<npc id="3550" />
+<npc id="4305" />
+<npc id="5162" />
+<npc id="5942" />
+<npc id="10118" />
+</sold-by>
+</item>
+<item id="6328" icon="inv_scroll_03" quality="1">
+<name>食谱：长嘴泥鳅</name>
+<code>
+[div class="name q1"]食谱：长嘴泥鳅[/div][div]需要 烹饪 (50)[/div][div]使用: 教你学会烹制长嘴泥鳅。[/div][br /][div class="name q1"]长嘴泥鳅[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。[/div][br /][div]需要: 新鲜的长嘴泥鳅(1) [/div]售价: [span class="si-silver"]4[/span]
+</code>
+<sold-by>
+<npc id="66" />
+<npc id="1684" />
+<npc id="3027" />
+<npc id="4265" />
+<npc id="4574" />
+<npc id="5162" />
+<npc id="5748" />
+<npc id="5940" />
+</sold-by>
+</item>
+<item id="6329" icon="inv_scroll_03" quality="1">
+<name>食谱：洛克湖狂鱼</name>
+<code>
+[div class="name q1"]食谱：洛克湖狂鱼[/div][div]需要 烹饪 (50)[/div][div]使用: 教你学会烹制洛克湖狂鱼。[/div][br /][div class="name q1"]洛克湖狂鱼[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。[/div][br /][div]需要: 新鲜的洛克湖狂鱼(1) [/div]售价: [span class="si-silver"]4[/span]
+</code>
+<sold-by>
+<npc id="1684" />
+</sold-by>
+</item>
+<item id="6330" icon="inv_scroll_03" quality="1">
+<name>食谱：刺须鲶鱼</name>
+<code>
+[div class="name q1"]食谱：刺须鲶鱼[/div][div]需要 烹饪 (100)[/div][div]使用: 教你学会烹制刺须鲶鱼。[/div][br /][div class="name q1"]刺须鲶鱼[/div][div]需要等级 15[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。[/div][br /][div]需要: 新鲜的刺须鲶鱼(1) [/div]售价: [span class="si-silver"]12[/span]
+</code>
+<sold-by>
+<npc id="2383" />
+<npc id="2397" />
+<npc id="3027" />
+<npc id="3029" />
+<npc id="3497" />
+<npc id="4553" />
+<npc id="5494" />
+</sold-by>
+</item>
+<item id="6368" icon="inv_scroll_03" quality="1">
+<name>食谱：彩鳍鱼</name>
+<code>
+[div class="name q1"]食谱：彩鳍鱼[/div][div]需要 烹饪 (50)[/div][div]使用: 教你学会烹制彩鳍鱼。[/div][br /][div class="name q1"]彩鳍鱼[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。[/div][br /][div]需要: 新鲜的彩鳍鱼(1) [/div]售价: [span class="si-silver"]4[/span]
+</code>
+<sold-by>
+<npc id="3178" />
+<npc id="3333" />
+<npc id="3497" />
+<npc id="4305" />
+<npc id="4307" />
+<npc id="4553" />
+<npc id="5494" />
+<npc id="5748" />
+<npc id="5942" />
+<npc id="10118" />
+</sold-by>
+</item>
+<item id="6369" icon="inv_scroll_03" quality="1">
+<name>食谱：石鳞鳕鱼</name>
+<code>
+[div class="name q1"]食谱：石鳞鳕鱼[/div][div]需要 烹饪 (175)[/div][div]使用: 教你学会烹制石鳞鳕鱼。[/div][br /][div class="name q1"]石鳞鳕鱼[/div][div]需要等级 25[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。[/div][br /][div]需要: 新鲜的石鳞鳕鱼(1) [/div]售价: [span class="si-silver"]22[/span]
+</code>
+<sold-by>
+<npc id="2383" />
+<npc id="2664" />
+<npc id="3178" />
+<npc id="3333" />
+<npc id="4307" />
+<npc id="4574" />
+<npc id="5162" />
+<npc id="12033" />
+<npc id="12962" />
+</sold-by>
+</item>
+<item id="6661" icon="inv_scroll_03" quality="2">
+<name>食谱：美味风蛇</name>
+<code>
+[div class="name q2"]食谱：美味风蛇[/div][div]需要 烹饪 (85)[/div][div]使用: 教你学会烹制美味风蛇。[/div][br /][div class="name q1"]美味风蛇[/div][div class="q2"]使用: 吃我。[/div][br /][div]需要: 变异鱼(1) [/div]
+</code>
+<dropped-by>
+<npc id="12319" rate="2/361" />
+<npc id="5864" rate="2/795" />
+<npc id="3243" rate="6/2527" />
+<npc id="3470" rate="6/2651" />
+<npc id="3248" rate="16/7191" />
+<npc id="3241" rate="9/4451" />
+<npc id="3415" rate="44/32732" />
+<npc id="4127" rate="55/42656" />
+<npc id="5829" rate="2/1575" />
+<npc id="3242" rate="127/105879" />
+</dropped-by>
+</item>
+<item id="6892" icon="inv_scroll_03" quality="1">
+<name>食谱：熏熊肉</name>
+<code>
+[div class="name q1"]食谱：熏熊肉[/div][div]需要 烹饪 (40)[/div][div]使用: 教你学会烹制熏熊肉。[/div][br /][div class="name q1"]熏熊肉[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。[/div][br /][div]需要: 熊肉(1) [/div]售价: [span class="si-silver"]2[/span][span class="si-copper"]50[/span]
+</code>
+<sold-by>
+<npc id="1465" />
+<npc id="3556" />
+</sold-by>
+</item>
+<item id="7678" icon="inv_scroll_03" quality="1">
+<name>食谱：菊花茶</name>
+<code>
+[div class="name q1"]食谱：菊花茶[/div][div]需要 烹饪 (60)[/div][div]使用: 教你学会烹制菊花茶。[/div][br /][div class="name q1"]菊花茶[/div][div]职业: 潜行者[/div][div]需要等级 5[/div][div class="q2"]使用: 立即恢复100点能量值。[/div][br /][div]需要: 雨燕草(1) 清凉的泉水(1) [/div]
+</code>
+</item>
+<item id="12226" icon="inv_scroll_03" quality="1">
+<name>食谱：香脆蝙蝠翅</name>
+<code>
+[div class="name q1"]食谱：香脆蝙蝠翅[/div][div]需要 烹饪 (1)[/div][div]使用: 教你学会烹制香脆蝙蝠翅。[/div][br /][div class="name q1"]香脆蝙蝠翅[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高2点，持续15分钟。[/div][br /][div]需要: 蝙蝠肉翅(1) [/div]售价: [span class="si-copper"]25[/span]
+</code>
+<sold-by>
+<npc id="2118" />
+</sold-by>
+</item>
+<item id="12227" icon="inv_scroll_03" quality="1">
+<name>食谱：瘦狼排</name>
+<code>
+[div class="name q1"]食谱：瘦狼排[/div][div]需要 烹饪 (125)[/div][div]使用: 教你学会烹制瘦狼排。[/div][br /][div class="name q1"]瘦狼排[/div][div]需要等级 15[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高6点，持续15分钟。[/div][br /][div]需要: 狼肋排(1) [/div]售价: [span class="si-silver"]16[/span]
+</code>
+<sold-by>
+<npc id="12246" count="1" />
+</sold-by>
+</item>
+<item id="12228" icon="inv_scroll_03" quality="1">
+<name>食谱：烤迅猛龙肉</name>
+<code>
+[div class="name q1"]食谱：烤迅猛龙肉[/div][div]需要 烹饪 (175)[/div][div]使用: 教你学会烹制烤迅猛龙肉。[/div][br /][div class="name q1"]烤迅猛龙肉[/div][div]需要等级 25[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高8点，持续15分钟。[/div][br /][div]需要: 迅猛龙肉(1) [/div]售价: [span class="si-silver"]50[/span]
+</code>
+<sold-by>
+<npc id="734" />
+<npc id="1148" />
+<npc id="2810" />
+<npc id="2821" />
+<npc id="4879" />
+<npc id="4897" />
+<npc id="12245" count="1" />
+</sold-by>
+</item>
+<item id="12229" icon="inv_scroll_03" quality="1">
+<name>食谱：辣味狼排</name>
+<code>
+[div class="name q1"]食谱：辣味狼排[/div][div]需要 烹饪 (175)[/div][div]使用: 教你学会烹制辣味狼排。[/div][br /][div class="name q1"]辣味狼排[/div][div]需要等级 25[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高8点，持续15分钟。[/div][br /][div]需要: 红狼肉(1) [/div]售价: [span class="si-silver"]50[/span]
+</code>
+<sold-by>
+<npc id="7947" />
+<npc id="8145" />
+<npc id="12246" count="1" />
+</sold-by>
+</item>
+<item id="12231" icon="inv_scroll_03" quality="1">
+<name>食谱：丛林大杂烩</name>
+<code>
+[div class="name q1"]食谱：丛林大杂烩[/div][div]需要 烹饪 (175)[/div][div]使用: 教你学会烹制丛林大杂烩。[/div][br /][div class="name q1"]丛林大杂烩[/div][div]需要等级 25[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高8点，持续15分钟。[/div][br /][div]需要: 虎肉(1) 清凉的泉水(1) [/div]售价: [span class="si-silver"]30[/span]
+</code>
+<sold-by>
+<npc id="734" />
+<npc id="1148" />
+<npc id="12245" count="1" />
+</sold-by>
+</item>
+<item id="12232" icon="inv_scroll_03" quality="1">
+<name>食谱：腐肉大餐</name>
+<code>
+[div class="name q1"]食谱：腐肉大餐[/div][div]需要 烹饪 (175)[/div][div]使用: 教你学会烹制腐肉大餐。[/div][br /][div class="name q1"]腐肉大餐[/div][div]需要等级 25[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高8点，持续15分钟。[/div][br /][div]需要: 神秘的肉(1) [/div]售价: [span class="si-silver"]50[/span]
+</code>
+<sold-by>
+<npc id="989" />
+<npc id="4879" />
+<npc id="9636" />
+<npc id="12245" count="1" />
+</sold-by>
+</item>
+<item id="12233" icon="inv_scroll_03" quality="1">
+<name>食谱：神秘杂烩</name>
+<code>
+[div class="name q1"]食谱：神秘杂烩[/div][div]需要 烹饪 (175)[/div][div]使用: 教你学会烹制神秘杂烩。[/div][br /][div class="name q1"]神秘杂烩[/div][div]需要等级 25[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高8点，持续15分钟。[/div][br /][div]需要: 神秘的肉(1) 矮人烈酒(1) [/div]售价: [span class="si-silver"]30[/span]
+</code>
+<sold-by>
+<npc id="4897" />
+<npc id="8150" />
+<npc id="12246" count="1" />
+</sold-by>
+</item>
+<item id="12239" icon="inv_scroll_03" quality="1">
+<name>食谱：龙息红椒</name>
+<code>
+[div class="name q1"]食谱：龙息红椒[/div][div]需要 烹饪 (200)[/div][div]使用: 教你学会烹制龙息红椒。[/div][br /][div class="name q1"]龙息红椒[/div][div]需要等级 35[/div][div class="q2"]使用: 在10分钟内有可能在击中敌人时对其喷出烈焰。[/div][br /][div]需要: 神秘的肉(1) 火囊(1) [/div]售价: [span class="si-silver"]70[/span]
+</code>
+<sold-by>
+<npc id="4879" />
+<npc id="4897" />
+<npc id="12246" count="1" />
+</sold-by>
+</item>
+<item id="12240" icon="inv_scroll_03" quality="1">
+<name>食谱：科多肉杂烩</name>
+<code>
+[div class="name q1"]食谱：科多肉杂烩[/div][div]需要 烹饪 (200)[/div][div]使用: 教你学会制作科多肉杂烩。[/div][br /][div class="name q1"]科多肉杂烩[/div][div]需要等级 35[/div][div class="q2"]使用: 在30秒内恢复总计1392点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高12点，持续15分钟。[/div][br /][div]需要: 科多兽肉(2) [/div]售价: [span class="si-silver"]70[/span]
+</code>
+<sold-by>
+<npc id="8150" />
+<npc id="9636" />
+<npc id="12245" count="1" />
+</sold-by>
+</item>
+<item id="13939" icon="inv_scroll_03" quality="1">
+<name>食谱：斑点黄尾鱼</name>
+<code>
+[div class="name q1"]食谱：斑点黄尾鱼[/div][div]需要 烹饪 (225)[/div][div]使用: 教你学会烹制斑点黄尾鱼。[/div][br /][div class="name q1"]斑点黄尾鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在30秒内恢复总计1392点生命值，进食时必须保持坐姿。[/div][br /][div]需要: 新鲜的斑点黄尾鱼(1) [/div]售价: [span class="si-gold"]1[/span][span class="si-silver"]60[/span]
+</code>
+<sold-by>
+<npc id="8137" />
+</sold-by>
+</item>
+<item id="13940" icon="inv_scroll_03" quality="1">
+<name>食谱：煮熟的光滑大鱼</name>
+<code>
+[div class="name q1"]食谱：煮熟的光滑大鱼[/div][div]需要 烹饪 (225)[/div][div]使用: 教你学会烹制煮熟的光滑大鱼。[/div][br /][div class="name q1"]煮熟的光滑大鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。另外你的耐力也将提高10点，持续10分钟。[/div][br /][div]需要: 新鲜的光滑大鱼(1) [/div]售价: [span class="si-gold"]1[/span][span class="si-silver"]60[/span]
+</code>
+<sold-by>
+<npc id="2664" />
+</sold-by>
+</item>
+<item id="13941" icon="inv_scroll_03" quality="1">
+<name>食谱：油炸红腮鱼</name>
+<code>
+[div class="name q1"]食谱：油炸红腮鱼[/div][div]需要 烹饪 (225)[/div][div]使用: 教你学会烹制油炸红腮鱼。[/div][br /][div class="name q1"]油炸红腮鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在30秒内恢复总计1392点生命值，进食时必须保持坐姿。[/div][br /][div]需要: 新鲜的红腮鱼(1) [/div]售价: [span class="si-gold"]1[/span][span class="si-silver"]60[/span]
+</code>
+<sold-by>
+<npc id="2664" />
+</sold-by>
+</item>
+<item id="13942" icon="inv_scroll_03" quality="1">
+<name>食谱：烤鱿鱼</name>
+<code>
+[div class="name q1"]食谱：烤鱿鱼[/div][div]需要 烹饪 (240)[/div][div]使用: 教你学会制作烤鱿鱼。[/div][br /][div class="name q1"]烤鱿鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的敏捷将提高10点，持续10分钟。[/div][br /][div]需要: 冬鱿鱼(1) [/div]售价: [span class="si-gold"]1[/span][span class="si-silver"]60[/span]
+</code>
+<sold-by>
+<npc id="8137" />
+</sold-by>
+</item>
+<item id="13943" icon="inv_scroll_03" quality="1">
+<name>食谱：烟熏鲈鱼</name>
+<code>
+[div class="name q1"]食谱：烟熏鲈鱼[/div][div]需要 烹饪 (240)[/div][div]使用: 教你学会烹制烟熏鲈鱼。[/div][br /][div class="name q1"]烟熏鲈鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。另外你的精神也将提高10点，持续10分钟。[/div][br /][div]需要: 新鲜的夏日鲈鱼(1) [/div]售价: [span class="si-gold"]1[/span][span class="si-silver"]60[/span]
+</code>
+<sold-by>
+<npc id="2664" />
+</sold-by>
+</item>
+<item id="13945" icon="inv_scroll_03" quality="1">
+<name>食谱：夜鳞鱼汤</name>
+<code>
+[div class="name q1"]食谱：夜鳞鱼汤[/div][div]需要 烹饪 (250)[/div][div]使用: 教你学会烹制夜鳞鱼汤。[/div][br /][div class="name q1"]夜鳞鱼汤[/div][div]需要等级 35[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。另外你也将获得每5秒回复10点法力值的效果，持续10分钟。[/div][br /][div]需要: 新鲜的夜鳞鲷鱼(1) 清凉的泉水(1) [/div]售价: [span class="si-gold"]2[/span]
+</code>
+<sold-by>
+<npc id="8137" />
+</sold-by>
+</item>
+<item id="13946" icon="inv_scroll_03" quality="1">
+<name>食谱：水煮阳鳞鲑鱼</name>
+<code>
+[div class="name q1"]食谱：水煮阳鳞鲑鱼[/div][div]需要 烹饪 (250)[/div][div]使用: 教你学会烹制水煮阳鳞鲑鱼。[/div][br /][div class="name q1"]水煮阳鳞鲑鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。另外你也将获得每5秒回复6点生命值的效果，持续10分钟。[/div][br /][div]需要: 新鲜的阳鳞鲑鱼(1) [/div]售价: [span class="si-gold"]2[/span]
+</code>
+<sold-by>
+<npc id="8137" />
+</sold-by>
+</item>
+<item id="13947" icon="inv_scroll_03" quality="1">
+<name>食谱：炖龙虾</name>
+<code>
+[div class="name q1"]食谱：炖龙虾[/div][div]需要 烹饪 (275)[/div][div]使用: 教你学会烹制炖龙虾。[/div][br /][div class="name q1"]炖龙虾[/div][div]需要等级 45[/div][div class="q2"]使用: 在30秒内恢复总计2148点生命值，进食时必须保持坐姿。[/div][br /][div]需要: 黑爪龙虾(1) 清凉的泉水(1) [/div]售价: [span class="si-gold"]2[/span]
+</code>
+<sold-by>
+<npc id="7947" />
+<npc id="8145" />
+</sold-by>
+</item>
+<item id="13948" icon="inv_scroll_03" quality="1">
+<name>食谱：大鱼片</name>
+<code>
+[div class="name q1"]食谱：大鱼片[/div][div]需要 烹饪 (275)[/div][div]使用: 教你学会烹制大鱼片。[/div][br /][div class="name q1"]大鱼片[/div][div]需要等级 45[/div][div class="q2"]使用: 在30秒内恢复总计4320点生命值，进食时必须保持坐姿。另外你的耐力也将提高10点，持续10分钟。[/div][br /][div]需要: 新鲜的大鱼(1) [/div]售价: [span class="si-gold"]2[/span]
+</code>
+<sold-by>
+<npc id="7947" />
+<npc id="8145" />
+</sold-by>
+</item>
+<item id="13949" icon="inv_scroll_03" quality="1">
+<name>食谱：烤鲑鱼</name>
+<code>
+[div class="name q1"]食谱：烤鲑鱼[/div][div]需要 烹饪 (275)[/div][div]使用: 教你学会烹制烤鲑鱼。[/div][br /][div class="name q1"]烤鲑鱼[/div][div]需要等级 45[/div][div class="q2"]使用: 在30秒内恢复总计2148点生命值，进食时必须保持坐姿。[/div][br /][div]需要: 新鲜的白鳞鲑鱼(1) [/div]售价: [span class="si-gold"]2[/span]
+</code>
+<sold-by>
+<npc id="7947" />
+<npc id="8145" />
+</sold-by>
+</item>
+<item id="16110" icon="inv_scroll_03" quality="1">
+<name>食谱：超级煎蛋卷</name>
+<code>
+[div class="name q1"]食谱：超级煎蛋卷[/div][div]需要 烹饪 (225)[/div][div]使用: 教你学会烹制超级煎蛋卷。[/div][br /][div class="name q1"]超级煎蛋卷[/div][div]需要等级 40[/div][div class="q2"]使用: 在30秒内恢复总计1392点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高12点，持续15分钟。[/div][br /][div]需要: 巨蛋(1) [/div]售价: [span class="si-gold"]1[/span][span class="si-silver"]20[/span]
+</code>
+<sold-by>
+<npc id="2803" />
+<npc id="2806" />
+<npc id="11187" />
+</sold-by>
+</item>
+<item id="16111" icon="inv_scroll_03" quality="1">
+<name>食谱：辣椒蟹肉</name>
+<code>
+[div class="name q1"]食谱：辣椒蟹肉[/div][div]需要 烹饪 (225)[/div][div]使用: 教你学会烹制辣椒蟹肉。[/div][br /][div class="name q1"]辣椒蟹肉[/div][div]需要等级 40[/div][div class="q2"]使用: 在30秒内恢复总计1392点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高12点，持续15分钟。[/div][br /][div]需要: 嫩螃蟹肉(1) [/div]售价: [span class="si-gold"]1[/span][span class="si-silver"]20[/span]
+</code>
+<sold-by>
+<npc id="989" />
+<npc id="1149" />
+<npc id="4305" />
+</sold-by>
+</item>
+<item id="16767" icon="inv_scroll_03" quality="1">
+<name>食谱：安德麦蚌肉杂烩</name>
+<code>
+[div class="name q1"]食谱：安德麦蚌肉杂烩[/div][div]需要 烹饪 (225)[/div][div]使用: 教你学会烹制安德麦蚌肉杂烩。[/div][br /][div class="name q1"]安德麦蚌肉杂烩[/div][div]需要等级 35[/div][div class="q2"]使用: 在30秒内恢复总计1392点生命值，进食时必须保持坐姿。[/div][br /][div]需要: 美味的蚌肉(2) [/div]售价: [span class="si-silver"]30[/span]
+</code>
+<sold-by>
+<npc id="8139" count="1" />
+</sold-by>
+</item>
+<item id="17062" icon="inv_scroll_03" quality="1">
+<name>食谱：银头鲑鱼</name>
+<code>
+[div class="name q1"]食谱：银头鲑鱼[/div][div]需要 烹饪 (175)[/div][div]使用: 教你学会烹制银头鲑鱼。[/div][br /][div class="name q1"]银头鲑鱼[/div][div]需要等级 25[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。[/div][br /][div]需要: 新鲜的银头鲑鱼(1) [/div]售价: [span class="si-silver"]22[/span]
+</code>
+<sold-by>
+<npc id="2383" />
+<npc id="2664" />
+<npc id="3178" />
+<npc id="3333" />
+<npc id="4307" />
+<npc id="4574" />
+<npc id="5162" />
+<npc id="12033" />
+<npc id="12962" />
+</sold-by>
+</item>
+<item id="17200" icon="inv_scroll_03" quality="1">
+<name>食谱：小姜饼</name>
+<code>
+[div class="name q1"]食谱：小姜饼[/div][div]需要 烹饪 (1)[/div][div]使用: 教你学会烹制小姜饼。[/div][br /][div class="name q1"]姜饼[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高2点，持续15分钟。[/div][br /][div]需要: 小蛋(1) 节日香料(1) [/div]售价: [span class="si-copper"]25[/span]
+</code>
+<sold-by>
+<npc id="13420" />
+<npc id="13429" />
+<npc id="13432" />
+<npc id="13433" />
+<npc id="13435" />
+<npc id="23010" />
+<npc id="23012" />
+<npc id="23064" />
+</sold-by>
+</item>
+<item id="17201" icon="inv_scroll_03" quality="1">
+<name>食谱：蛋奶酒</name>
+<code>
+[div class="name q1"]食谱：蛋奶酒[/div][div]需要 烹饪 (35)[/div][div]使用: 教你学会制作蛋奶酒。[/div][br /][div class="name q1"]蛋奶酒[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，饮用时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高2点，持续15分钟，而且会让你觉得很刺激……[/div][br /][div]需要: 小蛋(1) 冰镇牛奶(1) 节日美酒(1) 节日香料(1) [/div]售价: [span class="si-silver"]2[/span][span class="si-copper"]40[/span]
+</code>
+<sold-by>
+<npc id="13420" />
+<npc id="13429" />
+<npc id="13432" />
+<npc id="13433" />
+<npc id="13435" />
+<npc id="23010" />
+<npc id="23012" />
+<npc id="23064" />
+</sold-by>
+</item>
+<item id="18046" icon="inv_scroll_03" quality="1">
+<name>食谱：嫩狼肉排</name>
+<code>
+[div class="name q1"]食谱：嫩狼肉排[/div][div]需要 烹饪 (225)[/div][div]使用: 教你学会烹制嫩狼肉排。[/div][br /][div class="name q1"]嫩狼肉排[/div][div]需要等级 40[/div][div class="q2"]使用: 在30秒内恢复总计1392点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高12点，持续15分钟。[/div][br /][div]需要: 嫩狼肉(1) [/div]售价: [span class="si-gold"]1[/span][span class="si-silver"]20[/span]
+</code>
+<sold-by>
+<npc id="4782" />
+<npc id="7733" />
+<npc id="8125" />
+</sold-by>
+</item>
+<item id="18160" icon="inv_scroll_03" quality="2">
+<name>食谱：菊花茶</name>
+<code>
+[div class="name q2"]食谱：菊花茶[/div][div]拾取后绑定[/div][div]需要 烹饪 (60)[/div][div]使用: 教你学会烹制菊花茶。[/div][br /][div class="name q1"]菊花茶[/div][div]职业: 潜行者[/div][div]需要等级 5[/div][div class="q2"]使用: 当你的角色等级不高于40时，可以立即恢复100点能量值。之后每一级减少2点能量值。[/div][br /][div]需要: 雨燕草(1) 清凉的泉水(1) [/div]售价: [span class="si-silver"]2[/span]
+</code>
+<sold-by>
+<npc id="6779" />
+</sold-by>
+<reward-from>
+<quest id="2359" />
+<quest id="2478" />
+</reward-from>
+</item>
+<item id="18267" icon="inv_scroll_03" quality="2">
+<name>食谱：洛恩塔姆薯块</name>
+<code>
+[div class="name q2"]食谱：洛恩塔姆薯块[/div][div]拾取后绑定[/div][div]需要 烹饪 (275)[/div][div]使用: 教你学会烹制洛恩塔姆薯块。[/div][br /][div class="name q1"]洛恩塔姆薯块[/div][div]需要等级 45[/div][div class="q2"]使用: 在27秒内恢复总计1933点生命值，进食时必须保持坐姿。另外你的智力也将提高10点，持续10分钟。[/div][br /][div]需要: 洛恩塔姆地薯(1) [/div]
+</code>
+<dropped-by>
+<npc id="14354" rate="9081/9081" />
+</dropped-by>
+</item>
+<item id="20075" icon="inv_scroll_03" quality="1">
+<name>食谱：鳄鱼炖肉</name>
+<code>
+[div class="name q1"]食谱：鳄鱼炖肉[/div][div]需要 烹饪 (150)[/div][div]使用: 教你学会烹制鳄鱼炖肉。[/div][br /][div class="name q1"]鳄鱼炖肉[/div][div]需要等级 20[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高8点，持续15分钟。[/div][br /][div]需要: 嫩鳄鱼肉(2) [/div]售价: [span class="si-silver"]20[/span]
+</code>
+<sold-by>
+<npc id="4879" />
+</sold-by>
+</item>
+<item id="21025" icon="inv_misc_book_02" quality="4">
+<name>食谱：迪尔格的超美味奇美拉肉片</name>
+<code>
+[div class="name q4"]食谱：迪尔格的超美味奇美拉肉片[/div][div]唯一[/div][div]需要 烹饪 (300)[/div][div]使用: 教你学会烹制迪尔格的超美味奇美拉肉片。[/div][br /][div class="name q1"]迪尔格的超美味奇美拉肉片[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复4320点生命值，进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得25点耐力的加成，持续15分钟。[/div][br /][div]需要: 地精火箭燃油(1) 石中盐(1) 奇美洛克的腰肋肉(1) [/div]
+</code>
+<reward-from>
+<quest id="8586" />
+</reward-from>
+</item>
+<item id="21099" icon="inv_scroll_03" quality="1">
+<name>食谱：烤鼠尾鱼</name>
+<code>
+[div class="name q1"]食谱：烤鼠尾鱼[/div][div]需要 烹饪 (80)[/div][div]使用: 教你学会烹制烤鼠尾鱼。[/div][br /][div class="name q1"]烤鼠尾鱼[/div][div]需要等级 10[/div][div class="q2"]使用: 在21秒内恢复378点生命值和567点法力值。进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得每5秒回复4点法力值的效果，持续15分钟。[/div][br /][div]需要: 新鲜的鼠尾鱼(1) [/div]售价: [span class="si-silver"]5[/span]
+</code>
+<sold-by>
+<npc id="2381" />
+<npc id="2397" />
+<npc id="2664" />
+<npc id="3027" />
+<npc id="3085" />
+<npc id="3400" />
+<npc id="4223" />
+<npc id="4265" />
+<npc id="4553" />
+<npc id="5160" />
+<npc id="5483" />
+<npc id="8307" />
+<npc id="12033" />
+<npc id="14738" />
+<npc id="16253" />
+<npc id="16677" />
+<npc id="16718" />
+<npc id="17246" />
+<npc id="19195" />
+<npc id="26868" />
+</sold-by>
+</item>
+<item id="21219" icon="inv_scroll_03" quality="1">
+<name>食谱：美味鼠尾鱼</name>
+<code>
+[div class="name q1"]食谱：美味鼠尾鱼[/div][div]需要 烹饪 (175)[/div][div]使用: 教你学会烹制美味鼠尾鱼。[/div][br /][div class="name q1"]美味鼠尾鱼[/div][div]需要等级 30[/div][div class="q2"]使用: 在21秒内恢复840点生命值和1260点法力值。进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得每5秒回复8点法力值的效果，持续15分钟。[/div][br /][div]需要: 新鲜的大鼠尾鱼(1) [/div]售价: [span class="si-silver"]50[/span]
+</code>
+<sold-by>
+<npc id="2381" />
+<npc id="2397" />
+<npc id="2664" />
+<npc id="3027" />
+<npc id="3085" />
+<npc id="3400" />
+<npc id="4223" />
+<npc id="4265" />
+<npc id="4553" />
+<npc id="5160" />
+<npc id="5483" />
+<npc id="8307" />
+<npc id="12033" />
+<npc id="14738" />
+<npc id="16253" />
+<npc id="16677" />
+<npc id="16718" />
+<npc id="17246" />
+<npc id="19195" />
+<npc id="26868" />
+</sold-by>
+</item>
+<item id="22647" icon="inv_scroll_03" quality="1">
+<name>食谱：松脆蜘蛛</name>
+<code>
+[div class="name q1"]食谱：松脆蜘蛛[/div][div]需要 烹饪 (60)[/div][div]使用: 教你学会烹制松脆蜘蛛。[/div][br /][div class="name q1"]松脆蜘蛛[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高4点，持续15分钟。[/div][br /][div]需要: 松脆蜘蛛腿(1) [/div]售价: [span class="si-silver"]4[/span]
+</code>
+<sold-by>
+<npc id="16253" />
+<npc id="18427" />
+</sold-by>
+<reward-from>
+<quest id="9171" />
+</reward-from>
+</item>
+<item id="27684" icon="inv_scroll_03" quality="1">
+<name>食谱：美味秃鹫</name>
+<code>
+[div class="name q1"]食谱：美味秃鹫[/div][div]需要 烹饪 (300)[/div][div]使用: 教你学会烹制美味秃鹫。[/div][br /][div class="name q1"]美味秃鹫[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计4320点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高20点，持续30分钟。[/div][br /][div]需要: 秃鹰肉(1) [/div]
+</code>
+<reward-from>
+<quest id="9356" />
+</reward-from>
+</item>
+<item id="27685" icon="inv_scroll_03" quality="1">
+<name>食谱：山猫肉排</name>
+<code>
+[div class="name q1"]食谱：山猫肉排[/div][div]需要 烹饪 (1)[/div][div]使用: 教你学会烹制山猫肉排。[/div][br /][div class="name q1"]山猫肉排[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高2点，持续15分钟。[/div][br /][div]需要: 山猫肉(1) [/div]售价: [span class="si-copper"]40[/span]
+</code>
+<sold-by>
+<npc id="16262" />
+</sold-by>
+</item>
+<item id="27686" icon="inv_scroll_03" quality="1">
+<name>食谱：月痕鹿腰肉</name>
+<code>
+[div class="name q1"]食谱：月痕鹿腰肉[/div][div]需要 烹饪 (1)[/div][div]使用: 教你学会烹制月痕鹿腰肉。[/div][br /][div class="name q1"]月痕鹿腰肉[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高2点，持续15分钟。[/div][br /][div]需要: 月痕鹿的嫩腰肉(1) [/div]
+</code>
+<reward-from>
+<quest id="9454" />
+</reward-from>
+</item>
+<item id="27687" icon="inv_scroll_03" quality="1">
+<name>食谱：美味蝙蝠</name>
+<code>
+[div class="name q1"]食谱：美味蝙蝠[/div][div]需要 烹饪 (50)[/div][div]使用: 教你学会烹制美味蝙蝠。[/div][br /][div class="name q1"]美味蝙蝠[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高4点，持续15分钟。[/div][br /][div]需要: 蝙蝠肉(1) [/div]售价: [span class="si-silver"]4[/span]
+</code>
+<sold-by>
+<npc id="16253" />
+</sold-by>
+</item>
+<item id="27688" icon="inv_scroll_03" quality="1">
+<name>食谱：掠食者热狗</name>
+<code>
+[div class="name q1"]食谱：掠食者热狗[/div][div]需要 烹饪 (300)[/div][div]使用: 教你学会烹制掠食者热狗。[/div][br /][div class="name q1"]掠食者热狗[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计4320点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的攻击强度将提高40点，精神将提高20点，持续30分钟。[/div][div class="q"]"不要问这东西是用什么做成的……"[/div][br /][div]需要: 掠食者的肉(1) [/div]售价: [span class="si-gold"]2[/span]
+</code>
+<sold-by>
+<npc id="16585" />
+<npc id="16826" />
+</sold-by>
+</item>
+<item id="27689" icon="inv_scroll_03" quality="2">
+<name>食谱：孢子小吃</name>
+<code>
+[div class="name q2"]食谱：孢子小吃[/div][div]需要 烹饪 (310)[/div][div]使用: 教你学会烹制孢子小吃。[/div][br /][div class="name q1"]孢子小吃[/div][div]需要等级 55[/div][div class="q2"]使用: 使你的宠物的耐力和精神提高20点，持续30分钟。[/div][div class="q"]"宠物们最喜欢孢子小吃了！"[/div][br /][div]需要: 奇怪的孢子(1) [/div]售价: 亮顶蘑菇 (2)
+</code>
+<sold-by>
+<npc id="18382" />
+</sold-by>
+</item>
+<item id="27690" icon="inv_scroll_03" quality="1">
+<name>食谱：烟熏蜥蜴</name>
+<code>
+[div class="name q1"]食谱：烟熏蜥蜴[/div][div]需要 烹饪 (315)[/div][div]使用: 教你学会烹制烟熏蜥蜴。[/div][br /][div class="name q1"]烟熏蜥蜴[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的法术强度将提高23点，精神将提高20点，持续30分钟。[/div][div class="q"]"无上的美食！"[/div][br /][div]需要: 蜥蜴肉块(1) [/div]售价: [span class="si-gold"]3[/span]
+</code>
+<sold-by>
+<npc id="18957" />
+<npc id="19038" />
+</sold-by>
+</item>
+<item id="27691" icon="inv_scroll_03" quality="1">
+<name>食谱：烧烤裂蹄牛</name>
+<code>
+[div class="name q1"]食谱：烧烤裂蹄牛[/div][div]需要 烹饪 (325)[/div][div]使用: 教你学会烹制烧烤裂蹄牛。[/div][br /][div class="name q1"]烧烤裂蹄牛[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的力量和精神都将提高20点，持续30分钟。[/div][br /][div]需要: 裂蹄牛肉(1) [/div]售价: [span class="si-gold"]3[/span]
+</code>
+<sold-by>
+<npc id="20096" />
+<npc id="20097" />
+</sold-by>
+</item>
+<item id="27692" icon="inv_scroll_03" quality="1">
+<name>食谱：迁跃兽汉堡</name>
+<code>
+[div class="name q1"]食谱：迁跃兽汉堡[/div][div]需要 烹饪 (325)[/div][div]使用: 教你学会烹制迁跃兽汉堡。[/div][br /][div class="name q1"]迁跃兽汉堡[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的敏捷和精神都将提高20点，持续30分钟。[/div][br /][div]需要: 迁跃兽肉(1) [/div]售价: [span class="si-gold"]3[/span]
+</code>
+<sold-by>
+<npc id="18957" />
+<npc id="19038" />
+</sold-by>
+</item>
+<item id="27693" icon="inv_scroll_03" quality="1">
+<name>食谱：塔布肉排</name>
+<code>
+[div class="name q1"]食谱：塔布肉排[/div][div]需要 烹饪 (325)[/div][div]使用: 教你学会烹制塔布肉排。[/div][br /][div class="name q1"]塔布肉排[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高20点，持续30分钟。[/div][br /][div]需要: 塔布羊肉(1) [/div]售价: [span class="si-gold"]3[/span]
+</code>
+<sold-by>
+<npc id="20096" />
+<npc id="20097" />
+</sold-by>
+</item>
+<item id="27694" icon="inv_scroll_03" quality="1">
+<name>食谱：烟熏鲑鱼</name>
+<code>
+[div class="name q1"]食谱：烟熏鲑鱼[/div][div]需要 烹饪 (300)[/div][div]使用: 教你学会烹制烟熏鲑鱼。[/div][br /][div class="name q1"]烟熏鲑鱼[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计4320点生命值，进食时必须保持坐姿。[/div][br /][div]需要: 刺鳃鲑鱼(1) [/div]售价: [span class="si-gold"]2[/span]
+</code>
+<sold-by>
+<npc id="18015" />
+<npc id="20028" />
+</sold-by>
+</item>
+<item id="27695" icon="inv_scroll_03" quality="1">
+<name>食谱：美味魔尾鱼</name>
+<code>
+[div class="name q1"]食谱：美味魔尾鱼[/div][div]需要 烹饪 (300)[/div][div]使用: 教你学会烹制美味魔尾鱼。[/div][br /][div class="name q1"]美味魔尾鱼[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计4320点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高20点，持续30分钟。[/div][br /][div]需要: 斑点魔尾鱼(1) [/div]售价: [span class="si-gold"]2[/span]
+</code>
+<sold-by>
+<npc id="18011" />
+<npc id="20028" />
+</sold-by>
+</item>
+<item id="27696" icon="inv_scroll_03" quality="1">
+<name>食谱：烟熏孢子鱼</name>
+<code>
+[div class="name q1"]食谱：烟熏孢子鱼[/div][div]需要 烹饪 (310)[/div][div]使用: 教你学会烹制烟熏孢子鱼。[/div][br /][div class="name q1"]烟熏孢子鱼[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计4320点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力将提高20点，每5秒回复法力值提高10点，持续30分钟。[/div][br /][div]需要: 赞加孢子鱼(1) [/div]售价: [span class="si-gold"]2[/span]
+</code>
+<sold-by>
+<npc id="18911" />
+</sold-by>
+</item>
+<item id="27697" icon="inv_scroll_03" quality="1">
+<name>食谱：烤泥鱼</name>
+<code>
+[div class="name q1"]食谱：烤泥鱼[/div][div]需要 烹饪 (320)[/div][div]使用: 教你学会烹制烤泥鱼。[/div][br /][div class="name q1"]烤泥鱼[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的敏捷和精神都将提高20点，持续30分钟。[/div][br /][div]需要: 菲格鲁泥鱼(1) [/div]售价: [span class="si-gold"]3[/span]
+</code>
+<sold-by>
+<npc id="20096" />
+<npc id="20097" />
+</sold-by>
+</item>
+<item id="27698" icon="inv_scroll_03" quality="1">
+<name>食谱：水煮蓝鱼</name>
+<code>
+[div class="name q1"]食谱：水煮蓝鱼[/div][div]需要 烹饪 (320)[/div][div]使用: 教你学会烹制水煮蓝鱼。[/div][br /][div class="name q1"]水煮蓝鱼[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的法术强度将提高23点，精神将提高20点，持续30分钟。[/div][br /][div]需要: 冰鳞蓝鱼(1) [/div]售价: [span class="si-gold"]3[/span]
+</code>
+<sold-by>
+<npc id="20096" />
+<npc id="20097" />
+</sold-by>
+</item>
+<item id="27699" icon="inv_scroll_03" quality="1">
+<name>食谱：金色鱼柳</name>
+<code>
+[div class="name q1"]食谱：金色鱼柳[/div][div]需要 烹饪 (325)[/div][div]使用: 教你学会烹制金色鱼柳。[/div][br /][div class="name q1"]金色鱼柳[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的法术强度将提高23点，精神将提高20点，持续30分钟。[/div][br /][div]需要: 金镖鱼(1) [/div]售价: [span class="si-gold"]3[/span]
+</code>
+<sold-by>
+<npc id="18960" />
+<npc id="19296" />
+</sold-by>
+</item>
+<item id="27700" icon="inv_scroll_03" quality="1">
+<name>食谱：香辣小龙虾</name>
+<code>
+[div class="name q1"]食谱：香辣小龙虾[/div][div]需要 烹饪 (350)[/div][div]使用: 教你学会烹制香辣小龙虾。[/div][br /][div class="name q1"]香辣小龙虾[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力将提高30点，精神将提高20点，持续30分钟。[/div][br /][div]需要: 狂暴龙虾(1) [/div]售价: [span class="si-gold"]3[/span]
+</code>
+<sold-by>
+<npc id="18960" />
+<npc id="19296" />
+</sold-by>
+</item>
+<item id="30156" icon="inv_scroll_03" quality="1">
+<name>食谱：蚌柳</name>
+<code>
+[div class="name q1"]食谱：蚌柳[/div][div]需要 烹饪 (300)[/div][div]使用: 怎么可能有一种食品看起来这么恶心，吃起来却如此美味？！[/div][br /][div class="name q1"]蚌柳[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计4320点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高20点，持续30分钟。[/div][div class="q"]"美味多汁！"[/div][br /][div]需要: 裂开的蚌肉(2) [/div]售价: 亮顶蘑菇 (1)
+</code>
+<sold-by>
+<npc id="18382" />
+</sold-by>
+</item>
+<item id="31674" icon="inv_scroll_03" quality="1">
+<name>食谱：香脆蛇</name>
+<code>
+[div class="name q1"]食谱：香脆蛇[/div][div]拾取后绑定[/div][div]需要 烹饪 (335)[/div][div]使用: 教你学会烹制香脆蛇。[/div][br /][div class="name q1"]香脆蛇[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的法术强度将提高23点，精神将提高20点，持续30分钟。[/div][br /][div]需要: 蛇肉(1) [/div]售价: [span class="si-gold"]3[/span]
+</code>
+<sold-by>
+<npc id="20916" count="1" />
+<npc id="21113" />
+</sold-by>
+<reward-from>
+<quest id="10860" />
+</reward-from>
+</item>
+<item id="31675" icon="inv_scroll_03" quality="1">
+<name>食谱：莫克纳萨肋排</name>
+<code>
+[div class="name q1"]食谱：莫克纳萨肋排[/div][div]拾取后绑定[/div][div]需要 烹饪 (335)[/div][div]使用: 教你学会烹制莫克纳萨肋排。[/div][br /][div class="name q1"]莫克纳萨肋排[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的耐力和精神都将提高20点，持续30分钟。[/div][br /][div]需要: 迅猛龙肋排(1) [/div]售价: [span class="si-gold"]3[/span]
+</code>
+<sold-by>
+<npc id="20916" count="1" />
+<npc id="21113" />
+</sold-by>
+<reward-from>
+<quest id="10860" />
+</reward-from>
+</item>
+<item id="33869" icon="inv_scroll_06" quality="2">
+<name>食谱：烤血鳞鱼</name>
+<code>
+[div class="name q2"]食谱：烤血鳞鱼[/div][div]拾取后绑定[/div][div]需要 烹饪 (300)[/div][div]使用: 教你学会烹制烤血鳞鱼。[/div][br /][div class="name q1"]烤血鳞鱼[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计4320点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你对所有魔法的抗性都将提高8点，持续30分钟。[/div][br /][div]需要: 血鳞鲶鱼(1) [/div]
+</code>
+<contained-in>
+<item id="33844" rate="2203/34003" />
+</contained-in>
+</item>
+<item id="33870" icon="inv_scroll_06" quality="2">
+<name>食谱：骨鱼汤</name>
+<code>
+[div class="name q2"]食谱：骨鱼汤[/div][div]拾取后绑定[/div][div]需要 烹饪 (325)[/div][div]使用: 教你学会烹制骨鱼汤。[/div][br /][div class="name q1"]骨鱼汤[/div][div]需要等级 65[/div][div class="q2"]使用: 在30秒内恢复7200点法力值。饮水时必须保持坐姿。如果你花费至少10秒来饮水，你将获得启迪效果，精神值和爆击等级提高20，持续30分钟。[/div][br /][div]需要: 弯尾骨鱼(1) [/div]
+</code>
+<contained-in>
+<item id="33844" rate="2166/34003" />
+</contained-in>
+</item>
+<item id="33871" icon="inv_scroll_05" quality="3">
+<name>食谱：风暴牛排</name>
+<code>
+[div class="name q3"]食谱：风暴牛排[/div][div]拾取后绑定[/div][div]需要 烹饪 (300)[/div][div]使用: 教你学会烹制风暴牛排。[/div][br /][div class="name q1"]风暴牛排[/div][div]需要等级 55[/div][div class="q2"]使用: 使你获得闪电的力量，在接下来的30分钟内会偶然对敌人释放闪电。[/div][br /][div]需要: 裂蹄牛肉(1) 电鳗(1) [/div]
+</code>
+<contained-in>
+<item id="33857" rate="829/41643" />
+<item id="33844" rate="551/34003" />
+<item id="44113" rate="2384/507895" />
+</contained-in>
+</item>
+<item id="33873" icon="inv_scroll_06" quality="2">
+<name>食谱：热辣塔布羊排</name>
+<code>
+[div class="name q2"]食谱：热辣塔布羊排[/div][div]拾取后绑定[/div][div]需要 烹饪 (325)[/div][div]使用: 教你学会烹制热辣塔布羊排。[/div][br /][div class="name q1"]热辣塔布羊排[/div][div]需要等级 65[/div][div class="q2"]使用: 在30秒内恢复7500点生命值。进食时必须保持坐姿。如果你花费至少10秒来进食，你将获得进食充分效果，精神值和命中等级提高20，持续30分钟。[/div][br /][div]需要: 塔布羊肉(1) [/div]
+</code>
+<contained-in>
+<item id="33857" rate="2548/41643" />
+</contained-in>
+</item>
+<item id="33875" icon="inv_scroll_06" quality="2">
+<name>食谱：金布勒宠物食品</name>
+<code>
+[div class="name q2"]食谱：金布勒宠物食品[/div][div]拾取后绑定[/div][div]需要 烹饪 (300)[/div][div]使用: 教你学会烹制金布勒宠物食品。[/div][br /][div class="name q1"]金布勒宠物食品[/div][div]需要等级 55[/div][div class="q2"]使用: 使你的宠物的力量和耐力提高20点，持续60分钟。[/div][div class="q"]"爱宠佳肴，猎人认证。"[/div][br /][div]需要: 秃鹰肉(1) [/div]
+</code>
+<contained-in>
+<item id="33857" rate="1449/41643" />
+<item id="33844" rate="911/34003" />
+</contained-in>
+</item>
+<item id="33925" icon="inv_scroll_05" quality="3">
+<name>食谱：美味巧克力蛋糕</name>
+<code>
+[div class="name q3"]食谱：美味巧克力蛋糕[/div][div]拾取后绑定[/div][div]需要 烹饪 (1)[/div][div]使用: 教你学会烘焙美味巧克力蛋糕。[/div][br /][div class="name q1"]美味巧克力蛋糕[/div][div class="q2"]使用: 如果你花费至少5秒来进食，你将会变得非常快乐，持续60分钟。[/div][br /][div]需要: 面粉(8) 冰镇牛奶(4) 甜香料(4) 小蛋(8) 波尔多酒(1) 魔皇草(3) [/div]
+</code>
+<contained-in>
+<item id="33857" rate="609/41643" />
+<item id="33844" rate="400/34003" />
+<item id="44113" rate="3131/507895" />
+</contained-in>
+</item>
+<item id="34413" icon="inv_scroll_03" quality="1">
+<name>食谱：热苹果酒</name>
+<code>
+[div class="name q1"]食谱：热苹果酒[/div][div]拾取后绑定[/div][div]需要 烹饪 (325)[/div][div]使用: 教你学会酿制热苹果酒。[/div][br /][div class="name q1"]热苹果酒[/div][div]需要等级 65[/div][div class="q2"]使用: 在30秒内恢复7200点法力值。饮水时必须保持坐姿。如果你花费至少10秒来饮水，你将获得进食充分效果，耐力和精神提高20点，持续30分钟。普通的酒精饮料。[/div][br /][div]需要: 气泡苹果酒(1) 节日美酒(1) 节日香料(1) [/div]售价: [span class="si-gold"]1[/span]
+</code>
+<sold-by>
+<npc id="13420" />
+<npc id="13433" />
+</sold-by>
+</item>
+<item id="34834" icon="inv_scroll_06" quality="2">
+<name>食谱：拉姆瑟船长的特酿啤酒</name>
+<code>
+[div class="name q2"]食谱：拉姆瑟船长的特酿啤酒[/div][div]拾取后绑定[/div][div]需要 烹饪 (100)[/div][div]使用: 教你学会酿制拉姆瑟船长的特酿啤酒。[/div][br /][div class="name q1"]拉姆瑟船长的特酿啤酒[/div][div class="q2"]使用: 使你微醉，钓鱼技能提高10点，持续3分钟。[/div][br /][div]需要: 矮人烈酒(1) 壶装蜜酒(1) [/div]
+</code>
+<contained-in>
+<item id="35348" rate="567/31020" />
+<item id="34863" rate="1193/65269" />
+<item id="46007" rate="1428/234966" />
+<item id="44113" rate="1789/507895" />
+</contained-in>
+</item>
+<item id="35564" icon="inv_scroll_03" quality="1">
+<name>食谱：熊肉串烧</name>
+<code>
+[div class="name q1"]食谱：熊肉串烧[/div][div]需要 烹饪 (250)[/div][div]使用: 教你学会烹制熊肉串烧。[/div][br /][div class="name q1"]熊肉串烧[/div][div]需要等级 45[/div][div class="q2"]使用: 在27秒内恢复总计1933点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的攻击强度将提高24点，持续15分钟。[/div][br /][div]需要: 熊腰肉(1) [/div]售价: [span class="si-gold"]1[/span][span class="si-silver"]80[/span]
+</code>
+<sold-by>
+<npc id="2803" />
+<npc id="2806" />
+</sold-by>
+</item>
+<item id="35566" icon="inv_scroll_03" quality="1">
+<name>食谱：多汁熊肉汉堡</name>
+<code>
+[div class="name q1"]食谱：多汁熊肉汉堡[/div][div]需要 烹饪 (250)[/div][div]使用: 教你学会烹制多汁熊肉汉堡。[/div][br /][div class="name q1"]多汁熊肉汉堡[/div][div]需要等级 45[/div][div class="q2"]使用: 在27秒内恢复总计1933点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的法术强度将提高14点，持续15分钟。[/div][br /][div]需要: 熊腰肉(1) [/div]售价: [span class="si-gold"]1[/span][span class="si-silver"]80[/span]
+</code>
+<sold-by>
+<npc id="2803" />
+<npc id="2806" />
+</sold-by>
+</item>
+<item id="43017" icon="inv_scroll_06" quality="2">
+<name>食谱：鱼肉筵席</name>
+<code>
+[span class="name q2"]食谱：鱼肉筵席[/span][br /]拾取后绑定[br /]需要烹饪 (450)[br /][span class="q2"]使用:  教你学会烹制鱼肉筵席。[/span][br /][br /][div][span class="name q1"]鱼肉筵席[/span][br /]需要等级 70[br /]需要烹饪 (425)[br /][span class="q2"]使用: 摆放一桌筵席，供你的队友大快朵颐！在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟进食，还可以获得进食充分效果，攻击强度提高80点，法术强度提高46点，耐力提高40点，持续60分钟。[/span][/div][br /]需要: 蚌背鱼(2) 冰河鲑鱼(2) 水母(2) 北地香料(1)[br /]售价: 达拉然烹饪奖牌(5)
+</code>
+<sold-by>
+<npc id="31031" />
+<npc id="31032" />
+<npc id="33595" />
+</sold-by>
+</item>
+<item id="43018" icon="inv_scroll_06" quality="2">
+<name>食谱：猛犸肉大餐</name>
+<code>
+[div class="name q2"]食谱：猛犸肉大餐[/div][div]拾取后绑定[/div][div]需要 烹饪 (400)[/div][div]使用: 教你学会烹制猛犸肉大餐。[/div][br /][div class="name q1"]猛犸肉大餐[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值。如果你花费至少10秒钟来进食，你的攻击强度将提高80点，耐力将提高40点，持续60分钟。[/div][br /][div]需要: 猛犸肉(2) 北地香料(1) [/div]售价: 达拉然烹饪奖牌(3)
+</code>
+<sold-by>
+<npc id="31031" />
+<npc id="31032" />
+<npc id="33595" />
+</sold-by>
+</item>
+<item id="43019" icon="inv_scroll_06" quality="2">
+<name>食谱：香嫩铲齿鹿排</name>
+<code>
+[div class="name q2"]食谱：香嫩铲齿鹿排[/div][div]拾取后绑定[/div][div]需要 烹饪 (400)[/div][div]使用: 教你学会烹制香嫩铲齿鹿排。[/div][br /][div class="name q1"]香嫩铲齿鹿排[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值。如果你花费至少10秒钟来进食，你的法术强度将提高46点，耐力将提高40点，持续60分钟。[/div][br /][div]需要: 铲齿鹿肋排(2) 北地香料(1) [/div]售价: 达拉然烹饪奖牌(3)
+</code>
+<sold-by>
+<npc id="31031" />
+<npc id="31032" />
+<npc id="33595" />
+</sold-by>
+</item>
+<item id="43020" icon="inv_scroll_06" quality="2">
+<name>食谱：香辣虫肉汉堡</name>
+<code>
+[div class="name q2"]食谱：香辣虫肉汉堡[/div][div]拾取后绑定[/div][div]需要 烹饪 (400)[/div][div]使用: 教你学会烹制香辣虫肉汉堡。[/div][br /][div class="name q1"]香辣虫肉汉堡[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值。如果你花费至少10秒钟来进食，你的爆击等级将提高40，耐力将提高40点，持续60分钟。[/div][br /][div]需要: 虫肉(2) 北地香料(1) [/div]售价: 达拉然烹饪奖牌(3)
+</code>
+<sold-by>
+<npc id="31031" />
+<npc id="31032" />
+<npc id="33595" />
+</sold-by>
+</item>
+<item id="43021" icon="inv_scroll_06" quality="2">
+<name>食谱：焦烤座狼</name>
+<code>
+[div class="name q2"]食谱：焦烤座狼[/div][div]拾取后绑定[/div][div]需要 烹饪 (400)[/div][div]使用: 教你学会烹制焦烤座狼。[/div][br /][div class="name q1"]焦烤座狼[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值。如果你花费至少10秒钟来进食，你的急速等级将提高40，耐力将提高40点，持续60分钟。[/div][br /][div]需要: 座狼腰肉(1) 北地香料(1) [/div]售价: 达拉然烹饪奖牌(3)
+</code>
+<sold-by>
+<npc id="31031" />
+<npc id="31032" />
+<npc id="33595" />
+</sold-by>
+</item>
+<item id="43022" icon="inv_scroll_06" quality="2">
+<name>食谱：巨型犀牛热狗</name>
+<code>
+[div class="name q2"]食谱：巨型犀牛热狗[/div][div]拾取后绑定[/div][div]需要 烹饪 (400)[/div][div]使用: 教你学会烹制巨型犀牛热狗。[/div][br /][div class="name q1"]巨型犀牛热狗[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值。如果你花费至少10秒钟来进食，你的每5秒法力恢复将提高16点，耐力将提高40点，持续60分钟。[/div][br /][div]需要: 犀牛肉(2) 北地香料(1) [/div]售价: 达拉然烹饪奖牌(3)
+</code>
+<sold-by>
+<npc id="31031" />
+<npc id="31032" />
+<npc id="33595" />
+</sold-by>
+</item>
+<item id="43023" icon="inv_scroll_06" quality="2">
+<name>食谱：水煮北地蚌背鱼</name>
+<code>
+[div class="name q2"]食谱：水煮北地蚌背鱼[/div][div]拾取后绑定[/div][div]需要 烹饪 (400)[/div][div]使用: 教你学会烹制水煮北地蚌背鱼。[/div][br /][div class="name q1"]水煮北地蚌背鱼[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的攻击强度将提高80点，耐力将提高40点，持续60分钟。[/div][br /][div]需要: 蚌背鱼(1) 北地香料(1) [/div]售价: 达拉然烹饪奖牌(3)
+</code>
+<sold-by>
+<npc id="31031" />
+<npc id="31032" />
+<npc id="33595" />
+</sold-by>
+</item>
+<item id="43024" icon="inv_scroll_06" quality="1">
+<name>食谱：爆炒鲑鱼</name>
+<code>
+[div class="name q1"]食谱：爆炒鲑鱼[/div][div]拾取后绑定[/div][div]需要 烹饪 (400)[/div][div]使用: 教你学会烹制爆炒鲑鱼。[/div][br /][div class="name q1"]爆炒鲑鱼[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的法术强度将提高46点，耐力将提高40点，持续60分钟。[/div][br /][div]需要: 冰河鲑鱼(1) 北地香料(1) [/div]售价: 达拉然烹饪奖牌(3)
+</code>
+<sold-by>
+<npc id="31031" />
+<npc id="31032" />
+<npc id="33595" />
+</sold-by>
+</item>
+<item id="43025" icon="inv_scroll_06" quality="2">
+<name>食谱：香辣蓝色水母</name>
+<code>
+[div class="name q2"]食谱：香辣蓝色水母[/div][div]拾取后绑定[/div][div]需要 烹饪 (400)[/div][div]使用: 教你学会烹制香辣蓝色水母。[/div][br /][div class="name q1"]香辣蓝色水母[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的爆击等级将提高40，耐力将提高40点，持续60分钟。[/div][br /][div]需要: 水母(1) 北地香料(1) [/div]售价: 达拉然烹饪奖牌(3)
+</code>
+<sold-by>
+<npc id="31031" />
+<npc id="31032" />
+<npc id="33595" />
+</sold-by>
+</item>
+<item id="43026" icon="inv_scroll_06" quality="2">
+<name>食谱：帝王鳐鱼片</name>
+<code>
+[div class="name q2"]食谱：帝王鳐鱼片[/div][div]拾取后绑定[/div][div]需要 烹饪 (400)[/div][div]使用: 教你学会烹制帝王鳐鱼片。[/div][br /][div class="name q1"]帝王鳐鱼片[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的急速等级将提高40，耐力将提高40点，持续60分钟。[/div][br /][div]需要: 帝王鳐(1) 北地香料(1) [/div]售价: 达拉然烹饪奖牌(3)
+</code>
+<sold-by>
+<npc id="31031" />
+<npc id="31032" />
+<npc id="33595" />
+</sold-by>
+</item>
+<item id="43027" icon="inv_scroll_06" quality="2">
+<name>食谱：香辣油炸青鱼</name>
+<code>
+[div class="name q2"]食谱：香辣油炸青鱼[/div][div]拾取后绑定[/div][div]需要 烹饪 (400)[/div][div]使用: 教你学会烹制香辣油炸青鱼。[/div][br /][div class="name q1"]香辣油炸青鱼[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的法力恢复将提高每5秒16点，耐力将提高40点，持续60分钟。[/div][br /][div]需要: 利齿青鱼(1) 北地香料(1) [/div]售价: 达拉然烹饪奖牌(3)
+</code>
+<sold-by>
+<npc id="31031" />
+<npc id="31032" />
+<npc id="33595" />
+</sold-by>
+</item>
+<item id="43028" icon="inv_scroll_06" quality="2">
+<name>食谱：虫犀肉排</name>
+<code>
+[div class="name q2"]食谱：虫犀肉排[/div][div]拾取后绑定[/div][div]需要 烹饪 (400)[/div][div]使用: 教你学会烹制虫犀肉排。[/div][br /][div class="name q1"]虫犀肉排[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值。如果你花费至少10秒钟来进食，你的精准将提高40，耐力将提高40点，持续60分钟。[/div][br /][div]需要: 虫肉(1) 犀牛肉(1) 北地香料(1) [/div]售价: 达拉然烹饪奖牌(3)
+</code>
+<sold-by>
+<npc id="31031" />
+<npc id="31032" />
+<npc id="33595" />
+</sold-by>
+</item>
+<item id="43029" icon="inv_scroll_06" quality="2">
+<name>食谱：小动物的零食</name>
+<code>
+[div class="name q2"]食谱：小动物的零食[/div][div]拾取后绑定[/div][div]需要 烹饪 (400)[/div][div]使用: 教你学会烹制小动物的零食。[/div][br /][div class="name q1"]小动物的零食[/div][div]需要等级 70[/div][div class="q2"]使用: 将小动物的零食丢给某只小动物以控制它。所谓"小动物"是指老鼠或火鸡之类的无害的……小动物。[/div][br /][div]需要: 冰冷的肉(2) 北地香料(1) [/div]售价: 达拉然烹饪奖牌(3)
+</code>
+<sold-by>
+<npc id="31031" />
+<npc id="31032" />
+<npc id="33595" />
+</sold-by>
+</item>
+<item id="43030" icon="inv_scroll_06" quality="2">
+<name>食谱：犀牛大餐</name>
+<code>
+[div class="name q2"]食谱：犀牛大餐[/div][div]拾取后绑定[/div][div]需要 烹饪 (400)[/div][div]使用: 教你学会烹制犀牛大餐。[/div][br /][div class="name q1"]犀牛大餐[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值。如果你花费至少10秒钟来进食，你的护甲穿透将提高40，耐力将提高40点，持续60分钟。[/div][br /][div]需要: 犀牛肉(1) 北地香料(1) [/div]售价: 达拉然烹饪奖牌(3)
+</code>
+<sold-by>
+<npc id="31031" />
+<npc id="31032" />
+<npc id="33595" />
+</sold-by>
+</item>
+<item id="43031" icon="inv_scroll_06" quality="2">
+<name>食谱：钳鱼大餐</name>
+<code>
+[div class="name q2"]食谱：钳鱼大餐[/div][div]拾取后绑定[/div][div]需要 烹饪 (400)[/div][div]使用: 教你学会烹制钳鱼大餐。[/div][br /][div class="name q1"]钳鱼大餐[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的命中等级将提高40，耐力将提高40点，持续60分钟。[/div][br /][div]需要: 骨鳞钳鱼(3) 北地香料(1) [/div]售价: 达拉然烹饪奖牌(3)
+</code>
+<sold-by>
+<npc id="31031" />
+<npc id="31032" />
+<npc id="33595" />
+</sold-by>
+</item>
+<item id="43032" icon="inv_scroll_06" quality="2">
+<name>食谱：熏烤座狼肉排</name>
+<code>
+[div class="name q2"]食谱：熏烤座狼肉排[/div][div]拾取后绑定[/div][div]需要 烹饪 (400)[/div][div]使用: 教你学会烹制熏烤座狼肉排。[/div][br /][div class="name q1"]熏烤座狼肉排[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值。如果你花费至少10秒钟来进食，你将获得追踪人型生物的能力，持续60分钟。[/div][br /][div]需要: 座狼腰肉(1) 北地香料(1) [/div]售价: 达拉然烹饪奖牌(3)
+</code>
+<sold-by>
+<npc id="31031" />
+<npc id="31032" />
+<npc id="33595" />
+</sold-by>
+</item>
+<item id="43033" icon="inv_scroll_06" quality="2">
+<name>食谱：墨鱼片</name>
+<code>
+[div class="name q2"]食谱：墨鱼片[/div][div]拾取后绑定[/div][div]需要 烹饪 (400)[/div][div]使用: 教你学会烹制墨鱼片。[/div][br /][div class="name q1"]墨鱼片[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的精神将提高40点，耐力将提高40点，持续60分钟。[/div][br /][div]需要: 月光墨鱼(1) 北地香料(1) [/div]售价: 达拉然烹饪奖牌(3)
+</code>
+<sold-by>
+<npc id="31031" />
+<npc id="31032" />
+<npc id="33595" />
+</sold-by>
+</item>
+<item id="43034" icon="inv_scroll_06" quality="2">
+<name>食谱：香辣猛犸小吃</name>
+<code>
+[div class="name q2"]食谱：香辣猛犸小吃[/div][div]拾取后绑定[/div][div]需要 烹饪 (400)[/div][div]使用: 教你学会烹制香辣猛犸小吃。[/div][br /][div class="name q1"]香辣猛犸小吃[/div][div]需要等级 70[/div][div class="q2"]使用: 使你的宠物的力量和耐力提高30点，持续60分钟。[/div][br /][div]需要: 猛犸肉(1) 北地香料(1) [/div]售价: 达拉然烹饪奖牌(3)
+</code>
+<sold-by>
+<npc id="31031" />
+<npc id="31032" />
+<npc id="33595" />
+</sold-by>
+</item>
+<item id="43035" icon="inv_scroll_06" quality="2">
+<name>食谱：熏烤龙鳞鱼</name>
+<code>
+[div class="name q2"]食谱：熏烤龙鳞鱼[/div][div]拾取后绑定[/div][div]需要 烹饪 (400)[/div][div]使用: 教你学会烹制熏烤龙鳞鱼。[/div][br /][div class="name q1"]熏烤龙鳞鱼[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的敏捷将提高40点，耐力将提高40点，持续60分钟。[/div][br /][div]需要: 龙鳞天使鱼(2) 北地香料(1) [/div]售价: 达拉然烹饪奖牌(3)
+</code>
+<sold-by>
+<npc id="31031" />
+<npc id="31032" />
+<npc id="33595" />
+</sold-by>
+</item>
+<item id="43036" icon="inv_scroll_06" quality="2">
+<name>食谱：龙鳞鱼片</name>
+<code>
+[div class="name q2"]食谱：龙鳞鱼片[/div][div]拾取后绑定[/div][div]需要 烹饪 (400)[/div][div]使用: 教你学会烹制龙鳞鱼片。[/div][br /][div class="name q1"]龙鳞鱼片[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的力量将提高40点，耐力将提高40点，持续60分钟。[/div][br /][div]需要: 龙鳞天使鱼(1) 北地香料(1) [/div]售价: 达拉然烹饪奖牌(3)
+</code>
+<sold-by>
+<npc id="31031" />
+<npc id="31032" />
+<npc id="33595" />
+</sold-by>
+</item>
+<item id="43037" icon="inv_scroll_06" quality="2">
+<name>食谱：追踪快餐</name>
+<code>
+[div class="name q2"]食谱：追踪快餐[/div][div]拾取后绑定[/div][div]需要 烹饪 (400)[/div][div]使用: 教你学会烹制追踪快餐。[/div][br /][div class="name q1"]追踪快餐[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计22500点生命值。如果你花费至少10秒钟来进食，你将获得追踪野兽的能力，持续60分钟。[/div][br /][div]需要: 铲齿鹿肋排(1) 北地香料(1) [/div]售价: 达拉然烹饪奖牌(3)
+</code>
+<sold-by>
+<npc id="31031" />
+<npc id="31032" />
+<npc id="33595" />
+</sold-by>
+</item>
+<item id="43505" icon="inv_scroll_06" quality="2">
+<name>食谱：丰盛筵席</name>
+<code>
+[div class="name q2"]食谱：丰盛筵席[/div][div]拾取后绑定[/div][div]需要 烹饪 (425)[/div][div]使用: 教你学会烹制丰盛筵席。[/div][br /][div class="name q1"]丰盛筵席[/div][div]需要等级 70[/div][div]需要 烹饪 (375)[/div][div class="q2"]使用: 摆放一桌筵席，供你的队友大快朵颐！在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟进食，你的体型会变大！[/div][br /][div]需要: 深海巨腹鱼(2) 猛犸肉(2) 石鳞鲶鱼(2) 北地香料(1) [/div]售价: 达拉然烹饪奖牌(3)
+</code>
+<sold-by>
+<npc id="31031" />
+<npc id="31032" />
+<npc id="33595" />
+</sold-by>
+</item>
+<item id="43506" icon="inv_scroll_06" quality="2">
+<name>食谱：小型筵席</name>
+<code>
+[div class="name q2"]食谱：小型筵席[/div][div]拾取后绑定[/div][div]需要 烹饪 (425)[/div][div]使用: 教你学会烹制小型筵席。[/div][br /][div class="name q1"]小型筵席[/div][div]需要等级 70[/div][div]需要 烹饪 (375)[/div][div class="q2"]使用: 摆放一桌筵席，供你的队友大快朵颐！在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟进食，你的体型会变小。[/div][br /][div]需要: 水母(2) 犀牛肉(2) 冰河鲑鱼(2) 北地香料(1) [/div]售价: 达拉然烹饪奖牌(3)
+</code>
+<sold-by>
+<npc id="31031" />
+<npc id="31032" />
+<npc id="33595" />
+</sold-by>
+</item>
+<item id="43507" icon="inv_scroll_06" quality="2">
+<name>食谱：美味蛋糕</name>
+<code>
+[div class="name q2"]食谱：美味蛋糕[/div][div]拾取后绑定[/div][div]需要 烹饪 (350)[/div][div]使用: 教你学会烘焙美味蛋糕。[/div][br /][div class="name q1"]美味蛋糕[/div][div class="q2"]使用: 美味的蛋糕让你感到快乐。[/div][br /][div]需要: 面粉(2) 北地之卵(1) [/div]
+</code>
+<dropped-by>
+<npc id="25819" rate="2/44" />
+<npc id="34183" rate="1/80" />
+<npc id="24642" rate="1/165" />
+<npc id="16167" rate="3/881" />
+<npc id="16154" rate="2/755" />
+<npc id="37026" rate="2/791" />
+<npc id="37544" rate="2/885" />
+<npc id="24846" rate="2/908" />
+<npc id="37031" rate="2/981" />
+<npc id="37003" rate="2/1183" />
+</dropped-by>
+</item>
+<item id="43508" icon="inv_scroll_06" quality="2">
+<name>食谱：上周的猛犸肉</name>
+<code>
+[div class="name q2"]食谱：上周的猛犸肉[/div][div]拾取后绑定[/div][div]需要 烹饪 (350)[/div][div]使用: 教你学会烹制上周的猛犸肉。[/div][br /][div class="name q1"]上周的猛犸肉[/div][div class="q2"]使用: 吃了一头老猛犸象之后，你感到很悲伤。[/div][br /][div]需要: 猛犸肉(1) [/div]
+</code>
+<dropped-by>
+<npc id="38494" rate="2/134" />
+<npc id="34183" rate="1/80" />
+<npc id="27383" rate="1/351" />
+<npc id="16154" rate="2/755" />
+<npc id="16067" rate="3/1195" />
+<npc id="37544" rate="2/885" />
+<npc id="37148" rate="2/969" />
+<npc id="26827" rate="3/1456" />
+<npc id="37031" rate="2/981" />
+</dropped-by>
+</item>
+<item id="43509" icon="inv_scroll_06" quality="2">
+<name>食谱：坏掉的蚌肉</name>
+<code>
+[div class="name q2"]食谱：坏掉的蚌肉[/div][div]拾取后绑定[/div][div]需要 烹饪 (350)[/div][div]使用: 教你学会烹制坏掉的蚌肉。[/div][br /][div class="name q1"]坏掉的蚌肉[/div][div class="q2"]使用: 吃了坏掉的蚌肉之后，你变得非常生气。[/div][br /][div]需要: 多汁的蚌肉(1) 暗影微粒(1) [/div]
+</code>
+<dropped-by>
+<npc id="24642" rate="1/165" />
+<npc id="27247" rate="1/278" />
+<npc id="37545" rate="2/694" />
+<npc id="37546" rate="2/696" />
+<npc id="16154" rate="2/755" />
+<npc id="16167" rate="2/881" />
+<npc id="25668" rate="2/883" />
+<npc id="37016" rate="2/1159" />
+<npc id="37146" rate="2/1218" />
+<npc id="37144" rate="2/1224" />
+</dropped-by>
+</item>
+<item id="43510" icon="inv_scroll_06" quality="2">
+<name>食谱：闹鬼的青鱼</name>
+<code>
+[div class="name q2"]食谱：闹鬼的青鱼[/div][div]拾取后绑定[/div][div]需要 烹饪 (350)[/div][div]使用: 教你学会烹制闹鬼的青鱼。[/div][br /][div class="name q1"]闹鬼的青鱼[/div][div class="q2"]使用: 闹鬼的青鱼使你感到恐惧。[/div][br /][div]需要: 利齿青鱼(1) 死灵精华(1) [/div]
+</code>
+<dropped-by>
+<npc id="25618" rate="1/98" />
+<npc id="29885" rate="3/592" />
+<npc id="16167" rate="3/881" />
+<npc id="37026" rate="2/791" />
+<npc id="27545" rate="1/436" />
+<npc id="37148" rate="2/969" />
+<npc id="23677" rate="1/568" />
+<npc id="37531" rate="2/1191" />
+<npc id="37146" rate="2/1218" />
+<npc id="24900" rate="2/1246" />
+</dropped-by>
+</item>
+<item id="44858" icon="inv_misc_note_01" quality="1">
+<name>食谱：酸果蔓酱</name>
+<code>
+[span class="name q1"]食谱：酸果蔓酱[/span][br /]拾取后绑定[br /]需要烹饪 (160)[br /]使用: 教你学会烹制酸果蔓酱。[br /][br /][span class="name q1"]酸果蔓酱[/span][br /]持续时间: 7 天[br /][span class="q2"]使用:  每秒恢复总生命值的4%，持续30秒。进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得耐力和法术强度加成，持续60分钟。[/span][br /][br /]需要: 酸果蔓(1) 蜂蜜(1)
+</code>
+<contained-in>
+<item id="46809" rate="2271/2518" />
+</contained-in>
+</item>
+<item id="44859" icon="inv_misc_note_01" quality="1">
+<name>食谱：甜山药</name>
+<code>
+[span class="name q1"]食谱：糖心甜土豆[/span][br /]拾取后绑定[br /]需要烹饪 (220)[br /]使用: 教你学会烹制糖心甜土豆。[br /][br /][span class="name q1"]甜山药[/span][br /]持续时间: 7 天[br /][span class="q2"]使用: 每秒恢复总生命值的4%，持续30秒。进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得耐力和急速等级加成，持续60分钟。[/span][br /][br /]需要: 山药(1) 蜂蜜(1) 秋季香草(1)
+</code>
+<contained-in>
+<item id="46809" rate="2419/2518" />
+</contained-in>
+</item>
+<item id="44860" icon="inv_misc_note_01" quality="1">
+<name>食谱：玉米馅料</name>
+<code>
+[span class="name q1"]食谱：玉米馅料[/span][br /]拾取后绑定[br /]需要烹饪 (1)[br /]使用: 教你学会烹制玉米馅料。[br /][br /][span class="name q1"]玉米馅料[/span][br /]持续时间: 7 天[br /][span class="q2"]使用: 每秒恢复总生命值的4%，持续30秒。进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得耐力和命中等级加成，持续60分钟。[/span][br /][br /]需要: 香料面包(1) 秋季香草(1)
+</code>
+<contained-in>
+<item id="46809" rate="2020/2518" />
+</contained-in>
+</item>
+<item id="44861" icon="inv_misc_note_01" quality="1">
+<name>食谱：慢烤火鸡</name>
+<code>
+[span class="name q1"]食谱：慢烤火鸡[/span][br /]拾取后绑定[br /]需要烹饪 (280)[br /]使用: 教你学会烹制慢烤火鸡。[br /][br /][span class="name q1"]慢烤火鸡[/span][br /]持续时间: 7 天[br /][span class="q2"]使用: 每秒恢复总生命值的4%，持续30秒。进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得耐力和攻击强度加成，持续60分钟。[/span][br /][br /]需要: 完整的火鸡(1) 蜂蜜(2) 秋季香草(1)
+</code>
+<contained-in>
+<item id="46809" rate="2516/2518" />
+</contained-in>
+</item>
+<item id="44862" icon="inv_misc_note_01" quality="1">
+<name>食谱：南瓜馅饼</name>
+<code>
+[span class="name q1"]食谱：南瓜馅饼[/span][br /]拾取后绑定[br /]需要烹饪 (100)[br /]教你学会烹制南瓜馅饼。[br /][br /][span class="name q1"]南瓜馅饼[/span][br /]持续时间: 7 天[br /][span class="q2"]使用: 每秒恢复总生命值的4%，持续30秒。进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得耐力和精神加成，持续60分钟。[/span]
+[br /][br /]需要: 成熟的艾尔文南瓜(1) 蜂蜜(1)
+</code>
+<contained-in>
+<item id="46809" rate="2133/2518" />
+</contained-in>
+</item>
+<item id="44954" icon="inv_scroll_06" quality="2">
+<name>食谱：生拌狼肉糜</name>
+<code>
+[span class="name q2"]食谱：生拌狼肉糜[/span][br /]拾取后绑定[br /]需要烹饪 (400)[br /]使用:  教你学会将座狼肉切碎制成生拌狼肉糜。[br /][br /][div][span class="name q1"]生拌狼肉糜[/span][br /]需要等级 70[br /][span class="q2"]使用: 在30秒内恢复总计22500点生命值和19200点法力值。如果你花费至少10秒钟来进食，你的命中等级将提高40，耐力将提高40点，持续60分钟。[/span][/div][br /]需要: 座狼腰肉(2) 北地香料(1)[br /]售价: 达拉然烹饪奖牌(3)
+</code>
+<sold-by>
+<npc id="31031" />
+<npc id="31032" />
+<npc id="33595" />
+</sold-by>
+</item>
+<item id="44977" icon="inv_scroll_03" quality="1">
+<name>食谱：掘地鼠炖肉</name>
+<code>
+[span class="name q1"]食谱：掘地鼠炖肉[/span][br /]拾取后绑定[br /]需要烹饪 (90)[br /]使用:  教你学会烹制掘地鼠炖肉。[br /][br /][div][span class="name q1"]掘地鼠炖肉[/span][br /]需要等级 10[br /][span class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。[/span][/div][br]需要: 掘地鼠(1)[br/]售价: [span class="si-silver"]8[/span]
+</code>
+<sold-by>
+<npc id="3392" />
+<npc id="3443" />
+</sold-by>
+</item>
+<item id="46710" icon="inv_scroll_03" quality="1">
+<name>食谱：悼念糕饼</name>
+<code>
+[span class="name q1"]食谱：悼念糕饼[/span][br /]拾取后绑定[br /]需要烹饪 (1)[br /]使用: 教你学会烹饪悼念糕饼。[br /][br /][span class="name q1"]悼念糕饼[/span][br /]拾取后绑定[br /]需要亡者节[br /][span class="q2"]使用: 每秒恢复总生命值的2%，持续24秒。进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得耐力和精神加成，持续15分钟。[/span][br /][br /]需要: 面粉(1) 冰冻牛奶(1)[br /]售价: [span class="si-silver"]20[/span]
+</code>
+<sold-by>
+<npc id="34382" />
+</sold-by>
+</item>
+<item id="46803" icon="inv_misc_note_01" quality="1">
+<name>食谱：玉米馅料</name>
+<code>
+[span class="name q1"]食谱：玉米馅料[/span][br /]拾取后绑定[br /]需要烹饪 (1)[br /]使用: 教你学会烹制玉米馅料。[br /][br /][span class="name q1"]玉米馅料[/span][br /]持续时间: 7 天[br /][span class="q2"]使用: 每秒恢复总生命值的4%，持续30秒。进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得耐力和命中等级加成，持续60分钟。[/span][br /][br /]需要: 香料面包(1) 秋季香草(1)
+</code>
+<contained-in>
+<item id="46810" rate="1635/2093" />
+</contained-in>
+</item>
+<item id="46804" icon="inv_misc_note_01" quality="1">
+<name>食谱：南瓜馅饼</name>
+<code>
+[span class="name q1"]食谱：南瓜馅饼[/span][br /]拾取后绑定[br /]需要烹饪 (100)[br /]教你学会烹制南瓜馅饼。[br /][br /][span class="name q1"]南瓜馅饼[/span][br /]持续时间: 7 天[br /][span class="q2"]使用: 每秒恢复总生命值的4%，持续30秒。进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得耐力和精神加成，持续60分钟。[/span]
+[br /][br /]需要: 成熟的提瑞斯法南瓜(1) 蜂蜜(1)
+</code>
+<contained-in>
+<item id="46810" rate="1744/2093" />
+</contained-in>
+</item>
+<item id="46805" icon="inv_misc_note_01" quality="1">
+<name>食谱：酸果蔓酱</name>
+<code>
+[span class="name q1"]食谱：酸果蔓酱[/span][br /]拾取后绑定[br /]需要烹饪 (160)[br /]使用: 教你学会烹制酸果蔓酱。[br /][br /][span class="name q1"]酸果蔓酱[/span][br /]持续时间: 7 天[br /][span class="q2"]使用:  每秒恢复总生命值的4%，持续30秒。进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得耐力和法术强度加成，持续60分钟。[/span][br /][br /]需要: 酸果蔓(1) 蜂蜜(1)
+</code>
+<contained-in>
+<item id="46810" rate="1874/2093" />
+</contained-in>
+</item>
+<item id="46806" icon="inv_misc_note_01" quality="1">
+<name>食谱：甜山药</name>
+<code>
+[span class="name q1"]食谱：甜山药[/span][br /]拾取后绑定[br /]需要烹饪 (220)[br /]使用: 教你学会烹制甜山药。[br /][br /][span class="name q1"]甜山药[/span][br /]持续时间: 7 天[br /][span class="q2"]使用: 每秒恢复总生命值的4%，持续30秒。进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得耐力和急速等级加成，持续60分钟。[/span][br /][br /]需要: 山药(1) 蜂蜜(1) 秋季香草(1)
+</code>
+<contained-in>
+<item id="46810" rate="1991/2093" />
+</contained-in>
+</item>
+<item id="46807" icon="inv_misc_note_01" quality="1">
+<name>食谱：慢烤火鸡</name>
+<code>
+[span class="name q1"]食谱：慢烤火鸡[/span][br /]拾取后绑定[br /]需要烹饪 (280)[br /]使用: 教你学会烹制慢烤火鸡。[br /][br /][span class="name q1"]慢烤火鸡[/span][br /]持续时间: 7 天[br /][span class="q2"]使用: 每秒恢复总生命值的4%，持续30秒。进食时必须保持坐姿。如果你花费至少10秒钟进食，还会获得耐力和攻击强度加成，持续60分钟。[/span][br /][br /]需要: 完整的火鸡(1) 蜂蜜(2) 秋季香草(1)
+</code>
+<contained-in>
+<item id="46810" rate="2088/2093" />
+</contained-in>
+</item>
+<item id="33844" icon="inv_cask_01" quality="1">
+<name>一桶鱼</name>
+<code>
+[div class="name q1"]一桶鱼[/div][div]拾取后绑定[/div][div class="q"]"贴着一个警告标签，上面写着：不要开枪。"[/div]
+</code>
+<reward-from>
+<quest id="11377" />
+<quest id="11379" />
+<quest id="11380" />
+<quest id="11381" />
+</reward-from>
+</item>
+<item id="33857" icon="inv_crate_05" quality="1">
+<name>一箱肉</name>
+<code>
+[div class="name q1"]一箱肉[/div][div]拾取后绑定[/div][div class="q"]"主要是肉类，还有一些杂七杂八的东西。"[/div]
+</code>
+<reward-from>
+<quest id="11377" />
+<quest id="11379" />
+<quest id="11380" />
+<quest id="11381" />
+</reward-from>
+</item>
+<item id="34863" icon="inv_misc_bag_10_green" quality="1">
+<name>钓鱼宝藏</name>
+<code>
+[div class="name q1"]钓鱼宝藏[/div][div]拾取后绑定[/div]
+</code>
+<reward-from>
+<quest id="11666" />
+<quest id="11667" />
+<quest id="11668" />
+<quest id="11669" />
+</reward-from>
+</item>
+<item id="35348" icon="inv_misc_bag_10_green" quality="1">
+<name>钓鱼宝藏</name>
+<code>
+[div class="name q1"]钓鱼宝藏[/div][div]拾取后绑定[/div]
+</code>
+<reward-from>
+<quest id="11665" />
+</reward-from>
+</item>
+<item id="46007" icon="inv_misc_bag_07_blue" quality="1">
+<name>钓鱼宝藏</name>
+<code>
+[span class="name q1"]钓鱼宝藏[/span][br /]拾取后绑定
+</code>
+<reward-from>
+<quest id="13830" />
+<quest id="13832" />
+<quest id="13833" />
+<quest id="13834" />
+<quest id="13836" />
+<quest id="24806" />
+</reward-from>
+</item>
+<item id="44113" icon="inv_misc_bag_11" quality="1">
+<name>小香料袋</name>
+<code>
+[div class="name q1"]小香料袋[/div][div]拾取后绑定[/div]
+</code>
+<reward-from>
+<quest id="13100" />
+<quest id="13101" />
+<quest id="13102" />
+<quest id="13103" />
+<quest id="13107" />
+<quest id="13112" />
+<quest id="13113" />
+<quest id="13114" />
+<quest id="13115" />
+<quest id="13116" />
+</reward-from>
+</item>
+<item id="46809" icon="inv_misc_book_09" quality="2">
+<name>盛宴食谱</name>
+<code>
+[span class="name q2"]盛宴食谱[/span][br /]拾取后绑定[br /]需要烹饪 (1)[br /][span class="q"]"最可靠的旅人丰年祭食谱大全。"[/span][br /]售价: [span class="si-silver"]1[/span]
+</code>
+<sold-by>
+<npc id="34645" />
+<npc id="34681" />
+<npc id="34682" />
+<npc id="34783" />
+<npc id="35337" />
+<npc id="35338" />
+<npc id="35340" />
+</sold-by>
+</item>
+<item id="46810" icon="inv_misc_book_09" quality="2">
+<name>盛宴食谱</name>
+<code>
+[span class="name q2"]盛宴食谱[/span][br /]拾取后绑定[br /]需要烹饪 (1)[br /][span class="q"]"最可靠的旅人丰年祭食谱大全。"[/span][br /]售价: [span class="si-silver"]1[/span]
+</code>
+<sold-by>
+<npc id="34683" />
+<npc id="34684" />
+<npc id="34685" />
+<npc id="34787" />
+<npc id="35341" />
+<npc id="35342" />
+<npc id="35343" />
+</sold-by>
+</item>
+</items>

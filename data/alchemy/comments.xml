@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<comments>
+<comment>
+<spell id="2329" />
+<spell id="2330" />
+<spell id="7183" />
+<words>起始.</words>
+</comment>
+<comment>
+<spell id="11456" />
+<words>由工程学制造.</words>
+</comment>
+<comment>
+<item id="13501" />
+<item id="13485" />
+<words>要想购买该配方, 你必须完成 [npc=11216@map] 处接受的系列任务, 获得 [item=13544]. 佩戴该饰品向凯尔达隆的鬼魂商人购买.</words>
+</comment>
+<comment>
+<spell id="28580" />
+<spell id="28581" />
+<spell id="28582" />
+<spell id="28583" />
+<spell id="28584" />
+<spell id="28585" />
+<spell id="28586" />
+<spell id="28587" />
+<spell id="28588" />
+<spell id="28589" />
+<spell id="28590" />
+<spell id="28591" />
+<words>制作任意类别燃烧的远征药水时领悟.</words>
+</comment>
+<comment>
+<spell id="41458" />
+<words>制作 [item=22845] 时领悟.</words>
+</comment>
+<comment>
+<spell id="41500" />
+<words>制作 [item=22841] 时领悟.</words>
+</comment>
+<comment>
+<spell id="41501" />
+<words>制作 [item=22842] 时领悟.</words>
+</comment>
+<comment>
+<spell id="41502" />
+<words>制作 [item=22844] 时领悟.</words>
+</comment>
+<comment>
+<spell id="41503" />
+<words>制作 [item=22846] 时领悟.</words>
+</comment>
+<comment>
+<spell id="29688" />
+<spell id="32765" />
+<spell id="32766" />
+<spell id="57425" />
+<spell id="57427" />
+<words>无冷却时间.</words>
+</comment>
+<comment>
+<spell id="24266" />
+<words>传授于 [object=180368@map].</words>
+</comment>
+</comments>

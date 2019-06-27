@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<comments>
+<comment>
+<spell id="3918" />
+<spell id="3919" />
+<spell id="3920" />
+<words>起始.</words>
+</comment>
+<comment>
+<spell id="13240" />
+<words>当你制作第一个 [item=10577] 时, 将自动学会: [spell=13240].</words>
+</comment>
+<comment>
+<item id="21737" />
+<item id="21738" />
+<words>该结构图已无法获得.</words>
+</comment>
+<comment>
+<spell id="22704" />
+<words>传授于 [object=179552@map].</words>
+</comment>
+<comment>
+<spell id="12895" />
+<spell id="15633" />
+<spell id="12899" />
+<spell id="12897" />
+<spell id="12902" />
+<spell id="12903" />
+<spell id="12905" />
+<spell id="12906" />
+<spell id="12907" />
+<spell id="12759" />
+<spell id="23129" />
+<spell id="23489" />
+<spell id="23096" />
+<spell id="30568" />
+<spell id="30569" />
+<spell id="36955" />
+<spell id="30570" />
+<spell id="30575" />
+<spell id="30574" />
+<spell id="56473" />
+<words>需要侏儒工程学.</words>
+</comment>
+<comment>
+<spell id="13240" />
+<spell id="12715" />
+<spell id="15628" />
+<spell id="12760" />
+<spell id="12718" />
+<spell id="12717" />
+<spell id="8895" />
+<spell id="12755" />
+<spell id="12754" />
+<spell id="12908" />
+<spell id="12758" />
+<spell id="23486" />
+<spell id="23078" />
+<spell id="30558" />
+<spell id="30560" />
+<spell id="36954" />
+<spell id="30563" />
+<spell id="30565" />
+<spell id="30566" />
+<spell id="56514" />
+<spell id="12716" />
+<words>需要地精工程师.</words>
+</comment>
+<comment>
+<spell id="20219" />
+<words>当你学会 [spell=20219] 时, 可以获得一张 [item=10790]. 在卡到期或者每次将之摧毁之后, 你都可以付费2金进行续费, 侏儒工匠会在24小时后邮寄你一份 [item=11423]. 有一定几率开出: \n[item=10603]\n[item=10606]\n[item=11827]</words>
+</comment>
+<comment>
+<spell id="20222" />
+<words>当你学会 [spell=20222] 时, 可以获得一张 [item=10791]. 在卡到期或者每次将之摧毁之后, 你都可以付费2金进行续费, 地精工匠会在24小时后邮寄你一份 [item=11422]. 有一定几率开出: \n[item=4416]\n[item=4417]\n[item=11828]</words>
+</comment>
+<comment>
+<spell id="3952" />
+<words>当你持有 [item=9327] 时, 可以在 [object=142475@map] 处学会该技能.</words>
+</comment>
+<comment>
+<spell id="3959" />
+<words>当你持有 [item=9327] 时, 可以在 [object=142696@map] 处学会该技能.</words>
+</comment>
+</comments>

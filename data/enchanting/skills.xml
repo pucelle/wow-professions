@@ -1,0 +1,4944 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<spells version="3.3.3">
+<spell id="7421" requires-skill-level="1" colors="1 5 7 10">
+<name>符文铜棒</name>
+<create id="6218" class="7.12" count="1" />
+<reagents>
+<item id="6217" count="1" />
+<item id="10940" count="1" />
+<item id="10938" count="1" />
+</reagents>
+</spell>
+<spell id="13262" requires-skill-level="1" colors="1 20 40 60">
+<name>分解</name>
+</spell>
+<spell id="7418" requires-skill-level="1" colors="1 70 90 110">
+<name>附魔护腕 - 初级生命</name>
+<reagents>
+<item id="10940" count="1" />
+</reagents>
+</spell>
+<spell id="7428" requires-skill-level="1" colors="1 80 100 120">
+<name>附魔护腕 - 初级偏斜</name>
+<reagents>
+<item id="10938" count="1" />
+<item id="10940" count="1" />
+</reagents>
+</spell>
+<spell id="14293" requires-skill-level="10" colors="10 75 95 115">
+<name>次级魔法杖</name>
+<create id="11287" class="2.19" count="1" />
+<reagents>
+<item id="4470" count="1" />
+<item id="10938" count="1" />
+</reagents>
+<taught-by-npc cost="51">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="7420" requires-skill-level="15" colors="15 70 90 110">
+<name>附魔胸甲 - 初级生命</name>
+<reagents>
+<item id="10940" count="1" />
+</reagents>
+<taught-by-npc cost="50">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="7443" requires-skill-level="20" colors="20 80 100 120">
+<name>附魔胸甲 - 初级法力</name>
+<reagents>
+<item id="10938" count="1" />
+</reagents>
+<taught-by-item>
+<item id="6342" />
+</taught-by-item>
+</spell>
+<spell id="7426" requires-skill-level="40" colors="40 90 110 130">
+<name>附魔胸甲 - 初级吸收</name>
+<reagents>
+<item id="10940" count="2" />
+<item id="10938" count="1" />
+</reagents>
+<taught-by-npc cost="100">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="25124" requires-skill-level="45" colors="45 55 65 75">
+<name>初级巫师之油</name>
+<create id="20744" class="0.-3" count="1" />
+<reagents>
+<item id="10940" count="2" />
+<item id="17034" count="1" />
+<item id="3371" count="1" />
+</reagents>
+<taught-by-item>
+<item id="20758" />
+</taught-by-item>
+</spell>
+<spell id="7454" requires-skill-level="45" colors="45 95 115 135">
+<name>附魔披风 - 初级抗性</name>
+<reagents>
+<item id="10940" count="1" />
+<item id="10938" count="2" />
+</reagents>
+<taught-by-npc cost="100">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="7457" requires-skill-level="50" colors="50 100 120 140">
+<name>附魔护腕 - 初级耐力</name>
+<reagents>
+<item id="10940" count="3" />
+</reagents>
+<taught-by-npc cost="250">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="7748" requires-skill-level="60" colors="60 105 125 145">
+<name>附魔胸甲 - 次级生命</name>
+<reagents>
+<item id="10940" count="2" />
+<item id="10938" count="2" />
+</reagents>
+<taught-by-npc cost="250">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="7766" requires-skill-level="60" colors="60 105 125 145">
+<name>附魔护腕 - 初级精神</name>
+<reagents>
+<item id="10938" count="2" />
+</reagents>
+<taught-by-item>
+<item id="6344" />
+</taught-by-item>
+</spell>
+<spell id="7771" requires-skill-level="70" colors="70 110 130 150">
+<name>附魔披风 - 初级防护</name>
+<reagents>
+<item id="10940" count="3" />
+<item id="10939" count="1" />
+</reagents>
+<taught-by-npc cost="200">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="14807" requires-skill-level="70" colors="70 110 130 150">
+<name>强效魔法杖</name>
+<create id="11288" class="2.19" count="1" />
+<reagents>
+<item id="4470" count="1" />
+<item id="10939" count="1" />
+</reagents>
+<taught-by-npc cost="200">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="7776" requires-skill-level="80" colors="80 115 135 155">
+<name>附魔胸甲 - 次级法力</name>
+<reagents>
+<item id="10939" count="1" />
+<item id="10938" count="1" />
+</reagents>
+<taught-by-item>
+<item id="6346" />
+</taught-by-item>
+</spell>
+<spell id="7779" requires-skill-level="80" colors="80 115 135 155">
+<name>附魔护腕 - 初级敏捷</name>
+<reagents>
+<item id="10940" count="2" />
+<item id="10939" count="1" />
+</reagents>
+<taught-by-npc cost="400">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="7782" requires-skill-level="80" colors="80 115 135 155">
+<name>附魔护腕 - 初级力量</name>
+<reagents>
+<item id="10940" count="5" />
+</reagents>
+<taught-by-item>
+<item id="6347" />
+</taught-by-item>
+</spell>
+<spell id="7786" requires-skill-level="90" colors="90 120 140 160">
+<name>附魔武器 - 初级屠兽</name>
+<reagents>
+<item id="10940" count="4" />
+<item id="10939" count="2" />
+</reagents>
+<taught-by-item>
+<item id="6348" />
+</taught-by-item>
+</spell>
+<spell id="7788" requires-skill-level="90" colors="90 120 140 160">
+<name>附魔武器 - 初级攻击</name>
+<reagents>
+<item id="10940" count="2" />
+<item id="10939" count="1" />
+<item id="10978" count="1" />
+</reagents>
+<taught-by-npc cost="500">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="7745" requires-skill-level="100" colors="100 130 150 170">
+<name>附魔双手武器 - 初级冲击</name>
+<reagents>
+<item id="10940" count="4" />
+<item id="10978" count="1" />
+</reagents>
+<taught-by-npc cost="500">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="7793" requires-skill-level="100" colors="100 130 150 170">
+<name>附魔双手武器 - 次级智力</name>
+<reagents>
+<item id="10939" count="3" />
+</reagents>
+<taught-by-item>
+<item id="6349" />
+</taught-by-item>
+</spell>
+<spell id="7795" requires-skill-level="100" colors="100 130 150 170">
+<name>符文银棒</name>
+<create id="6339" class="7.12" count="1" />
+<reagents>
+<item id="6338" count="1" />
+<item id="10940" count="6" />
+<item id="10939" count="3" />
+<item id="6218" count="1" />
+</reagents>
+<taught-by-npc cost="1000">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13378" requires-skill-level="105" colors="105 130 150 170">
+<name>附魔盾牌 - 初级耐力</name>
+<reagents>
+<item id="10998" count="1" />
+<item id="10940" count="2" />
+</reagents>
+<taught-by-npc cost="540">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13380" requires-skill-level="110" colors="110 135 155 175">
+<name>附魔双手武器 - 次级精神</name>
+<reagents>
+<item id="10998" count="1" />
+<item id="10940" count="6" />
+</reagents>
+<taught-by-item>
+<item id="11038" />
+</taught-by-item>
+</spell>
+<spell id="13419" requires-skill-level="110" colors="110 135 155 175">
+<name>附魔披风 - 初级敏捷</name>
+<reagents>
+<item id="10998" count="1" />
+</reagents>
+<taught-by-item>
+<item id="11039" />
+</taught-by-item>
+</spell>
+<spell id="13421" requires-skill-level="115" colors="115 140 160 180">
+<name>附魔披风 - 次级防护</name>
+<reagents>
+<item id="10940" count="6" />
+<item id="10978" count="1" />
+</reagents>
+<taught-by-npc cost="720">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13464" requires-skill-level="115" colors="115 140 160 180">
+<name>附魔盾牌 - 次级防护</name>
+<reagents>
+<item id="10998" count="1" />
+<item id="10940" count="1" />
+<item id="10978" count="1" />
+</reagents>
+<taught-by-item>
+<item id="11081" />
+</taught-by-item>
+</spell>
+<spell id="7857" requires-skill-level="120" colors="120 145 165 185">
+<name>附魔胸甲 - 生命</name>
+<reagents>
+<item id="10940" count="4" />
+<item id="10998" count="1" />
+</reagents>
+<taught-by-npc cost="900">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="7859" requires-skill-level="120" colors="120 145 165 185">
+<name>附魔护腕 - 次级精神</name>
+<reagents>
+<item id="10998" count="2" />
+</reagents>
+<taught-by-item>
+<item id="6375" />
+</taught-by-item>
+</spell>
+<spell id="7861" requires-skill-level="125" colors="125 150 170 190">
+<name>附魔披风 - 次级火焰抗性</name>
+<reagents>
+<item id="6371" count="1" />
+<item id="10998" count="1" />
+</reagents>
+<taught-by-npc cost="1125">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="7863" requires-skill-level="125" colors="125 150 170 190">
+<name>附魔靴子 - 初级耐力</name>
+<reagents>
+<item id="10940" count="8" />
+</reagents>
+<taught-by-npc cost="1260">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="7867" requires-skill-level="125" colors="125 150 170 190">
+<name>附魔靴子 - 初级敏捷</name>
+<reagents>
+<item id="10940" count="6" />
+<item id="10998" count="2" />
+</reagents>
+<taught-by-item>
+<item id="6377" />
+</taught-by-item>
+</spell>
+<spell id="13485" requires-skill-level="130" colors="130 155 175 195">
+<name>附魔盾牌 - 次级精神</name>
+<reagents>
+<item id="10998" count="2" />
+<item id="10940" count="4" />
+</reagents>
+<taught-by-npc cost="1350">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13501" requires-skill-level="130" colors="130 155 175 195">
+<name>附魔护腕 - 次级耐力</name>
+<reagents>
+<item id="11083" count="2" />
+</reagents>
+<taught-by-npc cost="1350">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13522" requires-skill-level="135" colors="135 160 180 200">
+<name>附魔披风 - 次级暗影抵抗</name>
+<reagents>
+<item id="11082" count="1" />
+<item id="6048" count="1" />
+</reagents>
+<taught-by-item>
+<item id="11098" />
+</taught-by-item>
+</spell>
+<spell id="13503" requires-skill-level="140" colors="140 165 185 205">
+<name>附魔武器 - 次级攻击</name>
+<reagents>
+<item id="11083" count="2" />
+<item id="11084" count="1" />
+</reagents>
+<taught-by-npc cost="1800">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13536" requires-skill-level="140" colors="140 165 185 205">
+<name>附魔护腕 - 次级力量</name>
+<reagents>
+<item id="11083" count="2" />
+</reagents>
+<taught-by-item>
+<item id="11101" />
+</taught-by-item>
+</spell>
+<spell id="13538" requires-skill-level="140" colors="140 165 185 205">
+<name>附魔胸甲 - 次级吸收</name>
+<reagents>
+<item id="10940" count="2" />
+<item id="11082" count="1" />
+<item id="11084" count="1" />
+</reagents>
+<taught-by-npc cost="2250">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13529" requires-skill-level="145" colors="145 170 190 210">
+<name>附魔双手武器 - 次级冲击</name>
+<reagents>
+<item id="11083" count="3" />
+<item id="11084" count="1" />
+</reagents>
+<taught-by-npc cost="2040">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13607" requires-skill-level="145" colors="145 170 190 210">
+<name>附魔胸甲 - 法力</name>
+<reagents>
+<item id="11082" count="1" />
+<item id="10998" count="2" />
+</reagents>
+<taught-by-npc cost="2040">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13612" requires-skill-level="145" colors="145 170 190 210">
+<name>附魔手套 - 采矿</name>
+<reagents>
+<item id="11083" count="1" />
+<item id="2772" count="3" />
+</reagents>
+<taught-by-item>
+<item id="11150" />
+</taught-by-item>
+</spell>
+<spell id="13617" requires-skill-level="145" colors="145 170 190 210">
+<name>附魔手套 - 草药学</name>
+<reagents>
+<item id="11083" count="1" />
+<item id="3356" count="3" />
+</reagents>
+<taught-by-item>
+<item id="11151" />
+</taught-by-item>
+</spell>
+<spell id="13620" requires-skill-level="145" colors="145 170 190 210">
+<name>附魔手套 - 钓鱼</name>
+<reagents>
+<item id="11083" count="1" />
+<item id="6370" count="3" />
+</reagents>
+<taught-by-item>
+<item id="11152" />
+</taught-by-item>
+</spell>
+<spell id="25125" requires-skill-level="150" colors="150 160 170 180">
+<name>初级法力之油</name>
+<create id="20745" class="0.-3" count="1" />
+<reagents>
+<item id="11083" count="3" />
+<item id="17034" count="2" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-item>
+<item id="20752" />
+</taught-by-item>
+</spell>
+<spell id="13622" requires-skill-level="150" colors="150 175 195 215">
+<name>附魔护腕 - 次级智力</name>
+<reagents>
+<item id="11082" count="2" />
+</reagents>
+<taught-by-npc cost="2250">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13626" requires-skill-level="150" colors="150 175 195 215">
+<name>附魔胸甲 - 初级属性</name>
+<reagents>
+<item id="11082" count="1" />
+<item id="11083" count="1" />
+<item id="11084" count="1" />
+</reagents>
+<taught-by-npc cost="2125">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13628" requires-skill-level="150" colors="150 175 195 215">
+<name>符文金棒</name>
+<create id="11130" class="7.12" count="1" />
+<reagents>
+<item id="11128" count="1" />
+<item id="5500" count="1" />
+<item id="11082" count="2" />
+<item id="11083" count="2" />
+<item id="6339" count="1" />
+</reagents>
+<taught-by-npc cost="2250">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13631" requires-skill-level="155" colors="155 175 195 215">
+<name>附魔盾牌 - 次级耐力</name>
+<reagents>
+<item id="11134" count="1" />
+<item id="11083" count="1" />
+</reagents>
+<taught-by-npc cost="2340">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13635" requires-skill-level="155" colors="155 175 195 215">
+<name>附魔披风 - 防御</name>
+<reagents>
+<item id="11138" count="1" />
+<item id="11083" count="3" />
+</reagents>
+<taught-by-npc cost="2210">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="14809" requires-skill-level="155" colors="155 175 195 215">
+<name>次级秘法魔杖</name>
+<create id="11289" class="2.19" count="1" />
+<reagents>
+<item id="11291" count="1" />
+<item id="11134" count="1" />
+<item id="11083" count="1" />
+</reagents>
+<taught-by-npc cost="2340">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13637" requires-skill-level="160" colors="160 180 200 220">
+<name>附魔靴子 - 次级敏捷</name>
+<reagents>
+<item id="11083" count="1" />
+<item id="11134" count="1" />
+</reagents>
+<taught-by-npc cost="2380">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13640" requires-skill-level="160" colors="160 180 200 220">
+<name>附魔胸甲 - 强效生命</name>
+<reagents>
+<item id="11083" count="3" />
+</reagents>
+<taught-by-npc cost="2430">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13642" requires-skill-level="165" colors="165 185 205 225">
+<name>附魔护腕 - 精神</name>
+<reagents>
+<item id="11134" count="1" />
+</reagents>
+<taught-by-npc cost="2520">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13644" requires-skill-level="170" colors="170 190 210 230">
+<name>附魔靴子 - 次级耐力</name>
+<reagents>
+<item id="11083" count="4" />
+</reagents>
+<taught-by-npc cost="2380">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13646" requires-skill-level="170" colors="170 190 210 230">
+<name>附魔护腕 - 次级偏斜</name>
+<reagents>
+<item id="11134" count="1" />
+<item id="11083" count="2" />
+</reagents>
+<taught-by-item>
+<item id="11163" />
+</taught-by-item>
+</spell>
+<spell id="13648" requires-skill-level="170" colors="170 190 210 230">
+<name>附魔护腕 - 耐力</name>
+<reagents>
+<item id="11083" count="6" />
+</reagents>
+<taught-by-npc cost="2520">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13653" requires-skill-level="175" colors="175 195 215 235">
+<name>附魔武器 - 次级屠兽</name>
+<reagents>
+<item id="11134" count="1" />
+<item id="5637" count="2" />
+<item id="11138" count="1" />
+</reagents>
+<taught-by-item>
+<item id="11164" />
+</taught-by-item>
+</spell>
+<spell id="13655" requires-skill-level="175" colors="175 195 215 235">
+<name>附魔武器 - 次级元素杀手</name>
+<reagents>
+<item id="11134" count="1" />
+<item id="7067" count="1" />
+<item id="11138" count="1" />
+</reagents>
+<taught-by-item>
+<item id="11165" />
+</taught-by-item>
+</spell>
+<spell id="13657" requires-skill-level="175" colors="175 195 215 235">
+<name>附魔披风 - 火焰抗性</name>
+<reagents>
+<item id="11134" count="1" />
+<item id="7068" count="1" />
+</reagents>
+<taught-by-npc cost="2550">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="14810" requires-skill-level="175" colors="175 195 215 235">
+<name>强效秘法杖</name>
+<create id="11290" class="2.19" count="1" />
+<reagents>
+<item id="11291" count="1" />
+<item id="11135" count="1" />
+<item id="11137" count="1" />
+</reagents>
+<taught-by-npc cost="2550">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13659" requires-skill-level="180" colors="180 200 220 240">
+<name>附魔盾牌 - 精神</name>
+<reagents>
+<item id="11135" count="1" />
+<item id="11137" count="1" />
+</reagents>
+<taught-by-npc cost="2720">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13661" requires-skill-level="180" colors="180 200 220 240">
+<name>附魔护腕 - 力量</name>
+<reagents>
+<item id="11137" count="1" />
+</reagents>
+<taught-by-npc cost="3060">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13663" requires-skill-level="185" colors="185 205 225 245">
+<name>附魔胸甲 - 强效法力</name>
+<reagents>
+<item id="11135" count="1" />
+</reagents>
+<taught-by-npc cost="3230">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13687" requires-skill-level="190" colors="190 210 230 250">
+<name>附魔靴子 - 次级精神</name>
+<reagents>
+<item id="11135" count="1" />
+<item id="11134" count="2" />
+</reagents>
+<taught-by-item>
+<item id="11167" />
+</taught-by-item>
+</spell>
+<spell id="21931" requires-skill-level="190" colors="190 210 230 250">
+<name>附魔武器 - 寒冬之力</name>
+<reagents>
+<item id="11135" count="3" />
+<item id="11137" count="3" />
+<item id="11139" count="1" />
+<item id="3819" count="2" />
+</reagents>
+<taught-by-item>
+<item id="17725" />
+</taught-by-item>
+</spell>
+<spell id="13689" requires-skill-level="195" colors="195 215 235 255">
+<name>附魔盾牌 - 次级格挡</name>
+<reagents>
+<item id="11135" count="2" />
+<item id="11137" count="2" />
+<item id="11139" count="1" />
+</reagents>
+<taught-by-item>
+<item id="11168" />
+</taught-by-item>
+</spell>
+<spell id="13693" requires-skill-level="195" colors="195 215 235 255">
+<name>附魔武器 - 攻击</name>
+<reagents>
+<item id="11135" count="2" />
+<item id="11139" count="1" />
+</reagents>
+<taught-by-npc cost="3400">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="25126" requires-skill-level="200" colors="200 210 220 230">
+<name>次级巫师之油</name>
+<create id="20746" class="0.-3" count="1" />
+<reagents>
+<item id="11137" count="3" />
+<item id="17035" count="2" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-item>
+<item id="20753" />
+</taught-by-item>
+</spell>
+<spell id="13695" requires-skill-level="200" colors="200 220 240 260">
+<name>附魔双手武器 - 冲击</name>
+<reagents>
+<item id="11137" count="4" />
+<item id="11139" count="1" />
+</reagents>
+<taught-by-npc cost="3600">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13698" requires-skill-level="200" colors="200 220 240 260">
+<name>附魔手套 - 剥皮</name>
+<reagents>
+<item id="11137" count="1" />
+<item id="7392" count="3" />
+</reagents>
+<taught-by-item>
+<item id="11166" />
+</taught-by-item>
+</spell>
+<spell id="13700" requires-skill-level="200" colors="200 220 240 260">
+<name>附魔胸甲 - 次级状态</name>
+<reagents>
+<item id="11135" count="2" />
+<item id="11137" count="2" />
+<item id="11139" count="1" />
+</reagents>
+<taught-by-npc cost="3400">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13702" requires-skill-level="200" colors="200 220 240 260">
+<name>符文真银棒</name>
+<create id="11145" class="7.12" count="1" />
+<reagents>
+<item id="11144" count="1" />
+<item id="7971" count="1" />
+<item id="11135" count="2" />
+<item id="11137" count="2" />
+<item id="11130" count="1" />
+</reagents>
+<taught-by-npc cost="3600">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13746" requires-skill-level="205" colors="205 225 245 265">
+<name>附魔披风 - 强效防御</name>
+<reagents>
+<item id="11137" count="3" />
+</reagents>
+<taught-by-npc cost="3570">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13794" requires-skill-level="205" colors="205 225 245 265">
+<name>附魔披风 - 抗性</name>
+<reagents>
+<item id="11174" count="1" />
+</reagents>
+<taught-by-npc cost="3570">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13815" requires-skill-level="210" colors="210 230 250 270">
+<name>附魔手套 - 敏捷</name>
+<reagents>
+<item id="11174" count="1" />
+<item id="11137" count="1" />
+</reagents>
+<taught-by-npc cost="3740">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13817" requires-skill-level="210" colors="210 230 250 270">
+<name>附魔盾牌 - 耐力</name>
+<reagents>
+<item id="11137" count="5" />
+</reagents>
+<taught-by-item>
+<item id="11202" />
+</taught-by-item>
+</spell>
+<spell id="13822" requires-skill-level="210" colors="210 230 250 270">
+<name>附魔护腕 - 智力</name>
+<reagents>
+<item id="11174" count="2" />
+</reagents>
+<taught-by-npc cost="3740">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13836" requires-skill-level="215" colors="215 235 255 275">
+<name>附魔靴子 - 耐力</name>
+<reagents>
+<item id="11137" count="5" />
+</reagents>
+<taught-by-npc cost="3910">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13841" requires-skill-level="215" colors="215 235 255 275">
+<name>附魔手套 - 高级采矿</name>
+<reagents>
+<item id="11137" count="3" />
+<item id="6037" count="3" />
+</reagents>
+<taught-by-item>
+<item id="11203" />
+</taught-by-item>
+</spell>
+<spell id="13846" requires-skill-level="220" colors="220 240 260 280">
+<name>附魔护腕 - 强效精神</name>
+<reagents>
+<item id="11174" count="3" />
+<item id="11137" count="1" />
+</reagents>
+<taught-by-item>
+<item id="11204" />
+</taught-by-item>
+</spell>
+<spell id="13858" requires-skill-level="220" colors="220 240 260 280">
+<name>附魔胸甲 - 超强生命</name>
+<reagents>
+<item id="11137" count="6" />
+</reagents>
+<taught-by-npc cost="4080">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13868" requires-skill-level="225" colors="225 245 265 285">
+<name>附魔手套 - 高级草药学</name>
+<reagents>
+<item id="11137" count="3" />
+<item id="8838" count="3" />
+</reagents>
+<taught-by-item>
+<item id="11205" />
+</taught-by-item>
+</spell>
+<spell id="13882" requires-skill-level="225" colors="225 245 265 285">
+<name>附魔披风 - 次级敏捷</name>
+<reagents>
+<item id="11174" count="2" />
+</reagents>
+<taught-by-item>
+<item id="11206" />
+</taught-by-item>
+</spell>
+<spell id="13887" requires-skill-level="225" colors="225 245 265 285">
+<name>附魔手套 - 力量</name>
+<reagents>
+<item id="11174" count="2" />
+<item id="11137" count="3" />
+</reagents>
+<taught-by-npc cost="4500">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13890" requires-skill-level="225" colors="225 245 265 285">
+<name>附魔靴子 - 初级速度</name>
+<reagents>
+<item id="11177" count="1" />
+<item id="7909" count="1" />
+<item id="11174" count="1" />
+</reagents>
+<taught-by-npc cost="4250">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="63746" requires-skill-level="225" colors="225 245 265 285">
+<name>附魔靴子 - 次级精确</name>
+<reagents>
+<item id="11137" count="4" />
+<item id="11174" count="1" />
+</reagents>
+<taught-by-npc cost="4750">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13905" requires-skill-level="230" colors="230 250 270 290">
+<name>附魔盾牌 - 强效精神</name>
+<reagents>
+<item id="11175" count="1" />
+<item id="11176" count="2" />
+</reagents>
+<taught-by-npc cost="4590">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13915" requires-skill-level="230" colors="230 250 270 290">
+<name>附魔武器 - 屠魔</name>
+<reagents>
+<item id="11177" count="1" />
+<item id="11176" count="2" />
+<item id="9224" count="1" />
+</reagents>
+<taught-by-item>
+<item id="11208" />
+</taught-by-item>
+</spell>
+<spell id="13917" requires-skill-level="230" colors="230 250 270 290">
+<name>附魔胸甲 - 超强法力</name>
+<reagents>
+<item id="11175" count="1" />
+<item id="11174" count="2" />
+</reagents>
+<taught-by-npc cost="4860">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13931" requires-skill-level="235" colors="235 255 275 295">
+<name>附魔护腕 - 偏斜</name>
+<reagents>
+<item id="11175" count="1" />
+<item id="11176" count="2" />
+</reagents>
+<taught-by-item>
+<item id="11223" />
+</taught-by-item>
+</spell>
+<spell id="13933" requires-skill-level="235" colors="235 255 275 295">
+<name>附魔盾牌 - 冰霜抗性</name>
+<reagents>
+<item id="11178" count="1" />
+<item id="3829" count="1" />
+</reagents>
+<taught-by-item>
+<item id="11224" />
+</taught-by-item>
+</spell>
+<spell id="13935" requires-skill-level="235" colors="235 255 275 295">
+<name>附魔靴子 - 敏捷</name>
+<reagents>
+<item id="11175" count="2" />
+</reagents>
+<taught-by-npc cost="4930">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13937" requires-skill-level="240" colors="240 260 280 300">
+<name>附魔双手武器 - 强效冲击</name>
+<reagents>
+<item id="11178" count="2" />
+<item id="11176" count="2" />
+</reagents>
+<taught-by-npc cost="5270">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13939" requires-skill-level="240" colors="240 260 280 300">
+<name>附魔护腕 - 强效力量</name>
+<reagents>
+<item id="11176" count="2" />
+<item id="11175" count="1" />
+</reagents>
+<taught-by-npc cost="5270">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13941" requires-skill-level="245" colors="245 265 285 305">
+<name>附魔胸甲 - 状态</name>
+<reagents>
+<item id="11178" count="1" />
+<item id="11176" count="3" />
+<item id="11175" count="2" />
+</reagents>
+<taught-by-npc cost="5580">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13943" requires-skill-level="245" colors="245 265 285 305">
+<name>附魔武器 - 强效攻击</name>
+<reagents>
+<item id="11178" count="2" />
+<item id="11175" count="2" />
+</reagents>
+<taught-by-npc cost="5270">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="13945" requires-skill-level="245" colors="245 265 285 305">
+<name>附魔护腕 - 强效耐力</name>
+<reagents>
+<item id="11176" count="5" />
+</reagents>
+<taught-by-item>
+<item id="11225" />
+</taught-by-item>
+</spell>
+<spell id="17180" requires-skill-level="250" colors="0 250 255 260">
+<name>魔化瑟银</name>
+<create id="12655" class="7.7" count="1" />
+<reagents>
+<item id="12359" count="1" />
+<item id="11176" count="3" />
+</reagents>
+<taught-by-npc cost="8500">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="17181" requires-skill-level="250" colors="0 250 255 260">
+<name>魔化皮</name>
+<create id="12810" class="7.6" count="1" />
+<reagents>
+<item id="8170" count="1" />
+<item id="16202" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="25127" requires-skill-level="250" colors="250 260 270 280">
+<name>次级法力之油</name>
+<create id="20747" class="0.-3" count="1" />
+<reagents>
+<item id="11176" count="3" />
+<item id="8831" count="2" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="20754" />
+</taught-by-item>
+</spell>
+<spell id="13947" requires-skill-level="250" colors="250 270 290 310">
+<name>附魔手套 - 骑乘</name>
+<reagents>
+<item id="11178" count="2" />
+<item id="11176" count="3" />
+</reagents>
+<taught-by-item>
+<item id="11226" />
+</taught-by-item>
+</spell>
+<spell id="13948" requires-skill-level="250" colors="250 270 290 310">
+<name>附魔手套 - 初级加速</name>
+<reagents>
+<item id="11178" count="2" />
+<item id="8153" count="2" />
+</reagents>
+<taught-by-npc cost="5850">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="20008" requires-skill-level="255" colors="255 275 295 315">
+<name>附魔护腕 - 强效智力</name>
+<reagents>
+<item id="16202" count="3" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+<taught-by-item>
+<item id="16214" />
+</taught-by-item>
+</spell>
+<spell id="20020" requires-skill-level="260" colors="260 280 300 320">
+<name>附魔靴子 - 强效耐力</name>
+<reagents>
+<item id="11176" count="5" />
+</reagents>
+<taught-by-item>
+<item id="16215" />
+</taught-by-item>
+</spell>
+<spell id="13898" requires-skill-level="265" colors="265 285 305 325">
+<name>附魔武器 - 烈焰</name>
+<reagents>
+<item id="11177" count="4" />
+<item id="7078" count="1" />
+</reagents>
+<taught-by-item>
+<item id="11207" />
+</taught-by-item>
+</spell>
+<spell id="15596" requires-skill-level="265" colors="265 285 305 325">
+<name>浓烟山脉之心</name>
+<create id="11811" class="4.-4" count="1" />
+<reagents>
+<item id="7078" count="3" />
+<item id="14343" count="3" />
+</reagents>
+<taught-by-item>
+<item id="11813" />
+<item id="45050" />
+</taught-by-item>
+</spell>
+<spell id="20014" requires-skill-level="265" colors="265 285 305 325">
+<name>附魔披风 - 强效抗性</name>
+<reagents>
+<item id="7077" count="1" />
+<item id="7075" count="1" />
+<item id="7079" count="1" />
+<item id="7081" count="1" />
+<item id="7972" count="1" />
+</reagents>
+<taught-by-npc cost="8500">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+<taught-by-item>
+<item id="16216" />
+</taught-by-item>
+</spell>
+<spell id="20017" requires-skill-level="265" colors="265 285 305 325">
+<name>附魔盾牌 - 强效耐力</name>
+<reagents>
+<item id="11176" count="5" />
+</reagents>
+<taught-by-item>
+<item id="16217" />
+</taught-by-item>
+</spell>
+<spell id="20009" requires-skill-level="270" colors="270 290 310 330">
+<name>附魔护腕 - 超强精神</name>
+<reagents>
+<item id="16202" count="3" />
+<item id="11176" count="4" />
+</reagents>
+<taught-by-item>
+<item id="16218" />
+</taught-by-item>
+</spell>
+<spell id="20012" requires-skill-level="270" colors="270 290 310 330">
+<name>附魔手套 - 强效敏捷</name>
+<reagents>
+<item id="16202" count="2" />
+<item id="16204" count="3" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+<taught-by-item>
+<item id="16219" />
+</taught-by-item>
+</spell>
+<spell id="25128" requires-skill-level="275" colors="275 285 295 305">
+<name>巫师之油</name>
+<create id="20750" class="0.-3" count="1" />
+<reagents>
+<item id="16204" count="3" />
+<item id="4625" count="2" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="20755" />
+</taught-by-item>
+</spell>
+<spell id="20024" requires-skill-level="275" colors="275 295 315 335">
+<name>附魔靴子 - 精神</name>
+<reagents>
+<item id="16203" count="2" />
+</reagents>
+<taught-by-item>
+<item id="16220" />
+</taught-by-item>
+</spell>
+<spell id="20026" requires-skill-level="275" colors="275 295 315 335">
+<name>附魔胸甲 - 特效生命</name>
+<reagents>
+<item id="14343" count="2" />
+</reagents>
+<taught-by-item>
+<item id="16221" />
+</taught-by-item>
+</spell>
+<spell id="20016" requires-skill-level="280" colors="280 300 320 340">
+<name>附魔盾牌 - 活力</name>
+<reagents>
+<item id="16203" count="1" />
+<item id="16204" count="4" />
+</reagents>
+<taught-by-npc cost="12750">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+<taught-by-item>
+<item id="16222" />
+</taught-by-item>
+</spell>
+<spell id="20015" requires-skill-level="285" colors="285 300 317 335">
+<name>附魔披风 - 超强防御</name>
+<reagents>
+<item id="16204" count="8" />
+</reagents>
+<taught-by-item>
+<item id="16224" />
+</taught-by-item>
+</spell>
+<spell id="20029" requires-skill-level="285" colors="285 300 317 335">
+<name>附魔武器 - 冰寒</name>
+<reagents>
+<item id="14343" count="4" />
+<item id="7080" count="1" />
+<item id="7082" count="1" />
+<item id="13467" count="1" />
+</reagents>
+<taught-by-item>
+<item id="16223" />
+</taught-by-item>
+</spell>
+<spell id="20028" requires-skill-level="290" colors="290 305 322 340">
+<name>附魔胸甲 - 特效法力</name>
+<reagents>
+<item id="16204" count="8" />
+</reagents>
+<taught-by-npc cost="12750">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+<taught-by-item>
+<item id="16242" />
+</taught-by-item>
+</spell>
+<spell id="20051" requires-skill-level="290" colors="290 305 322 340">
+<name>符文奥金棒</name>
+<create id="16207" class="7.12" count="1" />
+<reagents>
+<item id="16206" count="1" />
+<item id="13926" count="1" />
+<item id="16204" count="10" />
+<item id="16203" count="4" />
+<item id="11145" count="1" />
+<item id="14344" count="2" />
+</reagents>
+<taught-by-item>
+<item id="16243" />
+</taught-by-item>
+</spell>
+<spell id="23799" requires-skill-level="290" colors="290 305 322 340">
+<name>附魔武器 - 力量</name>
+<reagents>
+<item id="14344" count="4" />
+<item id="7076" count="4" />
+</reagents>
+<taught-by-item>
+<item id="19444" />
+</taught-by-item>
+</spell>
+<spell id="23800" requires-skill-level="290" colors="290 305 322 340">
+<name>附魔武器 - 敏捷</name>
+<reagents>
+<item id="14344" count="4" />
+<item id="7082" count="4" />
+</reagents>
+<taught-by-item>
+<item id="19445" />
+</taught-by-item>
+</spell>
+<spell id="23801" requires-skill-level="290" colors="290 305 322 340">
+<name>附魔护腕 - 法力回复</name>
+<reagents>
+<item id="16204" count="4" />
+<item id="16202" count="4" />
+<item id="7080" count="2" />
+</reagents>
+<taught-by-item>
+<item id="19446" />
+</taught-by-item>
+</spell>
+<spell id="27837" requires-skill-level="290" colors="290 305 322 340">
+<name>附魔双手武器 - 敏捷</name>
+<reagents>
+<item id="14344" count="8" />
+<item id="7082" count="4" />
+</reagents>
+<taught-by-item>
+<item id="22392" />
+</taught-by-item>
+</spell>
+<spell id="20010" requires-skill-level="295" colors="295 310 325 340">
+<name>附魔护腕 - 超强力量</name>
+<reagents>
+<item id="16204" count="6" />
+<item id="16203" count="2" />
+</reagents>
+<taught-by-item>
+<item id="16246" />
+</taught-by-item>
+</spell>
+<spell id="20013" requires-skill-level="295" colors="295 310 325 340">
+<name>附魔手套 - 强效力量</name>
+<reagents>
+<item id="16202" count="4" />
+<item id="16204" count="4" />
+</reagents>
+<taught-by-npc cost="18000">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+<taught-by-item>
+<item id="16244" />
+</taught-by-item>
+</spell>
+<spell id="20023" requires-skill-level="295" colors="295 310 325 340">
+<name>附魔靴子 - 强效敏捷</name>
+<reagents>
+<item id="16202" count="2" />
+<item id="8153" count="2" />
+</reagents>
+<taught-by-npc cost="17000">
+<npc id="1317" />
+<npc id="3011" />
+<npc id="3345" />
+<npc id="3606" />
+<npc id="4213" />
+<npc id="4616" />
+<npc id="5157" />
+<npc id="5695" />
+<npc id="7949" />
+<npc id="11072" />
+<npc id="11073" />
+<npc id="11074" />
+<npc id="16160" />
+<npc id="16633" />
+<npc id="16725" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19251" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+<taught-by-item>
+<item id="16245" />
+</taught-by-item>
+</spell>
+<spell id="20030" requires-skill-level="295" colors="295 310 325 340">
+<name>附魔双手武器 - 超强冲击</name>
+<reagents>
+<item id="14344" count="4" />
+<item id="16204" count="10" />
+</reagents>
+<taught-by-item>
+<item id="16247" />
+</taught-by-item>
+</spell>
+<spell id="20033" requires-skill-level="295" colors="295 310 325 340">
+<name>附魔武器 - 邪恶武器</name>
+<reagents>
+<item id="14344" count="4" />
+<item id="12808" count="4" />
+</reagents>
+<taught-by-item>
+<item id="16248" />
+</taught-by-item>
+</spell>
+<spell id="42613" requires-skill-level="300" colors="0 300 300 305">
+<name>转化连结水晶</name>
+<create id="22448" class="7.12" count="1" />
+<reagents>
+<item id="20725" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="25129" requires-skill-level="300" colors="300 310 320 330">
+<name>卓越巫师之油</name>
+<create id="20749" class="0.-3" count="1" />
+<reagents>
+<item id="14344" count="2" />
+<item id="4625" count="3" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="20756" />
+</taught-by-item>
+</spell>
+<spell id="25130" requires-skill-level="300" colors="300 310 320 330">
+<name>卓越法力之油</name>
+<create id="20748" class="0.-3" count="1" />
+<reagents>
+<item id="14344" count="2" />
+<item id="8831" count="3" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="20757" />
+</taught-by-item>
+</spell>
+<spell id="20011" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔护腕 - 超强耐力</name>
+<reagents>
+<item id="16204" count="10" />
+</reagents>
+<taught-by-item>
+<item id="16251" />
+</taught-by-item>
+</spell>
+<spell id="20025" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔胸甲 - 强效属性</name>
+<reagents>
+<item id="14344" count="2" />
+<item id="16204" count="6" />
+</reagents>
+<taught-by-item>
+<item id="16253" />
+</taught-by-item>
+</spell>
+<spell id="20031" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔武器 - 超强打击</name>
+<reagents>
+<item id="14344" count="2" />
+<item id="16203" count="4" />
+</reagents>
+<taught-by-item>
+<item id="16250" />
+</taught-by-item>
+</spell>
+<spell id="20032" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔武器 - 生命吸取</name>
+<reagents>
+<item id="14344" count="4" />
+<item id="12808" count="4" />
+<item id="12803" count="4" />
+</reagents>
+<taught-by-item>
+<item id="16254" />
+</taught-by-item>
+</spell>
+<spell id="20034" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔武器 - 十字军</name>
+<reagents>
+<item id="14344" count="4" />
+<item id="12811" count="2" />
+</reagents>
+<taught-by-item>
+<item id="16252" />
+</taught-by-item>
+</spell>
+<spell id="20035" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔双手武器 - 特效精神</name>
+<reagents>
+<item id="16203" count="4" />
+<item id="14344" count="2" />
+</reagents>
+<taught-by-item>
+<item id="16255" />
+</taught-by-item>
+</spell>
+<spell id="20036" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔双手武器 - 特效智力</name>
+<reagents>
+<item id="16203" count="4" />
+<item id="14344" count="2" />
+</reagents>
+<taught-by-item>
+<item id="16249" />
+</taught-by-item>
+</spell>
+<spell id="22749" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔武器 - 法术能量</name>
+<reagents>
+<item id="14344" count="4" />
+<item id="16203" count="6" />
+<item id="13926" count="2" />
+</reagents>
+<taught-by-item>
+<item id="18259" />
+</taught-by-item>
+</spell>
+<spell id="22750" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔武器 - 治疗能量</name>
+<reagents>
+<item id="14344" count="4" />
+<item id="16203" count="4" />
+<item id="7080" count="4" />
+</reagents>
+<taught-by-item>
+<item id="18260" />
+</taught-by-item>
+</spell>
+<spell id="23802" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔护腕 - 治疗能力</name>
+<reagents>
+<item id="14344" count="2" />
+<item id="16204" count="4" />
+<item id="16202" count="4" />
+</reagents>
+<taught-by-item>
+<item id="19447" />
+</taught-by-item>
+</spell>
+<spell id="23803" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔武器 - 强效精神</name>
+<reagents>
+<item id="14344" count="6" />
+<item id="16203" count="4" />
+<item id="16204" count="12" />
+</reagents>
+<taught-by-item>
+<item id="19448" />
+</taught-by-item>
+</spell>
+<spell id="23804" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔武器 - 强效智力</name>
+<reagents>
+<item id="14344" count="6" />
+<item id="16203" count="5" />
+<item id="16204" count="20" />
+</reagents>
+<taught-by-item>
+<item id="19449" />
+</taught-by-item>
+</spell>
+<spell id="25072" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔手套 - 威胁</name>
+<reagents>
+<item id="22448" count="4" />
+<item id="22446" count="2" />
+<item id="21886" count="8" />
+</reagents>
+<taught-by-item>
+<item id="20726" />
+<item id="33153" />
+</taught-by-item>
+</spell>
+<spell id="25073" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔手套 - 暗影能量</name>
+<reagents>
+<item id="22448" count="3" />
+<item id="14344" count="10" />
+<item id="12808" count="6" />
+</reagents>
+<taught-by-item>
+<item id="20727" />
+</taught-by-item>
+</spell>
+<spell id="25074" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔手套 - 冰霜能量</name>
+<reagents>
+<item id="22448" count="3" />
+<item id="14344" count="10" />
+<item id="7080" count="4" />
+</reagents>
+<taught-by-item>
+<item id="20728" />
+</taught-by-item>
+</spell>
+<spell id="25078" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔手套 - 火焰能量</name>
+<reagents>
+<item id="22448" count="2" />
+<item id="14344" count="10" />
+<item id="7078" count="4" />
+</reagents>
+<taught-by-item>
+<item id="20729" />
+</taught-by-item>
+</spell>
+<spell id="25079" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔手套 - 治疗能量</name>
+<reagents>
+<item id="22448" count="3" />
+<item id="14344" count="8" />
+<item id="12811" count="1" />
+</reagents>
+<taught-by-item>
+<item id="20730" />
+</taught-by-item>
+</spell>
+<spell id="25080" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔手套 - 超强敏捷</name>
+<reagents>
+<item id="22448" count="3" />
+<item id="22446" count="3" />
+<item id="22451" count="2" />
+</reagents>
+<taught-by-item>
+<item id="20731" />
+<item id="33152" />
+</taught-by-item>
+</spell>
+<spell id="25081" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔披风 - 强效火焰抗性</name>
+<reagents>
+<item id="22448" count="3" />
+<item id="22446" count="3" />
+<item id="7078" count="4" />
+</reagents>
+<taught-by-item>
+<item id="20732" />
+</taught-by-item>
+</spell>
+<spell id="25082" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔披风 - 强效自然抗性</name>
+<reagents>
+<item id="22448" count="2" />
+<item id="22446" count="3" />
+<item id="12803" count="4" />
+</reagents>
+<taught-by-item>
+<item id="20733" />
+</taught-by-item>
+</spell>
+<spell id="25083" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔披风 - 潜行</name>
+<reagents>
+<item id="22448" count="3" />
+<item id="22446" count="3" />
+<item id="22794" count="2" />
+</reagents>
+<taught-by-item>
+<item id="20734" />
+<item id="33149" />
+</taught-by-item>
+</spell>
+<spell id="25084" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔披风 - 狡诈</name>
+<reagents>
+<item id="22448" count="4" />
+<item id="22446" count="2" />
+<item id="22456" count="8" />
+</reagents>
+<taught-by-item>
+<item id="20735" />
+<item id="33150" />
+<item id="33151" />
+</taught-by-item>
+</spell>
+<spell id="25086" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔披风 - 躲闪</name>
+<reagents>
+<item id="22448" count="3" />
+<item id="22446" count="3" />
+<item id="22452" count="8" />
+</reagents>
+<taught-by-item>
+<item id="20736" />
+<item id="33148" />
+</taught-by-item>
+</spell>
+<spell id="32664" requires-skill-level="300" colors="300 310 325 340">
+<name>符文魔铁棒</name>
+<create id="22461" class="7.12" count="1" />
+<reagents>
+<item id="25843" count="1" />
+<item id="16203" count="4" />
+<item id="14344" count="6" />
+<item id="16207" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="33991" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔胸甲 - 优秀法力回复</name>
+<reagents>
+<item id="22447" count="2" />
+<item id="22445" count="2" />
+</reagents>
+<taught-by-npc cost="11250">
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="34002" requires-skill-level="300" colors="300 310 325 340">
+<name>附魔护腕 - 突袭</name>
+<reagents>
+<item id="22445" count="6" />
+</reagents>
+<taught-by-npc cost="11250">
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="27899" requires-skill-level="305" colors="305 315 330 345">
+<name>附魔护腕 - 强壮</name>
+<reagents>
+<item id="22445" count="6" />
+</reagents>
+<taught-by-npc cost="11250">
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="27948" requires-skill-level="305" colors="305 315 330 345">
+<name>附魔长靴 - 活力</name>
+<reagents>
+<item id="22445" count="6" />
+<item id="13446" count="4" />
+<item id="13444" count="4" />
+</reagents>
+<taught-by-item>
+<item id="22542" />
+<item id="35298" />
+</taught-by-item>
+</spell>
+<spell id="33993" requires-skill-level="305" colors="305 315 330 345">
+<name>附魔手套 - 冲击</name>
+<reagents>
+<item id="22447" count="1" />
+<item id="22445" count="4" />
+</reagents>
+<taught-by-npc cost="11250">
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="34001" requires-skill-level="305" colors="305 315 330 345">
+<name>附魔护腕 - 特效智力</name>
+<reagents>
+<item id="22447" count="3" />
+</reagents>
+<taught-by-npc cost="11250">
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="28016" requires-skill-level="310" colors="0 310 320 330">
+<name>超级法力之油</name>
+<create id="22521" class="0.-3" count="1" />
+<reagents>
+<item id="22445" count="3" />
+<item id="22791" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22562" />
+</taught-by-item>
+</spell>
+<spell id="27944" requires-skill-level="310" colors="310 320 335 350">
+<name>附魔盾牌 - 坚韧盾牌</name>
+<reagents>
+<item id="22445" count="6" />
+<item id="22452" count="10" />
+</reagents>
+<taught-by-npc cost="13500">
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="27961" requires-skill-level="310" colors="310 320 335 350">
+<name>附魔披风 - 特效护甲</name>
+<reagents>
+<item id="22445" count="8" />
+</reagents>
+<taught-by-npc cost="13500">
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="33996" requires-skill-level="310" colors="310 320 335 350">
+<name>附魔手套 - 突袭</name>
+<reagents>
+<item id="22445" count="8" />
+</reagents>
+<taught-by-npc cost="13500">
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="34004" requires-skill-level="310" colors="310 320 335 350">
+<name>附魔披风 - 强效敏捷</name>
+<reagents>
+<item id="22446" count="1" />
+<item id="22445" count="4" />
+<item id="22451" count="1" />
+</reagents>
+<taught-by-npc cost="13500">
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="27905" requires-skill-level="315" colors="315 325 340 355">
+<name>附魔护腕 - 属性</name>
+<reagents>
+<item id="22445" count="6" />
+<item id="22447" count="6" />
+</reagents>
+<taught-by-npc cost="11250">
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="27957" requires-skill-level="315" colors="315 325 340 355">
+<name>附魔胸甲 - 优异生命</name>
+<reagents>
+<item id="22445" count="8" />
+<item id="13446" count="4" />
+<item id="14344" count="2" />
+</reagents>
+<taught-by-npc cost="15750">
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="27906" requires-skill-level="320" colors="320 330 345 360">
+<name>附魔护腕 - 特效防御</name>
+<reagents>
+<item id="22448" count="2" />
+<item id="22445" count="10" />
+</reagents>
+<taught-by-item>
+<item id="22530" />
+</taught-by-item>
+</spell>
+<spell id="27950" requires-skill-level="320" colors="320 330 345 360">
+<name>附魔长靴 - 坚韧</name>
+<reagents>
+<item id="22445" count="12" />
+</reagents>
+<taught-by-item>
+<item id="22543" />
+</taught-by-item>
+</spell>
+<spell id="33990" requires-skill-level="320" colors="320 330 345 360">
+<name>附魔胸甲 - 特效精神</name>
+<reagents>
+<item id="22446" count="2" />
+</reagents>
+<taught-by-npc cost="18000">
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="28027" requires-skill-level="325" colors="0 325 330 335">
+<name>棱光之球</name>
+<create id="22460" class="3.8" count="1" />
+<reagents>
+<item id="22449" count="4" />
+</reagents>
+<taught-by-npc cost="36000">
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="27911" requires-skill-level="325" colors="325 335 350 365">
+<name>附魔护腕 - 超强治疗</name>
+<reagents>
+<item id="22446" count="4" />
+<item id="21886" count="4" />
+</reagents>
+<taught-by-item>
+<item id="22531" />
+<item id="24000" />
+</taught-by-item>
+</spell>
+<spell id="27945" requires-skill-level="325" colors="325 335 350 365">
+<name>附魔盾牌 - 智力</name>
+<reagents>
+<item id="22446" count="4" />
+</reagents>
+<taught-by-item>
+<item id="22539" />
+</taught-by-item>
+</spell>
+<spell id="34003" requires-skill-level="325" colors="325 335 350 365">
+<name>附魔披风 - 法术穿透</name>
+<reagents>
+<item id="22446" count="2" />
+<item id="22445" count="6" />
+<item id="22457" count="2" />
+</reagents>
+<taught-by-item>
+<item id="28274" />
+</taught-by-item>
+</spell>
+<spell id="34009" requires-skill-level="325" colors="325 335 350 365">
+<name>附魔盾牌 - 特效耐力</name>
+<reagents>
+<item id="22445" count="15" />
+</reagents>
+<taught-by-item>
+<item id="28282" />
+</taught-by-item>
+</spell>
+<spell id="27962" requires-skill-level="330" colors="330 340 355 370">
+<name>附魔披风 - 特效抗性</name>
+<reagents>
+<item id="22446" count="4" />
+<item id="21884" count="4" />
+<item id="22451" count="4" />
+<item id="22452" count="4" />
+<item id="21885" count="4" />
+</reagents>
+<taught-by-item>
+<item id="22548" />
+</taught-by-item>
+</spell>
+<spell id="44383" requires-skill-level="330" colors="330 340 355 370">
+<name>附魔盾牌 - 韧性</name>
+<reagents>
+<item id="22449" count="1" />
+<item id="22447" count="4" />
+</reagents>
+<taught-by-npc cost="22500">
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="28022" requires-skill-level="335" colors="0 0 0 335">
+<name>大块棱光碎片</name>
+<create id="22449" class="7.12" count="1" />
+<reagents>
+<item id="22448" count="3" />
+</reagents>
+<taught-by-item>
+<item id="22565" />
+</taught-by-item>
+</spell>
+<spell id="42615" requires-skill-level="335" colors="0 0 335 335">
+<name>小块棱光碎片</name>
+<create id="22448" class="7.12" count="3" />
+<reagents>
+<item id="22449" count="1" />
+</reagents>
+<taught-by-npc cost="36000">
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="27913" requires-skill-level="335" colors="335 345 360 375">
+<name>附魔护腕 - 优秀法力回复</name>
+<reagents>
+<item id="22446" count="8" />
+</reagents>
+<taught-by-item>
+<item id="22532" />
+</taught-by-item>
+</spell>
+<spell id="28019" requires-skill-level="340" colors="0 340 350 360">
+<name>超级巫师之油</name>
+<create id="22522" class="0.-3" count="1" />
+<reagents>
+<item id="22445" count="3" />
+<item id="22792" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22563" />
+</taught-by-item>
+</spell>
+<spell id="27946" requires-skill-level="340" colors="340 350 365 380">
+<name>附魔盾牌 - 盾牌格挡</name>
+<reagents>
+<item id="22445" count="12" />
+<item id="22446" count="4" />
+<item id="22452" count="10" />
+</reagents>
+<taught-by-item>
+<item id="22540" />
+</taught-by-item>
+</spell>
+<spell id="27951" requires-skill-level="340" colors="340 350 365 380">
+<name>附魔长靴 - 灵巧</name>
+<reagents>
+<item id="22446" count="8" />
+<item id="22445" count="8" />
+</reagents>
+<taught-by-item>
+<item id="22544" />
+</taught-by-item>
+</spell>
+<spell id="27967" requires-skill-level="340" colors="340 350 365 380">
+<name>附魔武器 - 特效打击</name>
+<reagents>
+<item id="22449" count="2" />
+<item id="22446" count="6" />
+<item id="22445" count="6" />
+</reagents>
+<taught-by-item>
+<item id="22552" />
+</taught-by-item>
+</spell>
+<spell id="27968" requires-skill-level="340" colors="340 350 365 380">
+<name>附魔武器 - 特效智力</name>
+<reagents>
+<item id="22449" count="2" />
+<item id="22446" count="10" />
+</reagents>
+<taught-by-item>
+<item id="22551" />
+</taught-by-item>
+</spell>
+<spell id="33995" requires-skill-level="340" colors="340 350 365 380">
+<name>附魔手套 - 特效力量</name>
+<reagents>
+<item id="22445" count="12" />
+<item id="22446" count="1" />
+</reagents>
+<taught-by-npc cost="22500">
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="27960" requires-skill-level="345" colors="345 355 367 380">
+<name>附魔胸甲 - 优异属性</name>
+<reagents>
+<item id="22449" count="4" />
+<item id="22445" count="4" />
+<item id="22446" count="4" />
+</reagents>
+<taught-by-item>
+<item id="22547" />
+<item id="24003" />
+</taught-by-item>
+</spell>
+<spell id="33992" requires-skill-level="345" colors="345 355 367 380">
+<name>附魔胸甲 - 特效韧性</name>
+<reagents>
+<item id="22446" count="4" />
+<item id="22445" count="10" />
+</reagents>
+<taught-by-item>
+<item id="28270" />
+</taught-by-item>
+</spell>
+<spell id="46578" requires-skill-level="350" colors="0 350 357 365">
+<name>附魔武器 - 死亡霜冻</name>
+<reagents>
+<item id="22456" count="2" />
+<item id="21885" count="2" />
+</reagents>
+<taught-by-item>
+<item id="35498" />
+</taught-by-item>
+</spell>
+<spell id="42620" requires-skill-level="350" colors="350 360 367 375">
+<name>附魔武器 - 强效敏捷</name>
+<reagents>
+<item id="22445" count="8" />
+<item id="22446" count="4" />
+<item id="22449" count="6" />
+<item id="22451" count="2" />
+</reagents>
+<taught-by-item>
+<item id="33165" />
+</taught-by-item>
+</spell>
+<spell id="27958" requires-skill-level="350" colors="350 360 370 380">
+<name>附魔胸甲 - 优异法力</name>
+<reagents>
+<item id="34054" count="6" />
+</reagents>
+<taught-by-npc cost="45000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="60609" requires-skill-level="350" colors="350 360 370 380">
+<name>附魔披风 - 速度</name>
+<reagents>
+<item id="34054" count="6" />
+</reagents>
+<taught-by-npc cost="45000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="27914" requires-skill-level="350" colors="350 370 375 380">
+<name>附魔护腕 - 坚韧</name>
+<reagents>
+<item id="22449" count="1" />
+<item id="22446" count="10" />
+<item id="22445" count="20" />
+</reagents>
+<taught-by-item>
+<item id="22533" />
+</taught-by-item>
+</spell>
+<spell id="27971" requires-skill-level="350" colors="350 370 375 380">
+<name>附魔双手武器 - 野蛮</name>
+<reagents>
+<item id="22449" count="4" />
+<item id="22445" count="40" />
+</reagents>
+<taught-by-item>
+<item id="22554" />
+</taught-by-item>
+</spell>
+<spell id="27972" requires-skill-level="350" colors="350 370 375 380">
+<name>附魔武器 - 潜能</name>
+<reagents>
+<item id="22449" count="4" />
+<item id="22446" count="5" />
+<item id="22445" count="20" />
+</reagents>
+<taught-by-item>
+<item id="22553" />
+</taught-by-item>
+</spell>
+<spell id="27975" requires-skill-level="350" colors="350 370 375 380">
+<name>附魔武器 - 特效法术能量</name>
+<reagents>
+<item id="22449" count="8" />
+<item id="22446" count="8" />
+</reagents>
+<taught-by-item>
+<item id="22555" />
+</taught-by-item>
+</spell>
+<spell id="28028" requires-skill-level="350" colors="350 370 375 380">
+<name>虚空之球</name>
+<create id="22459" class="3.8" count="1" />
+<reagents>
+<item id="22450" count="2" />
+</reagents>
+<taught-by-npc cost="72000">
+<npc id="18753" />
+<npc id="18773" />
+<npc id="19252" />
+<npc id="19540" />
+<npc id="33610" />
+<npc id="33633" />
+<npc id="33676" />
+</taught-by-npc>
+</spell>
+<spell id="32665" requires-skill-level="350" colors="350 370 375 380">
+<name>符文精金棒</name>
+<create id="22462" class="7.12" count="1" />
+<reagents>
+<item id="25844" count="1" />
+<item id="22446" count="8" />
+<item id="22449" count="8" />
+<item id="23571" count="1" />
+<item id="22461" count="1" />
+</reagents>
+<taught-by-item>
+<item id="25848" />
+</taught-by-item>
+</spell>
+<spell id="33999" requires-skill-level="350" colors="350 370 375 380">
+<name>附魔手套 - 特效治疗</name>
+<reagents>
+<item id="22446" count="6" />
+<item id="22449" count="6" />
+<item id="21886" count="6" />
+</reagents>
+<taught-by-item>
+<item id="28273" />
+</taught-by-item>
+</spell>
+<spell id="34005" requires-skill-level="350" colors="350 370 375 380">
+<name>附魔披风 - 强效奥术抗性</name>
+<reagents>
+<item id="22449" count="4" />
+<item id="22457" count="8" />
+</reagents>
+<taught-by-item>
+<item id="28276" />
+</taught-by-item>
+</spell>
+<spell id="34006" requires-skill-level="350" colors="350 370 375 380">
+<name>附魔披风 - 强效暗影抗性</name>
+<reagents>
+<item id="22449" count="4" />
+<item id="22456" count="8" />
+</reagents>
+<taught-by-item>
+<item id="28277" />
+</taught-by-item>
+</spell>
+<spell id="34010" requires-skill-level="350" colors="350 370 375 380">
+<name>附魔武器 - 特效治疗</name>
+<reagents>
+<item id="22449" count="8" />
+<item id="21885" count="8" />
+<item id="21886" count="8" />
+</reagents>
+<taught-by-item>
+<item id="28281" />
+</taught-by-item>
+</spell>
+<spell id="27920" requires-skill-level="360" colors="360 370 377 385">
+<name>附魔戒指 - 打击</name>
+<reagents>
+<item id="22449" count="2" />
+<item id="22445" count="6" />
+</reagents>
+<taught-by-item>
+<item id="22535" />
+</taught-by-item>
+</spell>
+<spell id="27924" requires-skill-level="360" colors="360 370 377 385">
+<name>附魔戒指 - 法术能量</name>
+<reagents>
+<item id="22449" count="2" />
+<item id="22446" count="2" />
+</reagents>
+<taught-by-item>
+<item id="22536" />
+</taught-by-item>
+</spell>
+<spell id="27947" requires-skill-level="360" colors="360 370 377 385">
+<name>附魔盾牌 - 抗性</name>
+<reagents>
+<item id="22449" count="2" />
+<item id="22573" count="1" />
+<item id="22574" count="1" />
+<item id="22572" count="1" />
+<item id="22578" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22541" />
+</taught-by-item>
+</spell>
+<spell id="27977" requires-skill-level="360" colors="360 370 377 385">
+<name>附魔双手武器 - 特效敏捷</name>
+<reagents>
+<item id="22449" count="8" />
+<item id="22446" count="6" />
+<item id="22445" count="20" />
+</reagents>
+<taught-by-item>
+<item id="22556" />
+</taught-by-item>
+</spell>
+<spell id="28003" requires-skill-level="360" colors="360 370 377 385">
+<name>附魔武器 - 魔法激荡</name>
+<reagents>
+<item id="22449" count="12" />
+<item id="22446" count="10" />
+<item id="22445" count="20" />
+</reagents>
+<taught-by-item>
+<item id="22558" />
+</taught-by-item>
+</spell>
+<spell id="28004" requires-skill-level="360" colors="360 370 377 385">
+<name>附魔武器 - 作战专家</name>
+<reagents>
+<item id="22450" count="8" />
+<item id="22449" count="8" />
+<item id="21885" count="2" />
+</reagents>
+<taught-by-item>
+<item id="22557" />
+</taught-by-item>
+</spell>
+<spell id="33994" requires-skill-level="360" colors="360 370 377 385">
+<name>附魔手套 - 精确打击</name>
+<reagents>
+<item id="22446" count="8" />
+<item id="22445" count="2" />
+<item id="22449" count="2" />
+</reagents>
+<taught-by-item>
+<item id="28271" />
+</taught-by-item>
+</spell>
+<spell id="33997" requires-skill-level="360" colors="360 370 377 385">
+<name>附魔手套 - 特效法术能量</name>
+<reagents>
+<item id="22446" count="6" />
+<item id="22449" count="6" />
+<item id="22457" count="6" />
+</reagents>
+<taught-by-item>
+<item id="28272" />
+</taught-by-item>
+</spell>
+<spell id="34007" requires-skill-level="360" colors="360 370 377 385">
+<name>附魔长靴 - 豹之迅捷</name>
+<reagents>
+<item id="22449" count="8" />
+<item id="22451" count="8" />
+</reagents>
+<taught-by-item>
+<item id="28279" />
+<item id="35299" />
+</taught-by-item>
+</spell>
+<spell id="34008" requires-skill-level="360" colors="360 370 377 385">
+<name>附魔长靴 - 野猪之速</name>
+<reagents>
+<item id="22449" count="8" />
+<item id="22452" count="8" />
+</reagents>
+<taught-by-item>
+<item id="28280" />
+<item id="35297" />
+</taught-by-item>
+</spell>
+<spell id="44592" requires-skill-level="360" colors="360 370 380 390">
+<name>附魔手套 - 优异法术强度</name>
+<reagents>
+<item id="34054" count="4" />
+<item id="34056" count="1" />
+</reagents>
+<taught-by-npc cost="45000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="60616" requires-skill-level="360" colors="360 370 380 390">
+<name>附魔护腕 - 打击</name>
+<reagents>
+<item id="34054" count="6" />
+</reagents>
+<taught-by-npc cost="45000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="27917" requires-skill-level="360" colors="360 370 385 400">
+<name>附魔护腕 - 法术能量</name>
+<reagents>
+<item id="22449" count="6" />
+<item id="21884" count="6" />
+<item id="21885" count="6" />
+</reagents>
+<taught-by-item>
+<item id="22534" />
+</taught-by-item>
+</spell>
+<spell id="46594" requires-skill-level="360" colors="360 370 385 400">
+<name>附魔胸甲 - 防御</name>
+<reagents>
+<item id="22446" count="4" />
+<item id="22445" count="8" />
+<item id="23427" count="4" />
+</reagents>
+<taught-by-item>
+<item id="35500" />
+</taught-by-item>
+</spell>
+<spell id="27926" requires-skill-level="370" colors="370 380 385 390">
+<name>附魔戒指 - 治疗能量</name>
+<reagents>
+<item id="22449" count="2" />
+<item id="22446" count="3" />
+<item id="22445" count="5" />
+</reagents>
+<taught-by-item>
+<item id="22537" />
+</taught-by-item>
+</spell>
+<spell id="27954" requires-skill-level="370" colors="370 380 385 390">
+<name>附魔长靴 - 稳固</name>
+<reagents>
+<item id="22450" count="2" />
+<item id="22449" count="4" />
+</reagents>
+<taught-by-item>
+<item id="22545" />
+</taught-by-item>
+</spell>
+<spell id="44623" requires-skill-level="370" colors="370 380 390 400">
+<name>附魔胸甲 - 超级属性</name>
+<reagents>
+<item id="34054" count="4" />
+<item id="34056" count="2" />
+</reagents>
+<taught-by-npc cost="45000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="45765" requires-skill-level="375" colors="0 0 0 375">
+<name>虚空碎裂</name>
+<create id="22449" class="7.12" count="2" />
+<reagents>
+<item id="22450" count="1" />
+</reagents>
+<taught-by-item>
+<item id="34872" />
+</taught-by-item>
+</spell>
+<spell id="27981" requires-skill-level="375" colors="0 0 375 390">
+<name>附魔武器 - 阳炎</name>
+<reagents>
+<item id="22450" count="12" />
+<item id="22449" count="10" />
+<item id="22446" count="8" />
+<item id="21884" count="6" />
+<item id="23571" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22560" />
+</taught-by-item>
+</spell>
+<spell id="32667" requires-skill-level="375" colors="0 375 377 385">
+<name>符文恒金棒</name>
+<create id="22463" class="7.12" count="1" />
+<reagents>
+<item id="25845" count="1" />
+<item id="22446" count="6" />
+<item id="22445" count="6" />
+<item id="22462" count="1" />
+</reagents>
+<taught-by-npc cost="45000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+<taught-by-item>
+<item id="25849" />
+</taught-by-item>
+</spell>
+<spell id="44506" requires-skill-level="375" colors="0 375 380 390">
+<name>附魔手套 - 采集</name>
+<reagents>
+<item id="34055" count="1" />
+</reagents>
+<taught-by-npc cost="45000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="27927" requires-skill-level="375" colors="375 380 385 390">
+<name>附魔戒指 - 属性</name>
+<reagents>
+<item id="22450" count="2" />
+<item id="22449" count="2" />
+</reagents>
+<taught-by-item>
+<item id="22538" />
+</taught-by-item>
+</spell>
+<spell id="27982" requires-skill-level="375" colors="375 380 385 390">
+<name>附魔武器 - 魂霜</name>
+<reagents>
+<item id="22450" count="12" />
+<item id="22449" count="10" />
+<item id="22446" count="8" />
+<item id="21885" count="6" />
+<item id="22456" count="6" />
+</reagents>
+<taught-by-item>
+<item id="22561" />
+</taught-by-item>
+</spell>
+<spell id="27984" requires-skill-level="375" colors="375 380 385 390">
+<name>附魔武器 - 猫鼬</name>
+<reagents>
+<item id="22450" count="6" />
+<item id="22449" count="10" />
+<item id="22446" count="8" />
+<item id="22445" count="40" />
+</reagents>
+<taught-by-item>
+<item id="22559" />
+</taught-by-item>
+</spell>
+<spell id="42974" requires-skill-level="375" colors="375 380 385 390">
+<name>附魔武器 - 斩杀</name>
+<reagents>
+<item id="22450" count="6" />
+<item id="22449" count="10" />
+<item id="22446" count="6" />
+<item id="22445" count="30" />
+<item id="22824" count="3" />
+</reagents>
+<taught-by-item>
+<item id="33307" />
+</taught-by-item>
+</spell>
+<spell id="47051" requires-skill-level="375" colors="375 380 385 390">
+<name>附魔披风 - 钢纹</name>
+<reagents>
+<item id="22446" count="8" />
+<item id="22452" count="8" />
+</reagents>
+<taught-by-item>
+<item id="35756" />
+</taught-by-item>
+</spell>
+<spell id="44555" requires-skill-level="375" colors="375 385 392 400">
+<name>附魔护腕 - 优异智力</name>
+<reagents>
+<item id="34054" count="10" />
+</reagents>
+<taught-by-npc cost="45000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="71692" requires-skill-level="375" colors="375 385 392 400">
+<name>附魔手套 - 垂钓者</name>
+<reagents>
+<item id="34054" count="1" />
+<item id="44958" count="3" />
+</reagents>
+<taught-by-item>
+<item id="50406" />
+</taught-by-item>
+</spell>
+<spell id="60606" requires-skill-level="375" colors="375 385 395 405">
+<name>附魔靴子 - 突袭</name>
+<reagents>
+<item id="34054" count="4" />
+<item id="34056" count="4" />
+</reagents>
+<taught-by-npc cost="45000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="60621" requires-skill-level="380" colors="380 390 400 410">
+<name>附魔武器 - 强效潜能</name>
+<reagents>
+<item id="34054" count="2" />
+<item id="34056" count="4" />
+</reagents>
+<taught-by-npc cost="72000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="44528" requires-skill-level="385" colors="0 385 390 400">
+<name>附魔靴子 - 强效坚韧</name>
+<reagents>
+<item id="34056" count="3" />
+<item id="34054" count="3" />
+</reagents>
+<taught-by-npc cost="81000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="60623" requires-skill-level="385" colors="385 395 405 415">
+<name>附魔靴子 - 履冰</name>
+<reagents>
+<item id="34054" count="8" />
+<item id="37705" count="1" />
+</reagents>
+<taught-by-npc cost="81000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="62959" requires-skill-level="385" colors="385 395 405 415">
+<name>附魔法杖 - 法术能量</name>
+<reagents>
+<item id="34054" count="12" />
+<item id="34055" count="2" />
+</reagents>
+<taught-by-npc cost="85500">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="44582" requires-skill-level="395" colors="0 395 402 410">
+<name>附魔披风 - 法术穿刺</name>
+<reagents>
+<item id="34054" count="15" />
+</reagents>
+<taught-by-npc cost="90000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="44492" requires-skill-level="395" colors="395 405 415 425">
+<name>附魔胸甲 - 极效生命</name>
+<reagents>
+<item id="34055" count="3" />
+</reagents>
+<taught-by-npc cost="90000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="44629" requires-skill-level="395" colors="395 405 415 425">
+<name>附魔武器 - 优异法术能量</name>
+<reagents>
+<item id="34054" count="10" />
+<item id="34055" count="2" />
+</reagents>
+<taught-by-npc cost="90000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="44635" requires-skill-level="395" colors="395 405 415 425">
+<name>附魔护腕 - 强效法术强度</name>
+<reagents>
+<item id="34054" count="8" />
+<item id="34056" count="4" />
+</reagents>
+<taught-by-npc cost="90000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="60653" requires-skill-level="395" colors="395 405 415 425">
+<name>附魔盾牌 - 强效智力</name>
+<reagents>
+<item id="34054" count="12" />
+</reagents>
+<taught-by-npc cost="90000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="44636" requires-skill-level="400" colors="0 400 407 415">
+<name>附魔戒指 - 强效法术能量</name>
+<reagents>
+<item id="34054" count="8" />
+<item id="34055" count="1" />
+</reagents>
+<taught-by-npc cost="90000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="44645" requires-skill-level="400" colors="0 400 407 415">
+<name>附魔戒指 - 突袭</name>
+<reagents>
+<item id="34054" count="8" />
+<item id="34055" count="1" />
+</reagents>
+<taught-by-npc cost="90000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="59636" requires-skill-level="400" colors="0 400 407 415">
+<name>附魔戒指 - 耐力</name>
+<reagents>
+<item id="34054" count="8" />
+<item id="34055" count="1" />
+</reagents>
+<taught-by-npc cost="90000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="44500" requires-skill-level="400" colors="400 405 415 425">
+<name>附魔披风 - 超强敏捷</name>
+<reagents>
+<item id="34054" count="9" />
+</reagents>
+<taught-by-npc cost="90000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+<taught-by-item>
+<item id="37335" />
+</taught-by-item>
+</spell>
+<spell id="44616" requires-skill-level="400" colors="400 410 420 430">
+<name>附魔护腕 - 强效属性</name>
+<reagents>
+<item id="34054" count="16" />
+<item id="34055" count="3" />
+</reagents>
+<taught-by-npc cost="90000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="47766" requires-skill-level="400" colors="400 410 420 430">
+<name>附魔胸甲 - 强效防御</name>
+<reagents>
+<item id="34054" count="10" />
+<item id="35624" count="1" />
+</reagents>
+<taught-by-npc cost="90000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="44483" requires-skill-level="400" colors="400 415 425 435">
+<name>附魔披风 - 超强冰霜抗性</name>
+<reagents>
+<item id="34054" count="6" />
+<item id="34055" count="3" />
+<item id="36860" count="1" />
+</reagents>
+<taught-by-item>
+<item id="37332" />
+</taught-by-item>
+</spell>
+<spell id="44494" requires-skill-level="400" colors="400 415 425 435">
+<name>附魔披风 - 超强自然抗性</name>
+<reagents>
+<item id="34054" count="15" />
+<item id="34055" count="1" />
+<item id="35627" count="1" />
+</reagents>
+<taught-by-item>
+<item id="37333" />
+</taught-by-item>
+</spell>
+<spell id="44556" requires-skill-level="400" colors="400 415 425 435">
+<name>附魔披风 - 超强火焰抗性</name>
+<reagents>
+<item id="34055" count="4" />
+<item id="35622" count="1" />
+</reagents>
+<taught-by-item>
+<item id="37331" />
+</taught-by-item>
+</spell>
+<spell id="44590" requires-skill-level="400" colors="400 415 425 435">
+<name>附魔披风 - 超强暗影抗性</name>
+<reagents>
+<item id="34054" count="8" />
+<item id="34056" count="2" />
+<item id="35625" count="1" />
+</reagents>
+<taught-by-item>
+<item id="37334" />
+</taught-by-item>
+</spell>
+<spell id="44596" requires-skill-level="400" colors="400 415 425 435">
+<name>附魔披风 - 超强奥术抗性</name>
+<reagents>
+<item id="34054" count="20" />
+<item id="35624" count="1" />
+</reagents>
+<taught-by-item>
+<item id="37330" />
+</taught-by-item>
+</spell>
+<spell id="44484" requires-skill-level="405" colors="405 415 425 435">
+<name>附魔手套 - 精准</name>
+<reagents>
+<item id="34054" count="12" />
+</reagents>
+<taught-by-npc cost="135000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="44584" requires-skill-level="405" colors="405 415 425 435">
+<name>附魔靴子 - 强效活力</name>
+<reagents>
+<item id="34054" count="8" />
+<item id="34055" count="2" />
+</reagents>
+<taught-by-npc cost="135000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="44630" requires-skill-level="410" colors="0 410 410 420">
+<name>附魔双手武器 - 强效野蛮</name>
+<reagents>
+<item id="34054" count="6" />
+<item id="34055" count="2" />
+</reagents>
+<taught-by-npc cost="72000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="44488" requires-skill-level="410" colors="410 420 430 440">
+<name>附魔手套 - 精确</name>
+<reagents>
+<item id="34055" count="4" />
+</reagents>
+<taught-by-npc cost="135000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="44508" requires-skill-level="410" colors="410 420 430 440">
+<name>附魔靴子 - 强效精神</name>
+<reagents>
+<item id="34054" count="10" />
+<item id="34055" count="1" />
+</reagents>
+<taught-by-npc cost="135000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="44510" requires-skill-level="410" colors="410 420 430 440">
+<name>附魔武器 - 优异精神</name>
+<reagents>
+<item id="34054" count="16" />
+<item id="34052" count="4" />
+</reagents>
+<taught-by-npc cost="135000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="44633" requires-skill-level="410" colors="410 420 430 440">
+<name>附魔武器 - 优异敏捷</name>
+<reagents>
+<item id="34052" count="4" />
+<item id="35623" count="4" />
+</reagents>
+<taught-by-npc cost="135000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="44588" requires-skill-level="410" colors="410 435 445 455">
+<name>附魔胸甲 - 优异韧性</name>
+<reagents>
+<item id="34055" count="2" />
+<item id="34052" count="2" />
+</reagents>
+<taught-by-item>
+<item id="37340" />
+</taught-by-item>
+</spell>
+<spell id="44529" requires-skill-level="415" colors="415 425 435 445">
+<name>附魔手套 - 特效敏捷</name>
+<reagents>
+<item id="34055" count="4" />
+<item id="34052" count="1" />
+</reagents>
+<taught-by-npc cost="135000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="44589" requires-skill-level="415" colors="415 425 435 445">
+<name>附魔靴子 - 超强敏捷</name>
+<reagents>
+<item id="34054" count="16" />
+<item id="34055" count="4" />
+</reagents>
+<taught-by-npc cost="135000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="44513" requires-skill-level="420" colors="0 0 420 425">
+<name>附魔手套 - 强效突袭</name>
+<reagents>
+<item id="34054" count="6" />
+<item id="34055" count="1" />
+</reagents>
+<taught-by-npc cost="90000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+<taught-by-item>
+<item id="37345" />
+</taught-by-item>
+</spell>
+<spell id="44598" requires-skill-level="420" colors="420 425 435 445">
+<name>附魔护腕 - 精准</name>
+<reagents>
+<item id="34054" count="14" />
+<item id="34055" count="3" />
+</reagents>
+<taught-by-npc cost="135000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+<taught-by-item>
+<item id="37346" />
+</taught-by-item>
+</spell>
+<spell id="44489" requires-skill-level="420" colors="420 430 440 450">
+<name>附魔盾牌 - 防御</name>
+<reagents>
+<item id="34054" count="6" />
+<item id="35624" count="6" />
+</reagents>
+<taught-by-npc cost="135000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="44509" requires-skill-level="420" colors="420 430 440 450">
+<name>附魔胸甲 - 强效法力回复</name>
+<reagents>
+<item id="34054" count="4" />
+<item id="34055" count="4" />
+</reagents>
+<taught-by-npc cost="135000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="44593" requires-skill-level="420" colors="420 430 440 450">
+<name>附魔护腕 - 特效精神</name>
+<reagents>
+<item id="34054" count="16" />
+<item id="34055" count="4" />
+</reagents>
+<taught-by-npc cost="135000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="60663" requires-skill-level="420" colors="420 430 440 450">
+<name>附魔披风 - 特效敏捷</name>
+<reagents>
+<item id="34054" count="8" />
+<item id="34055" count="2" />
+<item id="34052" count="2" />
+</reagents>
+<taught-by-npc cost="135000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="44524" requires-skill-level="425" colors="425 435 445 455">
+<name>附魔武器 - 破冰</name>
+<reagents>
+<item id="34052" count="4" />
+<item id="36860" count="4" />
+</reagents>
+<taught-by-item>
+<item id="37344" />
+</taught-by-item>
+</spell>
+<spell id="44576" requires-skill-level="425" colors="425 435 445 455">
+<name>附魔武器 - 生命护卫</name>
+<reagents>
+<item id="34052" count="1" />
+<item id="35625" count="4" />
+</reagents>
+<taught-by-item>
+<item id="44494" />
+</taught-by-item>
+</spell>
+<spell id="47900" requires-skill-level="425" colors="425 435 445 455">
+<name>附魔胸甲 - 超级生命</name>
+<reagents>
+<item id="34054" count="20" />
+<item id="34055" count="4" />
+</reagents>
+<taught-by-npc cost="135000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="60619" requires-skill-level="425" colors="425 435 445 455">
+<name>符文泰坦神铁棒</name>
+<create id="44452" class="7.12" count="1" />
+<reagents>
+<item id="41745" count="1" />
+<item id="34054" count="40" />
+<item id="34055" count="12" />
+<item id="34052" count="8" />
+<item id="22463" count="1" />
+</reagents>
+<taught-by-npc cost="135000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="60668" requires-skill-level="425" colors="425 435 445 455">
+<name>附魔手套 - 碾压</name>
+<reagents>
+<item id="34054" count="20" />
+<item id="34055" count="4" />
+<item id="34052" count="1" />
+</reagents>
+<taught-by-npc cost="135000">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="44575" requires-skill-level="430" colors="430 440 450 460">
+<name>附魔护腕 - 强效突袭</name>
+<reagents>
+<item id="34054" count="24" />
+<item id="34055" count="6" />
+</reagents>
+<taught-by-item>
+<item id="44484" />
+</taught-by-item>
+</spell>
+<spell id="44595" requires-skill-level="430" colors="430 440 450 460">
+<name>附魔双手武器 - 天灾斩除</name>
+<reagents>
+<item id="34054" count="6" />
+<item id="34052" count="6" />
+</reagents>
+<taught-by-item>
+<item id="44473" />
+</taught-by-item>
+</spell>
+<spell id="44621" requires-skill-level="430" colors="430 440 450 460">
+<name>附魔武器 - 巨人杀手</name>
+<reagents>
+<item id="34055" count="2" />
+<item id="34052" count="6" />
+</reagents>
+<taught-by-item>
+<item id="37339" />
+</taught-by-item>
+</spell>
+<spell id="47672" requires-skill-level="430" colors="430 440 450 460">
+<name>附魔披风 - 极效护甲</name>
+<reagents>
+<item id="34054" count="15" />
+<item id="34055" count="2" />
+</reagents>
+<taught-by-item>
+<item id="44471" />
+</taught-by-item>
+</spell>
+<spell id="47898" requires-skill-level="430" colors="430 440 450 460">
+<name>附魔披风 - 强效速度</name>
+<reagents>
+<item id="34054" count="16" />
+<item id="34055" count="4" />
+</reagents>
+<taught-by-item>
+<item id="44472" />
+</taught-by-item>
+</spell>
+<spell id="60691" requires-skill-level="430" colors="430 440 450 460">
+<name>附魔双手武器 - 杀戮</name>
+<reagents>
+<item id="34054" count="40" />
+<item id="34055" count="6" />
+<item id="34057" count="6" />
+</reagents>
+<taught-by-item>
+<item id="44483" />
+</taught-by-item>
+</spell>
+<spell id="44591" requires-skill-level="435" colors="435 445 455 465">
+<name>附魔披风 - 泰坦之纹</name>
+<reagents>
+<item id="34054" count="8" />
+<item id="41163" count="2" />
+<item id="34052" count="2" />
+</reagents>
+<taught-by-item>
+<item id="37347" />
+</taught-by-item>
+</spell>
+<spell id="44625" requires-skill-level="435" colors="435 445 455 465">
+<name>附魔手套 - 士兵</name>
+<reagents>
+<item id="34052" count="2" />
+<item id="35624" count="8" />
+</reagents>
+<taught-by-item>
+<item id="44485" />
+</taught-by-item>
+</spell>
+<spell id="60707" requires-skill-level="435" colors="435 445 455 465">
+<name>附魔武器 - 超强潜能</name>
+<reagents>
+<item id="34054" count="10" />
+<item id="34055" count="2" />
+<item id="34052" count="2" />
+<item id="34057" count="4" />
+</reagents>
+<taught-by-item>
+<item id="44486" />
+</taught-by-item>
+</spell>
+<spell id="60714" requires-skill-level="435" colors="435 445 455 465">
+<name>附魔武器 - 极效法术能量</name>
+<reagents>
+<item id="34054" count="30" />
+<item id="34052" count="6" />
+<item id="34057" count="6" />
+</reagents>
+<taught-by-item>
+<item id="44487" />
+</taught-by-item>
+</spell>
+<spell id="44631" requires-skill-level="440" colors="440 450 460 470">
+<name>附魔披风 - 暗影护甲</name>
+<reagents>
+<item id="34054" count="12" />
+<item id="34057" count="1" />
+</reagents>
+<taught-by-item>
+<item id="37349" />
+</taught-by-item>
+</spell>
+<spell id="47899" requires-skill-level="440" colors="440 450 460 470">
+<name>附魔披风 - 智慧</name>
+<reagents>
+<item id="34055" count="6" />
+<item id="34057" count="1" />
+</reagents>
+<taught-by-item>
+<item id="44488" />
+</taught-by-item>
+</spell>
+<spell id="47901" requires-skill-level="440" colors="440 450 460 470">
+<name>附魔靴子 - 海象人的活力</name>
+<reagents>
+<item id="34054" count="10" />
+<item id="34055" count="2" />
+<item id="34052" count="2" />
+</reagents>
+<taught-by-item>
+<item id="44491" />
+</taught-by-item>
+</spell>
+<spell id="59619" requires-skill-level="440" colors="440 450 460 470">
+<name>附魔武器 - 精确</name>
+<reagents>
+<item id="34054" count="20" />
+<item id="34055" count="4" />
+<item id="34052" count="4" />
+<item id="34057" count="6" />
+</reagents>
+<taught-by-item>
+<item id="44496" />
+</taught-by-item>
+</spell>
+<spell id="59621" requires-skill-level="440" colors="440 450 460 470">
+<name>附魔武器 - 狂暴</name>
+<reagents>
+<item id="34054" count="12" />
+<item id="34055" count="4" />
+<item id="34052" count="4" />
+<item id="34057" count="10" />
+</reagents>
+<taught-by-item>
+<item id="44492" />
+</taught-by-item>
+</spell>
+<spell id="59625" requires-skill-level="440" colors="440 450 460 470">
+<name>附魔武器 - 黑魔法</name>
+<reagents>
+<item id="34055" count="6" />
+<item id="34052" count="6" />
+<item id="34057" count="6" />
+</reagents>
+<taught-by-item>
+<item id="44495" />
+</taught-by-item>
+</spell>
+<spell id="60692" requires-skill-level="440" colors="440 450 460 470">
+<name>附魔胸甲 - 强力属性</name>
+<reagents>
+<item id="34052" count="4" />
+<item id="34057" count="4" />
+</reagents>
+<taught-by-item>
+<item id="44489" />
+</taught-by-item>
+</spell>
+<spell id="60763" requires-skill-level="440" colors="440 450 460 470">
+<name>附魔靴子 - 强效突袭</name>
+<reagents>
+<item id="34055" count="4" />
+<item id="34052" count="4" />
+</reagents>
+<taught-by-item>
+<item id="44490" />
+</taught-by-item>
+</spell>
+<spell id="60767" requires-skill-level="440" colors="440 450 460 470">
+<name>附魔护腕 - 超强法术能量</name>
+<reagents>
+<item id="34054" count="6" />
+<item id="34055" count="6" />
+<item id="34052" count="1" />
+</reagents>
+<taught-by-item>
+<item id="44498" />
+</taught-by-item>
+</spell>
+<spell id="69412" requires-skill-level="445" colors="0 445 447 450">
+<name>深渊碎裂</name>
+<reagents>
+<item id="34057" class="7.12" count="1" />
+</reagents>
+<taught-by-npc cost="127500">
+<npc id="26906" />
+<npc id="26954" />
+<npc id="26980" />
+<npc id="26990" />
+<npc id="28693" />
+<npc id="33583" />
+</taught-by-npc>
+</spell>
+<spell id="62948" requires-skill-level="450" colors="450 455 460 465">
+<name>附魔法杖 - 强效法术能量</name>
+<reagents>
+<item id="34054" count="40" />
+<item id="34052" count="6" />
+<item id="34057" count="6" />
+</reagents>
+<taught-by-item>
+<item id="45059" />
+</taught-by-item>
+</spell>
+<spell id="64441" requires-skill-level="450" colors="450 455 460 465">
+<name>附魔武器 - 利刃防护</name>
+<reagents>
+<item id="34057" count="4" />
+<item id="34055" count="8" />
+<item id="37663" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46027" />
+</taught-by-item>
+</spell>
+<spell id="64579" requires-skill-level="450" colors="450 455 460 465">
+<name>附魔武器 - 吸血</name>
+<reagents>
+<item id="34057" count="4" />
+<item id="34054" count="40" />
+<item id="36918" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46348" />
+</taught-by-item>
+</spell>
+<spell id="62256" requires-skill-level="450" colors="450 460 470 480">
+<name>附魔护腕 - 特效耐力</name>
+<reagents>
+<item id="34055" count="4" />
+<item id="34057" count="1" />
+</reagents>
+<taught-by-item>
+<item id="44944" />
+</taught-by-item>
+</spell>
+</spells>

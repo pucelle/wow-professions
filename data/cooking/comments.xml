@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<comments>
+<comment>
+<spell id="818" />
+<spell id="2538" />
+<spell id="2540" />
+<spell id="8604" />
+<words>起始.</words>
+</comment>
+<comment>
+<item id="12227" />
+<words>该NPC大约每90分钟刷新一次, 每次停留10分钟.</words>
+</comment>
+<comment>
+<spell id="53056" />
+<words>当你完成以下任务之后, 便可以在 [npc=32516@map] 那里学习该烹饪技巧: [quest=12645@source]</words>
+</comment>
+<comment>
+<item id="7678" />
+<words>该食谱已无法获得.</words>
+</comment>
+<comment>
+<item id="18160" />
+<words>只有潜行者可以购买该食谱.</words>
+</comment>
+<comment>
+<item id="18267" />
+<words>普希林起始位置在厄运东正门靠左边. 经历四次对话和三次追逐, 方可将其击杀.</words>
+</comment>
+<comment>
+<item id="21025" />
+<words>1. 你需要诺兹多姆的子嗣的声望达到中立, 并且完成任务: [quest=8288@source]</words>
+<words>2. 在灵魂状态下对话 [npc=15481@map] (必须在 [npc=6109] 已经被击杀的情况下), 获取物品 [item=20949], 触发任务: [quest=8575]. </words>
+<words>3. 接受任务 [quest=8584]. 并依次完成其后续任务 [quest=8585] 和 [quest=8586].</words>
+</comment>
+<comment><!--
+<item id="43018" />
+<item id="43019" />
+<item id="43020" />
+<item id="43021" />
+<item id="43022" />
+<item id="43023" />
+<item id="43024" />
+<item id="43026" />
+<item id="43025" />
+<item id="43027" />
+<item id="43028" />
+<item id="43029" />
+<item id="43030" />
+<item id="43031" />
+<item id="43032" />
+<item id="43033" />
+<item id="43034" />
+<item id="43035" />
+<item id="43036" />
+<item id="43037" />
+<item id="43505" />
+<item id="43506" />
+<item id="43017" />-->
+<item id="44954" />
+<words>[item=43016] 来源于烹饪日常任务, 用于购买食谱, 以及烹饪材料 - [item=43007]. </words>
+<words>此外, 你还可以用100枚奖牌兑换一顶 [item=46349@screenshot].</words>
+</comment>
+<comment>
+<item id="6661" />
+<words>贫瘠之地的所有怪物都可能掉这个食谱.</words>
+</comment>
+</comments>

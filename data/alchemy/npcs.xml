@@ -1,0 +1,2994 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<npcs>
+	<npc id="397" class="7" level="26" health="598" A="3" H="3">
+<name>莫甘斯</name>
+<screenshot>30179</screenshot>
+<coords map="44">
+<coord x="240" y="90" />
+</coords>
+</npc>
+	<npc id="660" class="7" level="36 - 37" health="1,257" A="3" H="3">
+<name>血顶巫医</name>
+<screenshot>47816</screenshot>
+<coords map="33">
+<coord x="60" y="10" />
+<coord x="60" y="20" />
+<coord x="70" y="10" />
+<coord x="70" y="20" />
+</coords>
+</npc>
+	<npc id="746" class="2" level="45" health="2,218" A="3" H="3">
+<name>刃鳞龙人长者</name>
+<screenshot>8726</screenshot>
+<coords map="8">
+<coord x="230" y="80" />
+<coord x="230" y="90" />
+<coord x="240" y="80" />
+<coord x="240" y="90" />
+<coord x="240" y="100" />
+<coord x="250" y="80" />
+<coord x="250" y="90" />
+<coord x="250" y="100" />
+<coord x="260" y="80" />
+<coord x="260" y="90" />
+</coords>
+</npc>
+	<npc id="771" class="6" type="稀有" level="32" health="1,163" A="3" H="3">
+<name>指挥官菲斯托姆</name>
+<screenshot>76958</screenshot>
+<coords map="10">
+<coord x="40" y="70" />
+<coord x="50" y="70" />
+</coords>
+</npc>
+	<npc id="976" class="1" level="32 - 33" health="1,163 - 1,221" A="3" H="3">
+<name>库尔森战虎</name>
+<screenshot>48326</screenshot>
+<coords map="33">
+<coord x="130" y="10" />
+<coord x="130" y="20" />
+</coords>
+</npc>
+	<npc id="1009" class="7" level="22 - 23" health="472 - 504" A="3" H="3">
+<name>藓皮织雾者</name>
+<screenshot>56489</screenshot>
+<coords map="11">
+<coord x="110" y="60" />
+<coord x="130" y="60" />
+<coord x="150" y="60" />
+<coord x="180" y="110" />
+<coord x="180" y="130" />
+</coords>
+</npc>
+	<npc id="1133" class="1" level="8 - 9" health="156 - 176" A="3" H="3">
+<name>饥饿的冬狼</name>
+<screenshot>58148</screenshot>
+<coords map="1">
+<coord x="100" y="80" />
+</coords>
+</npc>
+	<npc id="1215" class="7" level="26" health="787" A="2" H="3">
+<name>炼金师玛洛瑞</name>
+<rank>初级炼金师</rank>
+<screenshot>52541</screenshot>
+<coords map="12">
+<coord x="110" y="90" />
+</coords>
+</npc>
+	<npc id="1271" class="7" type="精英" level="11" health="666" A="3" H="3">
+<name>冰须</name>
+<screenshot>68832</screenshot>
+<coords map="1">
+<coord x="110" y="100" />
+</coords>
+</npc>
+	<npc id="1313" class="7" level="30" health="1,003" A="2" H="3">
+<name>玛丽亚·卢米尔</name>
+<rank>炼金术供应商</rank>
+<screenshot>5562</screenshot>
+<coords map="1519">
+<coord x="160" y="170" />
+</coords>
+</npc>
+	<npc id="1386" class="7" level="53" health="3,189" A="3" H="2">
+<name>罗格瓦尔</name>
+<rank>炼金术训练师</rank>
+<screenshot>8713</screenshot>
+<coords map="8">
+<coord x="140" y="110" />
+</coords>
+</npc>
+	<npc id="1470" class="7" level="25" health="713" A="2" H="3">
+<name>加克</name>
+<rank>初级炼金师</rank>
+<screenshot>75123</screenshot>
+<coords map="38">
+<coord x="110" y="90" />
+</coords>
+</npc>
+	<npc id="1669" class="7" level="20" health="484" A="2" H="2">
+<name>迪菲亚奸商</name>
+<rank>旅行商人</rank>
+<screenshot>32962</screenshot>
+<coords map="40">
+<coord x="130" y="130" />
+</coords>
+</npc>
+	<npc id="1685" class="7" level="15" health="328" A="2" H="3">
+<name>山达·细须</name>
+<rank>杂货供应商</rank>
+<screenshot>36212</screenshot>
+<coords map="38">
+<coord x="240" y="120" />
+</coords>
+</npc>
+	<npc id="1783" class="6" level="48 - 51" health="2,880 - 3,800" A="3" H="3">
+<name>骷髅剥皮者</name>
+<screenshot>52532</screenshot>
+<coords map="28">
+<coord x="100" y="100" />
+<coord x="100" y="110" />
+<coord x="110" y="100" />
+<coord x="110" y="110" />
+<coord x="140" y="140" />
+<coord x="140" y="150" />
+<coord x="140" y="160" />
+<coord x="150" y="140" />
+<coord x="150" y="150" />
+<coord x="150" y="160" />
+<coord x="160" y="150" />
+<coord x="160" y="160" />
+</coords>
+</npc>
+	<npc id="1791" class="6" level="49 - 52" health="2,880 - 3,082" A="3" H="3">
+<name>被奴役的食尸鬼</name>
+<screenshot>9857</screenshot>
+<coords map="28">
+<coord x="100" y="100" />
+<coord x="100" y="110" />
+<coord x="110" y="100" />
+<coord x="110" y="110" />
+<coord x="140" y="140" />
+<coord x="140" y="150" />
+<coord x="140" y="160" />
+<coord x="150" y="140" />
+<coord x="150" y="150" />
+<coord x="150" y="160" />
+<coord x="160" y="150" />
+<coord x="160" y="160" />
+</coords>
+</npc>
+	<npc id="1812" class="4" level="55 - 56" health="3,529 - 3,644" A="3" H="3">
+<name>腐烂的巨兽</name>
+<screenshot>75639</screenshot>
+<coords map="28">
+<coord x="10" y="110" />
+<coord x="180" y="60" />
+<coord x="180" y="70" />
+<coord x="190" y="60" />
+<coord x="190" y="70" />
+<coord x="190" y="80" />
+<coord x="200" y="70" />
+<coord x="200" y="80" />
+</coords>
+</npc>
+	<npc id="1813" class="4" level="56 - 57" health="3,644 - 3,758" A="3" H="3">
+<name>枯萎的恐兽</name>
+<screenshot>54946</screenshot>
+<coords map="28">
+<coord x="180" y="60" />
+<coord x="180" y="70" />
+<coord x="190" y="60" />
+<coord x="190" y="70" />
+<coord x="190" y="80" />
+<coord x="200" y="80" />
+</coords>
+</npc>
+	<npc id="1853" class="7" type="精英" level="61" health="50,300" A="3" H="3">
+<name>黑暗院长加丁</name>
+<screenshot>38075</screenshot>
+<coords map="2057">
+<coord x="230" y="130" />
+</coords>
+</npc>
+	<npc id="1950" class="7" level="15" health="328" A="3" H="2">
+<name>兰妮·尤瑞克</name>
+<rank>亡灵侦察兵</rank>
+<screenshot>34659</screenshot>
+<coords map="130">
+<coord x="160" y="20" />
+</coords>
+</npc>
+	<npc id="1952" class="7" level="30" health="1,003" A="3" H="2">
+<name>高级执行官哈德瑞克</name>
+<screenshot>74539</screenshot>
+<coords map="130">
+<coord x="130" y="80" />
+</coords>
+</npc>
+	<npc id="2061" class="7" level="13" health="273" A="3" H="3">
+<name>议员萨奇尔</name>
+<rank>焚木村议会</rank>
+<screenshot>58389</screenshot>
+<coords map="130">
+<coord x="130" y="140" />
+</coords>
+</npc>
+	<npc id="2091" class="7" level="26" health="750" A="3" H="3">
+<name>纳克罗什酋长</name>
+<screenshot>52803</screenshot>
+<coords map="11">
+<coord x="160" y="100" />
+</coords>
+</npc>
+	<npc id="2108" class="7" type="稀有" level="29" health="812" A="3" H="3">
+<name>加内格·焦颅</name>
+<screenshot>88997</screenshot>
+<coords map="11">
+<coord x="110" y="90" />
+</coords>
+</npc>
+	<npc id="2132" class="7" level="25" health="713" A="3" H="2">
+<name>卡罗莱·安尼斯</name>
+<rank>炼金术训练师</rank>
+<screenshot>73018</screenshot>
+<coords map="85">
+<coord x="170" y="100" />
+</coords>
+</npc>
+	<npc id="2184" class="6" type="稀有" level="17" health="386" A="3" H="3">
+<name>莫嘉泽尔</name>
+<screenshot>32159</screenshot>
+<coords map="148">
+<coord x="130" y="120" />
+</coords>
+</npc>
+	<npc id="2380" class="7" level="34" health="1,279" A="2" H="3">
+<name>南达·布拉森</name>
+<rank>炼金术供应商</rank>
+<screenshot>32718</screenshot>
+<coords map="267">
+<coord x="150" y="110" />
+</coords>
+</npc>
+	<npc id="2391" class="7" level="32" health="1,163" A="3" H="2">
+<name>瑟尔格·希诺特</name>
+<rank>炼金术训练师</rank>
+<screenshot>12593</screenshot>
+<coords map="267">
+<coord x="180" y="30" />
+</coords>
+</npc>
+	<npc id="2393" class="7" level="32" health="1,163" A="3" H="2">
+<name>克里斯托弗·杰弗寇特</name>
+<rank>商人</rank>
+<screenshot>74518</screenshot>
+<coords map="267">
+<coord x="180" y="30" />
+</coords>
+</npc>
+	<npc id="2416" class="7" level="36 - 37" health="1,277 - 1,336" A="3" H="3">
+<name>破碎岭掠夺者</name>
+<screenshot>45006</screenshot>
+<coords map="36">
+<coord x="100" y="100" />
+<coord x="110" y="100" />
+</coords>
+</npc>
+	<npc id="2433" class="6" type="精英" level="44" health="4,278" A="3" H="2">
+<name>赫尔库拉的遗骸</name>
+<screenshot>25964</screenshot>
+<coords map="267">
+<coord x="150" y="100" />
+</coords>
+</npc>
+	<npc id="2447" class="2" type="稀有精英" level="44" health="12,121" A="3" H="3">
+<name>纳瑞尔拉萨斯</name>
+<screenshot>89302</screenshot>
+<coords map="36">
+<coord x="130" y="50" />
+<coord x="230" y="80" />
+</coords>
+</npc>
+	<npc id="2480" class="7" level="49" health="2,672" A="2" H="2">
+<name>布洛金</name>
+<rank>炼金术供应商</rank>
+<screenshot>88393</screenshot>
+<coords map="36">
+<coord x="110" y="70" />
+</coords>
+</npc>
+	<npc id="2481" class="7" level="36" health="1,469" A="2" H="2">
+<name>布里兹提克</name>
+<rank>炼金术供应商</rank>
+<screenshot>48860</screenshot>
+<coords map="10">
+<coord x="50" y="100" />
+</coords>
+</npc>
+	<npc id="2550" class="7" level="40 - 42" health="1,651" A="3" H="3">
+<name>斯蒂沃特船长</name>
+<screenshot>50443</screenshot>
+<coords map="33">
+<coord x="90" y="170" />
+<coord x="100" y="170" />
+</coords>
+</npc>
+	<npc id="2577" class="7" level="31 - 32" health="847 - 882" A="3" H="3">
+<name>黑铁暗法师</name>
+<screenshot>42572</screenshot>
+<coords map="45">
+<coord x="140" y="170" />
+</coords>
+</npc>
+	<npc id="2605" class="7" type="稀有" level="40" health="1,410" A="3" H="0">
+<name>扎拉斯·枯木</name>
+<rank>军队领袖</rank>
+<screenshot>143345</screenshot>
+<coords map="45">
+<coord x="200" y="150" />
+<coord x="200" y="160" />
+</coords>
+</npc>
+	<npc id="2636" class="7" level="38 - 39" health="1,604 - 1,678" A="2" H="2">
+<name>黑水船工</name>
+<screenshot>36958</screenshot>
+<coords map="45">
+<coord x="90" y="160" />
+<coord x="100" y="160" />
+</coords>
+</npc>
+	<npc id="2640" class="7" level="45 - 47" health="1,919 - 2,000" A="3" H="3">
+<name>邪枝巫医</name>
+<screenshot>112614</screenshot>
+<coords map="47">
+<coord x="140" y="130" />
+<coord x="140" y="140" />
+<coord x="190" y="110" />
+<coord x="190" y="120" />
+<coord x="190" y="130" />
+<coord x="190" y="140" />
+<coord x="200" y="120" />
+<coord x="200" y="130" />
+<coord x="200" y="140" />
+</coords>
+</npc>
+	<npc id="2643" class="7" level="47 - 48" health="2,388 - 2,474" A="3" H="3">
+<name>邪枝狂战士</name>
+<screenshot>112599</screenshot>
+<coords map="47">
+<coord x="190" y="130" />
+<coord x="190" y="140" />
+<coord x="200" y="140" />
+</coords>
+</npc>
+	<npc id="2781" class="7" level="41" health="1,823" A="2" H="3">
+<name>管理员温斯顿</name>
+<screenshot>37041</screenshot>
+<coords map="45">
+<coord x="80" y="110" />
+</coords>
+</npc>
+	<npc id="2812" class="7" level="38 - 40" health="1,604 - 1,753" A="2" H="3">
+<name>德鲁纳·烈酒</name>
+<rank>炼金术供应商</rank>
+<screenshot>53585</screenshot>
+<coords map="45">
+<coord x="130" y="90" />
+</coords>
+</npc>
+	<npc id="2837" class="7" level="46" health="2,399" A="2" H="2">
+<name>加克森</name>
+<rank>中级炼金师</rank>
+<screenshot>28416</screenshot>
+<coords map="33">
+<coord x="80" y="150" />
+</coords>
+</npc>
+	<npc id="2848" class="7" level="45" health="2,218" A="2" H="2">
+<name>格里克斯·布鲁维特</name>
+<rank>炼金术供应商</rank>
+<screenshot>28415</screenshot>
+<coords map="33">
+<coord x="80" y="150" />
+</coords>
+</npc>
+	<npc id="2920" class="7" level="31" health="1,107" A="2" H="2">
+<name>卢希恩·枪穗</name>
+<screenshot>56716</screenshot>
+<coords map="3">
+<coord x="70" y="80" />
+</coords>
+</npc>
+	<npc id="2937" class="7" type="精英" level="43" health="5,148" A="3" H="3">
+<name>贪婪的达古恩</name>
+<screenshot>91348</screenshot>
+<coords map="15">
+<coord x="180" y="20" />
+</coords>
+</npc>
+	<npc id="3009" class="7" level="35" health="1,342" A="3" H="2">
+<name>本娜·冰蹄</name>
+<rank>炼金术训练师</rank>
+<screenshot>76483</screenshot>
+<coords map="1638">
+<coord x="130" y="60" />
+</coords>
+</npc>
+	<npc id="3134" class="7" level="25" health="713" A="2" H="2">
+<name>卡兹克斯</name>
+<rank>稀有货物</rank>
+<screenshot>67524</screenshot>
+<coords map="10">
+<coord x="240" y="30" />
+</coords>
+</npc>
+	<npc id="3184" class="7" level="25" health="713" A="3" H="2">
+<name>米奥赞</name>
+<rank>炼金术训练师</rank>
+<screenshot>28767</screenshot>
+<coords map="14">
+<coord x="160" y="140" />
+</coords>
+</npc>
+	<npc id="3228" class="1" level="10 - 11" health="198 - 222" A="3" H="3">
+<name>堕落海浪蟹</name>
+<screenshot>44409</screenshot>
+<coords map="14">
+<coord x="170" y="20" />
+<coord x="170" y="30" />
+<coord x="170" y="50" />
+<coord x="170" y="40" />
+</coords>
+</npc>
+	<npc id="3241" class="1" level="15 - 16" health="328 - 356" A="3" H="3">
+<name>草原狮王</name>
+<screenshot>30796</screenshot>
+<coords map="17">
+<coord x="130" y="20" />
+<coord x="130" y="30" />
+<coord x="140" y="20" />
+<coord x="180" y="60" />
+<coord x="170" y="60" />
+</coords>
+</npc>
+	<npc id="3248" class="1" level="15 - 16" health="328 - 356" A="1" H="1">
+<name>长颈鹿</name>
+<screenshot>98194</screenshot>
+<coords map="17">
+<coord x="120" y="30" />
+<coord x="120" y="40" />
+<coord x="120" y="50" />
+<coord x="120" y="60" />
+<coord x="120" y="70" />
+<coord x="130" y="80" />
+<coord x="140" y="80" />
+<coord x="150" y="80" />
+<coord x="160" y="10" />
+<coord x="160" y="20" />
+<coord x="160" y="30" />
+<coord x="160" y="80" />
+<coord x="170" y="30" />
+<coord x="170" y="50" />
+<coord x="170" y="60" />
+<coord x="170" y="70" />
+<coord x="170" y="80" />
+<coord x="180" y="10" />
+<coord x="180" y="20" />
+<coord x="180" y="30" />
+<coord x="120" y="80" />
+</coords>
+</npc>
+	<npc id="3335" class="7" level="30" health="1,003" A="3" H="2">
+<name>哈格鲁斯</name>
+<rank>材料商</rank>
+<screenshot>7156</screenshot>
+<coords map="1637">
+<coord x="130" y="90" />
+</coords>
+</npc>
+	<npc id="3347" class="7" level="35" health="1,342" A="3" H="2">
+<name>耶尔玛克</name>
+<rank>炼金术训练师</rank>
+<screenshot>7140</screenshot>
+<coords map="1637">
+<coord x="160" y="60" />
+</coords>
+</npc>
+	<npc id="3348" class="7" level="30" health="1,003" A="3" H="2">
+<name>考吉尔德</name>
+<rank>炼金术供应商</rank>
+<screenshot>7142</screenshot>
+<coords map="1637">
+<coord x="160" y="60" />
+</coords>
+</npc>
+	<npc id="3415" class="1" level="11 - 12" health="222 - 247" A="3" H="3">
+<name>雌性草原狮</name>
+<screenshot>78421</screenshot>
+<coords map="17">
+<coord x="140" y="20" />
+<coord x="140" y="30" />
+<coord x="140" y="50" />
+<coord x="140" y="60" />
+<coord x="150" y="30" />
+<coord x="150" y="40" />
+<coord x="150" y="50" />
+<coord x="150" y="60" />
+<coord x="160" y="30" />
+<coord x="160" y="50" />
+<coord x="160" y="60" />
+</coords>
+</npc>
+	<npc id="3463" class="1" level="18 - 19" health="417 - 449" A="1" H="1">
+<name>游荡的长颈鹿</name>
+<screenshot>43607</screenshot>
+<coords map="17">
+<coord x="120" y="90" />
+<coord x="120" y="100" />
+<coord x="130" y="90" />
+<coord x="130" y="100" />
+<coord x="130" y="110" />
+<coord x="140" y="90" />
+<coord x="140" y="100" />
+<coord x="140" y="110" />
+<coord x="150" y="100" />
+<coord x="150" y="110" />
+</coords>
+</npc>
+	<npc id="3490" class="7" level="30" health="1,003" A="3" H="2">
+<name>哈拉玛</name>
+<rank>施法材料和药草商</rank>
+<screenshot>78341</screenshot>
+<coords map="17">
+<coord x="150" y="60" />
+</coords>
+</npc>
+	<npc id="3499" class="7" level="22" health="573" A="2" H="2">
+<name>拉尼克</name>
+<rank>商人</rank>
+<screenshot>28358</screenshot>
+<coords map="17">
+<coord x="180" y="70" />
+</coords>
+</npc>
+	<npc id="3577" class="7" level="15 - 16" health="328 - 356" A="2" H="1">
+<name>达拉然酿酒师</name>
+<screenshot>35750</screenshot>
+<coords map="130">
+<coord x="180" y="120" />
+<coord x="180" y="130" />
+</coords>
+</npc>
+	<npc id="3603" class="7" level="28" health="896" A="2" H="3">
+<name>塞恩德拉·细语者</name>
+<rank>初级炼金师</rank>
+<screenshot>44817</screenshot>
+<coords map="141">
+<coord x="170" y="120" />
+</coords>
+</npc>
+	<npc id="3879" class="7" level="21" health="531" A="3" H="3">
+<name>暗滩刺客</name>
+<screenshot>60231</screenshot>
+<coords map="331">
+<coord x="70" y="50" />
+<coord x="70" y="60" />
+</coords>
+</npc>
+	<npc id="3899" class="3" level="24" health="539" A="3" H="0">
+<name>幽怨的巴利扎尔</name>
+<screenshot>59192</screenshot>
+<coords map="148">
+<coord x="130" y="180" />
+</coords>
+</npc>
+	<npc id="3940" class="6" level="32" health="977" A="1" H="1">
+<name>坦尼尔·黑木</name>
+<screenshot>17132</screenshot>
+<coords map="331">
+<coord x="230" y="140" />
+</coords>
+</npc>
+	<npc id="3941" class="6" level="32" health="977" A="1" H="1">
+<name>尤希尔·唤月</name>
+<screenshot>56076</screenshot>
+<coords map="331">
+<coord x="230" y="140" />
+</coords>
+</npc>
+	<npc id="3956" class="7" level="24" health="664" A="2" H="3">
+<name>哈克兰·月林</name>
+<rank>炼金术供应商</rank>
+<screenshot>52333</screenshot>
+<coords map="331">
+<coord x="150" y="130" />
+</coords>
+</npc>
+	<npc id="3964" class="7" level="31" health="1,107" A="2" H="3">
+<name>凯兰娜</name>
+<rank>中级炼金师</rank>
+<screenshot>52403</screenshot>
+<coords map="331">
+<coord x="150" y="130" />
+</coords>
+</npc>
+	<npc id="4029" class="4" level="27 - 28" health="840 - 896" A="3" H="3">
+<name>黑色古树</name>
+<screenshot>40320</screenshot>
+<coords map="406">
+<coord x="80" y="130" />
+<coord x="90" y="120" />
+<coord x="90" y="130" />
+<coord x="90" y="140" />
+<coord x="100" y="120" />
+<coord x="100" y="130" />
+<coord x="100" y="140" />
+<coord x="110" y="130" />
+</coords>
+</npc>
+	<npc id="4083" class="7" level="24" health="664" A="3" H="2">
+<name>基达</name>
+<rank>见习巫医</rank>
+<screenshot>10274</screenshot>
+<coords map="406">
+<coord x="140" y="120" />
+</coords>
+</npc>
+	<npc id="4160" class="7" level="46" health="2,399" A="2" H="3">
+<name>安尼希尔</name>
+<rank>高级炼金师</rank>
+<screenshot>76720</screenshot>
+<coords map="1657">
+<coord x="160" y="40" />
+</coords>
+</npc>
+	<npc id="4226" class="7" level="30" health="1,003" A="2" H="3">
+<name>尤希尔</name>
+<rank>炼金术供应商</rank>
+<screenshot>23358</screenshot>
+<coords map="1657">
+<coord x="160" y="40" />
+</coords>
+</npc>
+	<npc id="4250" class="1" level="24" health="664" A="3" H="3">
+<name>加拉克猎犬</name>
+<screenshot>55469</screenshot>
+<coords map="400">
+<coord x="60" y="60" />
+</coords>
+</npc>
+	<npc id="4382" class="4" level="35 - 37" health="1,400 - 1,536" A="3" H="3">
+<name>枯藤爬行者</name>
+<screenshot>11461</screenshot>
+<coords map="15">
+<coord x="100" y="30" />
+<coord x="100" y="40" />
+<coord x="110" y="20" />
+<coord x="110" y="30" />
+<coord x="110" y="40" />
+<coord x="120" y="20" />
+<coord x="120" y="30" />
+<coord x="120" y="40" />
+<coord x="120" y="50" />
+<coord x="130" y="30" />
+</coords>
+</npc>
+	<npc id="4389" class="1" level="36 - 37" health="1,532 - 1,603" A="3" H="3">
+<name>黑色蛇颈龙</name>
+<screenshot>47421</screenshot>
+<coords map="15">
+<coord x="130" y="60" />
+<coord x="140" y="60" />
+<coord x="140" y="70" />
+<coord x="140" y="80" />
+<coord x="150" y="70" />
+<coord x="150" y="80" />
+<coord x="150" y="90" />
+<coord x="160" y="80" />
+<coord x="160" y="90" />
+<coord x="170" y="100" />
+<coord x="180" y="90" />
+<coord x="180" y="100" />
+</coords>
+</npc>
+	<npc id="4465" class="7" level="45 - 46" health="2,218 - 2,303" A="3" H="3">
+<name>邪枝标枪手</name>
+<screenshot>112613</screenshot>
+<coords map="47">
+<coord x="180" y="120" />
+<coord x="190" y="120" />
+<coord x="200" y="120" />
+<coord x="200" y="130" />
+</coords>
+</npc>
+	<npc id="4469" class="10" level="46 - 47" health="1,535 - 1,592" A="3" H="3">
+<name>碧绿软泥怪</name>
+<screenshot>8742</screenshot>
+<coords map="47">
+<coord x="190" y="130" />
+</coords>
+</npc>
+	<npc id="4610" class="6" level="30" health="1,003" A="3" H="2">
+<name>奥格诺恩</name>
+<rank>炼金术供应商</rank>
+<screenshot>23652</screenshot>
+<coords map="1497">
+<coord x="150" y="140" />
+</coords>
+</npc>
+	<npc id="4611" class="7" level="50" health="2,769" A="3" H="2">
+<name>赫伯特·哈尔希医生</name>
+<rank>炼金术训练师</rank>
+<screenshot>75374</screenshot>
+<coords map="1497">
+<coord x="140" y="140" />
+</coords>
+</npc>
+	<npc id="4658" class="7" level="39 - 40" health="1,196 - 1,239" A="3" H="3">
+<name>玛洛迪狂怒者</name>
+<screenshot>78878</screenshot>
+<coords map="405">
+<coord x="80" y="100" />
+<coord x="80" y="110" />
+<coord x="80" y="120" />
+</coords>
+</npc>
+	<npc id="4687" class="5" type="精英" level="39 - 40" health="4,377 - 4,572" A="3" H="3">
+<name>深海搜寻者</name>
+<screenshot>59777</screenshot>
+<coords map="405">
+<coord x="80" y="30" />
+<coord x="90" y="40" />
+<coord x="90" y="50" />
+<coord x="100" y="60" />
+<coord x="110" y="40" />
+<coord x="110" y="150" />
+<coord x="120" y="50" />
+<coord x="120" y="160" />
+<coord x="130" y="160" />
+<coord x="170" y="30" />
+<coord x="170" y="160" />
+<coord x="190" y="110" />
+<coord x="80" y="20" />
+</coords>
+</npc>
+	<npc id="4878" class="7" level="36" health="1,469" A="3" H="2">
+<name>莫塔尔</name>
+<rank>博学者</rank>
+<screenshot>63774</screenshot>
+<coords map="400">
+<coord x="130" y="100" />
+</coords>
+</npc>
+	<npc id="4900" class="7" level="37" health="1,536" A="2" H="3">
+<name>炼金师纳瑞特</name>
+<rank>中级炼金术士</rank>
+<screenshot>47669</screenshot>
+<coords map="15">
+<coord x="190" y="90" />
+</coords>
+</npc>
+	<npc id="5177" class="7" level="35" health="1,342" A="2" H="3">
+<name>塔雷·浆泡</name>
+<rank>炼金术训练师</rank>
+<screenshot>10337</screenshot>
+<coords map="1537">
+<coord x="200" y="110" />
+</coords>
+</npc>
+	<npc id="5178" class="7" level="30" health="1,003" A="2" H="3">
+<name>苏雷·浆泡</name>
+<rank>炼金术供应商</rank>
+<screenshot>10317</screenshot>
+<coords map="1537">
+<coord x="200" y="100" />
+</coords>
+</npc>
+	<npc id="5450" class="10" level="49 - 50" health="2,672 - 2,769" A="3" H="3">
+<name>哈扎里毒刺蝎</name>
+<screenshot>39854</screenshot>
+<coords map="440">
+<coord x="140" y="150" />
+<coord x="150" y="140" />
+<coord x="150" y="150" />
+<coord x="160" y="120" />
+<coord x="160" y="130" />
+<coord x="160" y="140" />
+<coord x="160" y="150" />
+<coord x="170" y="130" />
+<coord x="170" y="140" />
+<coord x="170" y="150" />
+</coords>
+</npc>
+	<npc id="5460" class="1" level="49 - 50" health="2,672 - 2,769" A="3" H="3">
+<name>森提帕尔沙行者</name>
+<screenshot>76913</screenshot>
+<coords map="440">
+<coord x="90" y="80" />
+<coord x="90" y="90" />
+<coord x="90" y="100" />
+<coord x="100" y="70" />
+<coord x="100" y="80" />
+<coord x="100" y="90" />
+<coord x="100" y="100" />
+</coords>
+</npc>
+	<npc id="5470" class="5" type="精英" level="49 - 50" health="6,414 - 6,645" A="3" H="3">
+<name>暴怒的沙丘重击者</name>
+<screenshot>76301</screenshot>
+<coords map="440">
+<coord x="100" y="150" />
+<coord x="100" y="160" />
+<coord x="110" y="150" />
+<coord x="110" y="160" />
+</coords>
+</npc>
+	<npc id="5499" class="7" level="35" health="1,342" A="2" H="3">
+<name>莉琳希亚·夜风</name>
+<rank>中级炼金术士</rank>
+<screenshot>75836</screenshot>
+<coords map="1519">
+<coord x="160" y="170" />
+</coords>
+</npc>
+	<npc id="5594" class="7" level="45" health="2,218" A="2" H="2">
+<name>炼金师匹斯特苏格</name>
+<rank>炼金术供应商</rank>
+<screenshot>138679</screenshot>
+<coords map="440">
+<coord x="150" y="50" />
+</coords>
+</npc>
+	<npc id="5683" class="7" level="22" health="508" A="2" H="3">
+<name>科马·韦拉德</name>
+<screenshot>75103</screenshot>
+<coords map="11">
+<coord x="140" y="20" />
+</coords>
+</npc>
+	<npc id="5785" class="7" type="稀有精英" level="11" health="416" A="3" H="3">
+<name>海特拉什</name>
+<screenshot>46612</screenshot>
+<coords map="215">
+<coord x="100" y="20" />
+</coords>
+</npc>
+	<npc id="5829" class="1" type="稀有" level="17" health="386" A="3" H="3">
+<name>土狼斯诺特</name>
+<screenshot>83707</screenshot>
+<coords map="17">
+<coord x="120" y="40" />
+<coord x="120" y="50" />
+</coords>
+</npc>
+	<npc id="5842" class="1" type="稀有精英" level="19" health="1,347" A="3" H="3">
+<name>“跳跃者”塔克</name>
+<screenshot>89427</screenshot>
+<coords map="17">
+<coord x="180" y="20" />
+</coords>
+</npc>
+	<npc id="5844" class="7" level="44 - 46" health="2,310 - 2,399" A="3" H="3">
+<name>黑铁奴隶贩子</name>
+<screenshot>39229</screenshot>
+<coords map="51">
+<coord x="100" y="80" />
+<coord x="100" y="90" />
+<coord x="100" y="110" />
+<coord x="110" y="60" />
+<coord x="110" y="70" />
+<coord x="110" y="80" />
+<coord x="110" y="90" />
+<coord x="110" y="100" />
+<coord x="110" y="110" />
+<coord x="110" y="120" />
+<coord x="120" y="40" />
+<coord x="120" y="50" />
+<coord x="120" y="60" />
+<coord x="120" y="70" />
+<coord x="120" y="80" />
+<coord x="120" y="100" />
+<coord x="120" y="110" />
+<coord x="120" y="120" />
+<coord x="130" y="40" />
+<coord x="130" y="50" />
+<coord x="130" y="60" />
+<coord x="130" y="70" />
+<coord x="130" y="80" />
+<coord x="130" y="90" />
+<coord x="130" y="100" />
+<coord x="130" y="110" />
+<coord x="140" y="70" />
+<coord x="140" y="80" />
+<coord x="140" y="90" />
+<coord x="140" y="100" />
+<coord x="150" y="70" />
+<coord x="160" y="80" />
+<coord x="160" y="90" />
+<coord x="170" y="80" />
+<coord x="170" y="90" />
+<coord x="120" y="90" />
+<coord x="150" y="80" />
+<coord x="150" y="90" />
+<coord x="100" y="100" />
+</coords>
+</npc>
+	<npc id="5846" class="7" level="46 - 48" health="2,488 - 2,578" A="3" H="3">
+<name>黑铁工头</name>
+<screenshot>73982</screenshot>
+<coords map="51">
+<coord x="100" y="80" />
+<coord x="100" y="90" />
+<coord x="110" y="60" />
+<coord x="110" y="70" />
+<coord x="110" y="80" />
+<coord x="110" y="90" />
+<coord x="110" y="100" />
+<coord x="120" y="40" />
+<coord x="120" y="50" />
+<coord x="120" y="60" />
+<coord x="120" y="70" />
+<coord x="120" y="80" />
+<coord x="120" y="90" />
+<coord x="120" y="100" />
+<coord x="130" y="40" />
+<coord x="130" y="50" />
+<coord x="130" y="60" />
+<coord x="130" y="70" />
+<coord x="130" y="80" />
+<coord x="130" y="100" />
+<coord x="140" y="70" />
+<coord x="140" y="80" />
+<coord x="140" y="90" />
+<coord x="150" y="70" />
+<coord x="160" y="80" />
+<coord x="160" y="90" />
+<coord x="170" y="80" />
+<coord x="170" y="90" />
+<coord x="130" y="90" />
+<coord x="150" y="80" />
+<coord x="150" y="90" />
+</coords>
+</npc>
+	<npc id="5916" class="7" type="稀有精英" level="27" health="2,070" A="2" H="3">
+<name>哨兵阿玛拉珊</name>
+<screenshot>23928</screenshot>
+<coords map="406">
+<coord x="90" y="20" />
+<coord x="100" y="30" />
+</coords>
+</npc>
+	<npc id="5930" class="7" type="稀有精英" level="28" health="2,196" A="3" H="3">
+<name>瑞雯</name>
+<screenshot>63822</screenshot>
+<coords map="406">
+<coord x="80" y="130" />
+<coord x="100" y="130" />
+</coords>
+</npc>
+	<npc id="5931" class="7" type="稀有精英" level="24" health="1,953" A="3" H="3">
+<name>工头里格尔</name>
+<screenshot>89580</screenshot>
+<coords map="406">
+<coord x="200" y="90" />
+</coords>
+</npc>
+	<npc id="5934" class="1" type="稀有精英" level="32" health="3,171" A="3" H="3">
+<name>哈特拉斯</name>
+<screenshot>120321</screenshot>
+<coords map="400">
+<coord x="40" y="80" />
+</coords>
+</npc>
+	<npc id="6109" class="2" type="首领" level="??" health="916,025" A="1" H="1">
+<name>艾索雷葛斯</name>
+<screenshot>3294</screenshot>
+<coords map="16">
+<coord x="160" y="160" />
+<coord x="160" y="170" />
+<coord x="160" y="180" />
+<coord x="170" y="170" />
+</coords>
+</npc>
+	<npc id="6201" class="3" level="51 - 53" health="2,980 - 3,189" A="3" H="3">
+<name>雷加斯盗贼</name>
+<screenshot>7835</screenshot>
+<coords map="16">
+<coord x="140" y="30" />
+<coord x="140" y="40" />
+<coord x="150" y="30" />
+<coord x="150" y="40" />
+<coord x="170" y="40" />
+<coord x="180" y="40" />
+<coord x="180" y="50" />
+<coord x="190" y="30" />
+<coord x="200" y="30" />
+</coords>
+</npc>
+	<npc id="6581" class="1" type="稀有" level="50" health="2,880" A="3" H="3">
+<name>暴掠龙女王</name>
+<screenshot>76977</screenshot>
+<coords map="490">
+<coord x="190" y="120" />
+<coord x="200" y="120" />
+</coords>
+</npc>
+	<npc id="6868" class="7" level="35" health="992" A="3" H="2">
+<name>加卡尔</name>
+<screenshot>74444</screenshot>
+<coords map="3">
+<coord x="0" y="90" />
+</coords>
+</npc>
+	<npc id="7016" class="7" type="稀有" level="22" health="508" A="3" H="3">
+<name>薇丝普拉</name>
+<screenshot>89631</screenshot>
+<coords map="148">
+<coord x="170" y="30" />
+<coord x="170" y="40" />
+</coords>
+</npc>
+	<npc id="7027" class="7" level="56 - 57" health="3,644 - 3,758" A="3" H="3">
+<name>黑石杀戮者</name>
+<screenshot>74138</screenshot>
+<coords map="46">
+<coord x="100" y="100" />
+<coord x="110" y="60" />
+<coord x="110" y="70" />
+<coord x="110" y="100" />
+<coord x="110" y="110" />
+<coord x="120" y="60" />
+<coord x="120" y="70" />
+<coord x="120" y="100" />
+<coord x="120" y="110" />
+<coord x="130" y="60" />
+<coord x="130" y="70" />
+<coord x="130" y="100" />
+<coord x="130" y="110" />
+<coord x="130" y="120" />
+<coord x="140" y="100" />
+<coord x="140" y="110" />
+<coord x="150" y="100" />
+<coord x="150" y="110" />
+<coord x="160" y="100" />
+<coord x="160" y="110" />
+</coords>
+</npc>
+	<npc id="7053" class="7" level="23" health="605" A="3" H="3">
+<name>克拉文·摩特维克</name>
+<screenshot>31950</screenshot>
+<coords map="40">
+<coord x="210" y="150" />
+<coord x="210" y="140" />
+</coords>
+</npc>
+	<npc id="7072" class="6" type="精英" level="59 - 60" health="9,771 - 10,072" A="3" H="3">
+<name>被诅咒的审判者</name>
+<screenshot>79928</screenshot>
+<coords map="267">
+<coord x="30" y="160" />
+<coord x="40" y="160" />
+<coord x="50" y="160" />
+</coords>
+</npc>
+	<npc id="7091" class="7" level="38 - 39" health="1,500 - 1,700" A="3" H="3">
+<name>暗炉伏击者</name>
+<screenshot>86102</screenshot>
+<coords map="1337">
+<coord x="70" y="50" />
+<coord x="90" y="60" />
+<coord x="70" y="60" />
+<coord x="80" y="60" />
+</coords>
+</npc>
+	<npc id="7106" class="3" level="50 - 51" health="2,880 - 2,980" A="3" H="3">
+<name>碧火盗贼</name>
+<screenshot>77045</screenshot>
+<coords map="361">
+<coord x="90" y="130" />
+<coord x="100" y="130" />
+<coord x="110" y="130" />
+<coord x="110" y="140" />
+</coords>
+</npc>
+	<npc id="7170" class="7" type="精英" level="19 - 21" health="1,347 - 1,563" A="3" H="2">
+<name>斯拉格姆</name>
+<rank>部落信使</rank>
+<screenshot>56354</screenshot>
+<coords map="38">
+<coord x="180" y="110" />
+<coord x="180" y="120" />
+<coord x="190" y="90" />
+<coord x="190" y="100" />
+<coord x="220" y="80" />
+</coords>
+</npc>
+	<npc id="7363" class="7" level="60" health="4,120" A="2" H="2">
+<name>收藏家库米沙</name>
+<screenshot>33315</screenshot>
+<coords map="4">
+<coord x="150" y="60" />
+<coord x="150" y="70" />
+<coord x="160" y="60" />
+<coord x="160" y="70" />
+</coords>
+</npc>
+	<npc id="7428" class="5" type="精英" level="59 - 60" health="8,883 - 9,156" A="3" H="3">
+<name>霜槌巨人</name>
+<screenshot>55287</screenshot>
+<coords map="618">
+<coord x="170" y="130" />
+<coord x="180" y="120" />
+<coord x="180" y="130" />
+<coord x="180" y="140" />
+<coord x="190" y="130" />
+<coord x="190" y="140" />
+</coords>
+</npc>
+	<npc id="7437" class="2" type="精英" level="57 - 58" health="5,847 - 6,030" A="3" H="3">
+<name>深蓝龙人法师</name>
+<screenshot>46394</screenshot>
+<coords map="618">
+<coord x="150" y="110" />
+<coord x="160" y="90" />
+<coord x="160" y="100" />
+<coord x="170" y="90" />
+<coord x="170" y="100" />
+<coord x="180" y="90" />
+<coord x="180" y="100" />
+</coords>
+</npc>
+	<npc id="7948" class="7" level="52" health="4,742" A="2" H="3">
+<name>凯兰娜·风语</name>
+<rank>高级炼金师</rank>
+<screenshot>78952</screenshot>
+<coords map="357">
+<coord x="90" y="80" />
+</coords>
+</npc>
+	<npc id="7995" class="7" level="50 - 51" health="2,406" A="3" H="3">
+<name>邪恶祭司海克斯</name>
+<screenshot>8749</screenshot>
+<coords map="47">
+<coord x="170" y="150" />
+</coords>
+</npc>
+	<npc id="8157" class="7" level="52" health="4,742" A="2" H="3">
+<name>洛加纳斯</name>
+<rank>炼金术供应商</rank>
+<screenshot>78953</screenshot>
+<coords map="357">
+<coord x="90" y="80" />
+</coords>
+</npc>
+	<npc id="8158" class="7" level="49" health="2,566" A="3" H="2">
+<name>布隆克</name>
+<rank>炼金术供应商</rank>
+<screenshot>10304</screenshot>
+<coords map="357">
+<coord x="230" y="80" />
+</coords>
+</npc>
+	<npc id="8177" class="7" level="45" health="2,218" A="3" H="2">
+<name>拉尔塔</name>
+<rank>炼金术供应商</rank>
+<screenshot>8699</screenshot>
+<coords map="8">
+<coord x="130" y="110" />
+</coords>
+</npc>
+	<npc id="8178" class="7" level="49" health="2,672" A="2" H="3">
+<name>妮娜·莱特布鲁</name>
+<rank>炼金术供应商</rank>
+<screenshot>54637</screenshot>
+<coords map="4">
+<coord x="200" y="30" />
+</coords>
+</npc>
+	<npc id="8218" class="7" type="稀有" level="45" health="2,218" A="3" H="3">
+<name>漫步者维瑟哈特</name>
+<screenshot>146403</screenshot>
+<coords map="47">
+<coord x="90" y="140" />
+</coords>
+</npc>
+	<npc id="8219" class="7" type="稀有" level="43" health="2,059" A="3" H="3">
+<name>祖拉雷克</name>
+<screenshot>143260</screenshot>
+<coords map="47">
+<coord x="60" y="110" />
+<coord x="90" y="110" />
+</coords>
+</npc>
+	<npc id="8439" class="7" level="48" health="1,804" A="2" H="2">
+<name>尼莉丝·洛克拉夫</name>
+<screenshot>73988</screenshot>
+<coords map="51">
+<coord x="120" y="140" />
+</coords>
+</npc>
+	<npc id="8447" class="9" level="44" health="1,782" A="3" H="3">
+<name>科朗克</name>
+<rank>黑市</rank>
+<screenshot>73983</screenshot>
+<coords map="51">
+<coord x="100" y="100" />
+</coords>
+</npc>
+	<npc id="8479" class="2" type="精英" level="55" health="7,842" A="2" H="2">
+<name>卡拉然·温布雷</name>
+<screenshot>9247</screenshot>
+<coords map="51">
+<coord x="110" y="70" />
+</coords>
+</npc>
+	<npc id="8521" class="4" level="56 - 57" health="3,644 - 3,758" A="3" H="3">
+<name>荒芜水元素</name>
+<screenshot>64797</screenshot>
+<coords map="139">
+<coord x="130" y="80" />
+<coord x="130" y="90" />
+<coord x="140" y="80" />
+<coord x="140" y="90" />
+<coord x="200" y="60" />
+</coords>
+</npc>
+	<npc id="8546" class="7" level="58 - 59" health="3,876 - 3,997" A="3" H="3">
+<name>黑暗教徒</name>
+<rank>诅咒教派</rank>
+<screenshot>53688</screenshot>
+<coords map="139">
+<coord x="100" y="80" />
+<coord x="100" y="90" />
+<coord x="180" y="60" />
+<coord x="220" y="80" />
+<coord x="230" y="60" />
+<coord x="230" y="70" />
+<coord x="230" y="80" />
+<coord x="240" y="70" />
+</coords>
+</npc>
+	<npc id="8550" class="7" level="59 - 60" health="2,799 - 2,884" A="3" H="3">
+<name>暗影法师</name>
+<rank>诅咒神教</rank>
+<screenshot>54966</screenshot>
+<coords map="139">
+<coord x="100" y="80" />
+<coord x="100" y="90" />
+<coord x="110" y="80" />
+<coord x="230" y="60" />
+<coord x="230" y="70" />
+<coord x="230" y="80" />
+</coords>
+</npc>
+	<npc id="8578" class="7" level="55" health="2,379" A="3" H="3">
+<name>大法师雷姆托里</name>
+<screenshot>56409</screenshot>
+<coords map="16">
+<coord x="170" y="60" />
+</coords>
+</npc>
+	<npc id="8636" class="7" level="50" health="2,326" A="3" H="3">
+<name>守护者莫塔加亚</name>
+<screenshot>54003</screenshot>
+<coords map="47">
+<coord x="140" y="130" />
+</coords>
+</npc>
+	<npc id="8637" class="7" level="43 - 45" health="1,800 - 2,218" A="3" H="3">
+<name>黑铁巡逻兵</name>
+<screenshot>39234</screenshot>
+<coords map="51">
+<coord x="180" y="110" />
+<coord x="180" y="120" />
+<coord x="190" y="110" />
+<coord x="190" y="120" />
+<coord x="200" y="60" />
+</coords>
+</npc>
+	<npc id="8837" class="4" level="47 - 49" health="2,488 - 2,672" A="3" H="3">
+<name>泥浆元素</name>
+<screenshot>130125</screenshot>
+<coords map="51">
+<coord x="30" y="70" />
+<coord x="30" y="80" />
+<coord x="40" y="60" />
+<coord x="40" y="70" />
+<coord x="40" y="80" />
+<coord x="50" y="60" />
+<coord x="50" y="70" />
+<coord x="50" y="80" />
+</coords>
+</npc>
+	<npc id="8891" class="7" type="精英" level="45 - 51" health="6,645 - 6,876" A="3" H="3">
+<name>铁怒卫士</name>
+<screenshot>9450</screenshot>
+<coords map="1584">
+<coord x="90" y="110" />
+<coord x="90" y="120" />
+<coord x="100" y="110" />
+<coord x="100" y="120" />
+<coord x="100" y="140" />
+<coord x="100" y="150" />
+<coord x="100" y="160" />
+<coord x="100" y="170" />
+<coord x="110" y="120" />
+<coord x="110" y="130" />
+<coord x="110" y="140" />
+<coord x="110" y="150" />
+<coord x="110" y="160" />
+<coord x="110" y="170" />
+<coord x="110" y="180" />
+<coord x="110" y="190" />
+<coord x="120" y="120" />
+<coord x="120" y="130" />
+<coord x="120" y="140" />
+<coord x="120" y="150" />
+<coord x="120" y="160" />
+<coord x="120" y="170" />
+<coord x="120" y="180" />
+<coord x="120" y="190" />
+<coord x="120" y="200" />
+<coord x="130" y="130" />
+<coord x="130" y="140" />
+<coord x="130" y="150" />
+<coord x="130" y="170" />
+<coord x="130" y="180" />
+<coord x="130" y="190" />
+<coord x="140" y="100" />
+<coord x="140" y="110" />
+<coord x="140" y="120" />
+<coord x="140" y="130" />
+<coord x="140" y="140" />
+<coord x="140" y="150" />
+</coords>
+<coords map="25">
+<coord x="130" y="50" />
+</coords>
+</npc>
+	<npc id="9197" class="7" type="精英" level="57 - 58" health="11,135 - 11,485" A="3" H="3">
+<name>尖石战斗法师</name>
+<screenshot>52895</screenshot>
+<coords map="1583">
+<coord x="190" y="120" />
+<coord x="190" y="130" />
+<coord x="200" y="120" />
+<coord x="200" y="130" />
+<coord x="200" y="140" />
+<coord x="210" y="150" />
+<coord x="240" y="140" />
+<coord x="250" y="140" />
+</coords>
+</npc>
+	<npc id="9262" class="7" type="精英" level="55 - 57" health="6,477 - 6,800" A="3" H="3">
+<name>火印祈求者</name>
+<rank>火印军团</rank>
+<screenshot>43678</screenshot>
+<coords map="1583">
+<coord x="210" y="120" />
+<coord x="210" y="130" />
+<coord x="210" y="140" />
+<coord x="210" y="150" />
+<coord x="220" y="110" />
+<coord x="220" y="120" />
+<coord x="220" y="130" />
+<coord x="220" y="140" />
+<coord x="220" y="150" />
+<coord x="230" y="100" />
+<coord x="230" y="110" />
+<coord x="230" y="140" />
+<coord x="230" y="150" />
+<coord x="230" y="160" />
+<coord x="240" y="100" />
+<coord x="240" y="110" />
+<coord x="240" y="150" />
+<coord x="240" y="160" />
+<coord x="250" y="100" />
+<coord x="250" y="150" />
+<coord x="250" y="160" />
+<coord x="270" y="110" />
+<coord x="270" y="120" />
+</coords>
+</npc>
+	<npc id="9264" class="7" type="精英" level="57 - 58" health="6,681 - 6,891" A="3" H="3">
+<name>火印炎术师</name>
+<rank>火印军团</rank>
+<screenshot>43681</screenshot>
+<coords map="1583">
+<coord x="230" y="150" />
+<coord x="240" y="150" />
+<coord x="240" y="160" />
+<coord x="240" y="170" />
+<coord x="250" y="170" />
+</coords>
+</npc>
+	<npc id="9449" class="7" type="精英" level="54 - 55" health="6,078 - 6,273" A="3" H="3">
+<name>血色宣教士</name>
+<screenshot>101467</screenshot>
+<coords map="139">
+<coord x="180" y="150" />
+<coord x="210" y="130" />
+<coord x="210" y="140" />
+<coord x="210" y="150" />
+<coord x="220" y="140" />
+<coord x="220" y="150" />
+<coord x="230" y="130" />
+<coord x="230" y="140" />
+<coord x="230" y="150" />
+<coord x="220" y="130" />
+</coords>
+</npc>
+	<npc id="9450" class="7" type="精英" level="55 - 56" health="6,273 - 6,477" A="3" H="3">
+<name>血色助理牧师</name>
+<screenshot>31313</screenshot>
+<coords map="139">
+<coord x="230" y="150" />
+<coord x="230" y="160" />
+<coord x="240" y="150" />
+<coord x="240" y="160" />
+</coords>
+</npc>
+	<npc id="9451" class="7" type="精英" level="55 - 57" health="5,490 - 5,847" A="3" H="2">
+<name>血色大法师</name>
+<screenshot>31312</screenshot>
+<coords map="139">
+<coord x="230" y="150" />
+<coord x="230" y="160" />
+<coord x="240" y="150" />
+<coord x="240" y="160" />
+</coords>
+</npc>
+	<npc id="9452" class="7" type="精英" level="53 - 55" health="5,151 - 5,490" A="3" H="3">
+<name>血色巫术师</name>
+<screenshot>91537</screenshot>
+<coords map="139">
+<coord x="210" y="130" />
+<coord x="210" y="140" />
+<coord x="210" y="150" />
+<coord x="220" y="140" />
+<coord x="220" y="150" />
+<coord x="230" y="130" />
+<coord x="230" y="140" />
+<coord x="230" y="150" />
+<coord x="220" y="130" />
+<coord x="180" y="150" />
+</coords>
+</npc>
+	<npc id="9499" class="7" type="精英" level="50 - 55" health="10,455" A="1" H="1">
+<name>普拉格</name>
+<screenshot>81116</screenshot>
+<coords map="1584">
+<coord x="130" y="90" />
+</coords>
+</npc>
+	<npc id="10120" class="4" type="精英" level="39" health="5,836" A="3" H="3">
+<name>宝库护卫者</name>
+<screenshot>61637</screenshot>
+<coords map="1337">
+<coord x="110" y="30" />
+<coord x="120" y="20" />
+<coord x="120" y="30" />
+<coord x="110" y="20" />
+</coords>
+</npc>
+	<npc id="10318" class="7" type="精英" level="59 - 61" health="15,000 - 15,720" A="3" H="3">
+<name>黑手刺客</name>
+<rank>黑手军团</rank>
+<screenshot>52843</screenshot>
+<coords map="1583">
+<coord x="150" y="120" />
+<coord x="160" y="100" />
+<coord x="160" y="110" />
+<coord x="160" y="120" />
+<coord x="170" y="110" />
+<coord x="170" y="120" />
+<coord x="180" y="100" />
+<coord x="180" y="110" />
+<coord x="180" y="120" />
+<coord x="190" y="100" />
+<coord x="190" y="110" />
+<coord x="190" y="120" />
+<coord x="200" y="100" />
+<coord x="210" y="80" />
+<coord x="210" y="100" />
+<coord x="220" y="80" />
+<coord x="220" y="100" />
+<coord x="230" y="70" />
+<coord x="230" y="80" />
+<coord x="230" y="90" />
+<coord x="230" y="100" />
+<coord x="230" y="110" />
+<coord x="240" y="80" />
+<coord x="240" y="100" />
+<coord x="240" y="110" />
+<coord x="250" y="100" />
+<coord x="260" y="80" />
+<coord x="260" y="90" />
+<coord x="270" y="70" />
+</coords>
+<coords map="25">
+<coord x="130" y="50" />
+</coords>
+</npc>
+	<npc id="10339" class="2" type="精英" level="62" health="32,370" A="3" H="3">
+<name>盖斯</name>
+<rank>黑手坐骑</rank>
+<screenshot>19031</screenshot>
+<coords map="1583">
+<coord x="210" y="40" />
+<coord x="210" y="50" />
+<coord x="210" y="60" />
+</coords>
+</npc>
+	<npc id="10363" class="2" type="精英" level="62" health="80,925" A="3" H="3">
+<name>达基萨斯将军</name>
+<screenshot>52860</screenshot>
+<coords map="1583">
+<coord x="170" y="110" />
+<coord x="160" y="110" />
+</coords>
+</npc>
+	<npc id="10366" class="2" type="精英" level="60 - 61" health="18,312 - 18,864" A="3" H="3">
+<name>狂爪龙人卫士</name>
+<screenshot>52878</screenshot>
+<coords map="1583">
+<coord x="150" y="120" />
+<coord x="160" y="100" />
+<coord x="160" y="110" />
+<coord x="160" y="120" />
+<coord x="170" y="100" />
+<coord x="170" y="110" />
+<coord x="170" y="120" />
+<coord x="180" y="100" />
+<coord x="180" y="110" />
+<coord x="180" y="120" />
+<coord x="190" y="100" />
+<coord x="190" y="110" />
+<coord x="190" y="120" />
+<coord x="200" y="100" />
+<coord x="210" y="80" />
+<coord x="210" y="100" />
+<coord x="220" y="80" />
+<coord x="220" y="100" />
+<coord x="230" y="60" />
+<coord x="230" y="70" />
+<coord x="230" y="80" />
+<coord x="230" y="90" />
+<coord x="230" y="100" />
+<coord x="230" y="110" />
+<coord x="240" y="80" />
+<coord x="240" y="100" />
+<coord x="240" y="110" />
+<coord x="250" y="110" />
+</coords>
+</npc>
+	<npc id="10412" class="6" type="精英" level="57 - 59" health="8,100 - 8,883" A="3" H="3">
+<name>地穴爬行者</name>
+<screenshot>76510</screenshot>
+<coords map="2017">
+<coord x="180" y="70" />
+<coord x="190" y="30" />
+<coord x="190" y="40" />
+<coord x="190" y="60" />
+<coord x="190" y="70" />
+<coord x="190" y="80" />
+<coord x="200" y="40" />
+<coord x="200" y="50" />
+<coord x="200" y="70" />
+<coord x="200" y="80" />
+<coord x="200" y="90" />
+<coord x="210" y="40" />
+<coord x="210" y="50" />
+<coord x="210" y="80" />
+<coord x="220" y="70" />
+<coord x="220" y="80" />
+<coord x="230" y="80" />
+<coord x="240" y="70" />
+</coords>
+</npc>
+	<npc id="10508" class="6" type="精英" level="62" health="33,670" A="3" H="3">
+<name>莱斯·霜语</name>
+<screenshot>71143</screenshot>
+<coords map="2057">
+<coord x="50" y="160" />
+</coords>
+</npc>
+	<npc id="10813" class="3" type="精英" A="3" H="3">
+<name>巴纳扎尔</name>
+<screenshot>46745</screenshot>
+<coords map="2017">
+<coord x="70" y="180" />
+</coords>
+</npc>
+	<npc id="10856" class="7" level="58" health="3,876" A="2" H="2">
+<name>银色黎明军需官哈萨娜</name>
+<rank>银色黎明</rank>
+<screenshot>56709</screenshot>
+<coords map="85">
+<coord x="250" y="130" />
+</coords>
+</npc>
+	<npc id="10857" class="7" level="58" health="3,876" A="2" H="2">
+<name>银色黎明军需官莱斯巴克</name>
+<rank>银色黎明</rank>
+<screenshot>9841</screenshot>
+<coords map="28">
+<coord x="120" y="160" />
+</coords>
+</npc>
+	<npc id="11278" class="6" level="50" health="2,769" A="2" H="2">
+<name>玛格努斯·霜鸣</name>
+<screenshot>159549</screenshot>
+<coords map="28">
+<coord x="200" y="150" />
+</coords>
+</npc>
+	<npc id="11284" class="6" type="精英" A="3" H="3">
+<name>黑暗之影</name>
+<screenshot>32892</screenshot>
+<coords map="2057">
+<coord x="140" y="150" />
+</coords>
+</npc>
+	<npc id="11480" class="4" type="精英" level="56 - 60" health="7,107 - 7,326" A="3" H="3">
+<name>奥术畸兽</name>
+<screenshot>37937</screenshot>
+<coords map="2557">
+<coord x="20" y="40" />
+<coord x="20" y="70" />
+<coord x="20" y="80" />
+<coord x="30" y="40" />
+<coord x="30" y="50" />
+<coord x="30" y="80" />
+<coord x="60" y="30" />
+<coord x="60" y="40" />
+<coord x="60" y="70" />
+<coord x="70" y="30" />
+<coord x="70" y="40" />
+<coord x="70" y="70" />
+<coord x="90" y="50" />
+<coord x="100" y="50" />
+</coords>
+</npc>
+	<npc id="11536" class="7" level="58" health="3,876" A="2" H="2">
+<name>军需官米兰达·布利洛克</name>
+<rank>银色黎明</rank>
+<screenshot>29333</screenshot>
+<coords map="139">
+<coord x="220" y="100" />
+</coords>
+</npc>
+	<npc id="11553" class="7" level="52 - 53" health="3,082 - 3,189" A="3" H="3">
+<name>木喉折木者</name>
+<screenshot>67649</screenshot>
+<coords map="361">
+<coord x="190" y="0" />
+<coord x="190" y="10" />
+<coord x="200" y="0" />
+<coord x="200" y="10" />
+</coords>
+</npc>
+	<npc id="11557" class="7" level="55" health="3,398" A="3" H="2">
+<name>梅罗什</name>
+<screenshot>62203</screenshot>
+<coords map="361">
+<coord x="190" y="0" />
+<coord x="200" y="0" />
+</coords>
+</npc>
+	<npc id="11914" class="7" level="17" health="482" A="3" H="3">
+<name>黑衣戈霍夫</name>
+<screenshot>42286</screenshot>
+<coords map="406">
+<coord x="230" y="170" />
+</coords>
+</npc>
+	<npc id="11982" class="1" type="首领" level="??" health="826,088" A="3" H="3">
+<name>玛格曼达</name>
+<screenshot>14183</screenshot>
+<coords map="2717">
+<coord x="190" y="30" />
+</coords>
+</npc>
+	<npc id="11988" class="5" type="首领" level="??" health="826,088" A="3" H="3">
+<name>焚化者古雷曼格</name>
+<screenshot>86827</screenshot>
+<coords map="2717">
+<coord x="190" y="110" />
+</coords>
+</npc>
+	<npc id="12056" class="4" type="首领" level="??" health="586,256" A="3" H="3">
+<name>迦顿男爵</name>
+<screenshot>86835</screenshot>
+<coords map="2717">
+<coord x="140" y="150" />
+</coords>
+</npc>
+	<npc id="12057" class="4" type="首领" level="??" health="659,538" A="3" H="3">
+<name>加尔</name>
+<screenshot>86821</screenshot>
+<coords map="2717">
+<coord x="60" y="140" />
+</coords>
+</npc>
+	<npc id="12118" class="7" type="首领" level="??" health="351,780" A="3" H="3">
+<name>鲁西弗隆</name>
+<screenshot>159359</screenshot>
+<coords map="2717">
+<coord x="180" y="70" />
+</coords>
+</npc>
+	<npc id="12239" class="6" type="精英" level="42" health="4,900 - 4,953" A="3" H="2">
+<name>格尔克之魂</name>
+<rank>第二可汗</rank>
+<screenshot>55257</screenshot>
+<coords map="405">
+<coord x="80" y="110" />
+</coords>
+</npc>
+	<npc id="12240" class="6" type="精英" level="43" health="5,100 - 5,148" A="2" H="2">
+<name>考尔克之魂</name>
+<rank>第一可汗</rank>
+<screenshot>41653</screenshot>
+<coords map="405">
+<coord x="80" y="120" />
+</coords>
+</npc>
+	<npc id="12248" class="6" level="60" health="4,120" A="3" H="3">
+<name>渗透者哈米亚</name>
+<screenshot>83562</screenshot>
+<coords map="139">
+<coord x="190" y="20" />
+</coords>
+</npc>
+	<npc id="12259" class="7" type="首领" level="??" health="351,780" A="3" H="3">
+<name>基赫纳斯</name>
+<screenshot>143</screenshot>
+<coords map="2717">
+<coord x="80" y="90" />
+</coords>
+</npc>
+	<npc id="12264" class="7" type="首领" level="??" health="351,780" A="3" H="3">
+<name>沙斯拉尔</name>
+<screenshot>1270</screenshot>
+<coords map="2717">
+<coord x="150" y="160" />
+</coords>
+</npc>
+	<npc id="12321" class="7" level="15" health="301" A="3" H="3">
+<name>雷鳞毒药师</name>
+<screenshot>59204</screenshot>
+<coords map="148">
+<coord x="160" y="60" />
+</coords>
+</npc>
+	<npc id="12464" class="2" type="精英" level="62" health="113,295" A="3" H="3">
+<name>死爪狂乱者</name>
+<screenshot>12576</screenshot>
+<coords map="2677">
+<coord x="130" y="100" />
+<coord x="130" y="110" />
+</coords>
+<coords map="25">
+<coord x="140" y="120" />
+</coords>
+</npc>
+	<npc id="12944" class="7" level="60" health="4,120" A="2" H="2">
+<name>罗克图斯·暗契</name>
+<rank>瑟银兄弟会</rank>
+<screenshot>81115</screenshot>
+<coords map="1584">
+<coord x="130" y="90" />
+</coords>
+</npc>
+	<npc id="13418" class="7" A="2" H="2">
+<name>凯玛德·考伯宾奇</name>
+<rank>烟林牧场</rank>
+<event>冬幕节</event>
+<screenshot>10124</screenshot>
+<coords map="1637">
+<coord x="160" y="130" />
+</coords>
+</npc>
+	<npc id="13433" class="7" A="2" H="2">
+<name>乌莫尔特</name>
+<rank>烟林牧场</rank>
+<event>冬幕节</event>
+<screenshot>8520</screenshot>
+<coords map="1537">
+<coord x="100" y="130" />
+</coords>
+</npc>
+	<npc id="13434" class="7" A="2" H="2">
+<name>麦希</name>
+<rank>烟林牧场</rank>
+<event>冬幕节</event>
+<screenshot>8519</screenshot>
+<coords map="1537">
+<coord x="100" y="130" />
+</coords>
+</npc>
+	<npc id="14279" class="1" type="稀有" level="24" health="664" A="3" H="3">
+<name>克雷普塞斯</name>
+<screenshot>88643</screenshot>
+<coords map="267">
+<coord x="80" y="120" />
+<coord x="110" y="100" />
+</coords>
+</npc>
+	<npc id="14357" class="1" type="精英" level="25" health="2,097" A="3" H="3">
+<name>止水湖蛇颈龙</name>
+<screenshot>39565</screenshot>
+<coords map="44">
+<coord x="110" y="110" />
+<coord x="110" y="120" />
+<coord x="120" y="110" />
+<coord x="120" y="120" />
+<coord x="130" y="110" />
+<coord x="130" y="120" />
+<coord x="140" y="110" />
+<coord x="140" y="120" />
+<coord x="150" y="110" />
+<coord x="150" y="120" />
+</coords>
+</npc>
+	<npc id="14464" class="4" type="精英" level="58" health="14,355" A="3" H="3">
+<name>阿瓦兰奇奥</name>
+<screenshot>24021</screenshot>
+<coords map="16">
+<coord x="230" y="30" />
+</coords>
+</npc>
+	<npc id="14731" class="7" level="48" health="2,062" A="3" H="2">
+<name>拉尔德</name>
+<rank>旅店老板</rank>
+<screenshot>37898</screenshot>
+<coords map="47">
+<coord x="230" y="160" />
+</coords>
+</npc>
+	<npc id="14828" class="7" level="25" health="699" A="2" H="2">
+<name>吉瓦斯·格里加特</name>
+<rank>暗月马戏团奖券兑换员</rank>
+<event>暗月马戏团</event>
+<screenshot>26258</screenshot>
+<coords map="12">
+<coord x="120" y="130" />
+</coords>
+<coords map="215">
+<coord x="110" y="70" />
+</coords>
+<coords map="3519">
+<coord x="100" y="60" />
+</coords>
+</npc>
+	<npc id="14887" class="2" type="首领" level="??" health="832,750" A="3" H="3">
+<name>伊森德雷</name>
+<screenshot>86680</screenshot>
+<coords map="10">
+<coord x="140" y="80" />
+</coords>
+<coords map="47">
+<coord x="180" y="40" />
+</coords>
+<coords map="331">
+<coord x="280" y="70" />
+</coords>
+<coords map="357">
+<coord x="150" y="20" />
+</coords>
+</npc>
+	<npc id="14888" class="2" type="首领" level="??" health="832,750" A="3" H="3">
+<name>莱索恩</name>
+<screenshot>63149</screenshot>
+<coords map="10">
+<coord x="140" y="80" />
+</coords>
+<coords map="47">
+<coord x="180" y="40" />
+</coords>
+<coords map="331">
+<coord x="280" y="70" />
+</coords>
+<coords map="357">
+<coord x="150" y="20" />
+</coords>
+</npc>
+	<npc id="14889" class="2" type="首领" level="??" health="832,750" A="3" H="3">
+<name>艾莫莉丝</name>
+<screenshot>30786</screenshot>
+<coords map="10">
+<coord x="130" y="80" />
+</coords>
+<coords map="47">
+<coord x="180" y="40" />
+</coords>
+<coords map="331">
+<coord x="280" y="70" />
+</coords>
+<coords map="357">
+<coord x="150" y="20" />
+</coords>
+</npc>
+	<npc id="14890" class="2" type="首领" level="??" health="832,750" A="3" H="3">
+<name>泰拉尔</name>
+<screenshot>48892</screenshot>
+<coords map="10">
+<coord x="130" y="80" />
+</coords>
+<coords map="47">
+<coord x="180" y="40" />
+</coords>
+<coords map="331">
+<coord x="280" y="70" />
+</coords>
+<coords map="357">
+<coord x="150" y="20" />
+</coords>
+</npc>
+	<npc id="14921" class="7" type="精英" level="56" health="8,097" A="2" H="2">
+<name>商人林沃斯</name>
+<rank>赞达拉商人和修理者</rank>
+<screenshot>8398</screenshot>
+<coords map="33">
+<coord x="40" y="30" />
+</coords>
+</npc>
+	<npc id="15162" class="7" type="精英" level="61" health="9,432" A="3" H="3">
+<name>血色审查官</name>
+<screenshot>54968</screenshot>
+<coords map="139">
+<coord x="220" y="150" />
+</coords>
+</npc>
+	<npc id="15461" class="10" type="精英" level="60" health="12,208" A="3" H="3">
+<name>食脑甲虫</name>
+<screenshot>113558</screenshot>
+<coords map="3429">
+<coord x="180" y="100" />
+<coord x="190" y="110" />
+</coords>
+</npc>
+	<npc id="16161" class="7" level="15" health="299" A="3" H="2">
+<name>奥术师森纳瑟林</name>
+<rank>初级炼金师</rank>
+<screenshot>57384</screenshot>
+<coords map="3430">
+<coord x="110" y="140" />
+</coords>
+</npc>
+	<npc id="16178" class="3" type="精英" level="70" health="17,116" A="3" H="3">
+<name>相位猎犬</name>
+<screenshot>47059</screenshot>
+<coords map="2562">
+<coord x="90" y="0" />
+</coords>
+</npc>
+	<npc id="16461" class="3" type="精英" level="71" health="40,214" A="3" H="3">
+<name>妖女</name>
+<screenshot>46883</screenshot>
+<coords map="2562">
+</coords>
+</npc>
+	<npc id="16489" class="4" type="精英" level="70 - 71" health="39,122 - 40,214" A="3" H="3">
+<name>混乱感知者</name>
+<screenshot>46881</screenshot>
+<coords map="2562">
+<coord x="90" y="80" />
+<coord x="100" y="80" />
+</coords>
+</npc>
+	<npc id="16588" class="7" level="60" health="7,326" A="3" H="2">
+<name>药剂师安东尼维奇</name>
+<rank>宗师级炼金师</rank>
+<screenshot>31555</screenshot>
+<coords map="3483">
+<coord x="150" y="70" />
+</coords>
+</npc>
+	<npc id="16641" class="7" level="30" health="737" A="3" H="2">
+<name>梅拉瑞斯</name>
+<rank>炼金术供应商</rank>
+<screenshot>50330</screenshot>
+<coords map="3487">
+<coord x="200" y="30" />
+</coords>
+</npc>
+	<npc id="16642" class="7" level="30" health="811" A="3" H="2">
+<name>卡博隆</name>
+<rank>中级炼金师</rank>
+<screenshot>50334</screenshot>
+<coords map="3487">
+<coord x="200" y="30" />
+</coords>
+</npc>
+	<npc id="16705" class="7" level="30" health="737" A="2" H="3">
+<name>奥泰恩</name>
+<rank>炼金术供应商</rank>
+<screenshot>41792</screenshot>
+<coords map="3557">
+<coord x="80" y="120" />
+</coords>
+</npc>
+	<npc id="16723" class="7" level="30" health="811" A="2" H="3">
+<name>鲁克</name>
+<rank>炼金术训练师</rank>
+<screenshot>41783</screenshot>
+<coords map="3557">
+<coord x="80" y="110" />
+</coords>
+</npc>
+	<npc id="17150" class="7" level="65 - 67" health="4,892 - 5,060" A="3" H="3">
+<name>维尔埃尼奥术师</name>
+<screenshot>18385</screenshot>
+<coords map="3518">
+<coord x="100" y="120" />
+<coord x="100" y="150" />
+<coord x="110" y="120" />
+<coord x="120" y="130" />
+<coord x="120" y="140" />
+<coord x="110" y="150" />
+<coord x="120" y="120" />
+<coord x="120" y="150" />
+</coords>
+</npc>
+	<npc id="17215" class="7" level="10" health="198" A="2" H="3">
+<name>丹达尔</name>
+<rank>初级炼金师</rank>
+<screenshot>47397</screenshot>
+<coords map="3524">
+<coord x="140" y="100" />
+</coords>
+</npc>
+	<npc id="17585" class="7" type="精英" level="62" health="16,023" A="3" H="2">
+<name>军需官乌尔格隆</name>
+<rank>萨尔玛军需官</rank>
+<screenshot>31584</screenshot>
+<coords map="3483">
+<coord x="160" y="70" />
+</coords>
+</npc>
+	<npc id="17657" class="7" level="62" health="9,711" A="2" H="3">
+<name>后勤军需官乌瑞卡</name>
+<rank>荣耀堡军需官</rank>
+<screenshot>80113</screenshot>
+<coords map="3483">
+<coord x="160" y="120" />
+</coords>
+</npc>
+	<npc id="17862" class="7" type="精英" level="68 - 72" health="62,796 - 95,629" A="3" H="3">
+<name>斯卡洛克上尉</name>
+<screenshot>21639</screenshot>
+<coords map="2367">
+<coord x="190" y="110" />
+</coords>
+</npc>
+	<npc id="17904" class="7" type="精英" level="60" health="24,416" A="2" H="2">
+<name>芬德雷·迅矛</name>
+<rank>塞纳里奥远征队军需官</rank>
+<screenshot>31901</screenshot>
+<coords map="3521">
+<coord x="230" y="120" />
+</coords>
+</npc>
+	<npc id="17909" class="7" level="68" health="5,233" A="2" H="2">
+<name>劳兰娜·萨维尔</name>
+<rank>远征队编目者</rank>
+<screenshot>10575</screenshot>
+<coords map="3521">
+<coord x="240" y="120" />
+</coords>
+</npc>
+	<npc id="18005" class="7" level="63" health="4,422" A="2" H="3">
+<name>海尔伦</name>
+<rank>炼金术供应商</rank>
+<screenshot>40694</screenshot>
+<coords map="3521">
+<coord x="200" y="90" />
+</coords>
+</npc>
+	<npc id="18017" class="7" level="62" health="2,590" A="3" H="2">
+<name>先知亚尼迪</name>
+<rank>施法材料商</rank>
+<screenshot>10623</screenshot>
+<coords map="3521">
+<coord x="90" y="100" />
+</coords>
+</npc>
+	<npc id="18154" class="7" type="精英" level="65" health="33,117" A="3" H="3">
+<name>斯利斯</name>
+<screenshot>70473</screenshot>
+<coords map="3521">
+<coord x="70" y="100" />
+</coords>
+</npc>
+	<npc id="18255" class="7" level="68" health="2,684" A="2" H="2">
+<name>学徒达里乌斯</name>
+<screenshot>74325</screenshot>
+<coords map="41">
+<coord x="130" y="150" />
+</coords>
+</npc>
+	<npc id="18344" class="7" type="精英" level="66 - 72" health="88,056 - 143,443" A="3" H="3">
+<name>节点亲王沙法尔</name>
+<screenshot>62842</screenshot>
+<coords map="3792">
+<coord x="100" y="100" />
+</coords>
+</npc>
+	<npc id="18382" class="7" level="64" health="4,572" A="2" H="2">
+<name>麦卡</name>
+<rank>孢子村物资官</rank>
+<screenshot>93177</screenshot>
+<coords map="3521">
+<coord x="50" y="100" />
+</coords>
+</npc>
+	<npc id="18802" class="7" level="60" health="7,326" A="2" H="3">
+<name>炼金师格里比</name>
+<rank>宗师级炼金师</rank>
+<screenshot>34198</screenshot>
+<coords map="3483">
+<coord x="160" y="130" />
+</coords>
+</npc>
+	<npc id="18821" class="7" type="精英" level="65" health="70,965" A="3" H="2">
+<name>军需官亚弗雷·诺雷里克</name>
+<screenshot>78938</screenshot>
+<coords map="3518">
+<coord x="120" y="80" />
+</coords>
+</npc>
+	<npc id="18822" class="7" type="精英" level="65" health="88,710" A="2" H="3">
+<name>军需官达维安·瓦克拉弗</name>
+<screenshot>53044</screenshot>
+<coords map="3518">
+<coord x="120" y="80" />
+</coords>
+</npc>
+	<npc id="19042" class="7" level="60" health="6,104" A="2" H="3">
+<name>莉莉·朗哈格</name>
+<rank>商人</rank>
+<screenshot>42659</screenshot>
+<coords map="3519">
+<coord x="170" y="100" />
+</coords>
+</npc>
+	<npc id="19052" class="7" level="63" health="3,870" A="2" H="2">
+<name>罗罗基姆</name>
+<rank>大师级炼金术训练师</rank>
+<screenshot>15816</screenshot>
+<coords map="3703">
+<coord x="130" y="40" />
+</coords>
+</npc>
+	<npc id="19074" class="7" level="60" health="4,979" A="2" H="2">
+<name>斯克雷亚</name>
+<rank>炼金术供应商</rank>
+<screenshot>15819</screenshot>
+<coords map="3703">
+<coord x="130" y="40" />
+</coords>
+</npc>
+	<npc id="19168" class="7" type="精英" level="68 - 70" health="21,636 - 30,181" A="3" H="3">
+<name>寻日者星术师</name>
+<screenshot>24839</screenshot>
+<coords map="3849">
+<coord x="80" y="90" />
+<coord x="100" y="90" />
+<coord x="110" y="30" />
+<coord x="110" y="40" />
+<coord x="110" y="50" />
+<coord x="110" y="90" />
+<coord x="120" y="20" />
+<coord x="120" y="90" />
+<coord x="130" y="20" />
+<coord x="130" y="90" />
+<coord x="140" y="20" />
+<coord x="140" y="90" />
+<coord x="150" y="20" />
+<coord x="150" y="80" />
+<coord x="90" y="90" />
+<coord x="150" y="70" />
+<coord x="150" y="60" />
+<coord x="150" y="50" />
+<coord x="150" y="40" />
+<coord x="150" y="30" />
+</coords>
+</npc>
+	<npc id="19221" class="7" type="精英" level="72" health="97,400 - 131,489" A="3" H="3">
+<name>灵术师塞比瑟蕾</name>
+<screenshot>24838</screenshot>
+<coords map="3849">
+<coord x="140" y="10" />
+</coords>
+</npc>
+	<npc id="19331" class="7" level="62" health="3,739" A="2" H="2">
+<name>军需官恩努利尔</name>
+<rank>占星者军需官</rank>
+<screenshot>12591</screenshot>
+<coords map="3703">
+<coord x="180" y="120" />
+</coords>
+</npc>
+	<npc id="19740" class="3" level="67 - 68" health="5,060 - 5,233" A="3" H="3">
+<name>天罚行者</name>
+<screenshot>26748</screenshot>
+<coords map="3520">
+<coord x="60" y="50" />
+<coord x="60" y="60" />
+<coord x="60" y="70" />
+<coord x="70" y="50" />
+<coord x="70" y="60" />
+<coord x="70" y="70" />
+<coord x="80" y="50" />
+</coords>
+</npc>
+	<npc id="19754" class="3" level="68 - 69" health="6,542 - 6,761" A="3" H="3">
+<name>死亡熔炉杂役</name>
+<screenshot>52096</screenshot>
+<coords map="3520">
+<coord x="100" y="80" />
+<coord x="110" y="70" />
+<coord x="110" y="80" />
+<coord x="120" y="70" />
+</coords>
+</npc>
+	<npc id="19755" class="3" level="66 - 67" health="6,116 - 6,326" A="3" H="3">
+<name>莫尔葛武器匠</name>
+<screenshot>26754</screenshot>
+<coords map="3520">
+<coord x="60" y="50" />
+<coord x="60" y="60" />
+<coord x="60" y="70" />
+<coord x="70" y="50" />
+<coord x="70" y="60" />
+<coord x="70" y="70" />
+</coords>
+</npc>
+	<npc id="19756" class="3" level="68 - 69" health="5,233 - 5,409" A="3" H="3">
+<name>死亡熔炉铁匠</name>
+<screenshot>59090</screenshot>
+<coords map="3520">
+<coord x="100" y="80" />
+<coord x="110" y="80" />
+</coords>
+</npc>
+	<npc id="19757" class="3" level="68 - 69" health="4,710 - 4,868" A="3" H="3">
+<name>地狱火的灵魂</name>
+<screenshot>65897</screenshot>
+<coords map="3520">
+<coord x="110" y="70" />
+<coord x="110" y="80" />
+<coord x="120" y="70" />
+</coords>
+</npc>
+	<npc id="19795" class="7" level="69" health="5,409" A="3" H="3">
+<name>日蚀血骑士</name>
+<screenshot>52102</screenshot>
+<coords map="3520">
+<coord x="150" y="110" />
+<coord x="150" y="120" />
+<coord x="150" y="130" />
+<coord x="160" y="120" />
+</coords>
+</npc>
+	<npc id="19806" class="7" level="70" health="6,986" A="3" H="3">
+<name>日蚀血护卫</name>
+<screenshot>52103</screenshot>
+<coords map="3520">
+<coord x="130" y="130" />
+<coord x="130" y="140" />
+<coord x="140" y="110" />
+<coord x="140" y="120" />
+<coord x="140" y="130" />
+<coord x="140" y="140" />
+</coords>
+</npc>
+	<npc id="19837" class="7" level="60" health="3,815" A="3" H="2">
+<name>达加·拉姆巴</name>
+<rank>药水商人</rank>
+<screenshot>79968</screenshot>
+<coords map="3522">
+<coord x="150" y="110" />
+</coords>
+</npc>
+	<npc id="19973" class="3" level="70 - 71" health="6,986 - 7,181" A="3" H="3">
+<name>深渊烈焰使者</name>
+<screenshot>69643</screenshot>
+<coords map="3522">
+<coord x="70" y="150" />
+<coord x="70" y="160" />
+<coord x="80" y="150" />
+<coord x="80" y="160" />
+<coord x="90" y="150" />
+<coord x="90" y="160" />
+</coords>
+</npc>
+	<npc id="20033" class="7" type="精英" level="71" health="100,520" A="3" H="3">
+<name>星术师</name>
+<screenshot>28967</screenshot>
+<coords map="3842">
+<coord x="140" y="150" />
+<coord x="140" y="160" />
+<coord x="140" y="170" />
+<coord x="140" y="180" />
+<coord x="150" y="150" />
+<coord x="150" y="160" />
+<coord x="150" y="170" />
+<coord x="150" y="180" />
+</coords>
+</npc>
+	<npc id="20034" class="7" type="精英" level="71" health="100,520" A="3" H="3">
+<name>星占师</name>
+<screenshot>28963</screenshot>
+<coords map="3842">
+<coord x="140" y="150" />
+<coord x="140" y="160" />
+<coord x="140" y="170" />
+<coord x="140" y="180" />
+<coord x="150" y="150" />
+<coord x="150" y="160" />
+<coord x="150" y="170" />
+<coord x="150" y="180" />
+</coords>
+</npc>
+	<npc id="20039" class="1" type="精英" level="72" health="387,450" A="3" H="3">
+<name>凤鹰</name>
+<screenshot>28968</screenshot>
+<coords map="3842">
+<coord x="130" y="100" />
+<coord x="130" y="110" />
+<coord x="140" y="90" />
+<coord x="150" y="90" />
+<coord x="160" y="100" />
+<coord x="160" y="110" />
+<coord x="160" y="120" />
+<coord x="130" y="120" />
+<coord x="140" y="130" />
+<coord x="150" y="130" />
+</coords>
+</npc>
+	<npc id="20050" class="7" type="精英" level="72" health="165,284" A="3" H="3">
+<name>炽手审讯者</name>
+<coords map="3842">
+<coord x="120" y="50" />
+<coord x="120" y="60" />
+<coord x="130" y="40" />
+<coord x="140" y="40" />
+<coord x="150" y="40" />
+<coord x="160" y="40" />
+<coord x="170" y="50" />
+<coord x="170" y="60" />
+</coords>
+</npc>
+	<npc id="20052" class="3" type="精英" level="71" health="125,668" A="3" H="3">
+<name>晶核机械师</name>
+<screenshot>46893</screenshot>
+<coords map="3842">
+<coord x="60" y="70" />
+<coord x="70" y="70" />
+<coord x="80" y="70" />
+<coord x="80" y="80" />
+<coord x="80" y="90" />
+<coord x="80" y="100" />
+<coord x="70" y="100" />
+<coord x="60" y="100" />
+</coords>
+</npc>
+	<npc id="20240" class="7" level="65" health="17,742" A="2" H="3">
+<name>商人纳拉苏</name>
+<rank>库雷尼军需官</rank>
+<screenshot>80226</screenshot>
+<coords map="3518">
+<coord x="160" y="150" />
+</coords>
+</npc>
+	<npc id="20241" class="7" level="65" health="17,742" A="3" H="2">
+<name>补给官纳瑟拉</name>
+<rank>玛格汉军需官</rank>
+<screenshot>37667</screenshot>
+<coords map="3518">
+<coord x="160" y="70" />
+</coords>
+</npc>
+	<npc id="20454" class="7" type="精英" level="72" health="94,448" A="3" H="3">
+<name>节点之王萨哈达尔</name>
+<screenshot>12817</screenshot>
+<coords map="3523">
+<coord x="160" y="80" />
+</coords>
+</npc>
+	<npc id="20600" class="7" type="精英" level="70" health="139,720" A="3" H="3">
+<name>玛古克</name>
+<rank>格鲁尔之子</rank>
+<screenshot>72735</screenshot>
+<coords map="3522">
+<coord x="170" y="110" />
+<coord x="170" y="120" />
+<coord x="180" y="100" />
+<coord x="190" y="100" />
+<coord x="200" y="110" />
+<coord x="200" y="120" />
+<coord x="200" y="130" />
+<coord x="200" y="140" />
+</coords>
+</npc>
+	<npc id="20878" class="7" level="68 - 69" health="6,542 - 6,761" A="3" H="3">
+<name>死亡熔炉守护者</name>
+<screenshot>59086</screenshot>
+<coords map="3520">
+<coord x="100" y="70" />
+<coord x="100" y="80" />
+<coord x="110" y="60" />
+<coord x="110" y="70" />
+<coord x="110" y="80" />
+<coord x="110" y="90" />
+<coord x="120" y="60" />
+<coord x="120" y="70" />
+<coord x="120" y="80" />
+</coords>
+</npc>
+	<npc id="20882" class="3" type="精英" level="70" health="45,409 - 56,587" A="3" H="3">
+<name>潜藏的女巫</name>
+<screenshot>28045</screenshot>
+<coords map="3846">
+<coord x="80" y="110" />
+<coord x="80" y="120" />
+<coord x="80" y="130" />
+<coord x="90" y="110" />
+<coord x="90" y="120" />
+<coord x="90" y="130" />
+</coords>
+</npc>
+	<npc id="20887" class="3" level="67" health="1,518" A="3" H="3">
+<name>死亡熔炉小鬼</name>
+<screenshot>52094</screenshot>
+<coords map="3520">
+<coord x="100" y="80" />
+<coord x="110" y="60" />
+<coord x="110" y="70" />
+<coord x="110" y="80" />
+<coord x="110" y="90" />
+<coord x="120" y="60" />
+<coord x="120" y="70" />
+</coords>
+</npc>
+	<npc id="20905" class="3" type="精英" level="70" health="67,068 - 89,424" A="3" H="3">
+<name>烈焰欺诈者</name>
+<screenshot>85990</screenshot>
+<coords map="3846">
+<coord x="180" y="20" />
+<coord x="190" y="20" />
+</coords>
+</npc>
+	<npc id="20909" class="7" type="精英" level="72" health="70,836 - 94,448" A="3" H="3">
+<name>萨弗隆熔岩投掷者</name>
+<screenshot>86893</screenshot>
+<coords map="3846">
+<coord x="180" y="30" />
+<coord x="190" y="30" />
+</coords>
+</npc>
+	<npc id="21168" class="7" type="精英" level="70" health="55,890" A="3" H="3">
+<name>瑟拉斯</name>
+<rank>伊利达雷恶魔猎手</rank>
+<screenshot>13182</screenshot>
+<coords map="3520">
+<coord x="210" y="90" />
+</coords>
+</npc>
+	<npc id="21226" class="7" type="精英" level="71" health="100,520" A="3" H="3">
+<name>踏潮萨满祭司</name>
+<screenshot>28949</screenshot>
+<coords map="3607">
+<coord x="170" y="70" />
+<coord x="180" y="30" />
+<coord x="180" y="40" />
+<coord x="180" y="50" />
+<coord x="180" y="60" />
+<coord x="190" y="30" />
+<coord x="190" y="40" />
+<coord x="190" y="50" />
+<coord x="200" y="30" />
+<coord x="200" y="40" />
+</coords>
+</npc>
+	<npc id="21227" class="7" type="精英" level="71" health="125,668" A="3" H="3">
+<name>踏潮持叉者</name>
+<coords map="3607">
+<coord x="180" y="30" />
+<coord x="180" y="40" />
+<coord x="180" y="50" />
+<coord x="180" y="60" />
+<coord x="190" y="30" />
+<coord x="190" y="40" />
+<coord x="190" y="50" />
+<coord x="200" y="30" />
+<coord x="200" y="40" />
+</coords>
+</npc>
+	<npc id="21231" class="7" type="精英" level="71" health="125,668" A="3" H="3">
+<name>暗心持盾者</name>
+<screenshot>28958</screenshot>
+<coords map="3607">
+<coord x="100" y="40" />
+<coord x="110" y="30" />
+<coord x="120" y="20" />
+<coord x="120" y="30" />
+<coord x="120" y="40" />
+<coord x="130" y="10" />
+<coord x="130" y="20" />
+<coord x="130" y="30" />
+<coord x="130" y="40" />
+<coord x="130" y="50" />
+<coord x="140" y="30" />
+<coord x="140" y="40" />
+<coord x="140" y="50" />
+</coords>
+</npc>
+	<npc id="21246" class="1" type="精英" level="71" health="75,400" A="3" H="3">
+<name>毒蛇神殿孢子蝠</name>
+<screenshot>26517</screenshot>
+<coords map="3607">
+<coord x="60" y="140" />
+<coord x="70" y="140" />
+<coord x="80" y="140" />
+<coord x="80" y="150" />
+<coord x="90" y="130" />
+<coord x="90" y="160" />
+<coord x="100" y="120" />
+<coord x="100" y="160" />
+</coords>
+</npc>
+	<npc id="21302" class="7" level="67" health="5,060" A="3" H="3">
+<name>暗影议会术士</name>
+<screenshot>54035</screenshot>
+<coords map="3520">
+<coord x="60" y="70" />
+<coord x="60" y="80" />
+</coords>
+</npc>
+	<npc id="21314" class="3" level="67 - 68" health="6,326 - 6,542" A="3" H="3">
+<name>恐怖主宰</name>
+<screenshot>49558</screenshot>
+<coords map="3520">
+<coord x="60" y="60" />
+<coord x="60" y="70" />
+<coord x="60" y="80" />
+<coord x="70" y="60" />
+<coord x="70" y="70" />
+</coords>
+</npc>
+	<npc id="21432" class="7" level="70" health="6,986" A="2" H="2">
+<name>奥玛多尔</name>
+<rank>沙塔尔军需官</rank>
+<screenshot>44803</screenshot>
+<coords map="3703">
+<coord x="150" y="80" />
+</coords>
+</npc>
+	<npc id="21643" class="7" level="65" health="5,914" A="2" H="2">
+<name>艾鲁尔米</name>
+<rank>时光守护者军需官</rank>
+<screenshot>35673</screenshot>
+<coords map="440">
+<coord x="190" y="110" />
+</coords>
+</npc>
+	<npc id="21655" class="7" level="70" health="6,986" A="2" H="2">
+<name>纳克杜</name>
+<rank>贫民窟军需官</rank>
+<screenshot>12602</screenshot>
+<coords map="3703">
+<coord x="180" y="130" />
+</coords>
+</npc>
+	<npc id="22016" class="7" level="67 - 69" health="5,200 - 5,409" A="3" H="3">
+<name>日蚀士兵</name>
+<screenshot>16604</screenshot>
+<coords map="3520">
+<coord x="150" y="110" />
+<coord x="150" y="120" />
+<coord x="150" y="130" />
+<coord x="160" y="110" />
+<coord x="160" y="120" />
+<coord x="160" y="130" />
+</coords>
+</npc>
+	<npc id="22017" class="7" level="67 - 69" health="5,200 - 5,409" A="3" H="3">
+<name>日蚀缚法者</name>
+<screenshot>80922</screenshot>
+<coords map="3520">
+<coord x="150" y="110" />
+<coord x="150" y="120" />
+<coord x="150" y="130" />
+<coord x="160" y="110" />
+<coord x="160" y="120" />
+<coord x="160" y="130" />
+</coords>
+</npc>
+	<npc id="22076" class="7" type="精英" level="72" health="118,060" A="3" H="3">
+<name>托洛斯</name>
+<rank>火色魔印</rank>
+<screenshot>156143</screenshot>
+<coords map="3520">
+<coord x="150" y="140" />
+</coords>
+</npc>
+	<npc id="22099" class="7" level="67 - 68" health="6,326 - 6,542" A="3" H="3">
+<name>拜龙教补给者</name>
+<screenshot>47491</screenshot>
+<coords map="3522">
+<coord x="100" y="60" />
+</coords>
+</npc>
+	<npc id="22427" class="7" level="68" health="6,542" A="2" H="2">
+<name>萨雷维</name>
+<screenshot>80133</screenshot>
+<coords map="3523">
+<coord x="130" y="70" />
+</coords>
+</npc>
+	<npc id="22847" class="7" type="精英" level="72" health="123,963" A="3" H="3">
+<name>灰舌仪祭师</name>
+<screenshot>33966</screenshot>
+<coords map="3959">
+<coord x="70" y="50" />
+<coord x="80" y="50" />
+<coord x="90" y="50" />
+</coords>
+</npc>
+	<npc id="22877" class="7" type="精英" level="71" health="120,624" A="3" H="3">
+<name>库斯卡争斗者</name>
+<screenshot>29489</screenshot>
+<coords map="3959">
+<coord x="30" y="90" />
+<coord x="40" y="90" />
+<coord x="50" y="90" />
+<coord x="50" y="80" />
+<coord x="50" y="70" />
+<coord x="40" y="70" />
+<coord x="30" y="70" />
+<coord x="30" y="60" />
+<coord x="40" y="60" />
+<coord x="50" y="60" />
+<coord x="30" y="80" />
+<coord x="20" y="90" />
+</coords>
+</npc>
+	<npc id="22954" class="3" type="精英" level="72" health="387,450" A="3" H="3">
+<name>伊利达雷恐惧使者</name>
+<screenshot>72566</screenshot>
+<coords map="3959">
+<coord x="50" y="30" />
+<coord x="50" y="40" />
+<coord x="50" y="50" />
+</coords>
+</npc>
+	<npc id="22959" class="7" type="精英" level="70" health="117,369" A="3" H="3">
+<name>缚法随从</name>
+<screenshot>39345</screenshot>
+<coords map="3959">
+<coord x="60" y="10" />
+<coord x="70" y="10" />
+<coord x="80" y="10" />
+</coords>
+</npc>
+	<npc id="22960" class="7" type="精英" level="71" health="140,728" A="3" H="3">
+<name>龙喉唤龙者</name>
+<screenshot>72565</screenshot>
+<coords map="3959">
+<coord x="30" y="30" />
+<coord x="40" y="30" />
+<coord x="30" y="40" />
+<coord x="40" y="40" />
+<coord x="30" y="50" />
+<coord x="40" y="50" />
+</coords>
+</npc>
+	<npc id="22965" class="7" type="精英" level="71" health="125,668" A="3" H="3">
+<name>被奴役的仆从</name>
+<screenshot>39365</screenshot>
+<coords map="3959">
+<coord x="60" y="10" />
+<coord x="70" y="10" />
+<coord x="80" y="10" />
+</coords>
+</npc>
+	<npc id="23239" class="7" type="精英" level="71" health="276,468" A="3" H="3">
+<name>噬骨战士</name>
+<coords map="3959">
+<coord x="40" y="50" />
+<coord x="40" y="40" />
+<coord x="40" y="30" />
+<coord x="30" y="50" />
+<coord x="30" y="40" />
+<coord x="30" y="30" />
+</coords>
+</npc>
+	<npc id="23374" class="7" type="精英" level="71" health="150,801" A="3" H="3">
+<name>灰舌潜伏者</name>
+<screenshot>33961</screenshot>
+<coords map="3959">
+<coord x="80" y="50" />
+<coord x="90" y="50" />
+</coords>
+</npc>
+	<npc id="23394" class="9" type="精英" level="72" health="464,940" A="3" H="3">
+<name>巡逻的奥术斥候</name>
+<screenshot>39611</screenshot>
+<coords map="3959">
+<coord x="270" y="100" />
+<coord x="270" y="110" />
+<coord x="270" y="120" />
+<coord x="260" y="120" />
+<coord x="250" y="120" />
+<coord x="240" y="120" />
+<coord x="230" y="120" />
+<coord x="270" y="90" />
+<coord x="270" y="80" />
+<coord x="270" y="70" />
+</coords>
+</npc>
+	<npc id="24047" class="1" level="70" health="19,561" A="1" H="1">
+<name>阿曼尼鳄鱼</name>
+<screenshot>63261</screenshot>
+<coords map="3805">
+<coord x="160" y="60" />
+<coord x="170" y="50" />
+<coord x="180" y="40" />
+</coords>
+</npc>
+	<npc id="24396" class="7" level="1" health="29" A="1" H="1">
+<name>森林蛙</name>
+<screenshot>71287</screenshot>
+<coords map="3805">
+<coord x="90" y="100" />
+<coord x="100" y="100" />
+<coord x="80" y="100" />
+</coords>
+</npc>
+	<npc id="24664" class="7" type="精英" level="71 - 72" health="170,000 - 236,120" A="3" H="3">
+<name>凯尔萨斯·逐日者</name>
+<rank>血精灵之王</rank>
+<screenshot>83144</screenshot>
+<coords map="4095">
+<coord x="40" y="90" />
+</coords>
+</npc>
+	<npc id="25032" class="7" level="70" health="6,986" A="2" H="2">
+<name>艾尔达拉·晨行者</name>
+<rank>破碎残阳军需官</rank>
+<screenshot>71586</screenshot>
+<coords map="4080">
+<coord x="140" y="60" />
+</coords>
+</npc>
+	<npc id="26903" class="7" level="71" health="7,181" A="2" H="3">
+<name>拉诺利斯·晨露</name>
+<rank>宗师级炼金术训练师</rank>
+<screenshot>90533</screenshot>
+<coords map="495">
+<coord x="170" y="120" />
+</coords>
+</npc>
+	<npc id="26951" class="7" level="71" health="7,181" A="3" H="2">
+<name>维尔赫米娜·雷尼尔</name>
+<rank>宗师级炼金术训练师</rank>
+<screenshot>90801</screenshot>
+<coords map="495">
+<coord x="230" y="50" />
+</coords>
+</npc>
+	<npc id="26975" class="7" level="69" health="7,984" A="3" H="2">
+<name>亚瑟·亨斯洛</name>
+<rank>宗师级炼金术训练师</rank>
+<screenshot>93208</screenshot>
+<coords map="3537">
+<coord x="120" y="100" />
+</coords>
+</npc>
+	<npc id="26987" class="7" level="71" health="7,181" A="2" H="3">
+<name>法隆·夜语</name>
+<rank>宗师级炼金术训练师</rank>
+<screenshot>89234</screenshot>
+<coords map="3537">
+<coord x="170" y="140" />
+</coords>
+</npc>
+	<npc id="27023" class="7" level="70" health="8,982" A="3" H="2">
+<name>炼金师布蕾萨</name>
+<rank>大师级炼金术训练师</rank>
+<screenshot>91073</screenshot>
+<coords map="65">
+<coord x="100" y="90" />
+</coords>
+</npc>
+	<npc id="27029" class="7" level="71" health="9,291" A="3" H="2">
+<name>药剂师沃维克</name>
+<rank>大师级炼金术训练师</rank>
+<screenshot>97885</screenshot>
+<coords map="65">
+<coord x="230" y="120" />
+</coords>
+</npc>
+	<npc id="28703" class="7" level="75" health="8,508" A="2" H="2">
+<name>林奇·黑箭</name>
+<rank>宗师级炼金术训练师</rank>
+<screenshot>94324</screenshot>
+<coords map="4395">
+<coord x="120" y="60" />
+</coords>
+</npc>
+	<npc id="28822" class="7" level="44 - 46" health="891 - 960" A="3" H="3">
+<name>血色矿工</name>
+<screenshot>90261</screenshot>
+<coords map="4298">
+<coord x="170" y="50" />
+<coord x="170" y="60" />
+<coord x="170" y="70" />
+<coord x="180" y="50" />
+<coord x="180" y="60" />
+<coord x="180" y="70" />
+<coord x="180" y="80" />
+<coord x="190" y="80" />
+</coords>
+</npc>
+	<npc id="30921" class="6" level="80" health="12,600" A="3" H="3">
+<name>骷髅符文锻造师</name>
+<screenshot>96266</screenshot>
+<coords map="210">
+<coord x="170" y="140" />
+<coord x="180" y="140" />
+</coords>
+</npc>
+	<npc id="31321" class="6" level="80" health="12,600" A="3" H="3">
+<name>骷髅符文锻造师</name>
+<screenshot>148421</screenshot>
+<coords map="210">
+<coord x="170" y="140" />
+<coord x="180" y="140" />
+</coords>
+</npc>
+	<npc id="31702" class="6" level="79 - 80" health="12,600" A="3" H="3">
+<name>霜巢之龙</name>
+<screenshot>97447</screenshot>
+<coords map="210">
+<coord x="200" y="70" />
+<coord x="200" y="80" />
+<coord x="210" y="60" />
+<coord x="210" y="70" />
+<coord x="210" y="80" />
+<coord x="220" y="60" />
+<coord x="220" y="70" />
+<coord x="220" y="80" />
+</coords>
+</npc>
+	<npc id="32289" class="7" level="78 - 80" health="9,740 - 10,080" A="3" H="3">
+<name>被诅咒的药剂师</name>
+<rank>诅咒教派</rank>
+<screenshot>100242</screenshot>
+<coords map="210">
+<coord x="130" y="60" />
+<coord x="140" y="60" />
+<coord x="150" y="60" />
+</coords>
+</npc>
+	<npc id="32290" class="7" level="78 - 80" health="9,740 - 10,080" A="3" H="3">
+<name>诅咒教派档案员</name>
+<rank>诅咒教派</rank>
+<screenshot>100243</screenshot>
+<coords map="210">
+<coord x="140" y="60" />
+<coord x="140" y="70" />
+</coords>
+</npc>
+	<npc id="32297" class="7" level="78 - 80" health="9,740 - 10,080" A="3" H="3">
+<name>诅咒教派研究员</name>
+<rank>诅咒教派</rank>
+<screenshot>100251</screenshot>
+<coords map="210">
+<coord x="150" y="50" />
+<coord x="150" y="60" />
+<coord x="160" y="50" />
+<coord x="160" y="60" />
+</coords>
+</npc>
+	<npc id="32349" class="7" level="80" health="10,080" A="3" H="3">
+<name>诅咒教派碎片卫士</name>
+<rank>诅咒教派</rank>
+<screenshot>98811</screenshot>
+<coords map="210">
+<coord x="130" y="130" />
+<coord x="140" y="130" />
+<coord x="150" y="130" />
+</coords>
+</npc>
+	<npc id="33588" class="7" level="75" health="8,508" A="2" H="2">
+<name>克莉丝塔·火花</name>
+<rank>宗师级炼金训练师</rank>
+<screenshot>126759</screenshot>
+<coords map="210">
+<coord x="210" y="40" />
+</coords>
+</npc>
+	<npc id="33608" class="10" level="60" health="9,156" A="2" H="2">
+<name>炼金</name>
+<screenshot>126592</screenshot>
+<coords map="3703">
+<coord x="130" y="180" />
+</coords>
+</npc>
+	<npc id="33630" class="7" level="62" health="2,266" A="2" H="2">
+<name>埃尔辛</name>
+<rank>大师级炼金术训练师</rank>
+<screenshot>128046</screenshot>
+<coords map="3703">
+<coord x="110" y="140" />
+</coords>
+</npc>
+	<npc id="33674" class="7" level="62" health="2,266" A="2" H="2">
+<name>炼金师卡恩胡</name>
+<rank>大师级炼金术训练师</rank>
+<screenshot>126615</screenshot>
+<coords map="3703">
+<coord x="110" y="60" />
+</coords>
+</npc>
+	<npc id="33713" class="1" level="12 - 13" health="247 - 273" A="1" H="1">
+<name>腐烂的螃蟹 </name>
+<screenshot>132423</screenshot>
+<coords map="3433">
+<coord x="30" y="120" />
+<coord x="40" y="80" />
+<coord x="40" y="120" />
+<coord x="50" y="30" />
+<coord x="50" y="40" />
+<coord x="50" y="50" />
+<coord x="50" y="60" />
+<coord x="40" y="70" />
+<coord x="40" y="90" />
+</coords>
+</npc>
+	<npc id="9442" class="7" type="精英" level="53" health="5,886" A="3" H="3">
+<name>黑暗守护者奥弗加特</name>
+<screenshot>86389</screenshot>
+<coords map="1584">
+<coord x="130" y="100" />
+</coords>
+</npc>
+	<npc id="20790" class="7" A="2" H="3">
+<name>疯狂的玛尔弗斯</name>
+<screenshot>130509</screenshot>
+<coords map="3523">
+<coord x="160" y="80" />
+</coords>
+</npc>
+	<npc id="22128" class="7" type="精英" A="3" H="3">
+<name>敦霍尔德监视员</name>
+<coords map="2367">
+<coord x="190" y="90" />
+<coord x="190" y="100" />
+<coord x="200" y="110" />
+<coord x="210" y="110" />
+<coord x="210" y="100" />
+<coord x="180" y="100" />
+</coords>
+</npc>
+	<npc id="22825" class="3" type="精英" A="3" H="3">
+<name>里萨哈</name>
+<screenshot>150300</screenshot>
+<coords map="3522">
+<coord x="140" y="40" />
+</coords>
+</npc>
+<npc id="11216" class="6" level="54" health="3,293" A="2" H="2">
+<name>艾瓦·萨克霍夫</name>
+<screenshot>159547</screenshot>
+<coords map="28">
+<coord x="210" y="140" />
+</coords>
+</npc>
+</npcs>

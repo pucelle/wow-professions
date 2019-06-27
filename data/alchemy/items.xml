@@ -1,0 +1,3747 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<items>
+<item id="118" class="0.1" level="5" icon="inv_potion_49" quality="1">
+<name>初级治疗药水</name>
+<code>
+[div class="name q1"]初级治疗药水[/div][div class="q2"]使用: 恢复70到90点生命值。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="765" class="7.9" level="5" icon="inv_misc_herb_10" quality="1">
+<name>银叶草</name>
+<code>
+[div class="name q1"]银叶草[/div]售价: [span class="si-copper"]40[/span]
+</code>
+</item>
+<item id="785" class="7.9" level="10" icon="inv_jewelry_talisman_03" quality="1">
+<name>魔皇草</name>
+<code>
+[div class="name q1"]魔皇草[/div]售价: [span class="si-copper"]80[/span]
+</code>
+</item>
+<item id="858" class="0.1" level="13" icon="inv_potion_50" quality="1">
+<name>次级治疗药水</name>
+<code>
+[div class="name q1"]次级治疗药水[/div][div]需要等级 3[/div][div class="q2"]使用: 恢复140到180点生命值。(1分钟冷却)[/div]售价: [span class="si-silver"]1[/span]
+</code>
+</item>
+<item id="929" class="0.1" level="22" icon="inv_potion_51" quality="1">
+<name>治疗药水</name>
+<code>
+[div class="name q1"]治疗药水[/div][div]需要等级 12[/div][div class="q2"]使用: 恢复280到360点生命值。(1分钟冷却)[/div]售价: [span class="si-silver"]3[/span]
+</code>
+</item>
+<item id="1288" class="7.11" level="1" icon="inv_misc_organ_01" quality="1">
+<name>大毒囊</name>
+<code>
+[div class="name q1"]大毒囊[/div]
+</code>
+</item>
+<item id="1710" class="0.1" level="31" icon="inv_potion_52" quality="1">
+<name>强效治疗药水</name>
+<code>
+[div class="name q1"]强效治疗药水[/div][div]需要等级 21[/div][div class="q2"]使用: 恢复455到585点生命值。(1分钟冷却)[/div]售价: [span class="si-silver"]5[/span]
+</code>
+</item>
+<item id="2447" class="7.9" level="5" icon="inv_misc_flower_02" quality="1">
+<name>宁神花</name>
+<code>
+[div class="name q1"]宁神花[/div]售价: [span class="si-copper"]40[/span]
+</code>
+</item>
+<item id="2449" class="7.9" level="10" icon="inv_misc_herb_07" quality="1">
+<name>地根草</name>
+<code>
+[div class="name q1"]地根草[/div]售价: [span class="si-copper"]80[/span]
+</code>
+</item>
+<item id="2450" class="7.9" level="15" icon="inv_misc_root_01" quality="1">
+<name>石南草</name>
+<code>
+[div class="name q1"]石南草[/div]
+</code>
+</item>
+<item id="2452" class="7.9" level="15" icon="inv_misc_herb_04" quality="1">
+<name>雨燕草</name>
+<code>
+[div class="name q1"]雨燕草[/div]
+</code>
+</item>
+<item id="2453" class="7.9" level="20" icon="inv_misc_herb_01" quality="1">
+<name>跌打草</name>
+<code>
+[div class="name q1"]跌打草[/div]售价: [span class="si-silver"]1[/span]
+</code>
+</item>
+<item id="2454" class="0.2.1" level="5" icon="inv_potion_56" quality="1">
+<name>狮王之力药剂</name>
+<code>
+[div class="name q1"]狮王之力药剂[/div][div class="q2"]使用: 使力量提高4点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="2455" class="0.1" level="15" icon="inv_potion_70" quality="1">
+<name>初级法力药水</name>
+<code>
+[div class="name q1"]初级法力药水[/div][div]需要等级 5[/div][div class="q2"]使用: 恢复140到180点法力值。(1分钟冷却)[/div]售价: [span class="si-copper"]40[/span]
+</code>
+</item>
+<item id="2456" class="0.1" level="15" icon="inv_potion_02" quality="1">
+<name>初级活力药水</name>
+<code>
+[div class="name q1"]初级活力药水[/div][div]需要等级 5[/div][div class="q2"]使用: 恢复90到150点法力值和90到150点生命值。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="2457" class="0.2.1" level="12" icon="inv_potion_91" quality="1">
+<name>初级敏捷药剂</name>
+<code>
+[div class="name q1"]初级敏捷药剂[/div][div]需要等级 2[/div][div class="q2"]使用: 使敏捷提高4点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="2458" class="0.2.2" level="12" icon="inv_potion_42" quality="1">
+<name>初级坚韧药剂</name>
+<code>
+[div class="name q1"]初级坚韧药剂[/div][div]需要等级 2[/div][div class="q2"]使用: 使玩家的生命值上限提高27点，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="2459" class="0.1" level="15" icon="inv_potion_95" quality="1">
+<name>迅捷药水</name>
+<code>
+[div class="name q1"]迅捷药水[/div][div]需要等级 5[/div][div class="q2"]使用: 使你的奔跑速度提高50%，持续15秒。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="3164" class="7.11" level="1" icon="inv_misc_organ_02" quality="1">
+<name>变色的狼心</name>
+<code>
+[div class="name q1"]变色的狼心[/div]
+</code>
+</item>
+<item id="3355" class="7.9" level="22" icon="inv_misc_flower_01" quality="1">
+<name>野钢花</name>
+<code>
+[div class="name q1"]野钢花[/div]售价: [span class="si-silver"]2[/span]
+</code>
+</item>
+<item id="3356" class="7.9" level="24" icon="inv_misc_herb_03" quality="1">
+<name>皇血草</name>
+<code>
+[div class="name q1"]皇血草[/div]售价: [span class="si-silver"]1[/span][span class="si-copper"]20[/span]
+</code>
+</item>
+<item id="3357" class="7.9" level="30" icon="inv_misc_root_02" quality="1">
+<name>活根草</name>
+<code>
+[div class="name q1"]活根草[/div]售价: [span class="si-silver"]3[/span]
+</code>
+</item>
+<item id="3358" class="7.9" level="37" icon="inv_misc_herb_08" quality="1">
+<name>卡德加的胡须</name>
+<code>
+[div class="name q1"]卡德加的胡须[/div]售价: [span class="si-silver"]7[/span]
+</code>
+</item>
+<item id="3369" class="7.9" level="22" icon="inv_misc_dust_02" quality="1">
+<name>墓地苔</name>
+<code>
+[div class="name q1"]墓地苔[/div]
+</code>
+</item>
+<item id="3371" class="7.11" level="1" icon="inv_drink_06" quality="1">
+<name>空瓶</name>
+<code>
+[div class="name q1"]空瓶[/div]售价: [span class="si-copper"]4[/span]
+</code>
+</item>
+<item id="3372" class="7.11" level="25" icon="inv_alchemy_leadedvial" quality="1">
+<name>铅瓶</name>
+<code>
+[div class="name q1"]铅瓶[/div]售价: [span class="si-copper"]40[/span]
+</code>
+</item>
+<item id="3382" class="0.2.2" level="8" icon="inv_potion_77" quality="1">
+<name>弱效巨魔之血药剂</name>
+<code>
+[div class="name q1"]弱效巨魔之血药剂[/div][div class="q2"]使用: 每5秒回复2点生命值，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="3383" class="0.2.2" level="20" icon="inv_potion_06" quality="1">
+<name>智慧药剂</name>
+<code>
+[div class="name q1"]智慧药剂[/div][div]需要等级 10[/div][div class="q2"]使用: 使智力提高6点，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="3384" class="0.1" level="22" icon="inv_potion_08" quality="1">
+<name>初级抗魔药水</name>
+<code>
+[div class="name q1"]初级抗魔药水[/div][div]需要等级 12[/div][div class="q2"]使用: 使你对所有魔法的抗性提高25点，持续3分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="3385" class="0.1" level="24" icon="inv_potion_71" quality="1">
+<name>次级法力药水</name>
+<code>
+[div class="name q1"]次级法力药水[/div][div]需要等级 14[/div][div class="q2"]使用: 恢复280到360点法力值。(1分钟冷却)[/div]售价: [span class="si-silver"]1[/span][span class="si-copper"]20[/span]
+</code>
+</item>
+<item id="3386" class="0.1" level="55" icon="inv_potion_12" quality="1">
+<name>治愈药水</name>
+<code>
+[div class="name q1"]治愈药水[/div][div]需要等级 14[/div][div class="q2"]使用: 为饮用者驱除最多4个不高于60级的中毒效果。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="3387" class="0.1" level="50" icon="inv_potion_62" quality="1">
+<name>有限无敌药水</name>
+<code>
+[div class="name q1"]有限无敌药水[/div][div]需要等级 45[/div][div class="q2"]使用: 饮用者在接下来的8秒内承受的物理伤害降低120点。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="3388" class="0.2.2" level="25" icon="inv_potion_78" quality="1">
+<name>强力巨魔之血药剂</name>
+<code>
+[div class="name q1"]强力巨魔之血药剂[/div][div]需要等级 15[/div][div class="q2"]使用: 每5秒回复6点生命值，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="3389" class="0.2.2" level="26" icon="inv_potion_64" quality="1">
+<name>防御药剂</name>
+<code>
+[div class="name q1"]防御药剂[/div][div]需要等级 16[/div][div class="q2"]使用: 护甲提高150点，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="3390" class="0.2.1" level="28" icon="inv_potion_92" quality="1">
+<name>次级敏捷药剂</name>
+<code>
+[div class="name q1"]次级敏捷药剂[/div][div]需要等级 18[/div][div class="q2"]使用: 使敏捷提高8点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="3391" class="0.2.1" level="30" icon="inv_potion_57" quality="1">
+<name>食人魔力量药剂</name>
+<code>
+[div class="name q1"]食人魔力量药剂[/div][div]需要等级 20[/div][div class="q2"]使用: 使力量提高8点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="3575" class="7.7" level="30" icon="inv_ingot_iron" quality="1">
+<name>铁锭</name>
+<code>
+[div class="name q1"]铁锭[/div]
+</code>
+</item>
+<item id="3577" class="7.7" level="30" icon="inv_ingot_03" quality="2">
+<name>金锭</name>
+<code>
+[div class="name q2"]金锭[/div]
+</code>
+</item>
+<item id="3818" class="7.9" level="32" icon="inv_misc_herb_12" quality="1">
+<name>枯叶草</name>
+<code>
+[div class="name q1"]枯叶草[/div]
+</code>
+</item>
+<item id="3819" class="7.9" level="39" icon="inv_misc_flower_03" quality="1">
+<name>冬刺草</name>
+<code>
+[div class="name q1"]冬刺草[/div]
+</code>
+</item>
+<item id="3820" class="7.9" level="20" icon="inv_misc_herb_11" quality="1">
+<name>荆棘藻</name>
+<code>
+[div class="name q1"]荆棘藻[/div]
+</code>
+</item>
+<item id="3821" class="7.9" level="34" icon="inv_misc_herb_15" quality="1">
+<name>金棘草</name>
+<code>
+[div class="name q1"]金棘草[/div]
+</code>
+</item>
+<item id="3823" class="0.1" level="33" icon="inv_potion_18" quality="1">
+<name>次级隐形药水</name>
+<code>
+[div class="name q1"]次级隐形药水[/div][div]需要等级 23[/div][div class="q2"]使用: 使饮用者隐形，持续15秒。(10分钟冷却)[/div]
+</code>
+</item>
+<item id="3824" class="0.-3" level="34" icon="inv_potion_23" quality="1">
+<name>暗影之油</name>
+<code>
+[div class="name q1"]暗影之油[/div][div]需要等级 24[/div][div class="q2"]使用: 附加在近战武器上，可以使其在击中敌人时有15%的几率对其施放暗影箭（等级 3）。持续30分钟。[/div]
+</code>
+</item>
+<item id="3825" class="0.2.2" level="35" icon="inv_potion_43" quality="1">
+<name>坚韧药剂</name>
+<code>
+[div class="name q1"]坚韧药剂[/div][div]需要等级 25[/div][div class="q2"]使用: 使玩家的生命值上限提高120点，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="3826" class="0.2.2" level="36" icon="inv_potion_79" quality="1">
+<name>极效巨魔之血药剂</name>
+<code>
+[div class="name q1"]极效巨魔之血药剂[/div][div]需要等级 26[/div][div class="q2"]使用: 每5秒回复12点生命值，持续60分钟。[/div]
+</code>
+</item>
+<item id="3827" class="0.1" level="32" icon="inv_potion_72" quality="1">
+<name>法力药水</name>
+<code>
+[div class="name q1"]法力药水[/div][div]需要等级 22[/div][div class="q2"]使用: 恢复455到585点法力值。(1分钟冷却)[/div]售价: [span class="si-silver"]4[/span][span class="si-copper"]80[/span]
+</code>
+</item>
+<item id="3828" class="0.2" level="39" icon="inv_potion_01" quality="1">
+<name>侦测次级隐形药剂</name>
+<code>
+[div class="name q1"]侦测次级隐形药剂[/div][div]需要等级 29[/div][div class="q2"]使用: 获得侦测次级隐形的能力，持续10分钟。[/div]
+</code>
+</item>
+<item id="3829" class="0.-3" level="40" icon="inv_potion_20" quality="1">
+<name>冰霜之油</name>
+<code>
+[div class="name q1"]冰霜之油[/div][div]需要等级 30[/div][div class="q2"]使用: 涂在近战武器上之后，有10%的几率在击中敌人时施放寒冰箭。持续30分钟。[/div]
+</code>
+</item>
+<item id="3858" class="7.7" level="40" icon="inv_ore_mithril_02" quality="1">
+<name>秘银矿石</name>
+<code>
+[div class="name q1"]秘银矿石[/div][div]需要珠宝加工 (175)[/div]
+</code>
+</item>
+<item id="3860" class="7.7" level="40" icon="inv_ingot_06" quality="1">
+<name>秘银锭</name>
+<code>
+[div class="name q1"]秘银锭[/div]
+</code>
+</item>
+<item id="3928" class="0.1" level="45" icon="inv_potion_53" quality="1">
+<name>优质治疗药水</name>
+<code>
+[div class="name q1"]优质治疗药水[/div][div]需要等级 35[/div][div class="q2"]使用: 恢复700到900点生命值。(1分钟冷却)[/div]售价: [span class="si-silver"]10[/span]
+</code>
+</item>
+<item id="4342" class="7.11" level="50" icon="inv_potion_02" quality="1">
+<name>紫色染料</name>
+<code>
+[div class="name q1"]紫色染料[/div]售价: [span class="si-silver"]25[/span]
+</code>
+</item>
+<item id="4402" class="7.11" level="25" icon="inv_misc_organ_06" quality="1">
+<name>火囊</name>
+<code>
+[div class="name q1"]火囊[/div]
+</code>
+</item>
+<item id="4596" class="0.1" level="15" icon="inv_potion_35" quality="1">
+<name>褪色的治疗药水</name>
+<code>
+[div class="name q1"]褪色的治疗药水[/div][div]需要等级 5[/div][div class="q2"]使用: 恢复140到180点生命值。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="4623" class="0.1" level="43" icon="inv_potion_67" quality="1">
+<name>次级石盾药水</name>
+<code>
+[div class="name q1"]次级石盾药水[/div][div]需要等级 33[/div][div class="q2"]使用: 护甲提高1000点，持续1.5分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="4625" class="7.9" level="41" icon="inv_misc_herb_19" quality="1">
+<name>火焰花</name>
+<code>
+[div class="name q1"]火焰花[/div]
+</code>
+</item>
+<item id="5631" class="0.1" level="14" icon="inv_potion_24" quality="1">
+<name>怒气药水</name>
+<code>
+[div class="name q1"]怒气药水[/div][div]职业: 战士[/div][div]需要等级 4[/div][div class="q2"]使用: 使怒气值提高20到40点。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="5633" class="0.1" level="35" icon="inv_potion_21" quality="1">
+<name>暴怒药水</name>
+<code>
+[div class="name q1"]暴怒药水[/div][div]职业: 战士[/div][div]需要等级 25[/div][div class="q2"]使用: 使怒气值提高30到60点。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="5634" class="0.1" level="30" icon="inv_potion_04" quality="1">
+<name>自由行动药水</name>
+<code>
+[div class="name q1"]自由行动药水[/div][div]需要等级 20[/div][div class="q2"]使用: 使你对昏迷和移动限制效果免疫，持续30秒，但并不会解除已有的移动限制效果。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="5635" class="7.11" level="15" icon="inv_misc_monsterclaw_03" quality="1">
+<name>锋利的爪子</name>
+<code>
+[div class="name q1"]锋利的爪子[/div]
+</code>
+</item>
+<item id="5637" class="7.11" level="30" icon="inv_misc_bone_08" quality="1">
+<name>大牙齿</name>
+<code>
+[div class="name q1"]大牙齿[/div]
+</code>
+</item>
+<item id="5996" class="0.2" level="18" icon="inv_potion_17" quality="1">
+<name>水下呼吸药剂</name>
+<code>
+[div class="name q1"]水下呼吸药剂[/div][div]需要等级 8[/div][div class="q2"]使用: 使饮用者可以在水下呼吸，持续30分钟。[/div]
+</code>
+</item>
+<item id="5997" class="0.2.2" level="5" icon="inv_potion_63" quality="1">
+<name>初级防御药剂</name>
+<code>
+[div class="name q1"]初级防御药剂[/div][div class="q2"]使用: 护甲提高50点，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="6037" class="7.7" level="50" icon="inv_ingot_08" quality="2">
+<name>真银锭</name>
+<code>
+[div class="name q2"]真银锭[/div]
+</code>
+</item>
+<item id="6048" class="0.1" level="27" icon="inv_potion_44" quality="1">
+<name>暗影防护药水</name>
+<code>
+[div class="name q1"]暗影防护药水[/div][div]需要等级 17[/div][div class="q2"]使用: 吸收675到1125点暗影伤害，持续2分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="6049" class="0.1" level="33" icon="inv_potion_16" quality="1">
+<name>火焰防护药水</name>
+<code>
+[div class="name q1"]火焰防护药水[/div][div]需要等级 23[/div][div class="q2"]使用: 吸收975到1625点火焰伤害，持续2分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="6050" class="0.1" level="38" icon="inv_potion_13" quality="1">
+<name>冰霜防护药水</name>
+<code>
+[div class="name q1"]冰霜防护药水[/div][div]需要等级 28[/div][div class="q2"]使用: 吸收1350到2250点冰霜伤害，持续2分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="6051" class="0.1" level="20" icon="inv_potion_09" quality="1">
+<name>神圣防护药水</name>
+<code>
+[div class="name q1"]神圣防护药水[/div][div]需要等级 10[/div][div class="q2"]使用: 吸收300到500点神圣伤害，持续2分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="6052" class="0.1" level="38" icon="inv_potion_06" quality="1">
+<name>自然防护药水</name>
+<code>
+[div class="name q1"]自然防护药水[/div][div]需要等级 28[/div][div class="q2"]使用: 吸收1350到2250点自然伤害，持续2分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="6149" class="0.1" level="41" icon="inv_potion_73" quality="1">
+<name>强效法力药水</name>
+<code>
+[div class="name q1"]强效法力药水[/div][div]需要等级 31[/div][div class="q2"]使用: 恢复700到900点法力值。(1分钟冷却)[/div]售价: [span class="si-silver"]12[/span]
+</code>
+</item>
+<item id="6358" class="7.11" level="15" icon="inv_misc_monsterhead_04" quality="1">
+<name>黑口鱼</name>
+<code>
+[div class="name q1"]黑口鱼[/div]
+</code>
+</item>
+<item id="6359" class="7.11" level="25" icon="inv_misc_monsterhead_01" quality="1">
+<name>火鳞鳝鱼</name>
+<code>
+[div class="name q1"]火鳞鳝鱼[/div]
+</code>
+</item>
+<item id="6370" class="7.11" level="15" icon="inv_drink_12" quality="1">
+<name>黑口鱼油</name>
+<code>
+[div class="name q1"]黑口鱼油[/div]
+</code>
+</item>
+<item id="6371" class="7.11" level="25" icon="inv_potion_38" quality="1">
+<name>火焰之油</name>
+<code>
+[div class="name q1"]火焰之油[/div]
+</code>
+</item>
+<item id="6372" class="0.1" level="20" icon="inv_potion_13" quality="1">
+<name>速游药水</name>
+<code>
+[div class="name q1"]速游药水[/div][div]需要等级 10[/div][div class="q2"]使用: 游泳速度提高100%，持续20秒。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="6373" class="0.2.1" level="28" icon="inv_potion_33" quality="1">
+<name>火力药剂</name>
+<code>
+[div class="name q1"]火力药剂[/div][div]需要等级 18[/div][div class="q2"]使用: 火焰法术强度提高10点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="6522" class="0.5" level="15" icon="inv_misc_monsterhead_01" quality="1">
+<name>变异鱼</name>
+<code>
+[div class="name q1"]变异鱼[/div][div class="q2"]使用: 吃我。(10秒冷却)[/div]
+</code>
+</item>
+<item id="6662" class="0.2.1" level="18" icon="inv_potion_10" quality="1">
+<name>增长药剂</name>
+<code>
+[div class="name q1"]增长药剂[/div][div]需要等级 8[/div][div class="q2"]使用: 你的体型增大了，同时你的力量也提高了8点，持续20分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="7067" class="7.10" level="25" icon="inv_ore_iron_01" quality="1">
+<name>元素之土</name>
+<code>
+[div class="name q1"]元素之土[/div]
+</code>
+</item>
+<item id="7068" class="7.10" level="25" icon="spell_fire_fire" quality="1">
+<name>元素火焰</name>
+<code>
+[div class="name q1"]元素火焰[/div]
+</code>
+</item>
+<item id="7070" class="7.10" level="25" icon="inv_potion_03" quality="1">
+<name>元素之水</name>
+<code>
+[div class="name q1"]元素之水[/div]
+</code>
+</item>
+<item id="7076" class="7.10" level="55" icon="spell_nature_strengthofearthtotem02" quality="2">
+<name>大地精华</name>
+<code>
+[div class="name q2"]大地精华[/div]
+</code>
+</item>
+<item id="7077" class="7.10" level="45" icon="spell_fire_lavaspawn" quality="1">
+<name>火焰之心</name>
+<code>
+[div class="name q1"]火焰之心[/div]
+</code>
+</item>
+<item id="7078" class="7.10" level="55" icon="spell_fire_volcano" quality="2">
+<name>火焰精华</name>
+<code>
+[div class="name q2"]火焰精华[/div]
+</code>
+</item>
+<item id="7080" class="7.10" level="55" icon="spell_nature_acid_01" quality="2">
+<name>水之精华</name>
+<code>
+[div class="name q2"]水之精华[/div]
+</code>
+</item>
+<item id="7082" class="7.10" level="55" icon="spell_nature_earthbind" quality="2">
+<name>空气精华</name>
+<code>
+[div class="name q2"]空气精华[/div]
+</code>
+</item>
+<item id="7972" class="7.10" level="45" icon="inv_misc_slime_01" quality="1">
+<name>亡灵腐液</name>
+<code>
+[div class="name q1"]亡灵腐液[/div]
+</code>
+</item>
+<item id="8153" class="7.9" level="40" icon="inv_misc_herb_03" quality="2">
+<name>野葡萄藤</name>
+<code>
+[div class="name q2"]野葡萄藤[/div]
+</code>
+</item>
+<item id="8827" class="0.2.2" level="50" icon="inv_potion_166" quality="1">
+<name>水上行走药剂</name>
+<code>
+[div class="name q1"]水上行走药剂[/div][div]需要等级 35[/div][div class="q2"]使用: 让你可以在水上行走，持续10分钟。任何伤害都会解除这个效果。守护药剂。[/div]
+</code>
+</item>
+<item id="8831" class="7.9" level="42" icon="inv_misc_herb_17" quality="1">
+<name>紫莲花</name>
+<code>
+[div class="name q1"]紫莲花[/div]
+</code>
+</item>
+<item id="8836" class="7.9" level="44" icon="inv_misc_herb_13" quality="1">
+<name>阿尔萨斯之泪</name>
+<code>
+[div class="name q1"]阿尔萨斯之泪[/div]
+</code>
+</item>
+<item id="8838" class="7.9" level="46" icon="inv_misc_herb_18" quality="1">
+<name>太阳草</name>
+<code>
+[div class="name q1"]太阳草[/div]
+</code>
+</item>
+<item id="8839" class="7.9" level="47" icon="inv_misc_herb_14" quality="1">
+<name>盲目草</name>
+<code>
+[div class="name q1"]盲目草[/div]
+</code>
+</item>
+<item id="8845" class="7.9" level="47" icon="inv_mushroom_08" quality="1">
+<name>幽灵菇</name>
+<code>
+[div class="name q1"]幽灵菇[/div]售价: [span class="si-silver"]15[/span]
+</code>
+</item>
+<item id="8846" class="7.9" level="50" icon="inv_misc_herb_16" quality="1">
+<name>格罗姆之血</name>
+<code>
+[div class="name q1"]格罗姆之血[/div]售价: [span class="si-silver"]10[/span]
+</code>
+</item>
+<item id="8925" class="7.11" level="35" icon="inv_alchemy_crystalvial" quality="1">
+<name>水晶瓶</name>
+<code>
+[div class="name q1"]水晶瓶[/div]售价: [span class="si-silver"]5[/span]
+</code>
+</item>
+<item id="8949" class="0.2.1" level="37" icon="inv_potion_93" quality="1">
+<name>敏捷药剂</name>
+<code>
+[div class="name q1"]敏捷药剂[/div][div]需要等级 27[/div][div class="q2"]使用: 使敏捷提高15点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="8951" class="0.2.2" level="39" icon="inv_potion_65" quality="1">
+<name>强效防御药剂</name>
+<code>
+[div class="name q1"]强效防御药剂[/div][div]需要等级 29[/div][div class="q2"]使用: 护甲提高250点，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="8956" class="0.8" level="41" icon="inv_potion_11" quality="1">
+<name>献祭之油</name>
+<code>
+[div class="name q1"]献祭之油[/div][div]需要等级 31[/div][div class="q2"]使用: 每3秒钟对施法者周围5范围内的所有敌人造成50点火焰伤害，持续15秒。[/div]
+</code>
+</item>
+<item id="9030" class="0.1" level="42" icon="inv_potion_01" quality="1">
+<name>滋补药剂</name>
+<code>
+[div class="name q1"]滋补药剂[/div][div]需要等级 32[/div][div class="q2"]使用: 每5秒从你身上驱散1个魔法、诅咒、中毒或疾病效果。持续30秒。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="9036" class="0.1" level="42" icon="inv_potion_16" quality="1">
+<name>抗魔药水</name>
+<code>
+[div class="name q1"]抗魔药水[/div][div]需要等级 32[/div][div class="q2"]使用: 使你对所有魔法的抗性提高50点，持续3分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="9061" class="7.1" level="42" icon="inv_cask_02" quality="1">
+<name>地精火箭燃油</name>
+<code>
+[div class="name q1"]地精火箭燃油[/div][div class="q"]"地精技师以此为他们制造的装置提供动力"[/div]
+</code>
+</item>
+<item id="9088" class="0.2.2" level="48" icon="inv_potion_28" quality="1">
+<name>阿尔萨斯的礼物</name>
+<code>
+[div class="name q1"]阿尔萨斯的礼物[/div][div]需要等级 38[/div][div class="q2"]使用: 使暗影抗性提高10点。如果敌人使用近战武器攻击施法者，他们有30%的几率受到诅咒，使得他们在3分钟内受到物理攻击时承受的伤害提高8点。阿尔萨斯的礼物的特殊效果持续30分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="9144" class="0.1" level="45" icon="inv_potion_34" quality="1">
+<name>野葡萄药水</name>
+<code>
+[div class="name q1"]野葡萄药水[/div][div]需要等级 35[/div][div class="q2"]使用: 恢复1到1500点生命值和1到1500点法力值。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="9149" class="4.-4" level="45" icon="inv_misc_orb_01" quality="2">
+<name>点金石</name>
+<code>
+[div class="name q2"]点金石[/div][div]拾取后绑定[/div][div]饰品[/div][div]+5 敏捷[/div][div]+5 力量[/div][div]+5 智力[/div][div]+5 精神[/div][div]+5 耐力[/div][div]需要等级 35[/div][div]需要炼金术 (200)[/div][div class="q"]"炼金术转化物质所需的媒介。"[/div]
+</code>
+</item>
+<item id="9154" class="0.2" level="46" icon="inv_potion_53" quality="1">
+<name>侦测亡灵药剂</name>
+<code>
+[div class="name q1"]侦测亡灵药剂[/div][div]需要等级 36[/div][div class="q2"]使用: 在微缩地图上显示附近所有亡灵的位置，持续60分钟。[/div]
+</code>
+</item>
+<item id="9155" class="0.2.1" level="47" icon="inv_potion_30" quality="1">
+<name>奥法药剂</name>
+<code>
+[div class="name q1"]奥法药剂[/div][div]需要等级 37[/div][div class="q2"]使用: 法术强度提高20点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="9172" class="0.1" level="47" icon="inv_potion_25" quality="1">
+<name>隐形药水</name>
+<code>
+[div class="name q1"]隐形药水[/div][div]需要等级 37[/div][div class="q2"]使用: 使饮用者隐形，持续18秒。(10分钟冷却)[/div]
+</code>
+</item>
+<item id="9179" class="0.2.2" level="47" icon="inv_potion_10" quality="1">
+<name>强效聪颖药剂</name>
+<code>
+[div class="name q1"]强效聪颖药剂[/div][div]需要等级 37[/div][div class="q2"]使用: 使智力提高25点，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="9187" class="0.2.1" level="48" icon="inv_potion_94" quality="1">
+<name>强效敏捷药剂</name>
+<code>
+[div class="name q1"]强效敏捷药剂[/div][div]需要等级 38[/div][div class="q2"]使用: 使敏捷提高25点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="9197" class="0.2" level="48" icon="inv_potion_14" quality="1">
+<name>梦境药剂</name>
+<code>
+[div class="name q1"]梦境药剂[/div][div]需要等级 38[/div][div class="q2"]使用: 使你获得梦境视界，可以观察那些过于危险的区域。[/div]
+</code>
+</item>
+<item id="9206" class="0.2.1" level="48" icon="inv_potion_61" quality="1">
+<name>巨人药剂</name>
+<code>
+[div class="name q1"]巨人药剂[/div][div]需要等级 38[/div][div class="q2"]使用: 使你的力量提高25点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="9210" class="7.11" level="49" icon="inv_poison_mindnumbing" quality="1">
+<name>幻象染料</name>
+<code>
+[div class="name q1"]幻象染料[/div]
+</code>
+</item>
+<item id="9224" class="0.2.1" level="50" icon="inv_potion_27" quality="1">
+<name>屠魔药剂</name>
+<code>
+[div class="name q1"]屠魔药剂[/div][div]需要等级 40[/div][div class="q2"]使用: 使你对恶魔的攻击强度提高105点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="9233" class="0.2" level="50" icon="inv_potion_53" quality="1">
+<name>侦测恶魔药剂</name>
+<code>
+[div class="name q1"]侦测恶魔药剂[/div][div]需要等级 40[/div][div class="q2"]使用: 在微缩地图上显示附近所有恶魔的位置，持续60分钟。[/div]
+</code>
+</item>
+<item id="9254" class="12.0" level="40" icon="inv_misc_map_01" quality="1">
+<name>科尔戈的藏宝图</name>
+<code>
+[div class="name q1"]科尔戈的藏宝图[/div][div]该物品将触发一个任务[/div][div]需要等级 40[/div]
+</code>
+</item>
+<item id="9260" class="0.5" level="1" icon="inv_drink_01" quality="1">
+<name>烈性朗姆酒</name>
+<code>
+[div class="name q1"]烈性朗姆酒[/div][div class="q2"]使用: 酒精含量较高的饮料。[/div]售价: [span class="si-silver"]16[/span]
+</code>
+</item>
+<item id="9262" class="7.11" level="40" icon="inv_misc_gem_sapphire_03" quality="1">
+<name>黑色硫酸盐</name>
+<code>
+[div class="name q1"]黑色硫酸盐[/div]
+</code>
+</item>
+<item id="9264" class="0.2.1" level="50" icon="inv_potion_46" quality="1">
+<name>暗影之力药剂</name>
+<code>
+[div class="name q1"]暗影之力药剂[/div][div]需要等级 40[/div][div class="q2"]使用: 暗影法术强度提高40点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="10286" class="7.10" level="45" icon="inv_misc_herb_08" quality="1">
+<name>野性之心</name>
+<code>
+[div class="name q1"]野性之心[/div]
+</code>
+</item>
+<item id="10592" class="0.2" level="40" icon="inv_potion_36" quality="1">
+<name>猫眼药剂</name>
+<code>
+[div class="name q1"]猫眼药剂[/div][div]需要等级 30[/div][div class="q2"]使用: 使你的侦测潜行能力略微提高，持续10分钟。[/div]
+</code>
+</item>
+<item id="10620" class="7.7" level="40" icon="inv_ore_thorium_02" quality="1">
+<name>瑟银矿石</name>
+<code>
+[div class="name q1"]瑟银矿石[/div][div]需要珠宝加工 (250)[/div]
+</code>
+</item>
+<item id="11176" class="7.12" level="45" icon="inv_enchant_dustdream" quality="1">
+<name>梦境之尘</name>
+<code>
+[div class="name q1"]梦境之尘[/div]
+</code>
+</item>
+<item id="12190" class="0.1" level="45" icon="inv_potion_83" quality="1">
+<name>昏睡药水</name>
+<code>
+[div class="name q1"]昏睡药水[/div][div]需要等级 35[/div][div class="q2"]使用: 使饮用者进入无梦的睡眠，持续12秒。在这段时间内，饮用者可以恢复1200点生命值和1200点法力值。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="12359" class="7.7" level="50" icon="inv_ingot_07" quality="1">
+<name>瑟银锭</name>
+<code>
+[div class="name q1"]瑟银锭[/div]
+</code>
+</item>
+<item id="12360" class="7.7" level="55" icon="inv_misc_stonetablet_05" quality="2">
+<name>奥金锭</name>
+<code>
+[div class="name q2"]奥金锭[/div]
+</code>
+</item>
+<item id="12363" class="3.7" level="60" icon="inv_misc_gem_topaz_01" quality="2">
+<name>奥术水晶</name>
+<code>
+[div class="name q2"]奥术水晶[/div]
+</code>
+</item>
+<item id="12803" class="7.10" level="55" icon="spell_nature_abolishmagic" quality="2">
+<name>生命精华</name>
+<code>
+[div class="name q2"]生命精华[/div]
+</code>
+</item>
+<item id="12804" class="7.11" level="55" icon="spell_nature_astralrecalgroup" quality="1">
+<name>强力魔精</name>
+<code>
+[div class="name q1"]强力魔精[/div]
+</code>
+</item>
+<item id="12808" class="7.10" level="55" icon="spell_shadow_shadetruesight" quality="2">
+<name>死灵精华</name>
+<code>
+[div class="name q2"]死灵精华[/div]
+</code>
+</item>
+<item id="12938" class="12.0" level="60" icon="inv_potion_33" quality="1">
+<name>英雄之血</name>
+<code>
+[div class="name q1"]英雄之血[/div][div]拾取后绑定[/div]
+</code>
+</item>
+<item id="13422" class="7.11" level="45" icon="inv_misc_fish_11" quality="1">
+<name>石鳞鳗</name>
+<code>
+[div class="name q1"]石鳞鳗[/div]
+</code>
+</item>
+<item id="13423" class="7.11" level="50" icon="inv_potion_68" quality="1">
+<name>石鳞鱼油</name>
+<code>
+[div class="name q1"]石鳞鱼油[/div]
+</code>
+</item>
+<item id="13442" class="0.1" level="51" icon="inv_potion_41" quality="1">
+<name>强效怒气药水</name>
+<code>
+[div class="name q1"]强效怒气药水[/div][div]职业: 战士[/div][div]需要等级 46[/div][div class="q2"]使用: 怒气值提高45到75点，力量提高60点，持续20秒。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="13443" class="0.1" level="51" icon="inv_potion_74" quality="1">
+<name>优质法力药水</name>
+<code>
+[div class="name q1"]优质法力药水[/div][div]需要等级 41[/div][div class="q2"]使用: 恢复900到1500点法力值。(1分钟冷却)[/div]售价: [span class="si-silver"]16[/span]
+</code>
+</item>
+<item id="13444" class="0.1" level="59" icon="inv_potion_76" quality="1">
+<name>特效法力药水</name>
+<code>
+[div class="name q1"]特效法力药水[/div][div]需要等级 49[/div][div class="q2"]使用: 恢复1350到2250点法力值。(1分钟冷却)[/div]售价: [span class="si-silver"]60[/span]
+</code>
+</item>
+<item id="13445" class="0.2.2" level="53" icon="inv_potion_66" quality="1">
+<name>超强防御药剂</name>
+<code>
+[div class="name q1"]超强防御药剂[/div][div]需要等级 43[/div][div class="q2"]使用: 护甲提高450点，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="13446" class="0.1" level="55" icon="inv_potion_54" quality="1">
+<name>特效治疗药水</name>
+<code>
+[div class="name q1"]特效治疗药水[/div][div]需要等级 45[/div][div class="q2"]使用: 恢复1050到1750点生命值。(1分钟冷却)[/div]售价: [span class="si-silver"]40[/span]
+</code>
+</item>
+<item id="13447" class="0.2.2" level="54" icon="inv_potion_29" quality="1">
+<name>先知药剂</name>
+<code>
+[div class="name q1"]先知药剂[/div][div]需要等级 44[/div][div class="q2"]使用: 智力和精神提高18点，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="13452" class="0.2.1" level="56" icon="inv_potion_32" quality="1">
+<name>猫鼬药剂</name>
+<code>
+[div class="name q1"]猫鼬药剂[/div][div]需要等级 46[/div][div class="q2"]使用: 使敏捷提高25点，爆击等级提高10，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="13453" class="0.2.1" level="55" icon="inv_potion_59" quality="1">
+<name>蛮力药剂</name>
+<code>
+[div class="name q1"]蛮力药剂[/div][div]需要等级 45[/div][div class="q2"]使用: 使你的力量和耐力提高18点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="13454" class="0.2.1" level="57" icon="inv_potion_25" quality="1">
+<name>强效奥法药剂</name>
+<code>
+[div class="name q1"]强效奥法药剂[/div][div]需要等级 47[/div][div class="q2"]使用: 法术强度提高35点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="13455" class="0.1" level="56" icon="inv_potion_69" quality="1">
+<name>强效石盾药水</name>
+<code>
+[div class="name q1"]强效石盾药水[/div][div]需要等级 46[/div][div class="q2"]使用: 护甲提高2000点，持续2分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="13456" class="0.1" level="58" icon="inv_potion_20" quality="1">
+<name>强效冰霜防护药水</name>
+<code>
+[div class="name q1"]强效冰霜防护药水[/div][div]需要等级 48[/div][div class="q2"]使用: 吸收1950到3250点冰霜伤害，持续2分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="13457" class="0.1" level="58" icon="inv_potion_24" quality="1">
+<name>强效火焰防护药水</name>
+<code>
+[div class="name q1"]强效火焰防护药水[/div][div]需要等级 48[/div][div class="q2"]使用: 吸收1950到3250点火焰伤害，持续2分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="13458" class="0.1" level="58" icon="inv_potion_22" quality="1">
+<name>强效自然防护药水</name>
+<code>
+[div class="name q1"]强效自然防护药水[/div][div]需要等级 48[/div][div class="q2"]使用: 吸收1950到3250点自然伤害，持续2分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="13459" class="0.1" level="58" icon="inv_potion_23" quality="1">
+<name>强效暗影防护药水</name>
+<code>
+[div class="name q1"]强效暗影防护药水[/div][div]需要等级 48[/div][div class="q2"]使用: 吸收1950到3250点暗影伤害，持续2分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="13461" class="0.1" level="58" icon="inv_potion_83" quality="1">
+<name>强效奥术防护药水</name>
+<code>
+[div class="name q1"]强效奥术防护药水[/div][div]需要等级 48[/div][div class="q2"]使用: 吸收1950到3250点奥术伤害。防护效果持续2分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="13462" class="0.1" level="57" icon="inv_potion_31" quality="1">
+<name>净化药水</name>
+<code>
+[div class="name q1"]净化药水[/div][div]需要等级 47[/div][div class="q2"]使用: 尝试移除饮用者身上的一个诅咒效果、一个疾病效果和一个中毒效果。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="13463" class="7.9" level="54" icon="inv_misc_herb_dreamfoil" quality="1">
+<name>梦叶草</name>
+<code>
+[div class="name q1"]梦叶草[/div]售价: [span class="si-silver"]4[/span]
+</code>
+</item>
+<item id="13464" class="7.9" level="52" icon="inv_misc_herb_sansamroot" quality="1">
+<name>黄金参</name>
+<code>
+[div class="name q1"]黄金参[/div]售价: [span class="si-silver"]4[/span]
+</code>
+</item>
+<item id="13465" class="7.9" level="56" icon="inv_misc_herb_mountainsilversage" quality="1">
+<name>山鼠草</name>
+<code>
+[div class="name q1"]山鼠草[/div]售价: [span class="si-silver"]6[/span]
+</code>
+</item>
+<item id="13466" class="7.9" level="57" icon="inv_misc_herb_plaguebloom" quality="1">
+<name>瘟疫花</name>
+<code>
+[div class="name q1"]瘟疫花[/div]
+</code>
+</item>
+<item id="13467" class="7.9" level="58" icon="inv_misc_herb_icecap" quality="1">
+<name>冰盖草</name>
+<code>
+[div class="name q1"]冰盖草[/div]售价: [span class="si-silver"]10[/span]
+</code>
+</item>
+<item id="13468" class="7.9" level="60" icon="inv_misc_herb_blacklotus" quality="2">
+<name>黑莲花</name>
+<code>
+[div class="name q2"]黑莲花[/div]售价: [span class="si-silver"]40[/span]
+</code>
+</item>
+<item id="13503" class="4.-4" level="90" icon="spell_holy_pureofheart" quality="4">
+<name>炼金石</name>
+<code>
+[div class="name q4"]炼金石[/div][div]拾取后绑定[/div][div]唯一[/div][div]饰品[/div][div]+15 力量[/div][div]+15 耐力[/div][div]+15 敏捷[/div][div]+15 智力[/div][div]+15 精神[/div][div]需要炼金术 (350)[/div][div class="q2"]装备: 使你在饮用治疗药水和法力药水时获得的效果提高40%。这个效果无法叠加。[/div]
+</code>
+</item>
+<item id="13506" class="0.1" level="60" icon="inv_potion_26" quality="1">
+<name>化石合剂</name>
+<code>
+[div class="name q1"]化石合剂[/div][div]需要等级 50[/div][div class="q2"]使用: 你进入石头形态，吸收6000点伤害，持续30秒。但是在这段时间里，你无法攻击、移动或施法。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="13510" class="0.3" level="60" icon="inv_potion_62" quality="1">
+<name>泰坦合剂</name>
+<code>
+[div class="name q1"]泰坦合剂[/div][div]需要等级 50[/div][div class="q2"]使用: 使玩家的生命值上限提高400点，持续60分钟。这种效果在死亡后仍可继续存在。战斗和守护药剂。[/div]
+</code>
+</item>
+<item id="13511" class="0.3" level="60" icon="inv_potion_97" quality="1">
+<name>精炼智慧合剂</name>
+<code>
+[div class="name q1"]精炼智慧合剂[/div][div]需要等级 50[/div][div class="q2"]使用: 使玩家的智力提高65点，持续60分钟。这种效果在死亡后仍可继续存在。战斗和守护药剂。[/div]
+</code>
+</item>
+<item id="13512" class="0.3" level="60" icon="inv_potion_41" quality="1">
+<name>超级能量合剂</name>
+<code>
+[div class="name q1"]超级能量合剂[/div][div]需要等级 50[/div][div class="q2"]使用: 法术强度提高70点，持续60分钟。这种效果在死亡后仍可继续存在。战斗和守护药剂。[/div]
+</code>
+</item>
+<item id="13513" class="0.3" level="60" icon="inv_potion_48" quality="1">
+<name>多重抗性合剂</name>
+<code>
+[div class="name q1"]多重抗性合剂[/div][div]需要等级 50[/div][div class="q2"]使用: 使你对所有魔法的抗性提高25点，持续60分钟。这个效果在死亡后仍可继续存在。战斗和守护药剂。[/div]
+</code>
+</item>
+<item id="13544" class="4.-4" level="60" icon="inv_misc_orb_05" quality="2">
+<name>鬼灵精华</name>
+<code>
+[div class="name q2"]鬼灵精华[/div][div]拾取后绑定[/div][div]唯一[/div][div]饰品[/div][div class="q"]"可以与凯尔达隆的死者交谈。"[/div]
+</code>
+</item>
+<item id="17708" class="0.2.1" level="38" icon="inv_potion_03" quality="1">
+<name>冰霜之力药剂</name>
+<code>
+[div class="name q1"]冰霜之力药剂[/div][div]需要等级 28[/div][div class="q2"]使用: 冰霜法术强度提高15点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="18253" class="0.1" level="60" icon="inv_potion_145" quality="1">
+<name>特效活力药水</name>
+<code>
+[div class="name q1"]特效活力药水[/div][div]需要等级 50[/div][div class="q2"]使用: 恢复1440到1760点法力值和生命值。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="18256" class="7.11" level="55" icon="inv_alchemy_imbuedvial" quality="1">
+<name>灌魔之瓶</name>
+<code>
+[div class="name q1"]灌魔之瓶[/div]售价: [span class="si-silver"]40[/span]
+</code>
+</item>
+<item id="18294" class="0.2" level="45" icon="inv_potion_05" quality="1">
+<name>强力水下呼吸药剂</name>
+<code>
+[div class="name q1"]强力水下呼吸药剂[/div][div]需要等级 35[/div][div class="q2"]使用: 使饮用者可以在水下呼吸，持续60分钟。[/div]
+</code>
+</item>
+<item id="19423" class="15.0" level="10" icon="inv_scroll_02" quality="1">
+<name>塞格的塔罗牌#23</name>
+<code>
+[div class="name q1"]塞格的塔罗牌#23[/div][div]拾取后绑定[/div][div]唯一[/div][div]该物品将触发一个任务[/div][div]需要等级 10[/div][div class="q"]"你的财富在东谷等着你。"[/div]
+</code>
+</item>
+<item id="19424" class="15.0" level="10" icon="inv_scroll_02" quality="1">
+<name>塞格的塔罗牌#24</name>
+<code>
+[div class="name q1"]塞格的塔罗牌#24[/div][div]拾取后绑定[/div][div]唯一[/div][div]该物品将触发一个任务[/div][div]需要等级 10[/div][div class="q"]"你的财富在死亡矿井中等着你。"[/div]
+</code>
+</item>
+<item id="19443" class="15.0" level="10" icon="inv_scroll_02" quality="1">
+<name>塞格的塔罗牌#25</name>
+<code>
+[div class="name q1"]塞格的塔罗牌#25[/div][div]拾取后绑定[/div][div]唯一[/div][div]该物品将触发一个任务[/div][div]需要等级 10[/div][div class="q"]"你的财富在哀嚎洞穴中等着你。"[/div]
+</code>
+</item>
+<item id="19452" class="15.0" level="10" icon="inv_scroll_02" quality="1">
+<name>塞格的塔罗牌#27</name>
+<code>
+[div class="name q1"]塞格的塔罗牌#27[/div][div]拾取后绑定[/div][div]唯一[/div][div]该物品将触发一个任务[/div][div]需要等级 10[/div][div class="q"]"你的财富在灰月洞穴外等着你。"[/div]
+</code>
+</item>
+<item id="19931" class="12.0" level="1" icon="inv_poison_mindnumbing" quality="3">
+<name>古拉巴什疯狂魔精</name>
+<code>
+[div class="name q3"]古拉巴什疯狂魔精[/div][div class="q2"]使用: 熄灭疯狂之缘的火盆。[/div]
+</code>
+</item>
+<item id="19943" class="7.11" level="60" icon="spell_nature_strength" quality="1">
+<name>极效魔精</name>
+<code>
+[div class="name q1"]极效魔精[/div][div class="q"]"比任何巨魔可能持有的魔精都要多。"[/div]
+</code>
+</item>
+<item id="20002" class="0.1" level="60" icon="inv_potion_83" quality="1">
+<name>强效昏睡药水</name>
+<code>
+[div class="name q1"]强效昏睡药水[/div][div]需要等级 55[/div][div class="q2"]使用: 使饮用者进入无梦的睡眠，持续12秒。在这段时间内，饮用者可以恢复2100点生命值和2100点法力值。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="20004" class="0.2.2" level="58" icon="inv_potion_80" quality="1">
+<name>特效巨魔之血药剂</name>
+<code>
+[div class="name q1"]特效巨魔之血药剂[/div][div]需要等级 53[/div][div class="q2"]使用: 每5秒回复20点生命值，持续60分钟。[/div]
+</code>
+</item>
+<item id="20007" class="0.2.2" level="50" icon="inv_potion_45" quality="1">
+<name>魔血药剂</name>
+<code>
+[div class="name q1"]魔血药剂[/div][div]需要等级 40[/div][div class="q2"]使用: 每5秒回复15点法力值，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="20008" class="0.1" level="57" icon="inv_potion_07" quality="1">
+<name>活力行动药水</name>
+<code>
+[div class="name q1"]活力行动药水[/div][div]需要等级 47[/div][div class="q2"]使用: 使你对昏迷和移动限制效果免疫，持续5秒。同时也会移除已有的昏迷和移动限制效果。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="21546" class="0.2.1" level="50" icon="inv_potion_60" quality="1">
+<name>强效火力药剂</name>
+<code>
+[div class="name q1"]强效火力药剂[/div][div]需要等级 40[/div][div class="q2"]使用: 法术强度提高40点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="21884" class="7.10" level="65" icon="inv_elemental_primal_fire" quality="2">
+<name>源生火焰</name>
+<code>
+[div class="name q2"]源生火焰[/div]
+</code>
+</item>
+<item id="21885" class="7.10" level="65" icon="inv_elemental_primal_water" quality="2">
+<name>源生之水</name>
+<code>
+[div class="name q2"]源生之水[/div]
+</code>
+</item>
+<item id="21886" class="7.10" level="65" icon="inv_elemental_primal_life" quality="2">
+<name>源生生命</name>
+<code>
+[div class="name q2"]源生生命[/div]
+</code>
+</item>
+<item id="21929" class="3.5" level="65" icon="inv_misc_gem_flamespessarite_03" quality="2">
+<name>火榴石</name>
+<code>
+[div class="name q2"]火榴石[/div]
+</code>
+</item>
+<item id="22451" class="7.10" level="65" icon="inv_elemental_primal_air" quality="2">
+<name>源生空气</name>
+<code>
+[div class="name q2"]源生空气[/div]
+</code>
+</item>
+<item id="22452" class="7.10" level="65" icon="inv_elemental_primal_earth" quality="2">
+<name>源生之土</name>
+<code>
+[div class="name q2"]源生之土[/div]
+</code>
+</item>
+<item id="22456" class="7.10" level="65" icon="inv_elemental_primal_shadow" quality="2">
+<name>源生暗影</name>
+<code>
+[div class="name q2"]源生暗影[/div]
+</code>
+</item>
+<item id="22457" class="7.10" level="65" icon="inv_elemental_primal_mana" quality="2">
+<name>源生法力</name>
+<code>
+[div class="name q2"]源生法力[/div]
+</code>
+</item>
+<item id="22573" class="7.10" level="65" icon="inv_elemental_mote_earth01" quality="1">
+<name>土之微粒</name>
+<code>
+[div class="name q1"]土之微粒[/div][div class="q2"]使用: 将十份土之微粒合成为一份源生之土。[/div]售价: [span class="si-silver"]16[/span]
+</code>
+</item>
+<item id="22574" class="7.10" level="65" icon="inv_elemental_mote_fire01" quality="1">
+<name>火焰微粒</name>
+<code>
+[div class="name q1"]火焰微粒[/div][div class="q2"]使用: 将十份火焰微粒合成为一份源生火焰。[/div]售价: [span class="si-silver"]16[/span]
+</code>
+</item>
+<item id="22578" class="7.10" level="65" icon="inv_elemental_mote_water01" quality="1">
+<name>水之微粒</name>
+<code>
+[div class="name q1"]水之微粒[/div][div class="q2"]使用: 将十份水之微粒合成为一份源生之水。[/div]售价: [span class="si-silver"]16[/span]
+</code>
+</item>
+<item id="22785" class="7.9" level="60" icon="inv_misc_herb_felweed" quality="1">
+<name>魔草</name>
+<code>
+[div class="name q1"]魔草[/div]售价: [span class="si-silver"]20[/span]
+</code>
+</item>
+<item id="22786" class="7.9" level="60" icon="inv_misc_herb_dreamingglory" quality="1">
+<name>梦露花</name>
+<code>
+[div class="name q1"]梦露花[/div]售价: [span class="si-silver"]20[/span]
+</code>
+</item>
+<item id="22787" class="7.9" level="65" icon="inv_misc_herb_ragveil" quality="1">
+<name>邪雾草</name>
+<code>
+[div class="name q1"]邪雾草[/div]售价: [span class="si-silver"]24[/span]
+</code>
+</item>
+<item id="22789" class="7.9" level="60" icon="inv_misc_herb_terrocone" quality="1">
+<name>泰罗果</name>
+<code>
+[div class="name q1"]泰罗果[/div]售价: [span class="si-silver"]20[/span]
+</code>
+</item>
+<item id="22790" class="7.9" level="68" icon="inv_misc_herb_ancientlichen" quality="1">
+<name>远古苔</name>
+<code>
+[div class="name q1"]远古苔[/div]售价: [span class="si-silver"]30[/span]
+</code>
+</item>
+<item id="22791" class="7.9" level="70" icon="inv_misc_herb_netherbloom" quality="1">
+<name>虚空花</name>
+<code>
+[div class="name q1"]虚空花[/div]售价: [span class="si-silver"]40[/span]
+</code>
+</item>
+<item id="22792" class="7.9" level="70" icon="inv_misc_herb_nightmarevine" quality="1">
+<name>噩梦藤</name>
+<code>
+[div class="name q1"]噩梦藤[/div]售价: [span class="si-silver"]50[/span]
+</code>
+</item>
+<item id="22793" class="7.9" level="70" icon="inv_misc_herb_manathistle" quality="1">
+<name>法力蓟</name>
+<code>
+[div class="name q1"]法力蓟[/div]售价: [span class="si-silver"]60[/span]
+</code>
+</item>
+<item id="22794" class="7.9" level="70" icon="inv_misc_herb_fellotus" quality="2">
+<name>魔莲花</name>
+<code>
+[div class="name q2"]魔莲花[/div]售价: [span class="si-gold"]3[/span]
+</code>
+</item>
+<item id="22823" class="0.2" level="61" icon="inv_potion_150" quality="1">
+<name>伪装药剂</name>
+<code>
+[div class="name q1"]伪装药剂[/div][div]需要等级 50[/div][div class="q2"]使用: 饮用者无法被追踪，持续60分钟。[/div]
+</code>
+</item>
+<item id="22824" class="0.2.1" level="61" icon="inv_potion_147" quality="1">
+<name>特效力量药剂</name>
+<code>
+[div class="name q1"]特效力量药剂[/div][div]需要等级 50[/div][div class="q2"]使用: 使你的力量提高35点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="22825" class="0.2.1" level="61" icon="inv_potion_142" quality="1">
+<name>治疗能量药剂</name>
+<code>
+[div class="name q1"]治疗能量药剂[/div][div]需要等级 50[/div][div class="q2"]使用: 法术强度提高24点，精神值提高24点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="22826" class="0.1" level="63" icon="inv_potion_110" quality="1">
+<name>潜行药水</name>
+<code>
+[div class="name q1"]潜行药水[/div][div]需要等级 50[/div][div class="q2"]使用: 极大提高潜行能力，持续60秒。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="22827" class="0.2.1" level="64" icon="inv_potion_148" quality="1">
+<name>特效冰霜能量药剂</name>
+<code>
+[div class="name q1"]特效冰霜能量药剂[/div][div]需要等级 50[/div][div class="q2"]使用: 冰霜法术强度提高55点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="22828" class="0.1" level="64" icon="inv_potion_109" quality="1">
+<name>疯狂力量药水</name>
+<code>
+[div class="name q1"]疯狂力量药水[/div][div]需要等级 50[/div][div class="q2"]使用: 使你的力量提高120点，防御等级降低75，持续15秒。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="22829" class="0.1" level="65" icon="inv_potion_131" quality="1">
+<name>超级治疗药水</name>
+<code>
+[div class="name q1"]超级治疗药水[/div][div]需要等级 55[/div][div class="q2"]使用: 恢复1500到2500点生命值。(1分钟冷却)[/div]售价: [span class="si-gold"]2[/span]
+</code>
+</item>
+<item id="22830" class="0.2" level="65" icon="inv_potion_135" quality="1">
+<name>搜寻之眼药剂</name>
+<code>
+[div class="name q1"]搜寻之眼药剂[/div][div]需要等级 55[/div][div class="q2"]使用: 使你的侦测潜行能力提高，持续10分钟。[/div]
+</code>
+</item>
+<item id="22831" class="0.2.1" level="66" icon="inv_potion_127" quality="1">
+<name>特效敏捷药剂</name>
+<code>
+[div class="name q1"]特效敏捷药剂[/div][div]需要等级 55[/div][div class="q2"]使用: 使你的敏捷值提高30点，爆击等级提高12，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="22832" class="0.1" level="68" icon="inv_potion_137" quality="1">
+<name>超级法力药水</name>
+<code>
+[div class="name q1"]超级法力药水[/div][div]需要等级 55[/div][div class="q2"]使用: 恢复1800到3000点法力值。(1分钟冷却)[/div]售价: [span class="si-gold"]2[/span]
+</code>
+</item>
+<item id="22833" class="0.2.1" level="64" icon="inv_potion_146" quality="1">
+<name>特效火力药剂</name>
+<code>
+[div class="name q1"]特效火力药剂[/div][div]需要等级 50[/div][div class="q2"]使用: 火焰法术强度提高55点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="22834" class="0.2.2" level="69" icon="inv_potion_122" quality="1">
+<name>特效防御药剂</name>
+<code>
+[div class="name q1"]特效防御药剂[/div][div]需要等级 55[/div][div class="q2"]使用: 护甲提高550点，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="22835" class="0.2.1" level="70" icon="inv_potion_145" quality="1">
+<name>特效暗影能量药剂</name>
+<code>
+[div class="name q1"]特效暗影能量药剂[/div][div]需要等级 60[/div][div class="q2"]使用: 暗影法术强度提高55点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="22836" class="0.1" level="70" icon="inv_potion_139" quality="1">
+<name>特效无梦睡眠药水</name>
+<code>
+[div class="name q1"]特效无梦睡眠药水[/div][div]需要等级 60[/div][div class="q2"]使用: 使饮用者进入无梦的睡眠，持续12秒。在这段时间内，饮用者可以恢复3600点生命值和3600点法力值。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="22837" class="0.1" level="70" icon="inv_potion_106" quality="1">
+<name>英雄药水</name>
+<code>
+[div class="name q1"]英雄药水[/div][div]需要等级 60[/div][div class="q2"]使用: 力量提高70点，暂时使生命值提高700点，持续15秒。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="22838" class="0.1" level="70" icon="inv_potion_108" quality="1">
+<name>加速药水</name>
+<code>
+[div class="name q1"]加速药水[/div][div]需要等级 60[/div][div class="q2"]使用: 急速等级提高400，效果持续15秒。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="22839" class="0.1" level="70" icon="inv_potion_107" quality="1">
+<name>毁灭药水</name>
+<code>
+[div class="name q1"]毁灭药水[/div][div]需要等级 60[/div][div class="q2"]使用: 法术爆击等级提高2%，法术强度提高120点，持续15秒。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="22840" class="0.2.2" level="70" icon="inv_potion_151" quality="1">
+<name>特效魔血药剂</name>
+<code>
+[div class="name q1"]特效魔血药剂[/div][div]需要等级 60[/div][div class="q2"]使用: 每5秒回复20点法力值，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="22841" class="0.1" level="70" icon="inv_potion_124" quality="1">
+<name>特效火焰防护药水</name>
+<code>
+[div class="name q1"]特效火焰防护药水[/div][div]需要等级 60[/div][div class="q2"]使用: 吸收2800到4000点火焰伤害，持续2分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="22842" class="0.1" level="70" icon="inv_potion_126" quality="1">
+<name>特效冰霜防护药水</name>
+<code>
+[div class="name q1"]特效冰霜防护药水[/div][div]需要等级 60[/div][div class="q2"]使用: 吸收2800到4000点冰霜伤害，持续2分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="22844" class="0.1" level="70" icon="inv_potion_127" quality="1">
+<name>特效自然防护药水</name>
+<code>
+[div class="name q1"]特效自然防护药水[/div][div]需要等级 60[/div][div class="q2"]使用: 吸收2800到4000点自然伤害，持续2分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="22845" class="0.1" level="70" icon="inv_potion_128" quality="1">
+<name>特效奥术防护药水</name>
+<code>
+[div class="name q1"]特效奥术防护药水[/div][div]需要等级 60[/div][div class="q2"]使用: 吸收2800到4000点奥术伤害。持续2分钟。(1分钟冷却)[/div]售价: [span class="si-gold"]2[/span]
+</code>
+</item>
+<item id="22846" class="0.1" level="70" icon="inv_potion_123" quality="1">
+<name>特效暗影防护药水</name>
+<code>
+[div class="name q1"]特效暗影防护药水[/div][div]需要等级 60[/div][div class="q2"]使用: 吸收2800到4000点暗影伤害，持续2分钟。(1分钟冷却)[/div]售价: [span class="si-gold"]2[/span]
+</code>
+</item>
+<item id="22847" class="0.1" level="70" icon="inv_potion_125" quality="1">
+<name>特效神圣防护药水</name>
+<code>
+[div class="name q1"]特效神圣防护药水[/div][div]需要等级 60[/div][div class="q2"]使用: 吸收2800到4000点神圣伤害，持续2分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="22848" class="0.2.2" level="70" icon="inv_potion_136" quality="1">
+<name>强化药剂</name>
+<code>
+[div class="name q1"]强化药剂[/div][div]需要等级 60[/div][div class="q2"]使用: 使你的法术目标的魔法抗性降低30点，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="22849" class="0.1" level="73" icon="inv_potion_133" quality="1">
+<name>铁盾药水</name>
+<code>
+[div class="name q1"]铁盾药水[/div][div]需要等级 60[/div][div class="q2"]使用: 护甲提高2500点，持续2分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="22850" class="0.1" level="75" icon="inv_potion_134" quality="1">
+<name>超级活力药水</name>
+<code>
+[div class="name q1"]超级活力药水[/div][div]需要等级 65[/div][div class="q2"]使用: 恢复2100到2300点法力值和生命值。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="22851" class="0.3" level="70" icon="inv_potion_119" quality="1">
+<name>强固合剂</name>
+<code>
+[div class="name q1"]强固合剂[/div][div]需要等级 65[/div][div class="q2"]使用: 使玩家的生命值上限提高500点，防御等级提高10，持续60分钟。这种效果在死亡后仍可继续存在。战斗和守护药剂。[/div]
+</code>
+</item>
+<item id="22853" class="0.3" level="70" icon="inv_potion_118" quality="1">
+<name>强效回复合剂</name>
+<code>
+[div class="name q1"]强效回复合剂[/div][div]需要等级 65[/div][div class="q2"]使用: 使玩家的每5秒法力值恢复提高31点，持续60分钟。这种效果在死亡后仍可继续存在。战斗和守护药剂。[/div]
+</code>
+</item>
+<item id="22854" class="0.3" level="70" icon="inv_potion_117" quality="1">
+<name>无情突袭合剂</name>
+<code>
+[div class="name q1"]无情突袭合剂[/div][div]需要等级 65[/div][div class="q2"]使用: 攻击强度提高120点，持续60分钟。这种效果在死亡后仍可继续存在。战斗与守护药剂。[/div]
+</code>
+</item>
+<item id="22861" class="0.3" level="70" icon="inv_potion_116" quality="1">
+<name>盲目光芒合剂</name>
+<code>
+[div class="name q1"]盲目光芒合剂[/div][div]需要等级 65[/div][div class="q2"]使用: 奥术、神圣和自然法术强度提高80点，持续60分钟。这种效果在死亡后仍可继续存在。战斗和守护药剂。[/div]
+</code>
+</item>
+<item id="22866" class="0.3" level="70" icon="inv_potion_115" quality="1">
+<name>纯粹死亡合剂</name>
+<code>
+[div class="name q1"]纯粹死亡合剂[/div][div]需要等级 65[/div][div class="q2"]使用: 暗影、火焰和冰霜法术强度提高80点，持续60分钟。这种效果在死亡后仍可继续存在。战斗和守护药剂。[/div]
+</code>
+</item>
+<item id="22871" class="0.1" level="67" icon="inv_potion_144" quality="1">
+<name>遮罩药水</name>
+<code>
+[div class="name q1"]遮罩药水[/div][div]需要等级 55[/div][div class="q2"]使用: 隐藏你的身形，降低附近的敌人攻击你的可能性。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="23077" class="3.0" level="65" icon="inv_misc_gem_bloodgem_03" quality="2">
+<name>血榴石</name>
+<code>
+[div class="name q2"]血榴石[/div]
+</code>
+</item>
+<item id="23079" class="3.4" level="65" icon="inv_misc_gem_deepperidot_03" quality="2">
+<name>翠榄石</name>
+<code>
+[div class="name q2"]翠榄石[/div]
+</code>
+</item>
+<item id="23107" class="3.3" level="65" icon="inv_misc_gem_ebondraenite_03" quality="2">
+<name>德拉诺影钻</name>
+<code>
+[div class="name q2"]德拉诺影钻[/div]
+</code>
+</item>
+<item id="23112" class="3.2" level="65" icon="inv_misc_gem_goldendraenite_03" quality="2">
+<name>德拉诺金钻</name>
+<code>
+[div class="name q2"]德拉诺金钻[/div]
+</code>
+</item>
+<item id="23117" class="3.1" level="65" icon="inv_misc_gem_azuredraenite_03" quality="2">
+<name>碧月石</name>
+<code>
+[div class="name q2"]碧月石[/div]
+</code>
+</item>
+<item id="23571" class="7.10" level="65" icon="spell_nature_lightningoverload" quality="3">
+<name>源生之能</name>
+<code>
+[div class="name q3"]源生之能[/div]
+</code>
+</item>
+<item id="23782" class="7.1" level="60" icon="inv_gizmo_felironcasing" quality="1">
+<name>魔铁外壳</name>
+<code>
+[div class="name q1"]魔铁外壳[/div]售价: [span class="si-gold"]3[/span][span class="si-silver"]20[/span]
+</code>
+</item>
+<item id="24245" class="12.0" level="1" icon="inv_mushroom_02" quality="1">
+<name>亮顶蘑菇</name>
+<code>
+[div class="name q1"]亮顶蘑菇[/div]
+</code>
+</item>
+<item id="25867" class="3.6" level="70" icon="inv_misc_gem_diamond_04" quality="3">
+<name>大地风暴钻石</name>
+<code>
+[div class="name q3"]大地风暴钻石[/div]
+</code>
+</item>
+<item id="25868" class="3.6" level="70" icon="inv_misc_gem_diamond_05" quality="3">
+<name>天火钻石</name>
+<code>
+[div class="name q3"]天火钻石[/div]
+</code>
+</item>
+<item id="26044" class="15.0" level="1" icon="inv_misc_rune_09" quality="2">
+<name>哈兰研究勋章</name>
+<code>
+[div class="name q2"]哈兰研究勋章[/div][div]拾取后绑定[/div]
+</code>
+</item>
+<item id="28100" class="0.1" level="60" icon="inv_potion_40" quality="1">
+<name>不稳定的治疗药水</name>
+<code>
+[div class="name q1"]不稳定的治疗药水[/div][div]需要等级 55[/div][div class="q2"]使用: 恢复1050到1750点生命值。(1分钟冷却)[/div]售价: [span class="si-silver"]40[/span]
+</code>
+</item>
+<item id="28101" class="0.1" level="62" icon="inv_potion_75" quality="1">
+<name>不稳定的法力药水</name>
+<code>
+[div class="name q1"]不稳定的法力药水[/div][div]需要等级 55[/div][div class="q2"]使用: 恢复1350到2250点法力值。(1分钟冷却)[/div]售价: [span class="si-silver"]60[/span]
+</code>
+</item>
+<item id="28102" class="0.2.1" level="60" icon="inv_potion_58" quality="1">
+<name>强攻药剂</name>
+<code>
+[div class="name q1"]强攻药剂[/div][div]需要等级 50[/div][div class="q2"]使用: 攻击强度提高60点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="28103" class="0.2.1" level="60" icon="inv_potion_96" quality="1">
+<name>法能药剂</name>
+<code>
+[div class="name q1"]法能药剂[/div][div]需要等级 50[/div][div class="q2"]使用: 法术强度提高24点，爆击等级提高24，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="28104" class="0.2.1" level="63" icon="inv_potion_111" quality="1">
+<name>掌控药剂</name>
+<code>
+[div class="name q1"]掌控药剂[/div][div]需要等级 50[/div][div class="q2"]使用: 所有属性提高15点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="30183" class="7.13" level="75" icon="inv_elemental_mote_nether" quality="4">
+<name>虚空漩涡</name>
+<code>
+[div class="name q4"]虚空漩涡[/div]
+</code>
+</item>
+<item id="31080" class="4.-4" level="105" icon="inv_misc_gem_lionseye_01" quality="2">
+<name>水银石</name>
+<code>
+[div class="name q2"]水银石[/div][div]装备后绑定[/div][div]饰品[/div][div]+27 耐力[/div][div]需要等级 65[/div][div class="q2"]装备: 命中等级提高27。[/div]
+</code>
+</item>
+<item id="31676" class="0.1" level="69" icon="inv_potion_140" quality="1">
+<name>魔能回复药水</name>
+<code>
+[div class="name q1"]魔能回复药水[/div][div]需要等级 60[/div][div class="q2"]使用: 在24秒内恢复3200点生命值，但是所有属性降低15点，持续15分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="31677" class="0.1" level="72" icon="inv_potion_138" quality="1">
+<name>魔能法力药水</name>
+<code>
+[div class="name q1"]魔能法力药水[/div][div]需要等级 60[/div][div class="q2"]使用: 在24秒内恢复3200点法力值，但是法术强度降低25点，持续15分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="31679" class="0.2.1" level="67" icon="inv_potion_152" quality="1">
+<name>魔能力量药水</name>
+<code>
+[div class="name q1"]魔能力量药水[/div][div]需要等级 60[/div][div class="q2"]使用: 使你的攻击强度提高90点，耐力降低10点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="32062" class="0.2.2" level="61" icon="inv_potion_158" quality="1">
+<name>特效坚韧药剂</name>
+<code>
+[div class="name q1"]特效坚韧药剂[/div][div]需要等级 50[/div][div class="q2"]使用: 生命值上限提高250点，每5秒回复10点生命值，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="32063" class="0.2.2" level="63" icon="inv_potion_154" quality="1">
+<name>土灵药剂</name>
+<code>
+[div class="name q1"]土灵药剂[/div][div]需要等级 50[/div][div class="q2"]使用: 阻挡最多20点物理或魔法伤害，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="32067" class="0.2.2" level="64" icon="inv_potion_155" quality="1">
+<name>德莱尼智慧药剂</name>
+<code>
+[div class="name q1"]德莱尼智慧药剂[/div][div]需要等级 50[/div][div class="q2"]使用: 智力和精神提高30点，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="32068" class="0.2.2" level="66" icon="inv_potion_159" quality="1">
+<name>铁皮药剂</name>
+<code>
+[div class="name q1"]铁皮药剂[/div][div]需要等级 55[/div][div class="q2"]使用: 韧性等级提高30，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="32839" class="0.8" level="70" icon="inv_misc_cauldron_arcane" quality="1">
+<name>特效奥术防护药锅</name>
+<code>
+[div class="name q1"]特效奥术防护药锅[/div][div]需要等级 60[/div][div class="q2"]使用: 制造一口药锅，团队成员可以通过使用它获取一瓶特效奥术防护药水。药锅在使用25次或持续5分钟之后消失。[/div]
+</code>
+</item>
+<item id="32849" class="0.8" level="70" icon="inv_misc_cauldron_fire" quality="1">
+<name>特效火焰防护药锅</name>
+<code>
+[div class="name q1"]特效火焰防护药锅[/div][div]需要等级 60[/div][div class="q2"]使用: 制造一口药锅，团队成员可以通过使用它获取一瓶特效火焰防护药水。药锅在使用25次或持续5分钟之后消失。[/div]
+</code>
+</item>
+<item id="32850" class="0.8" level="70" icon="inv_misc_cauldron_frost" quality="1">
+<name>特效冰霜防护药锅</name>
+<code>
+[div class="name q1"]特效冰霜防护药锅[/div][div]需要等级 60[/div][div class="q2"]使用: 制造一口药锅，团队成员可以通过使用它获取一瓶特效冰霜防护药水。药锅在使用25次或持续5分钟之后消失。[/div]
+</code>
+</item>
+<item id="32851" class="0.8" level="70" icon="inv_misc_cauldron_nature" quality="1">
+<name>特效自然防护药锅</name>
+<code>
+[div class="name q1"]特效自然防护药锅[/div][div]需要等级 60[/div][div class="q2"]使用: 制造一口药锅，团队成员可以通过使用它获取一瓶特效自然防护药水。药锅在使用25次或持续5分钟之后消失。[/div]
+</code>
+</item>
+<item id="32852" class="0.8" level="70" icon="inv_misc_cauldron_shadow" quality="1">
+<name>特效暗影防护药锅</name>
+<code>
+[div class="name q1"]特效暗影防护药锅[/div][div]需要等级 60[/div][div class="q2"]使用: 制造一口药锅，团队成员可以通过使用它获取一瓶特效暗影防护药水。药锅在使用25次或持续5分钟之后消失。[/div]
+</code>
+</item>
+<item id="33208" class="0.3" level="70" icon="inv_potion_48" quality="1">
+<name>多彩奇迹合剂</name>
+<code>
+[div class="name q1"]多彩奇迹合剂[/div][div]需要等级 65[/div][div class="q2"]使用: 使你的所有魔法抗性提高35点，所有属性提高18点，持续60分钟。这种效果在死亡后仍可继续存在。战斗和守护药剂。[/div]
+</code>
+</item>
+<item id="33447" class="0.1" level="80" icon="inv_alchemy_elixir_05" quality="1">
+<name>符文治疗药水</name>
+<code>
+[div class="name q1"]符文治疗药水[/div][div]需要等级 70[/div][div class="q2"]使用: 恢复2700到4500点生命值。(1分钟冷却)[/div]售价: [span class="si-gold"]2[/span][span class="si-silver"]40[/span]
+</code>
+</item>
+<item id="33448" class="0.1" level="80" icon="inv_alchemy_elixir_02" quality="1">
+<name>符文法力药水</name>
+<code>
+[div class="name q1"]符文法力药水[/div][div]需要等级 70[/div][div class="q2"]使用: 恢复4200到4400点法力值。(1分钟冷却)[/div]售价: [span class="si-gold"]2[/span][span class="si-silver"]40[/span]
+</code>
+</item>
+<item id="34440" class="0.1" level="75" icon="inv_potion_28" quality="1">
+<name>疯狂炼金师药水</name>
+<code>
+[div class="name q1"]疯狂炼金师药水[/div][div]需要等级 60[/div][div]需要炼金术 (315)[/div][div class="q2"]使用: 恢复1650到2750点法力值和生命值，有时会有副作用。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="35622" class="7.10" level="75" icon="inv_elemental_eternal_water" quality="2">
+<name>永恒之水</name>
+<code>
+[div class="name q2"]永恒之水[/div][div class="q2"]使用: 将一份永恒之水转化为10份水之结晶。[/div]
+</code>
+</item>
+<item id="35623" class="7.10" level="75" icon="inv_elemental_eternal_air" quality="2">
+<name>永恒空气</name>
+<code>
+[div class="name q2"]永恒空气[/div][div class="q2"]使用: 将一份永恒空气转化为10份空气结晶。[/div]
+</code>
+</item>
+<item id="35624" class="7.10" level="75" icon="inv_elemental_eternal_earth" quality="2">
+<name>永恒之土</name>
+<code>
+[div class="name q2"]永恒之土[/div][div class="q2"]使用: 将一份永恒之土转化为10份土之结晶。[/div]
+</code>
+</item>
+<item id="35625" class="7.10" level="75" icon="inv_elemental_eternal_life" quality="2">
+<name>永恒生命</name>
+<code>
+[div class="name q2"]永恒生命[/div][div class="q2"]使用: 将一份永恒生命转化为10份生命结晶。[/div]
+</code>
+</item>
+<item id="35627" class="7.10" level="75" icon="inv_elemental_eternal_shadow" quality="2">
+<name>永恒暗影</name>
+<code>
+[div class="name q2"]永恒暗影[/div][div class="q2"]使用: 将一份永恒暗影转化为10份暗影结晶。[/div]
+</code>
+</item>
+<item id="35748" class="4.-4" level="125" icon="spell_nature_healingway" quality="4">
+<name>守护者的炼金石</name>
+<code>
+[div class="name q4"]守护者的炼金石[/div][div]拾取后绑定[/div][div]唯一[/div][div]饰品[/div][div]需要炼金术 (350)[/div][div class="q2"]装备: 防御等级提高54。[/div][div class="q2"]装备: 使你在饮用治疗药水和法力药水时获得的效果提高40%。这个效果无法叠加。[/div]
+</code>
+</item>
+<item id="35749" class="4.-4" level="125" icon="spell_nature_healingway" quality="4">
+<name>巫师的炼金石</name>
+<code>
+[div class="name q4"]巫师的炼金石[/div][div]拾取后绑定[/div][div]唯一[/div][div]饰品[/div][div]需要炼金术 (350)[/div][div class="q2"]装备: 使你在饮用治疗药水和法力药水时获得的效果提高40%。这个效果无法叠加。[/div][div class="q2"]装备: 法术强度提高63点。[/div]
+</code>
+</item>
+<item id="35750" class="4.-4" level="125" icon="spell_nature_healingway" quality="4">
+<name>救赎者的炼金石</name>
+<code>
+[div class="name q4"]救赎者的炼金石[/div][div]拾取后绑定[/div][div]唯一[/div][div]饰品[/div][div]需要炼金术 (350)[/div][div class="q2"]装备: 使你在饮用治疗药水和法力药水时获得的效果提高40%。这个效果无法叠加。[/div][div class="q2"]装备: 法术强度提高63点。[/div]
+</code>
+</item>
+<item id="35751" class="4.-4" level="125" icon="spell_nature_healingway" quality="4">
+<name>刺客的炼金石</name>
+<code>
+[div class="name q4"]刺客的炼金石[/div][div]拾取后绑定[/div][div]唯一[/div][div]饰品[/div][div]需要炼金术 (350)[/div][div class="q2"]装备: 使你在饮用治疗药水和法力药水时获得的效果提高40%。这个效果无法叠加。[/div][div class="q2"]装备: 攻击强度提高108点。[/div]
+</code>
+</item>
+<item id="36860" class="7.10" level="75" icon="inv_elemental_eternal_fire" quality="2">
+<name>永恒火焰</name>
+<code>
+[div class="name q2"]永恒火焰[/div][div class="q2"]使用: 将一份永恒火焰转化为10份火焰结晶。[/div]
+</code>
+</item>
+<item id="36901" class="7.9" level="72" icon="inv_misc_herb_goldclover" quality="1">
+<name>金苜蓿</name>
+<code>
+[div class="name q1"]金苜蓿[/div]售价: [span class="si-silver"]30[/span]
+</code>
+</item>
+<item id="36903" class="7.9" level="77" icon="inv_misc_herb_evergreenmoss" quality="1">
+<name>蛇信草</name>
+<code>
+[div class="name q1"]蛇信草[/div]售价: [span class="si-silver"]50[/span]
+</code>
+</item>
+<item id="36904" class="7.9" level="72" icon="inv_misc_herb_tigerlily" quality="1">
+<name>卷丹</name>
+<code>
+[div class="name q1"]卷丹[/div]售价: [span class="si-silver"]30[/span]
+</code>
+</item>
+<item id="36905" class="7.9" level="80" icon="inv_misc_herb_whispervine" quality="1">
+<name>巫妖花</name>
+<code>
+[div class="name q1"]巫妖花[/div]售价: [span class="si-silver"]80[/span]
+</code>
+</item>
+<item id="36906" class="7.9" level="80" icon="inv_misc_herb_icethorn" quality="1">
+<name>冰棘草</name>
+<code>
+[div class="name q1"]冰棘草[/div]售价: [span class="si-silver"]80[/span]
+</code>
+</item>
+<item id="36907" class="7.9" level="72" icon="inv_misc_herb_talandrasrose" quality="1">
+<name>塔兰德拉的玫瑰</name>
+<code>
+[div class="name q1"]塔兰德拉的玫瑰[/div]售价: [span class="si-silver"]30[/span]
+</code>
+</item>
+<item id="36908" class="7.9" level="80" icon="inv_misc_herb_frostlotus" quality="2">
+<name>雪莲花</name>
+<code>
+[div class="name q2"]雪莲花[/div]售价: [span class="si-gold"]4[/span]
+</code>
+</item>
+<item id="36913" class="7.7" level="80" icon="inv_ingot_yoggthorite" quality="1">
+<name>萨隆邪铁锭</name>
+<code>
+[div class="name q1"]萨隆邪铁锭[/div]
+</code>
+</item>
+<item id="36917" class="3.0" level="75" icon="inv_jewelcrafting_gem_12" quality="2">
+<name>血石</name>
+<code>
+[div class="name q2"]血石[/div]
+</code>
+</item>
+<item id="36918" class="3.0" level="80" icon="inv_jewelcrafting_gem_04" quality="3">
+<name>血玉石</name>
+<code>
+[div class="name q3"]血玉石[/div]
+</code>
+</item>
+<item id="36919" class="3.0" level="80" icon="inv_jewelcrafting_gem_32" quality="4">
+<name>赤玉石</name>
+<code>
+[span class="name q4"]赤玉石[/span]
+</code>
+</item>
+<item id="36921" class="3.2" level="80" icon="inv_jewelcrafting_gem_03" quality="3">
+<name>秋色石</name>
+<code>
+[div class="name q3"]秋色石[/div]
+</code>
+</item>
+<item id="36922" class="3.2" level="80" icon="inv_jewelcrafting_gem_36" quality="4">
+<name>王者琥珀</name>
+<code>
+[span class="name q4"]王者琥珀[/span]
+</code>
+</item>
+<item id="36923" class="3.1" level="75" icon="inv_jewelcrafting_gem_10" quality="2">
+<name>玉髓石</name>
+<code>
+[div class="name q2"]玉髓石[/div]
+</code>
+</item>
+<item id="36924" class="3.1" level="80" icon="inv_jewelcrafting_gem_05" quality="3">
+<name>天蓝石</name>
+<code>
+[div class="name q3"]天蓝石[/div]
+</code>
+</item>
+<item id="36925" class="3.1" level="80" icon="inv_jewelcrafting_gem_35" quality="4">
+<name>巨锆石</name>
+<code>
+[span class="name q4"]巨锆石[/span]
+</code>
+</item>
+<item id="36927" class="3.3" level="80" icon="inv_jewelcrafting_gem_06" quality="3">
+<name>曙光猫眼石</name>
+<code>
+[div class="name q3"]曙光猫眼石[/div]
+</code>
+</item>
+<item id="36928" class="3.3" level="80" icon="inv_jewelcrafting_gem_31" quality="4">
+<name>恐惧石</name>
+<code>
+[span class="name q4"]恐惧石[/span]
+</code>
+</item>
+<item id="36929" class="3.5" level="75" icon="inv_jewelcrafting_gem_09" quality="2">
+<name>茶晶石</name>
+<code>
+[div class="name q2"]茶晶石[/div]
+</code>
+</item>
+<item id="36930" class="3.5" level="80" icon="inv_jewelcrafting_gem_02" quality="3">
+<name>帝黄晶</name>
+<code>
+[div class="name q3"]帝黄晶[/div]
+</code>
+</item>
+<item id="36931" class="3.5" level="80" icon="inv_jewelcrafting_gem_33" quality="4">
+<name>无瑕紫黄晶</name>
+<code>
+[span class="name q4"]无瑕紫黄晶[/span]
+</code>
+</item>
+<item id="36932" class="3.4" level="75" icon="inv_jewelcrafting_gem_07" quality="2">
+<name>黑玉</name>
+<code>
+[div class="name q2"]黑玉[/div]
+</code>
+</item>
+<item id="36933" class="3.4" level="80" icon="inv_jewelcrafting_gem_01" quality="3">
+<name>森林翡翠</name>
+<code>
+[div class="name q3"]森林翡翠[/div]
+</code>
+</item>
+<item id="36934" class="3.4" level="80" icon="inv_jewelcrafting_gem_34" quality="4">
+<name>祖尔之眼</name>
+<code>
+[span class="name q4"]祖尔之眼[/span]
+</code>
+</item>
+<item id="37701" class="7.10" level="75" icon="inv_elemental_crystal_earth" quality="1">
+<name>土之结晶</name>
+<code>
+[div class="name q1"]土之结晶[/div][div class="q2"]使用: 将10份土之结晶转化为一份永恒之土。[/div]售价: [span class="si-silver"]24[/span]
+</code>
+</item>
+<item id="37702" class="7.10" level="75" icon="inv_elemental_crystal_fire" quality="1">
+<name>火焰结晶</name>
+<code>
+[div class="name q1"]火焰结晶[/div][div class="q2"]使用: 将10份火焰结晶转化为一份永恒火焰。[/div]售价: [span class="si-silver"]24[/span]
+</code>
+</item>
+<item id="37703" class="7.10" level="75" icon="inv_elemental_crystal_shadow" quality="1">
+<name>暗影结晶</name>
+<code>
+[div class="name q1"]暗影结晶[/div][div class="q2"]使用: 将10份暗影结晶转化为一份永恒暗影。[/div]售价: [span class="si-silver"]24[/span]
+</code>
+</item>
+<item id="37704" class="7.10" level="75" icon="inv_elemental_crystal_life" quality="1">
+<name>生命结晶</name>
+<code>
+[div class="name q1"]生命结晶[/div][div class="q2"]使用: 将10份生命结晶转化为一份永恒生命。[/div]售价: [span class="si-silver"]24[/span]
+</code>
+</item>
+<item id="37705" class="7.10" level="75" icon="inv_elemental_crystal_water" quality="1">
+<name>水之结晶</name>
+<code>
+[div class="name q1"]水之结晶[/div][div class="q2"]使用: 将10份水之结晶转化为一份永恒之水。[/div]售价: [span class="si-silver"]24[/span]
+</code>
+</item>
+<item id="37921" class="7.9" level="72" icon="inv_misc_herb_constrictorgrass" quality="1">
+<name>死亡荨麻</name>
+<code>
+[div class="name q1"]死亡荨麻[/div]售价: [span class="si-silver"]30[/span]
+</code>
+</item>
+<item id="39666" class="0.2.1" level="80" icon="inv_potion_162" quality="1">
+<name>极效敏捷药剂</name>
+<code>
+[div class="name q1"]极效敏捷药剂[/div][div]需要等级 70[/div][div class="q2"]使用: 使你的敏捷提高45点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="39671" class="0.1" level="75" icon="inv_potion_120" quality="1">
+<name>复苏治疗药水</name>
+<code>
+[div class="name q1"]复苏治疗药水[/div][div]需要等级 65[/div][div class="q2"]使用: 恢复1500到2500点生命值。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="39970" class="0.8" level="75" icon="inv_misc_herb_11a" quality="1">
+<name>火叶</name>
+<code>
+[div class="name q1"]火叶[/div][div]需要铭文 (325)[/div]
+</code>
+</item>
+<item id="40067" class="0.1" level="75" icon="inv_potion_126" quality="1">
+<name>冰冷法力药水</name>
+<code>
+[div class="name q1"]冰冷法力药水[/div][div]需要等级 65[/div][div class="q2"]使用: 恢复1800到3000点法力值。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="40068" class="0.2.1" level="80" icon="inv_potion_114" quality="1">
+<name>怒火药剂</name>
+<code>
+[div class="name q1"]怒火药剂[/div][div]需要等级 70[/div][div class="q2"]使用: 攻击强度提高90点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="40070" class="0.2.1" level="80" icon="inv_alchemy_potion_05" quality="1">
+<name>法术能量药剂</name>
+<code>
+[div class="name q1"]法术能量药剂[/div][div]需要等级 70[/div][div class="q2"]使用: 法术强度提高58点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="40072" class="0.2.2" level="80" icon="inv_potion_02" quality="1">
+<name>精神药水</name>
+<code>
+[div class="name q1"]精神药水[/div][div]需要等级 70[/div][div class="q2"]使用: 精神值提高50点，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="40073" class="0.2.1" level="80" icon="inv_potion_165" quality="1">
+<name>极效力量药剂</name>
+<code>
+[div class="name q1"]极效力量药剂[/div][div]需要等级 70[/div][div class="q2"]使用: 使你的力量值提高50点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="40076" class="0.2.1" level="80" icon="inv_potion_112" quality="1">
+<name>专家药剂</name>
+<code>
+[div class="name q1"]专家药剂[/div][div]需要等级 70[/div][div class="q2"]使用: 所有属性提高20点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="40077" class="0.1" level="80" icon="inv_potion_27" quality="1">
+<name>狂乱炼金师药水</name>
+<code>
+[div class="name q1"]狂乱炼金师药水[/div][div]需要等级 70[/div][div]需要炼金术 (400)[/div][div class="q2"]使用: 恢复3100到3500点生命值和4200到4400点法力值。有些时候还会附带其它药水的效果。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="40078" class="0.2.2" level="80" icon="inv_potion_164" quality="1">
+<name>极效坚韧药剂</name>
+<code>
+[div class="name q1"]极效坚韧药剂[/div][div]需要等级 70[/div][div class="q2"]使用: 生命值上限提高350点，每5秒回复20点生命值，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="40079" class="0.3" level="80" icon="inv_alchemy_endlessflask_02" quality="1">
+<name>次级强韧合剂</name>
+<code>
+[div class="name q1"]次级强韧合剂[/div][div]需要等级 70[/div][div class="q2"]使用: 韧性等级提高50，持续60分钟。这种效果在死亡后仍可继续存在。战斗和守护药剂。[/div]
+</code>
+</item>
+<item id="40081" class="0.1" level="80" icon="inv_alchemy_elixir_03" quality="1">
+<name>噩梦药水</name>
+<code>
+[div class="name q1"]噩梦药水[/div][div]需要等级 70[/div][div class="q2"]使用: 使饮用者进入深度睡眠状态，在梦中挑战并击败自己心中最恐惧的事物。在此期间，饮用者可以恢复5400点生命值和法力值，但是会变得非常脆弱。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="40087" class="0.1" level="80" icon="inv_alchemy_elixir_06" quality="1">
+<name>强效活力药水</name>
+<code>
+[div class="name q1"]强效活力药水[/div][div]需要等级 70[/div][div class="q2"]使用: 恢复2475到4125点法力值和生命值。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="40093" class="0.1" level="80" icon="inv_alchemy_elixir_empty" quality="1">
+<name>不灭药水</name>
+<code>
+[div class="name q1"]不灭药水[/div][div]需要等级 70[/div][div class="q2"]使用: 护甲值提高3500点，持续2分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="40097" class="0.2.2" level="80" icon="inv_alchemy_potion_empty" quality="1">
+<name>防护药剂</name>
+<code>
+[div class="name q1"]防护药剂[/div][div]需要等级 70[/div][div class="q2"]使用: 护甲值提高800点，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="40109" class="0.2.2" level="80" icon="inv_potion_129" quality="1">
+<name>极效魔血药剂</name>
+<code>
+[div class="name q1"]极效魔血药剂[/div][div]需要等级 70[/div][div class="q2"]使用: 每5秒回复30点法力值，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="40195" class="7.11" level="75" icon="inv_potion_07" quality="1">
+<name>亚口鱼油</name>
+<code>
+[div class="name q1"]亚口鱼油[/div][div class="q2"]使用: 喝它。[/div]
+</code>
+</item>
+<item id="40199" class="7.11" level="75" icon="inv_misc_fish_55" quality="1">
+<name>小型亚口鱼</name>
+<code>
+[div class="name q1"]小型亚口鱼[/div]
+</code>
+</item>
+<item id="40211" class="0.1" level="80" icon="inv_alchemy_elixir_04" quality="1">
+<name>速度药水</name>
+<code>
+[div class="name q1"]速度药水[/div][div]需要等级 70[/div][div class="q2"]使用: 急速等级提高500，持续15秒。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="40212" class="0.1" level="80" icon="inv_alchemy_elixir_01" quality="1">
+<name>狂野魔法药水</name>
+<code>
+[div class="name q1"]狂野魔法药水[/div][div]需要等级 70[/div][div class="q2"]使用: 爆击等级提高200，法术强度提高200点，持续15秒。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="40213" class="0.1" level="80" icon="inv_potion_159" quality="1">
+<name>极效奥术防护药水</name>
+<code>
+[div class="name q1"]极效奥术防护药水[/div][div]需要等级 70[/div][div class="q2"]使用: 吸收4200到6000点奥术伤害，持续2分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="40214" class="0.1" level="80" icon="inv_potion_146" quality="1">
+<name>极效火焰防护药水</name>
+<code>
+[div class="name q1"]极效火焰防护药水[/div][div]需要等级 70[/div][div class="q2"]使用: 吸收4200到6000点火焰伤害，持续2分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="40215" class="0.1" level="80" icon="inv_potion_156" quality="1">
+<name>极效冰霜防护药水</name>
+<code>
+[div class="name q1"]极效冰霜防护药水[/div][div]需要等级 70[/div][div class="q2"]使用: 吸收4200到6000点冰霜伤害，持续2分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="40216" class="0.1" level="80" icon="inv_potion_155" quality="1">
+<name>极效自然防护药水</name>
+<code>
+[div class="name q1"]极效自然防护药水[/div][div]需要等级 70[/div][div class="q2"]使用: 吸收4200到6000点自然伤害，持续2分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="40217" class="0.1" level="80" icon="inv_potion_158" quality="1">
+<name>极效暗影防护药水</name>
+<code>
+[div class="name q1"]极效暗影防护药水[/div][div]需要等级 70[/div][div class="q2"]使用: 吸收4200到6000点暗影伤害，持续2分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="40411" class="7.11" level="75" icon="inv_alchemy_enchantedvial" quality="1">
+<name>魔化瓶</name>
+<code>
+[div class="name q1"]魔化瓶[/div]售价: [span class="si-gold"]1[/span]
+</code>
+</item>
+<item id="41163" class="7.7" level="80" icon="inv_ingot_platinum" quality="2">
+<name>泰坦神铁锭</name>
+<code>
+[div class="name q2"]泰坦神铁锭[/div]
+</code>
+</item>
+<item id="41266" class="3.6" level="80" icon="inv_jewelcrafting_icediamond_01" quality="3">
+<name>天焰钻石</name>
+<code>
+[div class="name q3"]天焰钻石[/div]
+</code>
+</item>
+<item id="41334" class="3.6" level="80" icon="inv_jewelcrafting_shadowspirit_01" quality="3">
+<name>大地侵攻钻石</name>
+<code>
+[div class="name q3"]大地侵攻钻石[/div]
+</code>
+</item>
+<item id="41814" class="7.8" level="70" icon="inv_misc_fish_69" quality="1">
+<name>晶鳞鱼</name>
+<code>
+[div class="name q1"]晶鳞鱼[/div]
+</code>
+</item>
+<item id="43569" class="0.1" level="80" icon="inv_alchemy_endlessflask_06" quality="3">
+<name>无尽治疗药水</name>
+<code>
+[div class="name q3"]无尽治疗药水[/div][div]拾取后绑定[/div][div]唯一[/div][div]需要炼金术 (400)[/div][div class="q2"]使用: 恢复1500到2500点生命值。(1分钟冷却)[/div][div class="q"]"这种药水饮之不尽。"[/div]
+</code>
+</item>
+<item id="43570" class="0.1" level="80" icon="inv_alchemy_endlessflask_04" quality="3">
+<name>无尽法力药水</name>
+<code>
+[div class="name q3"]无尽法力药水[/div][div]拾取后绑定[/div][div]唯一[/div][div]需要炼金术 (400)[/div][div class="q2"]使用: 恢复1800到3000点法力值。(1分钟冷却)[/div][div class="q"]"这种药水饮之不尽。"[/div]
+</code>
+</item>
+<item id="44322" class="4.-4" level="200" icon="spell_holy_aspiration" quality="3">
+<name>水银炼金石</name>
+<code>
+[div class="name q3"]水银炼金石[/div][div]拾取后绑定[/div][div]唯一[/div][div]饰品[/div][div]需要等级 75[/div][div]需要炼金术 (400)[/div][div class="q2"]装备: 法术强度提高59点。[/div][div class="q2"]装备: 急速等级提高50。[/div][div class="q2"]装备: 使你在饮用治疗药水和法力药水时获得的效果提高40%。这个效果无法叠加。[/div]
+</code>
+</item>
+<item id="44323" class="4.-4" level="200" icon="spell_holy_aspiration" quality="3">
+<name>不灭炼金石</name>
+<code>
+[div class="name q3"]不灭炼金石[/div][div]拾取后绑定[/div][div]唯一[/div][div]饰品[/div][div]+75 耐力[/div][div]需要等级 75[/div][div]需要炼金术 (400)[/div][div class="q2"]装备: 使你的躲闪等级提高50。[/div][div class="q2"]装备: 使你在饮用治疗药水和法力药水时获得的效果提高40%。这个效果无法叠加。[/div]
+</code>
+</item>
+<item id="44324" class="4.-4" level="200" icon="spell_holy_aspiration" quality="3">
+<name>强力炼金石</name>
+<code>
+[div class="name q3"]强力炼金石[/div][div]拾取后绑定[/div][div]唯一[/div][div]饰品[/div][div]需要等级 75[/div][div]需要炼金术 (400)[/div][div class="q2"]装备: 攻击强度提高100点。[/div][div class="q2"]装备: 爆击等级提高50。[/div][div class="q2"]装备: 使你在饮用治疗药水和法力药水时获得的效果提高40%。这个效果无法叠加。[/div]
+</code>
+</item>
+<item id="44325" class="0.2.1" level="80" icon="inv_potion_61" quality="1">
+<name>精确药剂</name>
+<code>
+[div class="name q1"]精确药剂[/div][div]需要等级 70[/div][div class="q2"]使用: 使你的命中等级提高45，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="44327" class="0.2.1" level="80" icon="inv_alchemy_potion_02" quality="1">
+<name>致命打击药剂</name>
+<code>
+[div class="name q1"]致命打击药剂[/div][div]需要等级 70[/div][div class="q2"]使用: 使你的爆击等级提高45，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="44328" class="0.2.2" level="80" icon="inv_alchemy_potion_03" quality="1">
+<name>极效防御药剂</name>
+<code>
+[div class="name q1"]极效防御药剂[/div][div]需要等级 70[/div][div class="q2"]使用: 使你的防御等级提高45，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="44329" class="0.2.1" level="80" icon="inv_alchemy_potion_01" quality="1">
+<name>精准药剂</name>
+<code>
+[div class="name q1"]精准药剂[/div][div]需要等级 70[/div][div class="q2"]使用: 使你的精准等级提高45，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="44330" class="0.2.1" level="80" icon="inv_alchemy_potion_06" quality="1">
+<name>护甲穿透药剂</name>
+<code>
+[div class="name q1"]护甲穿透药剂[/div][div]需要等级 70[/div][div class="q2"]使用: 使你的护甲穿透等级提高45，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="44331" class="0.2.1" level="80" icon="inv_alchemy_potion_04" quality="1">
+<name>闪电疾速药剂</name>
+<code>
+[div class="name q1"]闪电疾速药剂[/div][div]需要等级 70[/div][div class="q2"]使用: 使你的急速等级提高45，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="44332" class="0.2.2" level="80" icon="inv_potion_161" quality="1">
+<name>极效思维药剂</name>
+<code>
+[div class="name q1"]极效思维药剂[/div][div]需要等级 70[/div][div class="q2"]使用: 使你的智力提高45点，持续60分钟。守护药剂。[/div]
+</code>
+</item>
+<item id="44939" class="0.3" level="80" icon="inv_potion_118" quality="1">
+<name>次级抗性合剂</name>
+<code>
+[span class="name q1"]次级抗性合剂[/span][br /]需要等级 70[br /][span class="q2"]使用: 使你对所有魔法的抗性提高50点，持续1小时。这种效果在死亡后仍可继续存在。战斗和守护药剂。[/span]
+</code>
+</item>
+<item id="44958" class="7.11" level="75" icon="inv_drink_11" quality="1">
+<name>轻灵之油</name>
+<code>
+[span class="name q1"]轻灵之油[/span][br /][span class="q2"]使用: 使你自己变得透明，持续5分钟。[/span]
+</code>
+</item>
+<item id="45621" class="0.2" level="20" icon="inv_potion_159" quality="1">
+<name>初级精准药剂</name>
+<code>
+[span class="name q1"]初级精准药剂[/span][br /]需要等级 15[br /][span class="q2"]使用: 使你的命中等级提高10，持续1小时。战斗药剂。[/span]
+</code>
+</item>
+<item id="46376" class="0.3" level="85" icon="inv_alchemy_endlessflask_04" quality="1">
+<name>冰霜巨龙合剂</name>
+<code>
+[span class="name q1"]冰霜巨龙合剂[/span][br /]需要等级 75[br /][span class="q2"]使用: 法术强度提高125点，持续1小时。这种效果在死亡后仍可继续存在。战斗和守护药剂。[/span]
+</code>
+</item>
+<item id="46377" class="0.3" level="85" icon="inv_alchemy_endlessflask_06" quality="1">
+<name>无尽怒气合剂</name>
+<code>
+[span class="name q1"]无尽怒气合剂[/span][br /]需要等级 75[br /][span class="q2"]使用: 攻击强度提高180点，持续1小时。这种效果在死亡后仍可继续存在。战斗和守护药剂。[/span]
+</code>
+</item>
+<item id="46378" class="0.3" level="85" icon="inv_alchemy_endlessflask_03" quality="1">
+<name>纯净魔精合剂</name>
+<code>
+[span class="name q1"]纯净魔精合剂[/span][br /]需要等级 75[br /][span class="q2"]使用: 使玩家的每5秒法力值恢复提高45点，持续1小时。这种效果在死亡后仍可继续存在。战斗和守护药剂。[/span]
+</code>
+</item>
+<item id="46379" class="0.3" level="85" icon="inv_alchemy_endlessflask_05" quality="1">
+<name>石血合剂</name>
+<code>
+[span class="name q1"]石血合剂[/span][br /]需要等级 75[br /][span class="q2"]使用: 使玩家的生命值上限提高1300点，持续1小时。这种效果在死亡后仍可继续存在。战斗和守护药剂。[/span]
+</code>
+</item>
+<item id="47499" class="0.3" level="80" icon="inv_alchemy_endlessflask_05" quality="3">
+<name>北地合剂</name>
+<code>
+[span class="name q3"]北地合剂[/span][br /]拾取后绑定[br /]需要炼金术 (400)[br /][span class="q2"]使用: 使你的法术强度提高47点、攻击强度提高80点、或者力量提高40点，持续1小时。这种效果在死亡后仍可继续存在。战斗和守护药剂。[/span][br /][span class="q"]"可在竞技场内使用。这种合剂饮之不尽，但不受“叠加学”影响。"[/span]
+</code>
+</item>
+<item id="2553" class="9.6" level="12" icon="inv_scroll_06" quality="2">
+<name>配方：初级敏捷药剂</name>
+<code>
+[div class="name q2"]配方：初级敏捷药剂[/div][div]需要炼金术 (50)[/div][div]使用: 教你学会配制初级敏捷药剂。[/div][br /][div class="name q1"]初级敏捷药剂[/div][div]需要等级 2[/div][div class="q2"]使用: 使敏捷提高4点，持续60分钟。战斗药剂。[/div][br /][div]需要: 雨燕草(1) 银叶草(1) 空瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="12321" rate="1/323" />
+<npc id="33713" rate="1/327" />
+<npc id="1271" rate="2/1850" />
+<npc id="1133" rate="2/2014" />
+<npc id="11914" rate="1/1012" />
+</dropped-by>
+<contained-in>
+<object id="152608" rate="6/1555" />
+<object id="75293" rate="171/74585" />
+<object id="3642" rate="5/2919" />
+<item id="6307" rate="6/1352" />
+</contained-in>
+</item>
+<item id="2555" class="9.6" level="15" icon="inv_scroll_06" quality="2">
+<name>配方：迅捷药水</name>
+<code>
+[div class="name q2"]配方：迅捷药水[/div][div]需要炼金术 (60)[/div][div]使用: 教你学会配制迅捷药水。[/div][br /][div class="name q1"]迅捷药水[/div][div]需要等级 5[/div][div class="q2"]使用: 使你的奔跑速度提高50%，持续15秒。(1分钟冷却)[/div][br /][div]需要: 雨燕草(1) 石南草(1) 空瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="3228" rate="2/387" />
+<npc id="2184" rate="1/1413" />
+<npc id="2061" rate="1/1670" />
+<npc id="5785" rate="1/1766" />
+<npc id="7170" rate="1/1849" />
+</dropped-by>
+<contained-in>
+<object id="152608" rate="7/1555" />
+<object id="3642" rate="6/2919" />
+<object id="75293" rate="150/74585" />
+<item id="6307" rate="3/1352" />
+</contained-in>
+</item>
+<item id="3393" class="9.6" level="22" icon="inv_scroll_03" quality="1">
+<name>配方：初级抗魔药水</name>
+<code>
+[div class="name q1"]配方：初级抗魔药水[/div][div]需要炼金术 (110)[/div][div]使用: 教你学会配制初级抗魔药水。[/div][br /][div class="name q1"]初级抗魔药水[/div][div]需要等级 12[/div][div class="q2"]使用: 使你对所有魔法的抗性提高25点，持续3分钟。(1分钟冷却)[/div][br /][div]需要: 魔皇草(3) 野钢花(1) 空瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="14279" rate="1/716" />
+<npc id="5683" rate="1/1423" />
+<npc id="3899" rate="1/1504" />
+<npc id="5931" rate="1/1785" />
+<npc id="5842" rate="1/2374" />
+</dropped-by>
+<contained-in>
+<item id="6307" rate="4/1352" />
+<item id="4632" rate="4/1373" />
+<item id="4633" rate="15/7976" />
+</contained-in>
+</item>
+<item id="3394" class="9.6" level="24" icon="inv_scroll_03" quality="1">
+<name>配方：治愈药水</name>
+<code>
+[div class="name q1"]配方：治愈药水[/div][div]需要炼金术 (120)[/div][div]使用: 教你学会配制抗毒药剂。[/div][br /][div class="name q1"]治愈药水[/div][div]需要等级 14[/div][div class="q2"]使用: 为饮用者驱除最多4个不高于60级的中毒效果。(1分钟冷却)[/div][br /][div]需要: 大毒囊(1) 跌打草(1) 铅瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="4250" rate="1/1584" />
+<npc id="14357" rate="1/1603" />
+<npc id="5931" rate="1/1785" />
+<npc id="7053" rate="1/1874" />
+<npc id="3577" rate="1/2236" />
+</dropped-by>
+<contained-in>
+<item id="19298" rate="6/1325" />
+<item id="6307" rate="5/1352" />
+<item id="4632" rate="5/1373" />
+</contained-in>
+</item>
+<item id="3395" class="9.6" level="50" icon="inv_scroll_03" quality="2">
+<name>配方：有限无敌药水</name>
+<code>
+[div class="name q2"]配方：有限无敌药水[/div][div]需要炼金术 (250)[/div][div]使用: 教你学会配制有限无敌药水。[/div][br /][div class="name q1"]有限无敌药水[/div][div]需要等级 45[/div][div class="q2"]使用: 饮用者在接下来的8秒内承受的物理伤害降低120点。(1分钟冷却)[/div][br /][div]需要: 盲目草(2) 幽灵菇(1) 水晶瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="9438" rate="1/977" />
+<npc id="4469" rate="2/3878" />
+<npc id="5460" rate="2/4869" />
+<npc id="2937" rate="1/2684" />
+<npc id="746" rate="2/6707" />
+</dropped-by>
+<contained-in>
+<object id="141979" rate="37/11132" />
+<object id="142184" rate="8/2522" />
+<object id="131979" rate="3/1278" />
+<item id="4638" rate="51/10906" />
+<item id="19035" rate="14/3651" />
+<item id="9265" rate="12/3255" />
+</contained-in>
+</item>
+<item id="3396" class="9.6" level="28" icon="inv_scroll_03" quality="2">
+<name>配方：次级敏捷药剂</name>
+<code>
+[div class="name q2"]配方：次级敏捷药剂[/div][div]需要炼金术 (140)[/div][div]使用: 教你学会配制次级敏捷药剂。[/div][br /][div class="name q1"]次级敏捷药剂[/div][div]需要等级 18[/div][div class="q2"]使用: 使敏捷提高8点，持续60分钟。战斗药剂。[/div][br /][div]需要: 野钢花(1) 雨燕草(1) 铅瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="5930" rate="1/2025" />
+<npc id="397" rate="1/2315" />
+<npc id="3879" rate="2/8139" />
+<npc id="2091" rate="1/5584" />
+<npc id="1009" rate="2/11297" />
+</dropped-by>
+<contained-in>
+<item id="4633" rate="19/7976" />
+</contained-in>
+</item>
+<item id="3830" class="9.6" level="35" icon="inv_scroll_03" quality="1">
+<name>配方：强力坚韧药剂</name>
+<code>
+[div class="name q1"]配方：强力坚韧药剂[/div][div]需要炼金术 (175)[/div][div]使用: 教你学会配制强力坚韧药剂。[/div][br /][div class="name q1"]坚韧药剂[/div][div]需要等级 25[/div][div class="q2"]使用: 使玩家的生命值上限提高120点，持续60分钟。守护药剂。[/div][br /][div]需要: 野钢花(1) 金棘草(1) 铅瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="4066" rate="1/1253" />
+<npc id="5934" rate="1/1308" />
+<npc id="3941" rate="1/2176" />
+<npc id="7091" rate="1/2420" />
+<npc id="2577" rate="2/5250" />
+</dropped-by>
+<contained-in>
+<object id="74448" rate="196/123513" />
+<item id="4634" rate="39/11926" />
+</contained-in>
+</item>
+<item id="3831" class="9.6" level="36" icon="inv_scroll_03" quality="2">
+<name>配方：极效巨魔之血药剂</name>
+<code>
+[div class="name q2"]配方：极效巨魔之血药剂[/div][div]需要炼金术 (180)[/div][div]使用: 教你学会配制极效巨魔之血药剂。[/div][br /][div class="name q1"]极效巨魔之血药剂[/div][div]需要等级 26[/div][div class="q2"]使用: 每5秒回复12点生命值，持续60分钟。[/div][br /][div]需要: 活根草(1) 跌打草(1) 铅瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="10120" rate="1/347" />
+<npc id="2433" rate="1/1109" />
+<npc id="4687" rate="1/2311" />
+<npc id="2416" rate="1/2617" />
+<npc id="2636" rate="1/2906" />
+</dropped-by>
+<contained-in>
+<item id="4636" rate="39/13904" />
+<item id="19297" rate="3/1852" />
+</contained-in>
+</item>
+<item id="3832" class="9.6" level="39" icon="inv_scroll_06" quality="2">
+<name>配方：侦测次级隐形药剂</name>
+<code>
+[div class="name q2"]配方：侦测次级隐形药剂[/div][div]需要炼金术 (195)[/div][div]使用: 教你学会配制侦测次级隐形药剂。[/div][br /][div class="name q1"]侦测次级隐形药剂[/div][div]需要等级 29[/div][div class="q2"]使用: 获得侦测次级隐形的能力，持续10分钟。[/div][br /][div]需要: 卡德加的胡须(1) 枯叶草(1) 铅瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="11577" rate="1/765" />
+<npc id="976" rate="2/2187" />
+<npc id="8218" rate="1/1149" />
+<npc id="4658" rate="2/4175" />
+<npc id="3940" rate="1/2375" />
+</dropped-by>
+<contained-in>
+<object id="142184" rate="9/2522" />
+<object id="141979" rate="28/11132" />
+<item id="10569" rate="21/4870" />
+<item id="19297" rate="6/1852" />
+<item id="4636" rate="41/13904" />
+</contained-in>
+</item>
+<item id="4597" class="9.6" level="10" icon="inv_scroll_06" quality="2">
+<name>配方：褪色的治疗药水</name>
+<code>
+[div class="name q2"]配方：褪色的治疗药水[/div][div]需要炼金术 (50)[/div][div]使用: 教你学会配制褪色的治疗药水。[/div][br /][div class="name q1"]褪色的治疗药水[/div][div]需要等级 5[/div][div class="q2"]使用: 恢复140到180点生命值。(1分钟冷却)[/div][br /][div]需要: 变色的狼心(1) 宁神花(1) 空瓶(1) [/div]
+</code>
+<reward-from>
+<quest id="429" />
+</reward-from>
+</item>
+<item id="4624" class="9.6" level="43" icon="inv_scroll_03" quality="1">
+<name>配方：次级石盾药水</name>
+<code>
+[div class="name q1"]配方：次级石盾药水[/div][div]需要炼金术 (215)[/div][div]使用: 教你学会配制次级石盾药水。[/div][br /][div class="name q1"]次级石盾药水[/div][div]需要等级 33[/div][div class="q2"]使用: 护甲提高1000点，持续1.5分钟。(1分钟冷却)[/div][br /][div]需要: 秘银矿石(1) 金棘草(1) 铅瓶(1) [/div]
+</code>
+<reward-from>
+<quest id="715" />
+</reward-from>
+</item>
+<item id="5640" class="9.6" level="14" icon="inv_scroll_03" quality="1">
+<name>配方：怒气药水</name>
+<code>
+[div class="name q1"]配方：怒气药水[/div][div]需要炼金术 (60)[/div][div]使用: 教你学会配制怒气药水。[/div][br /][div class="name q1"]怒气药水[/div][div]职业: 战士[/div][div]需要等级 4[/div][div class="q2"]使用: 使怒气值提高20到40点。(1分钟冷却)[/div][br /][div]需要: 锋利的爪子(2) 空瓶(1) [/div]售价: [span class="si-silver"]1[/span]
+</code>
+<sold-by>
+<npc id="1669" count="1" />
+<npc id="1685" count="1" />
+<npc id="3335" count="2" />
+<npc id="3499" count="1" />
+</sold-by>
+</item>
+<item id="5642" class="9.6" level="30" icon="inv_scroll_03" quality="1">
+<name>配方：自由行动药水</name>
+<code>
+[div class="name q1"]配方：自由行动药水[/div][div]需要炼金术 (150)[/div][div]使用: 教你学会配制自由行动药水。[/div][br /][div class="name q1"]自由行动药水[/div][div]需要等级 20[/div][div class="q2"]使用: 使你对昏迷和移动限制效果免疫，持续30秒，但并不会解除已有的移动限制效果。(1分钟冷却)[/div][br /][div]需要: 黑口鱼油(2) 荆棘藻(1) 铅瓶(1) [/div]售价: [span class="si-silver"]18[/span]
+</code>
+<sold-by>
+<npc id="3348" count="1" />
+<npc id="4226" count="1" />
+<npc id="5178" count="1" />
+</sold-by>
+</item>
+<item id="5643" class="9.6" level="35" icon="inv_scroll_03" quality="1">
+<name>配方：暴怒药水</name>
+<code>
+[div class="name q1"]配方：暴怒药水[/div][div]需要炼金术 (175)[/div][div]使用: 教你学会配制暴怒药水。[/div][br /][div class="name q1"]暴怒药水[/div][div]职业: 战士[/div][div]需要等级 25[/div][div class="q2"]使用: 使怒气值提高30到60点。(1分钟冷却)[/div][br /][div]需要: 大牙齿(1) 皇血草(1) 铅瓶(1) [/div]售价: [span class="si-silver"]20[/span]
+</code>
+<sold-by>
+<npc id="3335" count="1" />
+<npc id="4226" count="2" />
+</sold-by>
+</item>
+<item id="6053" class="9.6" level="20" icon="inv_scroll_03" quality="1">
+<name>配方：神圣防护药水</name>
+<code>
+[div class="name q1"]配方：神圣防护药水[/div][div]需要炼金术 (100)[/div][div]使用: 教你学会配制神圣防护药水。[/div][br /][div class="name q1"]神圣防护药水[/div][div]需要等级 10[/div][div class="q2"]使用: 吸收300到500点神圣伤害，持续2分钟。(1分钟冷却)[/div][br /][div]需要: 跌打草(1) 雨燕草(1) 空瓶(1) [/div]售价: [span class="si-silver"]8[/span]
+</code>
+<sold-by>
+<npc id="1685" count="1" />
+<npc id="3134" count="1" />
+<npc id="3490" count="1" />
+</sold-by>
+</item>
+<item id="6054" class="9.6" level="27" icon="inv_scroll_03" quality="1">
+<name>配方：暗影防护药水</name>
+<code>
+[div class="name q1"]配方：暗影防护药水[/div][div]需要炼金术 (135)[/div][div]使用: 教你学会配制暗影防护药水。[/div][br /][div class="name q1"]暗影防护药水[/div][div]需要等级 17[/div][div class="q2"]使用: 吸收675到1125点暗影伤害，持续2分钟。(1分钟冷却)[/div][br /][div]需要: 墓地苔(1) 皇血草(1) 铅瓶(1) [/div]售价: [span class="si-silver"]9[/span]
+</code>
+<sold-by>
+<npc id="2393" count="1" />
+<npc id="3956" count="1" />
+</sold-by>
+</item>
+<item id="6055" class="9.6" level="33" icon="inv_scroll_03" quality="1">
+<name>配方：火焰防护药水</name>
+<code>
+[div class="name q1"]配方：火焰防护药水[/div][div]需要炼金术 (165)[/div][div]使用: 教你学会配制火焰防护药水。[/div][br /][div class="name q1"]火焰防护药水[/div][div]需要等级 23[/div][div class="q2"]使用: 吸收975到1625点火焰伤害，持续2分钟。(1分钟冷却)[/div][br /][div]需要: 火囊(1) 火焰之油(1) 铅瓶(1) [/div]售价: [span class="si-silver"]15[/span]
+</code>
+<sold-by>
+<npc id="2380" count="1" />
+<npc id="4083" count="1" />
+</sold-by>
+</item>
+<item id="6056" class="9.6" level="38" icon="inv_scroll_03" quality="1">
+<name>配方：冰霜防护药水</name>
+<code>
+[div class="name q1"]配方：冰霜防护药水[/div][div]需要炼金术 (190)[/div][div]使用: 教你学会配制冰霜防护药水。[/div][br /][div class="name q1"]冰霜防护药水[/div][div]需要等级 28[/div][div class="q2"]使用: 吸收1350到2250点冰霜伤害，持续2分钟。(1分钟冷却)[/div][br /][div]需要: 冬刺草(1) 金棘草(1) 铅瓶(1) [/div]售价: [span class="si-silver"]20[/span]
+</code>
+<sold-by>
+<npc id="2812" count="1" />
+<npc id="2848" count="1" />
+</sold-by>
+</item>
+<item id="6057" class="9.6" level="38" icon="inv_scroll_03" quality="1">
+<name>配方：自然防护药水</name>
+<code>
+[div class="name q1"]配方：自然防护药水[/div][div]需要炼金术 (190)[/div][div]使用: 教你学会配制自然防护药水。[/div][br /][div class="name q1"]自然防护药水[/div][div]需要等级 28[/div][div class="q2"]使用: 吸收1350到2250点自然伤害，持续2分钟。(1分钟冷却)[/div][br /][div]需要: 活根草(1) 荆棘藻(1) 铅瓶(1) [/div]售价: [span class="si-silver"]20[/span]
+</code>
+<sold-by>
+<npc id="2848" count="1" />
+<npc id="5594" count="1" />
+<npc id="8157" count="1" />
+<npc id="8158" count="1" />
+</sold-by>
+</item>
+<item id="6068" class="9.6" level="33" icon="inv_scroll_03" quality="1">
+<name>配方：暗影之油</name>
+<code>
+[div class="name q1"]配方：暗影之油[/div][div]需要炼金术 (165)[/div][div]使用: 教你学会配制暗影之油。[/div][br /][div class="name q1"]暗影之油[/div][div]需要等级 24[/div][div class="q2"]使用: 附加在近战武器上，可以使其在击中敌人时有15%的几率对其施放暗影箭（等级 3）。持续30分钟。[/div][br /][div]需要: 枯叶草(4) 墓地苔(4) 铅瓶(1) [/div]售价: [span class="si-silver"]15[/span]
+</code>
+<sold-by>
+<npc id="2481" count="1" />
+<npc id="4878" count="1" />
+</sold-by>
+</item>
+<item id="6211" class="9.6" level="30" icon="inv_scroll_03" quality="1">
+<name>配方：食人魔力量药剂</name>
+<code>
+[div class="name q1"]配方：食人魔力量药剂[/div][div]需要炼金术 (150)[/div][div]使用: 教你学会配制食人魔力量药剂。[/div][br /][div class="name q1"]食人魔力量药剂[/div][div]需要等级 20[/div][div class="q2"]使用: 使力量提高8点，持续60分钟。战斗药剂。[/div][br /][div]需要: 地根草(1) 皇血草(1) 铅瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="7016" rate="1/805" />
+<npc id="5916" rate="1/1017" />
+<npc id="2108" rate="1/1212" />
+<npc id="771" rate="1/1228" />
+<npc id="5930" rate="1/2025" />
+</dropped-by>
+<contained-in>
+<item id="4633" rate="31/7976" />
+<item id="4634" rate="27/11926" />
+<item id="6307" rate="3/1352" />
+</contained-in>
+</item>
+<item id="6663" class="9.6" level="18" icon="inv_scroll_06" quality="2">
+<name>配方：增长药剂</name>
+<code>
+[div class="name q2"]配方：增长药剂[/div][div]需要炼金术 (90)[/div][div]使用: 教你学会配制增长药剂。[/div][br /][div class="name q1"]增长药剂[/div][div]需要等级 8[/div][div class="q2"]使用: 你的体型增大了，同时你的力量也提高了8点，持续20分钟。战斗药剂。[/div][br /][div]需要: 变异鱼(1) 地根草(1) 空瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="3248" rate="20/7546" />
+<npc id="3241" rate="9/4624" />
+<npc id="5829" rate="3/1672" />
+<npc id="3415" rate="57/34102" />
+<npc id="3463" rate="10/6302" />
+</dropped-by>
+</item>
+<item id="9293" class="9.6" level="42" icon="inv_scroll_06" quality="2">
+<name>配方：抗魔药水</name>
+<code>
+[div class="name q2"]配方：抗魔药水[/div][div]需要炼金术 (210)[/div][div]使用: 教你学会配制抗魔药水。[/div][br /][div class="name q1"]抗魔药水[/div][div]需要等级 32[/div][div class="q2"]使用: 使你对所有魔法的抗性提高50点，持续3分钟。(1分钟冷却)[/div][br /][div]需要: 卡德加的胡须(1) 紫莲花(1) 水晶瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="2447" rate="2/1096" />
+<npc id="8219" rate="1/1899" />
+<npc id="12239" rate="1/2182" />
+<npc id="8447" rate="1/2298" />
+<npc id="12240" rate="1/2304" />
+</dropped-by>
+<contained-in>
+<object id="141979" rate="74/11132" />
+<object id="131979" rate="5/1278" />
+<object id="142184" rate="8/2522" />
+<item id="4637" rate="38/12137" />
+<item id="9265" rate="9/3255" />
+</contained-in>
+</item>
+<item id="9294" class="9.6" level="45" icon="inv_scroll_06" quality="2">
+<name>配方：野葡萄药水</name>
+<code>
+[div class="name q2"]配方：野葡萄药水[/div][div]需要炼金术 (225)[/div][div]使用: 教你学会配制野葡萄药水。[/div][br /][div class="name q1"]野葡萄药水[/div][div]需要等级 35[/div][div class="q2"]使用: 恢复1到1500点生命值和1到1500点法力值。(1分钟冷却)[/div][br /][div]需要: 野葡萄藤(1) 紫莲花(1) 水晶瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="2605" rate="1/171" />
+<npc id="660" rate="369/79538" />
+<npc id="4465" rate="267/58812" />
+<npc id="2640" rate="127/29756" />
+<npc id="2643" rate="312/75951" />
+</dropped-by>
+</item>
+<item id="9295" class="9.6" level="47" icon="inv_scroll_06" quality="2">
+<name>配方：隐形药水</name>
+<code>
+[div class="name q2"]配方：隐形药水[/div][div]需要炼金术 (235)[/div][div]使用: 教你学会配制隐形药水。[/div][br /][div class="name q1"]隐形药水[/div][div]需要等级 37[/div][div class="q2"]使用: 使饮用者隐形，持续18秒。(10分钟冷却)[/div][br /][div]需要: 幽灵菇(1) 太阳草(1) 水晶瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="5470" rate="2/1763" />
+<npc id="6581" rate="1/1379" />
+<npc id="5450" rate="2/5246" />
+<npc id="4469" rate="1/3878" />
+<npc id="2550" rate="2/8240" />
+</dropped-by>
+<contained-in>
+<object id="131979" rate="4/1278" />
+<object id="142184" rate="4/2522" />
+<item id="9265" rate="24/3255" />
+<item id="10479" rate="3/530" />
+<item id="4638" rate="50/10906" />
+<item id="19035" rate="16/3651" />
+<item id="5758" rate="24/13499" />
+</contained-in>
+</item>
+<item id="9296" class="9.6" level="48" icon="inv_scroll_06" quality="2">
+<name>配方：阿尔萨斯的礼物</name>
+<code>
+[div class="name q2"]配方：阿尔萨斯的礼物[/div][div]需要炼金术 (240)[/div][div]使用: 教你学会配制阿尔萨斯的礼物。[/div][br /][div class="name q1"]阿尔萨斯的礼物[/div][div]需要等级 38[/div][div class="q2"]使用: 使暗影抗性提高10点。如果敌人使用近战武器攻击施法者，他们有30%的几率受到诅咒，使得他们在3分钟内受到物理攻击时承受的伤害提高8点。阿尔萨斯的礼物的特殊效果持续30分钟。守护药剂。[/div][br /][div]需要: 阿尔萨斯之泪(1) 盲目草(1) 水晶瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="1791" rate="1762/303276" />
+<npc id="1783" rate="3148/574311" />
+</dropped-by>
+</item>
+<item id="9297" class="9.6" level="48" icon="inv_scroll_06" quality="2">
+<name>配方：梦境药剂</name>
+<code>
+[div class="name q2"]配方：梦境药剂[/div][div]需要炼金术 (240)[/div][div]使用: 教你学会配制梦境药剂。[/div][br /][div class="name q1"]梦境药剂[/div][div]需要等级 38[/div][div class="q2"]使用: 使你获得梦境视界，可以观察那些过于危险的区域。[/div][br /][div]需要: 紫莲花(3) 水晶瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="14890" rate="21/345" />
+<npc id="14889" rate="17/344" />
+<npc id="6109" rate="28/928" />
+<npc id="14888" rate="8/315" />
+<npc id="14887" rate="12/504" />
+</dropped-by>
+</item>
+<item id="9298" class="9.6" level="49" icon="inv_scroll_06" quality="2">
+<name>配方：巨人药剂</name>
+<code>
+[div class="name q2"]配方：巨人药剂[/div][div]需要炼金术 (245)[/div][div]使用: 教你学会配制巨人药剂。[/div][br /][div class="name q1"]巨人药剂[/div][div]需要等级 38[/div][div class="q2"]使用: 使你的力量提高25点，持续60分钟。战斗药剂。[/div][br /][div]需要: 太阳草(1) 格罗姆之血(1) 水晶瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="11553" rate="1/1044" />
+<npc id="2781" rate="1/1730" />
+<npc id="8578" rate="1/3658" />
+<npc id="8837" rate="1/4540" />
+<npc id="28822" rate="1/4897" />
+</dropped-by>
+<contained-in>
+<object id="141979" rate="35/11132" />
+<object id="142184" rate="6/2522" />
+<object id="131978" rate="3/2162" />
+<item id="19035" rate="27/3651" />
+<item id="9265" rate="18/3255" />
+<item id="4638" rate="42/10906" />
+<item id="19425" rate="1/321" />
+<item id="10752" rate="3/1269" />
+</contained-in>
+</item>
+<item id="9300" class="9.6" level="50" icon="inv_scroll_03" quality="1">
+<name>配方：屠魔药剂</name>
+<code>
+[div class="name q1"]配方：屠魔药剂[/div][div]需要炼金术 (250)[/div][div]使用: 教你学会配制屠魔药剂。[/div][br /][div class="name q1"]屠魔药剂[/div][div]需要等级 40[/div][div class="q2"]使用: 使你对恶魔的攻击强度提高105点，持续60分钟。战斗药剂。[/div][br /][div]需要: 格罗姆之血(1) 幽灵菇(1) 水晶瓶(1) [/div]售价: [span class="si-gold"]1[/span]
+</code>
+<sold-by>
+<npc id="8177" count="1" />
+<npc id="8178" count="1" />
+</sold-by>
+</item>
+<item id="9301" class="9.6" level="50" icon="inv_scroll_06" quality="2">
+<name>配方：暗影之力药剂</name>
+<code>
+[div class="name q2"]配方：暗影之力药剂[/div][div]需要炼金术 (250)[/div][div]使用: 教你学会配制暗影之力药剂。[/div][br /][div class="name q1"]暗影之力药剂[/div][div]需要等级 40[/div][div class="q2"]使用: 暗影法术强度提高40点，持续60分钟。战斗药剂。[/div][br /][div]需要: 幽灵菇(3) 水晶瓶(1) [/div]售价: [span class="si-gold"]1[/span]
+</code>
+<sold-by>
+<npc id="1313" count="1" />
+<npc id="4610" count="1" />
+</sold-by>
+</item>
+<item id="9302" class="9.6" level="49" icon="inv_scroll_05" quality="1">
+<name>配方：幻象染料</name>
+<code>
+[div class="name q1"]配方：幻象染料[/div][div]需要炼金术 (245)[/div][div]使用: 教你学会配制幻象染料。[/div][br /][div class="name q1"]幻象染料[/div][br /][div]需要: 幽灵菇(2) 紫色染料(1) 水晶瓶(1) [/div]售价: [span class="si-silver"]90[/span]
+</code>
+<sold-by>
+<npc id="8157" count="1" />
+<npc id="8158" count="1" />
+</sold-by>
+</item>
+<item id="9303" class="9.6" level="45" icon="inv_scroll_03" quality="1">
+<name>配方：点金石</name>
+<code>
+[div class="name q1"]配方：点金石[/div][div]需要炼金术 (225)[/div][div]使用: 教你学会制作点金石。[/div][br /][div class="name q2"]点金石[/div][div]拾取后绑定[/div][div]饰品[/div][div]+5 敏捷[/div][div]+5 力量[/div][div]+5 智力[/div][div]+5 精神[/div][div]+5 耐力[/div][div]需要等级 35[/div][div]需要炼金术 (200)[/div][div class="q"]"炼金术转化物质所需的媒介。"[/div][br /][div]需要: 铁锭(4) 黑色硫酸盐(1) 紫莲花(4) 火焰花(4) [/div]售价: [span class="si-silver"]80[/span]
+</code>
+<sold-by>
+<npc id="5594" />
+</sold-by>
+</item>
+<item id="9304" class="9.6" level="45" icon="inv_scroll_03" quality="1">
+<name>配方：点铁成金</name>
+<code>
+[div class="name q1"]配方：点铁成金[/div][div]需要炼金术 (225)[/div][div]使用: 教你学会将铁锭转化为金锭。[/div][br /][div class="name q2"]金锭[/div][br /][div]需要: 铁锭(1) [/div]售价: [span class="si-silver"]80[/span]
+</code>
+<sold-by>
+<npc id="5594" />
+</sold-by>
+</item>
+<item id="9305" class="9.6" level="45" icon="inv_scroll_03" quality="1">
+<name>配方：点化秘银</name>
+<code>
+[div class="name q1"]配方：点化秘银[/div][div]需要炼金术 (225)[/div][div]使用: 教你学会将秘银转化为真银。[/div][br /][div class="name q2"]真银锭[/div][br /][div]需要: 秘银锭(1) [/div]售价: [span class="si-silver"]80[/span]
+</code>
+<sold-by>
+<npc id="5594" count="1" />
+</sold-by>
+</item>
+<item id="10644" class="9.6" level="42" icon="inv_scroll_03" quality="1">
+<name>配方：地精火箭燃油</name>
+<code>
+[div class="name q1"]配方：地精火箭燃油[/div][div]需要炼金术 (210)[/div][div]使用: 教你学会配制地精火箭燃油。[/div][br /][div class="name q1"]地精火箭燃油[/div][div class="q"]"地精技师以此为他们制造的装置提供动力"[/div][br /][div]需要: 火焰花(1) 烈性朗姆酒(1) 铅瓶(1) [/div]
+</code>
+</item>
+<item id="12958" class="9.6" level="55" icon="inv_scroll_03" quality="1">
+<name>配方：合成奥金</name>
+<code>
+[div class="name q1"]配方：合成奥金[/div][div]需要炼金术 (275)[/div][div]使用: 教你学会将瑟银和奥术水晶转化为奥金。[/div][br /][div class="name q2"]奥金锭[/div][br /][div]需要: 瑟银锭(1) 奥术水晶(1) [/div]售价: [span class="si-gold"]5[/span]
+</code>
+<sold-by>
+<npc id="5594" />
+</sold-by>
+</item>
+<item id="13476" class="9.6" level="51" icon="inv_scroll_06" quality="2">
+<name>配方：极效怒气药水</name>
+<code>
+[div class="name q2"]配方：极效怒气药水[/div][div]需要炼金术 (255)[/div][div]使用: 教你学会配制极效怒气药水。[/div][br /][div class="name q1"]强效怒气药水[/div][div]职业: 战士[/div][div]需要等级 46[/div][div class="q2"]使用: 怒气值提高45到75点，力量提高60点，持续20秒。(1分钟冷却)[/div][br /][div]需要: 格罗姆之血(3) 水晶瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="7027" rate="170/45876" />
+</dropped-by>
+</item>
+<item id="13477" class="9.6" level="52" icon="inv_scroll_03" quality="1">
+<name>配方：优质法力药水</name>
+<code>
+[div class="name q1"]配方：优质法力药水[/div][div]需要炼金术 (260)[/div][div]使用: 教你学会配制优质法力药水。[/div][br /][div class="name q1"]优质法力药水[/div][div]需要等级 41[/div][div class="q2"]使用: 恢复900到1500点法力值。(1分钟冷却)[/div][br /][div]需要: 太阳草(2) 盲目草(2) 水晶瓶(1) [/div]
+</code>
+</item>
+<item id="13478" class="9.6" level="53" icon="inv_scroll_03" quality="1">
+<name>配方：超强防御药剂</name>
+<code>
+[div class="name q1"]配方：超强防御药剂[/div][div]需要炼金术 (265)[/div][div]使用: 教你学会配制超强防御药剂。[/div][br /][div class="name q1"]超强防御药剂[/div][div]需要等级 43[/div][div class="q2"]使用: 护甲提高450点，持续60分钟。守护药剂。[/div][br /][div]需要: 石鳞鱼油(2) 太阳草(1) 水晶瓶(1) [/div]售价: [span class="si-gold"]1[/span][span class="si-silver"]30[/span]
+</code>
+<sold-by>
+<npc id="3348" count="1" />
+<npc id="5178" count="1" />
+</sold-by>
+</item>
+<item id="13479" class="9.6" level="54" icon="inv_scroll_06" quality="2">
+<name>配方：先知药剂</name>
+<code>
+[div class="name q2"]配方：先知药剂[/div][div]需要炼金术 (270)[/div][div]使用: 教你学会配制先知药剂。[/div][br /][div class="name q1"]先知药剂[/div][div]需要等级 44[/div][div class="q2"]使用: 智力和精神提高18点，持续60分钟。守护药剂。[/div][br /][div]需要: 梦叶草(1) 瘟疫花(2) 水晶瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="9452" rate="104/41566" />
+<npc id="9449" rate="89/41593" />
+<npc id="9450" rate="58/37205" />
+<npc id="9451" rate="47/39019" />
+<npc id="15162" rate="1/1056" />
+</dropped-by>
+</item>
+<item id="13480" class="9.6" level="55" icon="inv_scroll_03" quality="1">
+<name>配方：特效治疗药水</name>
+<code>
+[div class="name q1"]配方：特效治疗药水[/div][div]需要炼金术 (275)[/div][div]使用: 教你学会配制特效治疗药水。[/div][br /][div class="name q1"]特效治疗药水[/div][div]需要等级 45[/div][div class="q2"]使用: 恢复1050到1750点生命值。(1分钟冷却)[/div][br /][div]需要: 黄金参(2) 山鼠草(1) 水晶瓶(1) [/div]
+</code>
+</item>
+<item id="13481" class="9.6" level="55" icon="inv_scroll_06" quality="2">
+<name>配方：蛮力药剂</name>
+<code>
+[div class="name q2"]配方：蛮力药剂[/div][div]需要炼金术 (275)[/div][div]使用: 教你学会配制蛮力药剂。[/div][br /][div class="name q1"]蛮力药剂[/div][div]需要等级 45[/div][div class="q2"]使用: 使你的力量和耐力提高18点，持续60分钟。战斗药剂。[/div][br /][div]需要: 格罗血(2) 瘟疫花(2) 水晶瓶(1) [/div]
+</code>
+</item>
+<item id="13482" class="9.6" level="55" icon="inv_scroll_06" quality="2">
+<name>配方：点气成火</name>
+<code>
+[div class="name q2"]配方：点气成火[/div][div]拾取后绑定[/div][div]需要炼金术 (275)[/div][div]需要: 银色黎明 - 尊敬[/div][div]使用: 教你学会将空气精华转化为火焰精华。[/div][br /][div class="name q2"]火焰精华[/div][br /][div]需要: 空气精华(1) [/div]售价: [span class="si-gold"]1[/span][span class="si-silver"]50[/span]
+</code>
+<sold-by>
+<npc id="10856" />
+<npc id="10857" />
+<npc id="11536" />
+</sold-by>
+</item>
+<item id="13483" class="9.6" level="55" icon="inv_scroll_06" quality="2">
+<name>配方：点火成土</name>
+<code>
+[div class="name q2"]配方：点火成土[/div][div]拾取后绑定[/div][div]需要炼金术 (275)[/div][div]使用: 教你学会将火焰精华转化为大地精华。[/div][br /][div class="name q2"]大地精华[/div][br /][div]需要: 火焰精华(1) [/div]售价: [span class="si-gold"]1[/span][span class="si-silver"]50[/span]
+</code>
+<sold-by>
+<npc id="9499" />
+</sold-by>
+</item>
+<item id="13484" class="9.6" level="55" icon="inv_scroll_06" quality="2">
+<name>配方：转土成水</name>
+<code>
+[div class="name q2"]配方：转土成水[/div][div]拾取后绑定[/div][div]需要炼金术 (275)[/div][div]需要: 木喉要塞 - 友好[/div][div]使用: 教你学会将大地精华转化为水之精华。[/div][br /][div class="name q2"]水之精华[/div][br /][div]需要: 大地精华(1) [/div]售价: [span class="si-gold"]1[/span][span class="si-silver"]50[/span]
+</code>
+<sold-by>
+<npc id="11557" />
+</sold-by>
+</item>
+<item id="13485" class="9.6" level="55" icon="inv_scroll_06" quality="2">
+<name>配方：点水成气</name>
+<code>
+[div class="name q2"]配方：点水成气[/div][div]拾取后绑定[/div][div]需要炼金术 (275)[/div][div]使用: 教你学会将水之精华转化为空气精华。[/div][br /][div class="name q2"]空气精华[/div][br /][div]需要: 水之精华(1) [/div]售价: [span class="si-gold"]1[/span][span class="si-silver"]50[/span]
+</code>
+<sold-by>
+<npc id="11278" />
+</sold-by>
+</item>
+<item id="13486" class="9.6" level="55" icon="inv_scroll_06" quality="2">
+<name>配方：死灵化水</name>
+<code>
+[div class="name q2"]配方：死灵化水[/div][div]需要炼金术 (275)[/div][div]使用: 教你学会将死灵精华转化为水之精华。[/div][br /][div class="name q2"]水之精华[/div][br /][div]需要: 死灵精华(1) [/div]
+</code>
+<dropped-by>
+<npc id="14888" rate="16/315" />
+<npc id="14889" rate="12/344" />
+<npc id="6109" rate="22/928" />
+<npc id="14890" rate="5/345" />
+<npc id="14887" rate="7/504" />
+</dropped-by>
+</item>
+<item id="13487" class="9.6" level="55" icon="inv_scroll_06" quality="2">
+<name>配方：水转死灵</name>
+<code>
+[div class="name q2"]配方：水转死灵[/div][div]需要炼金术 (275)[/div][div]使用: 教你学会将水之精华转化为死灵精华。[/div][br /][div class="name q2"]死灵精华[/div][br /][div]需要: 水之精华(1) [/div]
+</code>
+<dropped-by>
+<npc id="14888" rate="13/315" />
+<npc id="14887" rate="20/504" />
+<npc id="6109" rate="18/928" />
+<npc id="14889" rate="6/344" />
+<npc id="14890" rate="6/345" />
+</dropped-by>
+</item>
+<item id="13488" class="9.6" level="55" icon="inv_scroll_06" quality="2">
+<name>配方：生命归土</name>
+<code>
+[div class="name q2"]配方：生命归土[/div][div]需要炼金术 (275)[/div][div]使用: 教你学会将生命精华转化为大地精华。[/div][br /][div class="name q2"]大地精华[/div][br /][div]需要: 生命精华(1) [/div]
+</code>
+<dropped-by>
+<npc id="14887" rate="20/504" />
+<npc id="6109" rate="23/928" />
+<npc id="14888" rate="7/315" />
+<npc id="14890" rate="6/345" />
+<npc id="14889" rate="4/344" />
+</dropped-by>
+<contained-in>
+<object id="179697" rate="13/6602" />
+<object id="153468" rate="2/1725" />
+</contained-in>
+</item>
+<item id="13489" class="9.6" level="55" icon="inv_scroll_06" quality="2">
+<name>配方：土转生命</name>
+<code>
+[div class="name q2"]配方：土转生命[/div][div]需要炼金术 (275)[/div][div]使用: 教你学会将大地精华转化为生命精华。[/div][br /][div class="name q2"]生命精华[/div][br /][div]需要: 大地精华(1) [/div]
+</code>
+<dropped-by>
+<npc id="6109" rate="34/928" />
+<npc id="14888" rate="7/315" />
+<npc id="14887" rate="11/504" />
+<npc id="14889" rate="7/344" />
+<npc id="14890" rate="4/345" />
+</dropped-by>
+</item>
+<item id="13490" class="9.6" level="56" icon="inv_scroll_06" quality="2">
+<name>配方：强效石盾药水</name>
+<code>
+[div class="name q2"]配方：强效石盾药水[/div][div]需要炼金术 (280)[/div][div]使用: 教你学会配制强效石盾药水。[/div][br /][div class="name q1"]强效石盾药水[/div][div]需要等级 46[/div][div class="q2"]使用: 护甲提高2000点，持续2分钟。(1分钟冷却)[/div][br /][div]需要: 石鳞鱼油(2) 瑟银矿石(1) 水晶瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="12475" rate="1/450" />
+<npc id="9442" rate="1/503" />
+<npc id="9439" rate="1/766" />
+<npc id="14464" rate="1/805" />
+<npc id="7072" rate="1/1421" />
+</dropped-by>
+<contained-in>
+<object id="160845" rate="15/3608" />
+<object id="153468" rate="7/1725" />
+<item id="5759" rate="169/28594" />
+<item id="5758" rate="26/13499" />
+</contained-in>
+</item>
+<item id="13491" class="9.6" level="56" icon="inv_scroll_06" quality="2">
+<name>配方：猫鼬药剂</name>
+<code>
+[div class="name q2"]配方：猫鼬药剂[/div][div]需要炼金术 (280)[/div][div]使用: 教你学会配制猫鼬药剂。[/div][br /][div class="name q1"]猫鼬药剂[/div][div]需要等级 46[/div][div class="q2"]使用: 使敏捷提高25点，爆击等级提高10，持续60分钟。战斗药剂。[/div][br /][div]需要: 山鼠草(2) 瘟疫花(2) 水晶瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="7106" rate="2058/81108" />
+<npc id="6201" rate="1055/53439" />
+</dropped-by>
+</item>
+<item id="13492" class="9.6" level="57" icon="inv_scroll_06" quality="2">
+<name>配方：净化药水</name>
+<code>
+[div class="name q2"]配方：净化药水[/div][div]需要炼金术 (285)[/div][div]使用: 教你学会配制净化药水。[/div][br /][div class="name q1"]净化药水[/div][div]需要等级 47[/div][div class="q2"]使用: 尝试移除饮用者身上的一个诅咒效果、一个疾病效果和一个中毒效果。(1分钟冷却)[/div][br /][div]需要: 冰盖草(2) 瘟疫花(2) 水晶瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="14889" rate="1/344" />
+<npc id="15461" rate="10/5862" />
+<npc id="6109" rate="1/928" />
+<npc id="11284" rate="5/10671" />
+<npc id="10366" rate="3/11294" />
+</dropped-by>
+</item>
+<item id="13493" class="9.6" level="57" icon="inv_scroll_06" quality="2">
+<name>配方：强效奥法药剂</name>
+<code>
+[div class="name q2"]配方：强效奥法药剂[/div][div]需要炼金术 (285)[/div][div]使用: 教你学会配制强效奥法药剂。[/div][br /][div class="name q1"]强效奥法药剂[/div][div]需要等级 47[/div][div class="q2"]使用: 法术强度提高35点，持续60分钟。战斗药剂。[/div][br /][div]需要: 梦叶草(3) 山鼠草(1) 水晶瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="10318" rate="2/21076" />
+<npc id="9197" rate="1/12481" />
+<npc id="11480" rate="1/47954" />
+<npc id="10412" rate="1/124889" />
+<npc id="8891" rate="1/320591" />
+</dropped-by>
+</item>
+<item id="13494" class="9.6" level="58" icon="inv_scroll_06" quality="2">
+<name>配方：强效火焰防护药水</name>
+<code>
+[div class="name q2"]配方：强效火焰防护药水[/div][div]需要炼金术 (290)[/div][div]使用: 教你学会配制强效火焰防护药水。[/div][br /][div class="name q1"]强效火焰防护药水[/div][div]需要等级 48[/div][div class="q2"]使用: 吸收1950到3250点火焰伤害，持续2分钟。(1分钟冷却)[/div][br /][div]需要: 元素火焰(1) 梦叶草(1) 水晶瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="9262" rate="2637/36518" />
+<npc id="9264" rate="430/6879" />
+</dropped-by>
+</item>
+<item id="13495" class="9.6" level="58" icon="inv_scroll_06" quality="2">
+<name>配方：强效冰霜防护药水</name>
+<code>
+[div class="name q2"]配方：强效冰霜防护药水[/div][div]需要炼金术 (290)[/div][div]使用: 教你学会配制强效冰霜防护药水。[/div][br /][div class="name q1"]强效冰霜防护药水[/div][div]需要等级 48[/div][div class="q2"]使用: 吸收1950到3250点冰霜伤害，持续2分钟。(1分钟冷却)[/div][br /][div]需要: 元素之水(1) 梦叶草(1) 水晶瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="7428" rate="4350/32132" />
+</dropped-by>
+</item>
+<item id="13496" class="9.6" level="58" icon="inv_scroll_06" quality="2">
+<name>配方：强效自然防护药水</name>
+<code>
+[div class="name q2"]配方：强效自然防护药水[/div][div]需要炼金术 (290)[/div][div]使用: 教你学会配制强效自然防护药水。[/div][br /][div class="name q1"]强效自然防护药水[/div][div]需要等级 48[/div][div class="q2"]使用: 吸收1950到3250点自然伤害，持续2分钟。(1分钟冷却)[/div][br /][div]需要: 元素之土(1) 梦叶草(1) 水晶瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="1812" rate="1177/21540" />
+<npc id="1813" rate="377/7013" />
+</dropped-by>
+</item>
+<item id="13497" class="9.6" level="58" icon="inv_scroll_06" quality="2">
+<name>配方：强效奥术防护药水</name>
+<code>
+[div class="name q2"]配方：强效奥术防护药水[/div][div]需要炼金术 (290)[/div][div]使用: 教你学会配制强效奥术防护药水。[/div][br /][div class="name q1"]强效奥术防护药水[/div][div]需要等级 48[/div][div class="q2"]使用: 吸收1950到3250点奥术伤害。防护效果持续2分钟。(1分钟冷却)[/div][br /][div]需要: 梦境之尘(1) 梦叶草(1) 水晶瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="7437" rate="1729/18446" />
+</dropped-by>
+</item>
+<item id="13499" class="9.6" level="58" icon="inv_scroll_06" quality="2">
+<name>配方：强效暗影防护药水</name>
+<code>
+[div class="name q2"]配方：强效暗影防护药水[/div][div]需要炼金术 (290)[/div][div]使用: 教你学会配制强效暗影防护药水。[/div][br /][div class="name q1"]强效暗影防护药水[/div][div]需要等级 48[/div][div class="q2"]使用: 吸收1950到3250点暗影伤害，持续2分钟。(1分钟冷却)[/div][br /][div]需要: 暗影之油(1) 梦叶草(1) 水晶瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="8550" rate="694/21950" />
+<npc id="8546" rate="809/26124" />
+</dropped-by>
+</item>
+<item id="13501" class="9.6" level="59" icon="inv_scroll_06" quality="2">
+<name>配方：特效法力药水</name>
+<code>
+[div class="name q2"]配方：特效法力药水[/div][div]拾取后绑定[/div][div]需要炼金术 (295)[/div][div]使用: 教你学会配制特效法力药水。[/div][br /][div class="name q1"]特效法力药水[/div][div]需要等级 49[/div][div class="q2"]使用: 恢复1350到2250点法力值。(1分钟冷却)[/div][br /][div]需要: 梦叶草(3) 冰盖草(2) 水晶瓶(1) [/div]售价: [span class="si-gold"]3[/span]
+</code>
+<sold-by>
+<npc id="11278" />
+</sold-by>
+<dropped-by>
+<npc id="1853" rate="1626/17243" />
+</dropped-by>
+</item>
+<item id="13517" class="9.6" level="70" icon="inv_scroll_03" quality="1">
+<name>配方：炼金石</name>
+<code>
+[div class="name q1"]配方：炼金石[/div][div]拾取后绑定[/div][div]需要炼金术 (350)[/div][div]需要: 沙塔尔 - 崇敬[/div][div]使用: 教你学会制作炼金石。[/div][br /][div class="name q4"]炼金石[/div][div]拾取后绑定[/div][div]唯一[/div][div]饰品[/div][div]+15 力量[/div][div]+15 耐力[/div][div]+15 敏捷[/div][div]+15 智力[/div][div]+15 精神[/div][div]需要炼金术 (350)[/div][div class="q2"]装备: 使你在饮用治疗药水和法力药水时获得的效果提高40%。这个效果无法叠加。[/div][br /][div]需要: 点金石(1) 大地风暴钻石(1) 天火钻石(1) 魔莲花(2) 源生之能(5) [/div]售价: [span class="si-gold"]8[/span]
+</code>
+<sold-by>
+<npc id="21432" />
+</sold-by>
+</item>
+<item id="13518" class="9.6" level="60" icon="inv_scroll_06" quality="2">
+<name>配方：化石合剂</name>
+<code>
+[div class="name q2"]配方：化石合剂[/div][div]需要炼金术 (300)[/div][div]使用: 教你学会配制化石合剂。[/div][br /][div class="name q1"]化石合剂[/div][div]需要等级 50[/div][div class="q2"]使用: 你进入石头形态，吸收6000点伤害，持续30秒。但是在这段时间里，你无法攻击、移动或施法。(1分钟冷却)[/div][br /][div]需要: 石鳞鱼油(7) 山鼠草(3) 黑莲花(1) 水晶瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="6109" rate="21/928" />
+<npc id="14890" rate="5/345" />
+<npc id="14889" rate="4/344" />
+<npc id="14887" rate="5/504" />
+<npc id="14888" rate="2/315" />
+</dropped-by>
+<contained-in>
+<object id="153468" rate="3/1725" />
+</contained-in>
+</item>
+<item id="13519" class="9.6" level="60" icon="inv_scroll_06" quality="2">
+<name>配方：泰坦合剂</name>
+<code>
+[div class="name q2"]配方：泰坦合剂[/div][div]需要炼金术 (300)[/div][div]使用: 教你学会配制泰坦合剂。[/div][br /][div class="name q1"]泰坦合剂[/div][div]需要等级 50[/div][div class="q2"]使用: 使玩家的生命值上限提高400点，持续60分钟。这种效果在死亡后仍可继续存在。战斗和守护药剂。[/div][br /][div]需要: 格罗姆之血(7) 石鳞鱼油(3) 黑莲花(1) 水晶瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="10363" rate="363/10294" />
+</dropped-by>
+</item>
+<item id="13520" class="9.6" level="60" icon="inv_scroll_06" quality="2">
+<name>配方：精炼智慧合剂</name>
+<code>
+[div class="name q2"]配方：精炼智慧合剂[/div][div]需要炼金术 (300)[/div][div]使用: 教你学会配制精炼智慧合剂。[/div][br /][div class="name q1"]精炼智慧合剂[/div][div]需要等级 50[/div][div class="q2"]使用: 使玩家的智力提高65点，持续60分钟。这种效果在死亡后仍可继续存在。战斗和守护药剂。[/div][br /][div]需要: 梦叶草(7) 冰盖草(3) 黑莲花(1) 水晶瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="10813" rate="161/4993" />
+</dropped-by>
+</item>
+<item id="13521" class="9.6" level="60" icon="inv_scroll_06" quality="2">
+<name>配方：超级能量合剂</name>
+<code>
+[div class="name q2"]配方：超级能量合剂[/div][div]需要炼金术 (300)[/div][div]使用: 教你学会配制超级能量合剂。[/div][br /][div class="name q1"]超级能量合剂[/div][div]需要等级 50[/div][div class="q2"]使用: 法术强度提高70点，持续60分钟。这种效果在死亡后仍可继续存在。战斗和守护药剂。[/div][br /][div]需要: 梦叶草(7) 山鼠草(3) 黑莲花(1) 水晶瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="10508" rate="802/20215" />
+</dropped-by>
+</item>
+<item id="13522" class="9.6" level="60" icon="inv_scroll_06" quality="2">
+<name>配方：多重抗性合剂</name>
+<code>
+[div class="name q2"]配方：多重抗性合剂[/div][div]需要炼金术 (300)[/div][div]使用: 教你学会配制多重抗性合剂。[/div][br /][div class="name q1"]多重抗性合剂[/div][div]需要等级 50[/div][div class="q2"]使用: 使你对所有魔法的抗性提高25点，持续60分钟。这个效果在死亡后仍可继续存在。战斗和守护药剂。[/div][br /][div]需要: 冰盖草(7) 山鼠草(3) 黑莲花(1) 水晶瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="10339" rate="488/11853" />
+</dropped-by>
+</item>
+<item id="14634" class="9.6" level="40" icon="inv_scroll_06" quality="2">
+<name>配方：冰霜之油</name>
+<code>
+[div class="name q2"]配方：冰霜之油[/div][div]需要炼金术 (200)[/div][div]使用: 教你学会配制冰霜之油。[/div][br /][div class="name q1"]冰霜之油[/div][div]需要等级 30[/div][div class="q2"]使用: 涂在近战武器上之后，有10%的几率在击中敌人时施放寒冰箭。持续30分钟。[/div][br /][div]需要: 卡德加的胡须(4) 冬刺草(2) 铅瓶(1) [/div]售价: [span class="si-silver"]25[/span]
+</code>
+<sold-by>
+<npc id="2480" count="1" />
+</sold-by>
+</item>
+<item id="17709" class="9.6" level="38" icon="inv_scroll_03" quality="1">
+<name>配方：冰霜之力药剂</name>
+<code>
+[div class="name q1"]配方：冰霜之力药剂[/div][div]需要炼金术 (190)[/div][div]使用: 教你学会配制冰霜之力药剂。[/div][br /][div class="name q1"]冰霜之力药剂[/div][div]需要等级 28[/div][div class="q2"]使用: 冰霜法术强度提高15点，持续60分钟。战斗药剂。[/div][br /][div]需要: 冬刺草(2) 卡德加的胡须(1) 铅瓶(1) [/div]
+</code>
+<contained-in>
+<item id="17726" rate="1026/5968" />
+<item id="21327" rate="888/26585" />
+</contained-in>
+</item>
+<item id="18257" class="9.6" level="60" icon="inv_scroll_05" quality="3">
+<name>配方：特效活力药水</name>
+<code>
+[div class="name q3"]配方：特效活力药水[/div][div]需要炼金术 (300)[/div][div]使用: 教你学会配制特效活力药水。[/div][br /][div class="name q1"]特效活力药水[/div][div]需要等级 50[/div][div class="q2"]使用: 恢复1440到1760点法力值和生命值。(1分钟冷却)[/div][br /][div]需要: 野性之心(1) 黄金参(4) 梦叶草(4) 灌魔之瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="11982" rate="90/7504" />
+<npc id="11988" rate="107/9243" />
+<npc id="12056" rate="116/10853" />
+<npc id="12057" rate="122/11803" />
+<npc id="12264" rate="71/9459" />
+</dropped-by>
+</item>
+<item id="20011" class="9.6" level="55" icon="inv_scroll_03" quality="1">
+<name>配方：魔血药剂</name>
+<code>
+[div class="name q1"]配方：魔血药剂[/div][div]拾取后绑定[/div][div]需要炼金术 (275)[/div][div]需要: 赞达拉部族 - 崇敬[/div][div]使用: 教你学会配制魔血药剂。[/div][br /][div class="name q1"]魔血药剂[/div][div]需要等级 40[/div][div class="q2"]使用: 每5秒回复15点法力值，持续60分钟。守护药剂。[/div][br /][div]需要: 梦叶草(1) 瘟疫花(2) 水晶瓶(1) [/div]售价: [span class="si-gold"]5[/span]
+</code>
+<sold-by>
+<npc id="14921" />
+</sold-by>
+</item>
+<item id="20012" class="9.6" level="55" icon="inv_scroll_03" quality="1">
+<name>配方：强效昏睡药水</name>
+<code>
+[div class="name q1"]配方：强效昏睡药水[/div][div]拾取后绑定[/div][div]需要炼金术 (275)[/div][div]需要: 赞达拉部族 - 友好[/div][div]使用: 教你学会制作强效昏睡药水。[/div][br /][div class="name q1"]强效昏睡药水[/div][div]需要等级 55[/div][div class="q2"]使用: 使饮用者进入无梦的睡眠，持续12秒。在这段时间内，饮用者可以恢复2100点生命值和2100点法力值。(1分钟冷却)[/div][br /][div]需要: 梦叶草(2) 黄金参(1) 水晶瓶(1) [/div]售价: [span class="si-gold"]5[/span]
+</code>
+<sold-by>
+<npc id="14921" />
+</sold-by>
+</item>
+<item id="20013" class="9.6" level="57" icon="inv_scroll_03" quality="1">
+<name>配方：活力行动药水</name>
+<code>
+[div class="name q1"]配方：活力行动药水[/div][div]拾取后绑定[/div][div]需要炼金术 (285)[/div][div]需要: 赞达拉部族 - 崇拜[/div][div]使用: 教你学会配制活力行动药水。[/div][br /][div class="name q1"]活力行动药水[/div][div]需要等级 47[/div][div class="q2"]使用: 使你对昏迷和移动限制效果免疫，持续5秒。同时也会移除已有的昏迷和移动限制效果。(1分钟冷却)[/div][br /][div]需要: 冰盖草(2) 山鼠草(2) 野性之心(2) 水晶瓶(1) [/div]售价: [span class="si-gold"]5[/span]
+</code>
+<sold-by>
+<npc id="14921" />
+</sold-by>
+</item>
+<item id="20014" class="9.6" level="58" icon="inv_scroll_03" quality="1">
+<name>配方：特效巨魔之血药剂</name>
+<code>
+[div class="name q1"]配方：特效巨魔之血药剂[/div][div]拾取后绑定[/div][div]需要炼金术 (290)[/div][div]需要: 赞达拉部族 - 尊敬[/div][div]使用: 教你学会配制特效巨魔之血药剂。[/div][br /][div class="name q1"]特效巨魔之血药剂[/div][div]需要等级 53[/div][div class="q2"]使用: 每5秒回复20点生命值，持续60分钟。[/div][br /][div]需要: 格罗姆之血(1) 瘟疫花(2) 水晶瓶(1) [/div]售价: [span class="si-gold"]5[/span]
+</code>
+<sold-by>
+<npc id="14921" />
+</sold-by>
+</item>
+<item id="20761" class="9.6" level="60" icon="inv_scroll_03" quality="1">
+<name>配方：转化元素火焰</name>
+<code>
+[div class="name q1"]配方：转化元素火焰[/div][div]拾取后绑定[/div][div]需要炼金术 (300)[/div][div]需要: 瑟银兄弟会 - 友好[/div][div]使用: 教你学会将一份火焰之心转化成为三份元素火焰。[/div][br /][div class="name q1"]元素火焰[/div][br /][div]需要: 火焰之心(1) [/div]售价: [span class="si-gold"]12[/span]
+</code>
+<sold-by>
+<npc id="12944" count="1" />
+</sold-by>
+</item>
+<item id="21547" class="9.6" level="50" icon="inv_scroll_06" quality="2">
+<name>配方：强效火力药剂</name>
+<code>
+[div class="name q2"]配方：强效火力药剂[/div][div]需要炼金术 (250)[/div][div]使用: 教你学会配制强效火力药剂。[/div][br /][div class="name q1"]强效火力药剂[/div][div]需要等级 40[/div][div class="q2"]使用: 法术强度提高40点，持续60分钟。战斗药剂。[/div][br /][div]需要: 火焰之油(3) 火焰花(3) 水晶瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="8637" rate="458/32674" />
+<npc id="5846" rate="2421/184765" />
+<npc id="5844" rate="2613/211722" />
+</dropped-by>
+</item>
+<item id="22900" class="9.6" level="61" icon="inv_scroll_03" quality="1">
+<name>配方：伪装药剂</name>
+<code>
+[div class="name q1"]配方：伪装药剂[/div][div]需要炼金术 (305)[/div][div]使用: 教你学会配制伪装药剂。[/div][br /][div class="name q1"]伪装药剂[/div][div]需要等级 50[/div][div class="q2"]使用: 饮用者无法被追踪，持续60分钟。[/div][br /][div]需要: 邪雾草(1) 魔草(1) 灌魔之瓶(1) [/div]售价: [span class="si-gold"]3[/span]
+</code>
+<sold-by>
+<npc id="16588" count="1" />
+<npc id="16641" count="1" />
+<npc id="16705" count="1" />
+<npc id="18802" count="1" />
+</sold-by>
+</item>
+<item id="22901" class="9.6" level="63" icon="inv_scroll_03" quality="1">
+<name>配方：潜行药水</name>
+<code>
+[div class="name q1"]配方：潜行药水[/div][div]需要炼金术 (315)[/div][div]使用: 教你学会配制潜行药水。[/div][br /][div class="name q1"]潜行药水[/div][div]需要等级 50[/div][div class="q2"]使用: 极大提高潜行能力，持续60秒。(1分钟冷却)[/div][br /][div]需要: 邪雾草(2) 魔草(1) 灌魔之瓶(1) [/div]售价: [span class="si-gold"]3[/span]
+</code>
+<sold-by>
+<npc id="18017" count="1" />
+<npc id="19042" count="1" />
+</sold-by>
+</item>
+<item id="22902" class="9.6" level="64" icon="inv_scroll_03" quality="1">
+<name>配方：特效冰霜能量药剂</name>
+<code>
+[div class="name q1"]配方：特效冰霜能量药剂[/div][div]需要炼金术 (320)[/div][div]使用: 教你学会配制特效冰霜能量药剂。[/div][br /][div class="name q1"]特效冰霜能量药剂[/div][div]需要等级 50[/div][div class="q2"]使用: 冰霜法术强度提高55点，持续60分钟。战斗药剂。[/div][br /][div]需要: 水之微粒(2) 远古苔(1) 灌魔之瓶(1) [/div]售价: [span class="si-gold"]4[/span]
+</code>
+<sold-by>
+<npc id="18005" count="1" />
+<npc id="18017" count="1" />
+</sold-by>
+</item>
+<item id="22903" class="9.6" level="64" icon="inv_scroll_06" quality="2">
+<name>配方：疯狂力量药水</name>
+<code>
+[div class="name q2"]配方：疯狂力量药水[/div][div]需要炼金术 (320)[/div][div]使用: 教你学会配制疯狂力量药水。[/div][br /][div class="name q1"]疯狂力量药水[/div][div]需要等级 50[/div][div class="q2"]使用: 使你的力量提高120点，防御等级降低75，持续15秒。(1分钟冷却)[/div][br /][div]需要: 泰罗果(3) 灌魔之瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="24047" rate="1/1418" />
+<npc id="20882" rate="2/4444" />
+<npc id="21226" rate="2/5446" />
+<npc id="20050" rate="1/4195" />
+<npc id="22954" rate="1/5095" />
+</dropped-by>
+<contained-in>
+<item id="33926" rate="9/1650" />
+</contained-in>
+</item>
+<item id="22904" class="9.6" level="65" icon="inv_scroll_06" quality="2">
+<name>配方：搜寻之眼药剂</name>
+<code>
+[div class="name q2"]配方：搜寻之眼药剂[/div][div]需要炼金术 (325)[/div][div]使用: 教你学会配制搜寻之眼药剂。[/div][br /][div class="name q1"]搜寻之眼药剂[/div][div]需要等级 55[/div][div class="q2"]使用: 使你的侦测潜行能力提高，持续10分钟。[/div][br /][div]需要: 邪雾草(2) 泰罗果(1) 灌魔之瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="21168" rate="1/1357" />
+<npc id="21227" rate="1/2546" />
+<npc id="20790" rate="1/3334" />
+<npc id="22847" rate="2/7664" />
+<npc id="20039" rate="2/8841" />
+</dropped-by>
+</item>
+<item id="22905" class="9.6" level="66" icon="inv_scroll_03" quality="1">
+<name>配方：特效敏捷药剂</name>
+<code>
+[div class="name q1"]配方：特效敏捷药剂[/div][div]拾取后绑定[/div][div]需要炼金术 (330)[/div][div]需要: 荣耀堡 - 尊敬[/div][div]使用: 教你学会配制特效敏捷药剂。[/div][br /][div class="name q1"]特效敏捷药剂[/div][div]需要等级 55[/div][div class="q2"]使用: 使你的敏捷值提高30点，爆击等级提高12，持续60分钟。战斗药剂。[/div][br /][div]需要: 泰罗果(1) 魔草(2) 灌魔之瓶(1) [/div]售价: [span class="si-gold"]5[/span]
+</code>
+<sold-by>
+<npc id="17657" />
+</sold-by>
+</item>
+<item id="22906" class="9.6" level="67" icon="inv_scroll_06" quality="2">
+<name>配方：遮罩药水</name>
+<code>
+[div class="name q2"]配方：遮罩药水[/div][div]拾取后绑定[/div][div]需要炼金术 (335)[/div][div]需要: 孢子村 - 崇拜[/div][div]使用: 教你学会配制遮罩药水。[/div][br /][div class="name q1"]遮罩药水[/div][div]需要等级 55[/div][div class="q2"]使用: 隐藏你的身形，降低附近的敌人攻击你的可能性。(1分钟冷却)[/div][br /][div]需要: 邪雾草(3) 虚空花(1) 灌魔之瓶(1) [/div]售价: 亮顶蘑菇(30)
+</code>
+<sold-by>
+<npc id="18382" />
+</sold-by>
+</item>
+<item id="22907" class="9.6" level="68" icon="inv_scroll_03" quality="1">
+<name>配方：超级法力药水</name>
+<code>
+[div class="name q1"]配方：超级法力药水[/div][div]需要炼金术 (340)[/div][div]使用: 教你学会配制超级法力药水。[/div][br /][div class="name q1"]超级法力药水[/div][div]需要等级 55[/div][div class="q2"]使用: 恢复1800到3000点法力值。(1分钟冷却)[/div][br /][div]需要: 梦露花(2) 魔草(1) 灌魔之瓶(1) [/div]售价: [span class="si-gold"]5[/span]
+</code>
+<sold-by>
+<npc id="18005" count="1" />
+<npc id="19837" count="1" />
+</sold-by>
+</item>
+<item id="22908" class="9.6" level="69" icon="inv_scroll_06" quality="2">
+<name>配方：特效火力药剂</name>
+<code>
+[div class="name q2"]配方：特效火力药剂[/div][div]拾取后绑定[/div][div]需要炼金术 (345)[/div][div]需要: 占星者 - 崇敬[/div][div]使用: 教你学会配制特效火力药剂。[/div][br /][div class="name q1"]特效火力药剂[/div][div]需要等级 50[/div][div class="q2"]使用: 火焰法术强度提高55点，持续60分钟。战斗药剂。[/div][br /][div]需要: 火焰微粒(2) 远古苔(1) 灌魔之瓶(1) [/div]售价: [span class="si-gold"]6[/span]
+</code>
+<sold-by>
+<npc id="19331" />
+</sold-by>
+</item>
+<item id="22909" class="9.6" level="69" icon="inv_scroll_03" quality="1">
+<name>配方：特效防御药剂</name>
+<code>
+[div class="name q1"]配方：特效防御药剂[/div][div]需要炼金术 (345)[/div][div]使用: 教你学会配制特效防御药剂。[/div][br /][div class="name q1"]特效防御药剂[/div][div]需要等级 55[/div][div class="q2"]使用: 护甲提高550点，持续60分钟。守护药剂。[/div][br /][div]需要: 远古苔(3) 泰罗果(1) 灌魔之瓶(1) [/div]售价: [span class="si-gold"]5[/span]
+</code>
+<sold-by>
+<npc id="18005" count="1" />
+<npc id="19837" count="1" />
+</sold-by>
+</item>
+<item id="22910" class="9.6" level="70" icon="inv_scroll_06" quality="2">
+<name>配方：特效暗影能量药剂</name>
+<code>
+[div class="name q2"]配方：特效暗影能量药剂[/div][div]拾取后绑定[/div][div]需要炼金术 (350)[/div][div]需要: 贫民窟 - 崇敬[/div][div]使用: 教你学会配制特效暗影能量药剂。[/div][br /][div class="name q1"]特效暗影能量药剂[/div][div]需要等级 60[/div][div class="q2"]使用: 暗影法术强度提高55点，持续60分钟。战斗药剂。[/div][br /][div]需要: 远古苔(1) 噩梦藤(1) 灌魔之瓶(1) [/div]售价: [span class="si-gold"]8[/span]
+</code>
+<sold-by>
+<npc id="21655" />
+</sold-by>
+</item>
+<item id="22911" class="9.6" level="70" icon="inv_scroll_03" quality="1">
+<name>配方：特效无梦睡眠药水</name>
+<code>
+[div class="name q1"]配方：特效无梦睡眠药水[/div][div]需要炼金术 (350)[/div][div]使用: 教你学会配制特效无梦睡眠药水。[/div][br /][div class="name q1"]特效无梦睡眠药水[/div][div]需要等级 60[/div][div class="q2"]使用: 使饮用者进入无梦的睡眠，持续12秒。在这段时间内，饮用者可以恢复3600点生命值和3600点法力值。(1分钟冷却)[/div][br /][div]需要: 梦露花(1) 噩梦藤(1) 灌魔之瓶(1) [/div]售价: [span class="si-gold"]5[/span]
+</code>
+<sold-by>
+<npc id="19042" count="1" />
+<npc id="19837" count="1" />
+</sold-by>
+</item>
+<item id="22912" class="9.6" level="70" icon="inv_scroll_06" quality="2">
+<name>配方：英雄药水</name>
+<code>
+[div class="name q2"]配方：英雄药水[/div][div]需要炼金术 (350)[/div][div]使用: 教你学会配制英雄药水。[/div][br /][div class="name q1"]英雄药水[/div][div]需要等级 60[/div][div class="q2"]使用: 力量提高70点，暂时使生命值提高700点，持续15秒。(1分钟冷却)[/div][br /][div]需要: 泰罗果(2) 远古苔(1) 灌魔之瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="22825" rate="1/622" />
+<npc id="16178" rate="2/5376" />
+<npc id="20052" rate="1/2986" />
+<npc id="23394" rate="1/5006" />
+<npc id="16489" rate="2/11568" />
+</dropped-by>
+</item>
+<item id="22913" class="9.6" level="70" icon="inv_scroll_06" quality="2">
+<name>配方：加速药水</name>
+<code>
+[div class="name q2"]配方：加速药水[/div][div]需要炼金术 (350)[/div][div]使用: 教你学会配制加速药水。[/div][br /][div class="name q1"]加速药水[/div][div]需要等级 60[/div][div class="q2"]使用: 急速等级提高400，效果持续15秒。(1分钟冷却)[/div][br /][div]需要: 泰罗果(2) 虚空花(1) 灌魔之瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="21168" rate="1/1357" />
+<npc id="20454" rate="1/1590" />
+<npc id="20600" rate="1/2589" />
+<npc id="20909" rate="1/2838" />
+<npc id="20033" rate="2/6614" />
+</dropped-by>
+</item>
+<item id="22914" class="9.6" level="70" icon="inv_scroll_06" quality="2">
+<name>配方：毁灭药水</name>
+<code>
+[div class="name q2"]配方：毁灭药水[/div][div]需要炼金术 (350)[/div][div]使用: 教你学会配制毁灭药水。[/div][br /][div class="name q1"]毁灭药水[/div][div]需要等级 60[/div][div class="q2"]使用: 法术爆击等级提高2%，法术强度提高120点，持续15秒。(1分钟冷却)[/div][br /][div]需要: 噩梦藤(2) 虚空花(1) 灌魔之瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="22965" rate="2/3007" />
+<npc id="23374" rate="2/5487" />
+<npc id="20052" rate="1/2986" />
+<npc id="22959" rate="1/3161" />
+<npc id="20034" rate="2/7241" />
+</dropped-by>
+<contained-in>
+<item id="33926" rate="7/1650" />
+</contained-in>
+</item>
+<item id="22915" class="9.6" level="70" icon="inv_scroll_06" quality="2">
+<name>配方：源气转火</name>
+<code>
+[div class="name q2"]配方：源气转火[/div][div]拾取后绑定[/div][div]需要炼金术 (350)[/div][div]需要: 沙塔尔 - 崇敬[/div][div]使用: 教你学会将源生空气转化为源生火焰。[/div][br /][div class="name q2"]源生火焰[/div][br /][div]需要: 源生空气(1) [/div]售价: [span class="si-gold"]8[/span]
+</code>
+<sold-by>
+<npc id="21432" />
+</sold-by>
+</item>
+<item id="22916" class="9.6" level="70" icon="inv_scroll_06" quality="2">
+<name>配方：源土转水</name>
+<code>
+[div class="name q2"]配方：源土转水[/div][div]拾取后绑定[/div][div]需要炼金术 (350)[/div][div]需要: 孢子村 - 崇敬[/div][div]使用: 教你学会将源生之土转化为源生之水。[/div][br /][div class="name q2"]源生之水[/div][br /][div]需要: 源生之土(1) [/div]售价: 亮顶蘑菇(25)
+</code>
+<sold-by>
+<npc id="18382" />
+</sold-by>
+</item>
+<item id="22917" class="9.6" level="70" icon="inv_scroll_06" quality="2">
+<name>配方：源火转土</name>
+<code>
+[div class="name q2"]配方：源火转土[/div][div]拾取后绑定[/div][div]需要炼金术 (350)[/div][div]需要: 玛格汉 - 崇敬[/div][div]使用: 教你学会将源生火焰转化为源生之土。[/div][br /][div class="name q2"]源生之土[/div][br /][div]需要: 源生火焰(1) [/div]售价: [span class="si-gold"]8[/span]
+</code>
+<sold-by>
+<npc id="20241" />
+</sold-by>
+</item>
+<item id="22918" class="9.6" level="70" icon="inv_scroll_06" quality="2">
+<name>配方：源水转气</name>
+<code>
+[div class="name q2"]配方：源水转气[/div][div]拾取后绑定[/div][div]需要炼金术 (350)[/div][div]需要: 塞纳里奥远征队 - 崇敬[/div][div]使用: 教你学会将源生之水转化为源生空气。[/div][br /][div class="name q2"]源生空气[/div][br /][div]需要: 源生之水(1) [/div]售价: [span class="si-gold"]8[/span]
+</code>
+<sold-by>
+<npc id="17904" />
+</sold-by>
+</item>
+<item id="22919" class="9.6" level="71" icon="inv_scroll_06" quality="2">
+<name>配方：特效魔血药剂</name>
+<code>
+[div class="name q2"]配方：特效魔血药剂[/div][div]需要炼金术 (355)[/div][div]使用: 教你学会配制特效魔血药剂。[/div][br /][div class="name q1"]特效魔血药剂[/div][div]需要等级 60[/div][div class="q2"]使用: 每5秒回复20点法力值，持续60分钟。守护药剂。[/div][br /][div]需要: 远古苔(1) 虚空花(1) 灌魔之瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="22128" rate="1/823" />
+<npc id="16461" rate="3/7161" />
+<npc id="22954" rate="2/5095" />
+<npc id="21246" rate="1/3065" />
+<npc id="22960" rate="2/6572" />
+</dropped-by>
+<contained-in>
+<item id="33926" rate="3/1650" />
+</contained-in>
+</item>
+<item id="22920" class="9.6" level="72" icon="inv_scroll_06" quality="2">
+<name>配方：特效火焰防护药水</name>
+<code>
+[div class="name q2"]配方：特效火焰防护药水[/div][div]拾取后绑定[/div][div]需要炼金术 (360)[/div][div]使用: 教你学会配制特效火焰防护药水。[/div][br /][div class="name q1"]特效火焰防护药水[/div][div]需要等级 60[/div][div class="q2"]使用: 吸收2800到4000点火焰伤害，持续2分钟。(1分钟冷却)[/div][br /][div]需要: 源生火焰(1) 法力蓟(3) 灌魔之瓶(5) [/div]
+</code>
+<dropped-by>
+<npc id="19221" rate="589/10272" />
+<npc id="19168" rate="475/119217" />
+</dropped-by>
+</item>
+<item id="22921" class="9.6" level="72" icon="inv_scroll_06" quality="2">
+<name>配方：特效冰霜防护药水</name>
+<code>
+[div class="name q2"]配方：特效冰霜防护药水[/div][div]拾取后绑定[/div][div]需要炼金术 (360)[/div][div]使用: 教你学会配制特效冰霜防护药水。[/div][br /][div class="name q1"]特效冰霜防护药水[/div][div]需要等级 60[/div][div class="q2"]使用: 吸收2800到4000点冰霜伤害，持续2分钟。(1分钟冷却)[/div][br /][div]需要: 源生之水(1) 法力蓟(3) 灌魔之瓶(5) [/div]
+</code>
+<dropped-by>
+<npc id="18344" rate="824/33300" />
+</dropped-by>
+</item>
+<item id="22922" class="9.6" level="72" icon="inv_scroll_06" quality="1">
+<name>配方：特效自然防护药水</name>
+<code>
+[div class="name q1"]配方：特效自然防护药水[/div][div]拾取后绑定[/div][div]需要炼金术 (360)[/div][div]需要: 塞纳里奥远征队 - 崇拜[/div][div]使用: 教你学会配制特效自然防护药水。[/div][br /][div class="name q1"]特效自然防护药水[/div][div]需要等级 60[/div][div class="q2"]使用: 吸收2800到4000点自然伤害，持续2分钟。(1分钟冷却)[/div][br /][div]需要: 源生生命(1) 法力蓟(3) 灌魔之瓶(5) [/div]售价: [span class="si-gold"]10[/span]
+</code>
+<sold-by>
+<npc id="17904" />
+</sold-by>
+</item>
+<item id="22923" class="9.6" level="72" icon="inv_scroll_06" quality="2">
+<name>配方：特效奥术防护药水</name>
+<code>
+[div class="name q2"]配方：特效奥术防护药水[/div][div]拾取后绑定[/div][div]需要炼金术 (360)[/div][div]使用: 教你学会配制特效奥术防护药水。[/div][br /][div class="name q1"]特效奥术防护药水[/div][div]需要等级 60[/div][div class="q2"]使用: 吸收2800到4000点奥术伤害。持续2分钟。(1分钟冷却)[/div][br /][div]需要: 源生法力(1) 法力蓟(3) 灌魔之瓶(5) [/div]
+</code>
+<dropped-by>
+<npc id="17150" rate="613/164122" />
+</dropped-by>
+</item>
+<item id="22924" class="9.6" level="72" icon="inv_scroll_06" quality="2">
+<name>配方：特效暗影防护药水</name>
+<code>
+[div class="name q2"]配方：特效暗影防护药水[/div][div]拾取后绑定[/div][div]需要炼金术 (360)[/div][div]使用: 教你学会配制特效暗影防护药水。[/div][br /][div class="name q1"]特效暗影防护药水[/div][div]需要等级 60[/div][div class="q2"]使用: 吸收2800到4000点暗影伤害，持续2分钟。(1分钟冷却)[/div][br /][div]需要: 源生暗影(1) 法力蓟(3) 灌魔之瓶(5) [/div]
+</code>
+<dropped-by>
+<npc id="21302" rate="560/327070" />
+</dropped-by>
+</item>
+<item id="22925" class="9.6" level="72" icon="inv_scroll_06" quality="2">
+<name>配方：特效神圣防护药水</name>
+<code>
+[div class="name q2"]配方：特效神圣防护药水[/div][div]拾取后绑定[/div][div]需要炼金术 (360)[/div][div]使用: 教你学会配制特效神圣防护药水。[/div][br /][div class="name q1"]特效神圣防护药水[/div][div]需要等级 60[/div][div class="q2"]使用: 吸收2800到4000点神圣伤害，持续2分钟。(1分钟冷却)[/div][br /][div]需要: 源生生命(1) 法力蓟(3) 灌魔之瓶(5) [/div]
+</code>
+<dropped-by>
+<npc id="19973" rate="116/38358" />
+</dropped-by>
+</item>
+<item id="22926" class="9.6" level="73" icon="inv_scroll_06" quality="2">
+<name>配方：强化药剂</name>
+<code>
+[div class="name q2"]配方：强化药剂[/div][div]需要炼金术 (365)[/div][div]使用: 教你学会配制强化药剂。[/div][br /][div class="name q1"]强化药剂[/div][div]需要等级 60[/div][div class="q2"]使用: 使你的法术目标的魔法抗性降低30点，持续60分钟。守护药剂。[/div][br /][div]需要: 虚空花(1) 法力蓟(1) 灌魔之瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="19757" rate="1/281" />
+<npc id="18154" rate="1/651" />
+<npc id="20905" rate="1/732" />
+<npc id="23239" rate="2/3140" />
+<npc id="22877" rate="2/6681" />
+</dropped-by>
+<contained-in>
+<item id="33926" rate="3/1650" />
+</contained-in>
+</item>
+<item id="22927" class="9.6" level="73" icon="inv_scroll_06" quality="2">
+<name>配方：铁盾药水</name>
+<code>
+[div class="name q2"]配方：铁盾药水[/div][div]拾取后绑定[/div][div]需要炼金术 (365)[/div][div]使用: 教你学会配制铁盾药水。[/div][br /][div class="name q1"]铁盾药水[/div][div]需要等级 60[/div][div class="q2"]使用: 护甲提高2500点，持续2分钟。(1分钟冷却)[/div][br /][div]需要: 远古苔(2) 土之微粒(3) 灌魔之瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="17862" rate="796/24597" />
+</dropped-by>
+</item>
+<item id="23574" class="9.6" level="70" icon="inv_scroll_06" quality="2">
+<name>配方：源生之能</name>
+<code>
+[div class="name q2"]配方：源生之能[/div][div]需要炼金术 (350)[/div][div]使用: 教你学会将源生之水、源生空气、源生之土、源生火焰和源生法力合成为源生之能。[/div][br /][div class="name q3"]源生之能[/div][br /][div]需要: 源生之土(1) 源生之水(1) 源生空气(1) 源生火焰(1) 源生法力(1) [/div]售价: [span class="si-gold"]8[/span]
+</code>
+<sold-by>
+<npc id="16641" count="1" />
+<npc id="16705" count="1" />
+<npc id="19074" count="1" />
+</sold-by>
+</item>
+<item id="24001" class="9.6" level="66" icon="inv_scroll_03" quality="1">
+<name>配方：特效敏捷药剂</name>
+<code>
+[div class="name q1"]配方：特效敏捷药剂[/div][div]拾取后绑定[/div][div]需要炼金术 (330)[/div][div]需要: 萨尔玛 - 尊敬[/div][div]使用: 教你学会配制特效敏捷药剂。[/div][br /][div class="name q1"]特效敏捷药剂[/div][div]需要等级 55[/div][div class="q2"]使用: 使你的敏捷值提高30点，爆击等级提高12，持续60分钟。战斗药剂。[/div][br /][div]需要: 泰罗果(1) 魔草(2) 灌魔之瓶(1) [/div]售价: [span class="si-gold"]5[/span]
+</code>
+<sold-by>
+<npc id="17585" />
+</sold-by>
+</item>
+<item id="25869" class="9.6" level="70" icon="inv_scroll_03" quality="1">
+<name>配方：合成大地风暴钻石</name>
+<code>
+[div class="name q1"]配方：合成大地风暴钻石[/div][div]拾取后绑定[/div][div]需要炼金术 (350)[/div][div]需要: 塞纳里奥远征队 - 尊敬[/div][div]使用: 教你学会合成大地风暴钻石。[/div][br /][div class="name q3"]大地风暴钻石[/div][br /][div]需要: 翠榄石(3) 德拉诺影钻(3) 德拉诺金钻(3) 源生之土(2) 源生之水(2) [/div]售价: [span class="si-gold"]8[/span]
+</code>
+<sold-by>
+<npc id="17904" />
+</sold-by>
+</item>
+<item id="25870" class="9.6" level="70" icon="inv_scroll_03" quality="1">
+<name>配方：合成天火钻石</name>
+<code>
+[div class="name q1"]配方：合成天火钻石[/div][div]拾取后绑定[/div][div]需要炼金术 (350)[/div][div]需要: 荣耀堡 - 尊敬[/div][div]使用: 教你学会合成天火钻石。[/div][br /][div class="name q3"]天火钻石[/div][br /][div]需要: 血榴石(3) 火榴石(3) 碧月石(3) 源生火焰(2) 源生空气(2) [/div]售价: [span class="si-gold"]8[/span]
+</code>
+<sold-by>
+<npc id="17657" />
+</sold-by>
+</item>
+<item id="29232" class="9.6" level="70" icon="inv_scroll_03" quality="1">
+<name>配方：合成天火钻石</name>
+<code>
+[div class="name q1"]配方：合成天火钻石[/div][div]拾取后绑定[/div][div]需要炼金术 (350)[/div][div]需要: 萨尔玛 - 尊敬[/div][div]使用: 教你学会合成天火钻石。[/div][br /][div class="name q3"]天火钻石[/div][br /][div]需要: 血榴石(3) 火榴石(3) 碧月石(3) 源生火焰(2) 源生空气(2) [/div]售价: [span class="si-gold"]8[/span]
+</code>
+<sold-by>
+<npc id="17585" />
+</sold-by>
+</item>
+<item id="30443" class="9.6" level="70" icon="inv_scroll_06" quality="2">
+<name>配方：源火转土</name>
+<code>
+[div class="name q2"]配方：源火转土[/div][div]拾取后绑定[/div][div]需要炼金术 (350)[/div][div]需要: 库雷尼 - 崇敬[/div][div]使用: 教你学会将源生火焰转化为源生之土。[/div][br /][div class="name q2"]源生之土[/div][br /][div]需要: 源生火焰(1) [/div]售价: [span class="si-gold"]8[/span]
+</code>
+<sold-by>
+<npc id="20240" />
+</sold-by>
+</item>
+<item id="31354" class="9.6" level="60" icon="inv_scroll_06" quality="2">
+<name>配方：泰坦合剂</name>
+<code>
+[div class="name q2"]配方：泰坦合剂[/div][div]拾取后绑定[/div][div]需要炼金术 (300)[/div][div]需要: 沙塔尔 - 崇拜[/div][div]使用: 教你学会配制泰坦合剂。[/div][br /][div class="name q1"]泰坦合剂[/div][div]需要等级 50[/div][div class="q2"]使用: 使玩家的生命值上限提高400点，持续60分钟。这种效果在死亡后仍可继续存在。战斗和守护药剂。[/div][br /][div]需要: 格罗姆之血(7) 石鳞鱼油(3) 黑莲花(1) 水晶瓶(1) [/div]售价: [span class="si-gold"]4[/span]
+</code>
+<sold-by>
+<npc id="21432" />
+</sold-by>
+</item>
+<item id="31355" class="9.6" level="60" icon="inv_scroll_06" quality="2">
+<name>配方：超级能量合剂</name>
+<code>
+[div class="name q2"]配方：超级能量合剂[/div][div]拾取后绑定[/div][div]需要炼金术 (300)[/div][div]需要: 时光守护者 - 崇拜[/div][div]使用: 教你学会配制超级能量合剂。[/div][br /][div class="name q1"]超级能量合剂[/div][div]需要等级 50[/div][div class="q2"]使用: 法术强度提高70点，持续60分钟。这种效果在死亡后仍可继续存在。战斗和守护药剂。[/div][br /][div]需要: 梦叶草(7) 山鼠草(3) 黑莲花(1) 水晶瓶(1) [/div]售价: [span class="si-gold"]4[/span]
+</code>
+<sold-by>
+<npc id="21643" />
+</sold-by>
+</item>
+<item id="31356" class="9.6" level="60" icon="inv_scroll_06" quality="2">
+<name>配方：精炼智慧合剂</name>
+<code>
+[div class="name q2"]配方：精炼智慧合剂[/div][div]拾取后绑定[/div][div]需要炼金术 (300)[/div][div]需要: 塞纳里奥远征队 - 崇拜[/div][div]使用: 教你学会配制精炼智慧合剂。[/div][br /][div class="name q1"]精炼智慧合剂[/div][div]需要等级 50[/div][div class="q2"]使用: 使玩家的智力提高65点，持续60分钟。这种效果在死亡后仍可继续存在。战斗和守护药剂。[/div][br /][div]需要: 梦叶草(7) 冰盖草(3) 黑莲花(1) 水晶瓶(1) [/div]售价: [span class="si-gold"]4[/span]
+</code>
+<sold-by>
+<npc id="17904" />
+</sold-by>
+</item>
+<item id="31357" class="9.6" level="60" icon="inv_scroll_06" quality="2">
+<name>配方：多重抗性合剂</name>
+<code>
+[div class="name q2"]配方：多重抗性合剂[/div][div]拾取后绑定[/div][div]需要炼金术 (300)[/div][div]需要: 贫民窟 - 崇拜[/div][div]使用: 教你学会配制多重抗性合剂。[/div][br /][div class="name q1"]多重抗性合剂[/div][div]需要等级 50[/div][div class="q2"]使用: 使你对所有魔法的抗性提高25点，持续60分钟。这个效果在死亡后仍可继续存在。战斗和守护药剂。[/div][br /][div]需要: 冰盖草(7) 山鼠草(3) 黑莲花(1) 水晶瓶(1) [/div]售价: [span class="si-gold"]4[/span]
+</code>
+<sold-by>
+<npc id="21655" />
+</sold-by>
+</item>
+<item id="31680" class="9.6" level="67" icon="inv_scroll_05" quality="3">
+<name>配方：魔能力量药剂</name>
+<code>
+[div class="name q3"]配方：魔能力量药剂[/div][div]拾取后绑定[/div][div]需要炼金术 (335)[/div][div]使用: 教你学会配制魔能力量药剂。[/div][br /][div class="name q1"]魔能力量药水[/div][div]需要等级 60[/div][div class="q2"]使用: 使你的攻击强度提高90点，耐力降低10点，持续60分钟。战斗药剂。[/div][br /][div]需要: 泰罗果(1) 噩梦藤(2) 灌魔之瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="21314" rate="52/24202" />
+<npc id="19740" rate="130/92044" />
+<npc id="19755" rate="51/39434" />
+<npc id="21302" rate="333/327070" />
+</dropped-by>
+</item>
+<item id="31681" class="9.6" level="69" icon="inv_scroll_05" quality="3">
+<name>配方：魔能回复药水</name>
+<code>
+[div class="name q3"]配方：魔能回复药水[/div][div]拾取后绑定[/div][div]需要炼金术 (345)[/div][div]使用: 教你学会配制魔能恢复药水。[/div][br /][div class="name q1"]魔能恢复药水[/div][div]需要等级 60[/div][div class="q2"]使用: 在24秒内恢复3200点生命值，但是所有属性降低15点，持续15分钟。(1分钟冷却)[/div][br /][div]需要: 魔草(2) 噩梦藤(3) 灌魔之瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="20887" rate="66/11272" />
+<npc id="20878" rate="632/234514" />
+<npc id="19754" rate="54/22029" />
+<npc id="19756" rate="31/13616" />
+</dropped-by>
+</item>
+<item id="31682" class="9.6" level="72" icon="inv_scroll_05" quality="3">
+<name>配方：魔能法力药水</name>
+<code>
+[div class="name q3"]配方：魔能法力药水[/div][div]拾取后绑定[/div][div]需要炼金术 (360)[/div][div]使用: 教你学会配制魔能法力药水。[/div][br /][div class="name q1"]魔能法力药水[/div][div]需要等级 60[/div][div class="q2"]使用: 在24秒内恢复3200点法力值，但是法术强度降低25点，持续15分钟。(1分钟冷却)[/div][br /][div]需要: 法力蓟(1) 噩梦藤(2) 灌魔之瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="22076" rate="8/1946" />
+<npc id="22016" rate="478/209306" />
+<npc id="22017" rate="134/61114" />
+<npc id="19795" rate="37/17336" />
+<npc id="19806" rate="90/44569" />
+</dropped-by>
+</item>
+<item id="32070" class="9.6" level="64" icon="inv_scroll_03" quality="1">
+<name>配方：土灵药剂</name>
+<code>
+[div class="name q1"]配方：土灵药剂[/div][div]拾取后绑定[/div][div]需要炼金术 (320)[/div][div]需要: 塞纳里奥远征队 - 尊敬[/div][div]使用: 教你学会配制土灵药剂。[/div][br /][div class="name q1"]土灵药剂[/div][div]需要等级 50[/div][div class="q2"]使用: 阻挡最多20点物理或魔法伤害，持续60分钟。守护药剂。[/div][br /][div]需要: 梦露花(1) 邪雾草(2) 灌魔之瓶(1) [/div]售价: [span class="si-gold"]4[/span]
+</code>
+<sold-by>
+<npc id="17904" />
+</sold-by>
+</item>
+<item id="32071" class="9.6" level="66" icon="inv_scroll_03" quality="1">
+<name>配方：铁皮药剂</name>
+<code>
+[div class="name q1"]配方：铁皮药剂[/div][div]拾取后绑定[/div][div]需要炼金术 (330)[/div][div]使用: 教你学会配制铁皮药剂。[/div][br /][div class="name q1"]铁皮药剂[/div][div]需要等级 55[/div][div class="q2"]使用: 韧性等级提高30，持续60分钟。守护药剂。[/div][br /][div]需要: 远古苔(1) 邪雾草(1) 灌魔之瓶(1) [/div]售价: 哈兰研究勋章(2)
+</code>
+<sold-by>
+<npc id="18821" />
+<npc id="18822" />
+</sold-by>
+</item>
+<item id="33209" class="9.6" level="70" icon="inv_scroll_06" quality="2">
+<name>配方：多彩奇迹合剂</name>
+<code>
+[div class="name q2"]配方：多彩奇迹合剂[/div][div]需要炼金术 (375)[/div][div]需要: 紫罗兰之眼 - 尊敬[/div][div]使用: 教你学会制作多彩奇迹合剂。[/div][br /][div class="name q1"]多彩奇迹合剂[/div][div]需要等级 65[/div][div class="q2"]使用: 使你的所有魔法抗性提高35点，所有属性提高18点，持续60分钟。这种效果在死亡后仍可继续存在。战斗和守护药剂。[/div][br /][div]需要: 梦露花(7) 虚空花(3) 魔莲花(1) 灌魔之瓶(1) [/div]售价: [span class="si-gold"]4[/span]
+</code>
+<sold-by>
+<npc id="18255" />
+</sold-by>
+</item>
+<item id="35294" class="9.6" level="73" icon="inv_scroll_06" quality="2">
+<name>配方：强化药剂</name>
+<code>
+[div class="name q2"]配方：强化药剂[/div][div]拾取后绑定[/div][div]需要炼金术 (365)[/div][div]使用: 教你学会配制强化药剂。[/div][br /][div class="name q1"]强化药剂[/div][div]需要等级 60[/div][div class="q2"]使用: 使你的法术目标的魔法抗性降低30点，持续60分钟。守护药剂。[/div][br /][div]需要: 虚空花(1) 法力蓟(1) 灌魔之瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="24664" rate="220/37603" />
+</dropped-by>
+</item>
+<item id="35295" class="9.6" level="70" icon="inv_scroll_06" quality="2">
+<name>配方：加速药水</name>
+<code>
+[div class="name q2"]配方：加速药水[/div][div]拾取后绑定[/div][div]需要炼金术 (350)[/div][div]使用: 教你学会配制加速药水。[/div][br /][div class="name q1"]加速药水[/div][div]需要等级 60[/div][div class="q2"]使用: 急速等级提高400，效果持续15秒。(1分钟冷却)[/div][br /][div]需要: 泰罗果(2) 虚空花(1) 灌魔之瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="24664" rate="222/37603" />
+</dropped-by>
+</item>
+<item id="35752" class="9.6" level="70" icon="inv_scroll_03" quality="1">
+<name>配方：守护者的炼金石</name>
+<code>
+[div class="name q1"]配方：守护者的炼金石[/div][div]拾取后绑定[/div][div]需要炼金术 (375)[/div][div]需要: 破碎残阳 - 崇拜[/div][div]使用: 教你学会制作守护者的炼金石。[/div][br /][div class="name q4"]守护者的炼金石[/div][div]拾取后绑定[/div][div]唯一[/div][div]饰品[/div][div]需要炼金术 (350)[/div][div class="q2"]装备: 防御等级提高54。[/div][div class="q2"]装备: 使你在饮用治疗药水和法力药水时获得的效果提高40%。这个效果无法叠加。[/div][br /][div]需要: 炼金石(1) 源生空气(6) 虚空漩涡(2) [/div]售价: [span class="si-gold"]25[/span]
+</code>
+<sold-by>
+<npc id="25032" />
+</sold-by>
+</item>
+<item id="35753" class="9.6" level="70" icon="inv_scroll_03" quality="1">
+<name>配方：巫师的炼金石</name>
+<code>
+[div class="name q1"]配方：巫师的炼金石[/div][div]拾取后绑定[/div][div]需要炼金术 (375)[/div][div]需要: 破碎残阳 - 崇拜[/div][div]使用: 教你学会制作巫师的炼金石。[/div][br /][div class="name q4"]巫师的炼金石[/div][div]拾取后绑定[/div][div]唯一[/div][div]饰品[/div][div]需要炼金术 (350)[/div][div class="q2"]装备: 使你在饮用治疗药水和法力药水时获得的效果提高40%。这个效果无法叠加。[/div][div class="q2"]装备: 法术强度提高63点。[/div][br /][div]需要: 炼金石(1) 源生火焰(6) 虚空漩涡(2) [/div]售价: [span class="si-gold"]25[/span]
+</code>
+<sold-by>
+<npc id="25032" />
+</sold-by>
+</item>
+<item id="35754" class="9.6" level="70" icon="inv_scroll_03" quality="1">
+<name>配方：救赎者的炼金石</name>
+<code>
+[div class="name q1"]配方：救赎者的炼金石[/div][div]拾取后绑定[/div][div]需要炼金术 (375)[/div][div]需要: 破碎残阳 - 崇拜[/div][div]使用: 教你学会制作救赎者的炼金石。[/div][br /][div class="name q4"]救者的炼金石[/div][div]拾取后绑定[/div][div]唯一[/div][div]饰品[/div][div]需要炼金术 (350)[/div][div class="q2"]装备: 你在饮用治疗药水法力药水时获得的效果提高40%。这个效果无法叠加。[/div][div class="q2"]装备: 法术强度提高63点。[/div][br /][div]需要: 炼金石(1) 源生生命(6) 虚空漩涡(2) [/div]售价: [span class="si-gold"]25[/span]
+</code>
+<sold-by>
+<npc id="25032" />
+</sold-by>
+</item>
+<item id="35755" class="9.6" level="70" icon="inv_scroll_03" quality="1">
+<name>配方：刺客的炼金石</name>
+<code>
+[div class="name q1"]配方：刺客的炼金石[/div][div]拾取后绑定[/div][div]需要炼金术 (375)[/div][div]需要: 破碎残阳 - 崇拜[/div][div]使用: 教你学会制作刺客的炼金石。[/div][br /][div class="name q4"]刺客的炼金石[/div][div]拾取后绑定[/div][div]唯一[/div][div]饰品[/div][div]需要炼金术 (350)[/div][div class="q2"]装备: 使你在饮用治疗药水和法力药水时获得的效果提高40%。这个效果无法叠加。[/div][div class="q2"]装备: 攻击强度提高108点。[/div][br /][div]需要: 炼金石(1) 源生暗影(6) 虚空漩涡(2) [/div]售价: [span class="si-gold"]25[/span]
+</code>
+<sold-by>
+<npc id="25032" />
+</sold-by>
+</item>
+<item id="44564" class="9.6" level="75" icon="inv_scroll_06" quality="2">
+<name>配方：极效奥术防护药水</name>
+<code>
+[span class="name q2"]配方：极效奥术防护药水[/span][br /]拾取后绑定[br /]需要炼金术 (400)[br /]使用: 教你学会配制极效奥术防护药水。[br /][br /][span class="name q1"]极效奥术防护药水[/span][br /]需要等级 70[br /][span class="q2"]使用: 吸收4200至6000点奥术伤害，持续2分钟。(1分钟冷却)[/span][br /][br /]需要: 土之结晶(2) 灌魔之瓶(1)
+</code>
+<dropped-by>
+<npc id="32297" rate="1042/158010" />
+<npc id="31702" rate="36/7989" />
+</dropped-by>
+</item>
+<item id="44565" class="9.6" level="75" icon="inv_scroll_06" quality="2">
+<name>配方：极效火焰防护药水</name>
+<code>
+[div class="name q2"]配方：极效火焰防护药水[/div][div]拾取后绑定[/div][div]需要炼金术 (400)[/div][div]使用: 教你学会配制极效火焰防护药水。[/div][br /][div class="name q1"]极效火焰防护药水[/div][div]需要等级 70[/div][div class="q2"]使用: 吸收4200到6000点火焰伤害，持续2分钟。(1分钟冷却)[/div][br /][div]需要: 水之结晶(2) 灌魔之瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="31321" rate="138/11450" />
+<npc id="30921" rate="304/72087" />
+</dropped-by>
+</item>
+<item id="44566" class="9.6" level="75" icon="inv_scroll_06" quality="2">
+<name>配方：极效冰霜防护药水</name>
+<code>
+[div class="name q2"]配方：极效冰霜防护药水[/div][div]拾取后绑定[/div][div]需要炼金术 (400)[/div][div]使用: 教你学会配制极效冰霜防护药水。[/div][br /][div class="name q1"]极效冰霜防护药水[/div][div]需要等级 70[/div][div class="q2"]使用: 吸收4200到6000点冰霜伤害，持续2分钟。(1分钟冷却)[/div][br /][div]需要: 火焰结晶(2) 灌魔之瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="32289" rate="526/150451" />
+</dropped-by>
+</item>
+<item id="44567" class="9.6" level="75" icon="inv_scroll_06" quality="2">
+<name>配方：极效自然防护药水</name>
+<code>
+[div class="name q2"]配方：极效自然防护药水[/div][div]拾取后绑定[/div][div]需要炼金术 (400)[/div][div]使用: 教你学会配制极效自然防护药水。[/div][br /][div class="name q1"]极效自然防护药水[/div][div]需要等级 70[/div][div class="q2"]使用: 吸收4200到6000点自然伤害，持续2分钟。(1分钟冷却)[/div][br /][div]需要: 暗影结晶(2) 灌魔之瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="32290" rate="519/172438" />
+</dropped-by>
+</item>
+<item id="44568" class="9.6" level="75" icon="inv_scroll_06" quality="2">
+<name>配方：极效暗影防护药水</name>
+<code>
+[div class="name q2"]配方：极效暗影防护药水[/div][div]拾取后绑定[/div][div]需要炼金术 (400)[/div][div]使用: 教你学会配制极效暗影防护药水。[/div][br /][div class="name q1"]极效暗影防护药水[/div][div]需要等级 70[/div][div class="q2"]使用: 吸收4200到6000点暗影伤害，持续2分钟。(1分钟冷却)[/div][br /][div]需要: 生命结晶(2) 灌魔之瓶(1) [/div]
+</code>
+<dropped-by>
+<npc id="32349" rate="346/44668" />
+</dropped-by>
+</item>
+<item id="4632" class="15.0" level="20" icon="inv_misc_ornatebox" quality="2">
+<name>精制青铜宝箱</name>
+<code>
+[div class="name q2"]精制青铜宝箱[/div]
+</code>
+</item>
+<item id="4633" class="15.0" level="25" icon="inv_misc_ornatebox" quality="2">
+<name>厚重青铜宝箱</name>
+<code>
+[div class="name q2"]厚重青铜宝箱[/div]
+</code>
+</item>
+<item id="4634" class="15.0" level="30" icon="inv_misc_ornatebox" quality="2">
+<name>铁质宝箱</name>
+<code>
+[div class="name q2"]铁质宝箱[/div]
+</code>
+</item>
+<item id="4636" class="15.0" level="35" icon="inv_misc_ornatebox" quality="2">
+<name>精铁宝箱</name>
+<code>
+[div class="name q2"]精铁宝箱[/div]
+</code>
+</item>
+<item id="4637" class="15.0" level="40" icon="inv_misc_ornatebox" quality="2">
+<name>钢质宝箱</name>
+<code>
+[div class="name q2"]钢质宝箱[/div]
+</code>
+</item>
+<item id="4638" class="15.0" level="45" icon="inv_misc_ornatebox" quality="2">
+<name>强化钢质宝箱</name>
+<code>
+[div class="name q2"]强化钢质宝箱[/div]
+</code>
+</item>
+<item id="5758" class="15.0" level="50" icon="inv_misc_ornatebox" quality="2">
+<name>秘银宝箱</name>
+<code>
+[div class="name q2"]秘银宝箱[/div]
+</code>
+</item>
+<item id="5759" class="15.0" level="55" icon="inv_misc_ornatebox" quality="2">
+<name>瑟银宝箱</name>
+<code>
+[div class="name q2"]瑟银宝箱[/div]
+</code>
+</item>
+<item id="6307" class="15.0" icon="inv_drink_12" quality="1">
+<name>瓶中信</name>
+<code>
+[div class="name q1"]瓶中信[/div]
+</code>
+</item>
+<item id="9265" class="12.0" level="45" icon="inv_box_01" quality="2">
+<name>科尔戈的秘密宝藏</name>
+<code>
+[div class="name q2"]科尔戈的秘密宝藏[/div]
+</code>
+<reward-from>
+<quest id="2882" />
+</reward-from>
+</item>
+<item id="10479" class="15.0" level="50" icon="inv_misc_bag_07_black" quality="2">
+<name>考维克的贸易背包</name>
+<code>
+[div class="name q2"]考维克的贸易背包[/div][div]拾取后绑定[/div]
+</code>
+<reward-from>
+<quest id="3385" />
+</reward-from>
+</item>
+<item id="10569" class="15.0" level="50" icon="inv_box_02" quality="1">
+<name>黑龙军团宝箱</name>
+<code>
+[div class="name q1"]黑龙军团宝箱[/div][div]拾取后绑定[/div][div]唯一[/div][div class="q"]"盖有欺诈者卡拉然的徽记。"[/div]
+</code>
+<reward-from>
+<quest id="3481" />
+</reward-from>
+</item>
+<item id="10752" class="15.0" level="55" icon="inv_box_03" quality="2">
+<name>翡翠宝箱</name>
+<code>
+[div class="name q2"]翡翠宝箱[/div][div]拾取后绑定[/div]
+</code>
+<reward-from>
+<quest id="2521" />
+<quest id="2522" />
+</reward-from>
+</item>
+<item id="17726" class="15.0" level="1" icon="inv_holiday_christmas_present_01" quality="1">
+<name>烟林牧场特殊礼物</name>
+<code>
+[div class="name q1"]烟林牧场特殊礼物[/div][div]拾取后绑定[/div][div]唯一[/div]
+</code>
+<reward-from>
+<quest id="6984" />
+<quest id="7045" />
+</reward-from>
+</item>
+<item id="19035" class="15.0" level="50" icon="inv_box_01" quality="2">
+<name>拉尔德的午餐篮</name>
+<code>
+[div class="name q2"]拉尔德的午餐篮[/div][div]拾取后绑定[/div]
+</code>
+<reward-from>
+<quest id="7840" />
+</reward-from>
+</item>
+<item id="19297" class="0.8" level="35" icon="inv_misc_bag_07_black" quality="2">
+<name>中级暗月奖品</name>
+<code>
+[span class="name q2"]中级暗月奖品[/span][br /]需要等级 30[br /][span class="q"]"保证内有一件贵重物品！"[/span]
+</code>
+<reward-from>
+<quest id="7932" />
+</reward-from>
+</item>
+<item id="19298" class="0.8" level="20" icon="inv_misc_bag_04" quality="2">
+<name>初级暗月奖品</name>
+<code>
+[div class="name q2"]初级暗月奖品[/div][div]需要等级 15[/div][div class="q"]"保证内有一件贵重物品！"[/div]
+</code>
+<reward-from>
+<quest id="7931" />
+</reward-from>
+</item>
+<item id="19425" class="0.0" level="1" icon="inv_box_02" quality="2">
+<name>神秘的箱子</name>
+<code>
+[div class="name q2"]神秘的箱子[/div][div]拾取后绑定[/div][div]唯一[/div]
+</code>
+<reward-from>
+<quest id="7937" />
+<quest id="7938" />
+<quest id="7944" />
+<quest id="7945" />
+</reward-from>
+</item>
+<item id="21327" class="15.0" level="1" icon="inv_holiday_christmas_present_01" quality="1">
+<name>条纹礼物盒</name>
+<code>
+[div class="name q1"]条纹礼物盒[/div][div]拾取后绑定[/div]
+</code>
+<reward-from>
+<quest id="8769" />
+</reward-from>
+</item>
+<item id="33926" class="0.0" level="1" icon="inv_gizmo_khoriumpowercore" quality="3">
+<name>密封的卷轴盒</name>
+<code>
+[div class="name q3"]密封的卷轴盒[/div][div]拾取后绑定[/div][div]唯一[/div][div class="q"]"密封的小盒子。"[/div]售价: [span class="si-silver"]10[/span]
+</code>
+<sold-by>
+<npc id="24396" count="1" />
+</sold-by>
+</item>
+</items>

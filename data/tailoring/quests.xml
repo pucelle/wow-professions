@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quests>
+<quest id="2521" level="55" requires-level="45" side="1" colors="45 51 53 58 66">
+<start type="npc" id="7363" />
+<name>为库米沙效力</name>
+<description>在你探索诅咒之地的旅程中，如果碰巧发现了无暇的德莱尼水晶球，就把它交给收藏家库米沙。\n\n你要知道，这种宝石是整个艾泽拉斯最珍稀的水晶。诅咒之地上的任何一种生物都有可能带着一颗无暇的德莱尼水晶球。\n\n每找到一颗，你都会得到相应的酬劳。</description>
+</quest>
+<quest id="2522" level="55" requires-level="45" side="1" colors="45 51 53 58 66">
+<start type="npc" id="7363" />
+<name>库米沙的努力</name>
+<description>找到一颗无暇的德莱尼水晶球，把它交给收藏家库米沙。</description>
+</quest>
+<quest id="2747" level="60" requires-level="42" side="1" colors="42 56 58 63 72">
+<start type="npc" id="7763" />
+<name>特别的蛋</name>
+<description>从菲拉斯发现的各种蛋中，我只见过极少数 "特别的蛋"。这种蛋真的非常稀有...</description>
+</quest>
+<quest id="2882" level="45" requires-level="40" side="1" colors="40 41 43 48 55">
+<start type="item" id="9254" />
+<name>科尔戈的黄金</name>
+<description>找到科尔戈的黄金！</description>
+</quest>
+<quest id="3402" level="50" requires-level="40" side="1" colors="40 46 48 53 61">
+<start type="npc" id="8439" />
+<name>黑市交易</name>
+<description>和加基森的维兹格里克谈一谈。</description>
+</quest>
+<quest id="3481" level="50" requires-level="40" side="1" colors="40 46 48 53 61">
+<start type="object" id="149502" />
+<name>打开箱子…</name>
+<description>打开箱子。</description>
+</quest>
+<quest id="6032" level="55" requires-level="50" side="3" colors="50 51 53 58 66">
+<start type="npc" id="11557" />
+<name>神圣的月布</name>
+<description>把2块月布交给木喉要塞的梅罗什。</description>
+</quest>
+<quest id="6984" requires-level="30" side="3" colors="0 0 0 0 0">
+<start type="npc" id="13418" />
+<name>烟林牧场的感谢</name>
+<description>和奥格瑞玛的冬天爷爷谈一谈。</description>
+</quest>
+<quest id="7045" requires-level="30" side="2" colors="0 0 0 0 0">
+<start type="npc" id="13433" />
+<name>烟林牧场的感谢</name>
+<description>和铁炉堡的冬天爷爷谈一谈。</description>
+</quest>
+<quest id="7840" level="49" requires-level="44" side="3" colors="44 45 47 52 59">
+<start type="npc" id="14731" />
+<name>拉尔德的午餐</name>
+<description>辛特兰恶齿村的拉尔德要求你去找到拉尔德的午餐。完成任务之后就回到他那里去。\n\n拉尔德说他把午餐留在了北面的岛上。当心邪枝巨魔。</description>
+</quest>
+<quest id="7931" requires-level="15" side="1" colors="0 0 0 0 0">
+<start type="npc" id="14828" />
+<name>5张奖券 - 小奖品</name>
+</quest>
+<quest id="7932" requires-level="30" side="1" colors="0 0 0 0 0">
+<start type="npc" id="14828" />
+<name>12张奖券 - 普通奖品</name>
+</quest>
+<quest id="7933" requires-level="45" side="1" colors="0 0 0 0 0">
+<start type="npc" id="14828" />
+<name>40张奖券 - 高级奖品</name>
+</quest>
+<quest id="7937" requires-level="10" side="1" colors="0 0 0 0 0">
+<start type="item" id="19423" />
+<name>财富在等着你……</name>
+<description>到艾尔文森林的东谷伐木场去寻找你的财宝吧。</description>
+</quest>
+<quest id="7938" requires-level="10" side="1" colors="0 0 0 0 0">
+<start type="item" id="19424" />
+<name>财富在等着你……</name>
+<description>到西部荒野的死亡矿井中去寻找你的财宝吧。</description>
+</quest>
+<quest id="7944" requires-level="10" side="1" colors="0 0 0 0 0">
+<start type="item" id="19443" />
+<name>财富在等着你……</name>
+<description>到贫瘠之地的哀嚎洞穴中去寻找你的财宝吧。</description>
+</quest>
+<quest id="7945" requires-level="10" side="1" colors="0 0 0 0 0">
+<start type="item" id="19452" />
+<name>财富在等着你……</name>
+<description>到莫高雷的灰月洞穴去寻找你的财宝吧。</description>
+</quest>
+<quest id="8769" requires-level="40" side="1" colors="0 0 0 0 0">
+<start type="object" id="180748" />
+<name>条纹礼物盒</name>
+<description>打开圣诞树下的条纹礼物盒。</description>
+</quest>
+<quest id="9806" level="64" requires-level="62" side="1" colors="0 0 62 67 76">
+<start type="npc" id="17925" />
+<name>成熟的孢子</name>
+<description>从赞加沼泽的孢子蝠和泥沼游荡者身上收集6个成熟的孢子，把它们交给孢子村的格沙弗。</description>
+</quest>
+<quest id="9807" level="64" requires-level="62" side="1" colors="0 0 62 67 76">
+<start type="npc" id="17925" />
+<name>更多成熟的孢子</name>
+<description>为孢子村的格沙弗带去更多成熟的孢子。</description>
+</quest>
+<quest id="13265" colors="0 0 0 0 0">
+<start type="npc" id="26914" />
+<name>布匹搜寻</name>
+</quest>
+<quest id="13268" colors="0 0 0 0 0">
+<start type="npc" id="26964" />
+<name>布匹搜寻</name>
+</quest>
+<quest id="13269" colors="0 0 0 0 0">
+<start type="npc" id="26969" />
+<name>布匹搜寻</name>
+</quest>
+<quest id="13270" colors="0 0 0 0 0">
+<start type="npc" id="27001" />
+<name>布匹搜寻</name>
+</quest>
+<quest id="13272" colors="0 0 0 0 0">
+<start type="npc" id="28699" />
+<start type="npc" id="33580" />
+<name>布匹搜寻</name>
+</quest>
+<quest id="10831" level="70" requires-level="60" side="1" colors="60 66 68 73 83">
+<start type="npc" id="22208" />
+<name>成为月布裁缝</name>
+<description>在塞纳里奥庇护所的月亮井中将一块魔化灵纹布制造成原始月布样品。将原始月布样品交给沙塔斯城贫民窟的纳丝玛拉·月歌。\n\n*注意！* 你只能选择一种裁缝专精。</description>
+</quest>
+<quest id="10833" level="70" requires-level="60" side="1" colors="60 66 68 73 83">
+<start type="npc" id="22212" />
+<name>成为暗纹裁缝</name>
+<description>在暗影祭坛附近使用深影水晶，使你与祭坛产生更强大的魔法共鸣，然后返回沙塔斯城的贫民窟，向安迪恩·达克斯宾复命。\n\n*注意！* 你只能选择一种裁缝专精。</description>
+</quest>
+<quest id="10832" level="70" requires-level="60" side="1" colors="60 66 68 73 83">
+<start type="npc" id="22213" />
+<name>成为魔焰裁缝</name>
+<description>将虚空怨灵精华的样本交给沙塔斯城贫民窟的金吉·斯比维尔。\n\n*注意！* 你只能选择一种裁缝专精。</description>
+</quest>
+<quest id="13818" level="80" requires-level="80" side="1" colors="0 0 80 83 94">
+<start type="npc" id="33957" />
+<name>英雄：奥尔加隆</name>
+<description>将守护者的徽记带到奥杜尔的档案馆控制台前。</description>
+</quest>
+<quest id="3379" level="50" requires-level="40" side="1" colors="40 46 48 53 61">
+<start type="npc" id="8439" />
+<name>暗影蛛丝</name>
+<description>杀死在灼热峡谷游荡的暗影蛛丝偷猎者小队。尼莉丝认为他们共有5名成员，你的任务就是把他们全都干掉。</description>
+</quest>
+<quest id="3442" level="48" requires-level="40" side="1" colors="40 44 46 51 58">
+<start type="npc" id="8479" />
+<name>无瑕之焰</name>
+<description>收集4份烈焰之心和4份傀儡之油，然后把这些东西交给卡拉然·温布雷。</description>
+</quest>
+<quest id="6963" requires-level="30" side="3" colors="0 0 0 0 0">
+<start type="npc" id="13418" />
+<name>被偷走的冬幕节礼物</name>
+<description>前往奥特兰克山脉雪域寻找失踪的烟林牧场密探。</description>
+</quest>
+<quest id="7042" requires-level="30" side="2" colors="0 0 0 0 0">
+<start type="npc" id="13434" />
+<name>被偷走的冬幕节礼物</name>
+<description>前往奥特兰克山脉雪域寻找失踪的烟林牧场密探。</description>
+</quest>
+</quests>

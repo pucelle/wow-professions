@@ -1,0 +1,155 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>魔兽世界 - 珠宝加工指南</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="x-ua-compatible" content="IE=7" />
+<meta name="keywords" content="WoW,World of Warcraft,Profession,魔兽,魔兽世界,专业技能" />
+<meta name="author" content="FF" />
+<link rel="stylesheet" href="style.css" />
+<style type="text/css">
+.topsearchbar ul, .bottomsearchbar ul{display:none;}
+</style>
+<link rel="shortcut icon" href="background/favicon.ico" />
+<script type="text/javascript" src="js/base.js"></script>
+<script type="text/javascript" src="js/tip.js"></script>
+<script type="text/javascript" src="js/wowtip.js"></script>
+<script type="text/javascript" src="js/link.js"></script>
+<script type="text/javascript" src="js/table.js"></script>
+<!--[if IE 6]>
+ <script type="text/javascript" src="js/ie7.js"></script>
+<![endif]-->
+<script type="text/javascript">
+var callback = counting(2, function(){
+	Downloaded();
+	tooltip.init();
+	wowtip.init(xmltable);
+	document.body.className = store.get("camp") ? store.get("camp") : (store.set("camp", "alliance").get("camp"));
+	linkProfession(8);
+	skillTable.init("珠宝加工", "图鉴", [
+		["trainer"],
+		["level",0,150],
+		["level",150,300],
+		["level",300,345],
+		["level",345,350],
+		["level",350,370],
+		["level",370,375],
+		["level",375,425],
+		["level",425,450],
+		["favourite"],
+		["search"]
+	]);
+
+	favourite.init("jewelcrafting");
+	skillMenu.init("jewelcrafting");
+	
+	var topsearchbar = document.getElementById("menu-top").getElementsByTagName("a");
+	topsearchbar = topsearchbar[topsearchbar.length - 1];
+	MouseoutDelay(topsearchbar, topsearchbar.getElementsByTagName("ul")[0]);
+	var bottomsearchbar = document.getElementById("menu-bottom").getElementsByTagName("a");
+	bottomsearchbar = bottomsearchbar[bottomsearchbar.length - 1];
+	MouseoutDelay(bottomsearchbar, bottomsearchbar.getElementsByTagName("ul")[0]);
+});
+
+var xmltable = loadxml({
+	item	: "data/jewelcrafting/items.xml",
+	npc		: "data/jewelcrafting/npcs.xml",
+	quest	: "data/jewelcrafting/quests.xml",
+	spell	: "data/jewelcrafting/spells.xml",
+	skill	: "data/jewelcrafting/skills.xml",
+	object	: "data/jewelcrafting/objects.xml",
+	comment	: "data/jewelcrafting/comments.xml",
+	map		: "data/maps.xml"
+}, callback);
+
+domloaded(callback);
+</script>
+</head>
+<body>
+<!--[if IE]>
+<div id="browser">
+<a id="ff" href="http://www.mozillaonline.com/" title="Firefox"><span></span></a>
+<a id="op" href="http://www.operachina.com/" title="Opera"><span></span></a>
+<a id="ch" href="http://www.google.com/chrome/" title="Chrome"><span></span></a>
+<a id="sf" href="http://www.apple.com.cn/safari/download/" title="Safari"><span></span></a>
+</div>
+<![endif]-->
+<div id="wrapper">
+<div id="header">
+<div id="headerbg"></div>
+<div id="skills"></div>
+<div id="version">版本: 3.3.5</div>
+<div id="camp">
+<span class="a2 h3 si-alliance" onclick="changeCamp('alliance')" title="点击以切换到联盟状态">联盟</span>
+<span class="a3 h2 si-horde" onclick="changeCamp('horde')" title="点击以切换到部落状态">部落</span>
+</div>
+</div>
+<div id="menu-top">
+<a href="javascript:skillMenu.click(0)">&nbsp;训练师&nbsp;</a>
+<a href="javascript:skillMenu.click(1)">1-150</a>
+<a href="javascript:skillMenu.click(2)">160-300</a>
+<a href="javascript:skillMenu.click(3)">305-345</a>
+<a href="javascript:skillMenu.click(4)">350</a>
+<a href="javascript:skillMenu.click(5)">355-370</a>
+<a href="javascript:skillMenu.click(6)">375</a>
+<a href="javascript:skillMenu.click(7)">380-425</a>
+<a href="javascript:skillMenu.click(8)">430-450</a>
+<a href="javascript:skillMenu.click(9)" title="左键点击一个专业技能制造的物品以加入收藏夹，再次点击以删除。">&nbsp;收藏夹&nbsp;</a>
+<a href="javascript:" class="topsearchbar">
+<span onclick="skillMenu.click(10)">&nbsp;搜索栏&nbsp;</span>
+<ul>
+<li onclick="skillTable.searchByClass('3.0')">红</li>
+<li onclick="skillTable.searchByClass('3.1')">蓝</li>
+<li onclick="skillTable.searchByClass('3.2')">黄</li>
+<li onclick="skillTable.searchByClass('3.3')">紫</li>
+<li onclick="skillTable.searchByClass('3.4')">绿</li>
+<li onclick="skillTable.searchByClass('3.5')">橙</li>
+<li onclick="skillTable.searchByClass('3.6')">多彩</li>
+<li onclick="skillTable.searchByClass('3.8')">棱彩</li>
+<li onclick="skillTable.searchByClass('4.1.1 4.2.1 4.3.1 4.4.1')">头冠</li>
+<li onclick="skillTable.searchByClass('4.-3')">项链</li>
+<li onclick="skillTable.searchByClass('4.-2')">戒指</li>
+<li onclick="skillTable.searchByClass('4.-4')">雕像</li>
+<li onclick="skillTable.searchByClass('7.4')">材料</li>
+</ul>
+</a></a>
+<div id="search">
+<input id="text" type="text" onkeydown="if(event.keyCode==13){skillTable.search();}" />
+<div id="go" title="搜索珠宝加工技能" onclick="skillTable.search();"></div>
+</div>
+</div>
+<div id="content"></div>
+<div id="menu-bottom">
+<a href="javascript:skillMenu.click(0)">&nbsp;训练师&nbsp;</a>
+<a href="javascript:skillMenu.click(1)">1-150</a>
+<a href="javascript:skillMenu.click(2)">160-300</a>
+<a href="javascript:skillMenu.click(3)">305-345</a>
+<a href="javascript:skillMenu.click(4)">350</a>
+<a href="javascript:skillMenu.click(5)">355-370</a>
+<a href="javascript:skillMenu.click(6)">375</a>
+<a href="javascript:skillMenu.click(7)">380-425</a>
+<a href="javascript:skillMenu.click(8)">430-450</a>
+<a href="javascript:skillMenu.click(9)" title="左键点击一个专业技能制造的物品以加入收藏夹，再次点击以删除。">&nbsp;收藏夹&nbsp;</a>
+<a href="javascript:" class="bottomsearchbar">
+<span onclick="skillMenu.click(10)">&nbsp;搜索栏&nbsp;</span>
+<ul>
+<li onclick="skillTable.searchByClass('3.0')">红</li>
+<li onclick="skillTable.searchByClass('3.1')">蓝</li>
+<li onclick="skillTable.searchByClass('3.2')">黄</li>
+<li onclick="skillTable.searchByClass('3.3')">紫</li>
+<li onclick="skillTable.searchByClass('3.4')">绿</li>
+<li onclick="skillTable.searchByClass('3.5')">橙</li>
+<li onclick="skillTable.searchByClass('3.6')">多彩</li>
+<li onclick="skillTable.searchByClass('3.8')">棱彩</li>
+<li onclick="skillTable.searchByClass('4.1.1 4.2.1 4.3.1 4.4.1')">头冠</li>
+<li onclick="skillTable.searchByClass('4.-3')">项链</li>
+<li onclick="skillTable.searchByClass('4.-2')">戒指</li>
+<li onclick="skillTable.searchByClass('4.-4')">雕像</li>
+<li onclick="skillTable.searchByClass('7.4')">材料</li>
+</ul>
+</a></a>
+</div>
+<div id="footer"></div>
+</div>
+</body>
+</html>

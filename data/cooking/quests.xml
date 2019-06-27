@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quests>
+<quest id="5" level="20" requires-level="17" side="2" colors="0 17 18 23 27">
+<start type="npc" id="288" />
+<name>饥肠辘辘的基特斯</name>
+<description>和厨师格鲁奥谈一谈。</description>
+</quest>
+<quest id="22" level="12" requires-level="9" side="2" colors="0 9 10 15 18">
+<start type="npc" id="235" />
+<name>猪肝馅饼</name>
+<description>萨尔玛·萨丁需要8片血牙野猪的肝来烹制猪肝馅饼。</description>
+</quest>
+<quest id="38" level="13" requires-level="9" side="2" colors="0 9 11 16 19">
+<start type="npc" id="235" />
+<name>杂味炖肉</name>
+<description>萨尔玛·萨丁需要3块秃鹫肉条、3只血牙野猪的头、3颗鱼人的眼睛和3棵秋葵。</description>
+</quest>
+<quest id="90" level="25" requires-level="18" side="2" colors="18 21 23 28 33">
+<start type="npc" id="272" />
+<name>干烤狼肉串</name>
+<description>收集10块狼肋排和1份暴风城特产调料，再回夜色镇去找厨师格鲁奥。</description>
+</quest>
+<quest id="92" level="18" requires-level="15" side="2" colors="0 15 16 21 25">
+<start type="npc" id="343" />
+<name>赤脊山炖肉</name>
+<description>湖畔镇的厨师布雷纳想要5块硬秃鹫肉，5个巨型血牙野猪头和5份香脆蜘蛛肉。</description>
+</quest>
+<quest id="93" beginning="5" level="20" requires-level="17" side="2" colors="0 17 18 23 27">
+<start type="npc" id="272" />
+<name>黑蟹蛋糕</name>
+<description>收集6条粘糊的蜘蛛腿，把它们交给夜色镇的厨师格鲁奥。</description>
+</quest>
+<quest id="127" level="21" requires-level="16" side="2" colors="16 17 19 24 28">
+<start type="npc" id="381" />
+<name>卖鱼</name>
+<description>给湖畔镇的码头管理员巴伦带去10条斑点太阳鱼。</description>
+</quest>
+<quest id="294" level="24" requires-level="22" side="2" colors="0 0 22 27 32">
+<start type="npc" id="1078" />
+<name>奥莫尔的复仇</name>
+<description>维尔加挖掘场的奥莫尔·铁衣要求你杀死10只杂斑迅猛龙和10只杂斑尖啸龙。</description>
+</quest>
+<quest id="296" beginning="294" level="29" requires-level="22" side="2" colors="22 25 27 32 37">
+<start type="npc" id="1078" />
+<name>奥莫尔的复仇</name>
+<description>维尔加挖掘场的奥莫尔·铁衣要求你杀死萨尔图斯，并在任务完成之后带着它的一只爪子向他复命。</description>
+</quest>
+<quest id="384" level="7" requires-level="5" side="2" colors="0 0 5 10 13">
+<start type="npc" id="1267" />
+<name>啤酒烤猪排</name>
+<description>卡拉诺斯的拉格纳·雷酒需要6块峭壁野猪肋排和1杯狂想麦酒。</description>
+</quest>
+<quest id="385" level="15" requires-level="10" side="2" colors="10 11 13 18 22">
+<start type="npc" id="1154" />
+<name>捕猎鳄鱼</name>
+<description>收集5块鳄鱼肉和6张鳄鱼皮，把它们交给旅行者营地里的马雷克·铁心。</description>
+</quest>
+<quest id="418" level="11" requires-level="7" side="2" colors="0 7 9 14 17">
+<start type="npc" id="1963" />
+<name>塞尔萨玛血肠</name>
+<description>收集3块熊肉、3根猪大肠和3份蜘蛛的毒液，把它们交给塞尔萨玛的维德拉·壁炉。</description>
+</quest>
+<quest id="471" beginning="484" level="26" requires-level="18" side="2" colors="18 22 24 29 34">
+<start type="npc" id="2094" />
+<name>学徒的职责</name>
+<description>为米奈希尔港的詹姆斯·哈洛兰带回6张巨型鳄鱼的皮。</description>
+</quest>
+<quest id="484" level="22" requires-level="18" side="2" colors="0 18 20 25 29">
+<start type="npc" id="2094" />
+<name>小鳄鱼皮</name>
+<description>为米奈希尔港口的詹姆斯·哈洛兰带回4张小鳄鱼皮。</description>
+</quest>
+<quest id="498" level="22" requires-level="17" side="3" colors="17 18 20 25 29">
+<start type="npc" id="2229" />
+<name>拯救行动</name>
+<description>塔伦米尔的克鲁斯克要你把德鲁尔和托格萨从敦霍尔德城堡救出来。</description>
+</quest>
+<quest id="501" level="24" requires-level="21" side="3" colors="0 21 22 27 32">
+<start type="npc" id="2216" />
+<name>痛苦药剂</name>
+<description>收集10瓶山地狮的血液，把它们交给塔伦米尔的药剂师林度恩。</description>
+</quest>
+<quest id="555" level="31" requires-level="28" side="2" colors="0 28 29 34 39">
+<start type="npc" id="2430" />
+<name>海龟汤</name>
+<description>给南海镇的厨师杰森带去10块海龟肉。</description>
+</quest>
+<quest id="564" level="34" requires-level="30" side="2" colors="0 30 32 37 43">
+<start type="npc" id="2382" />
+<name>损失惨重</name>
+<description>南海镇的达伦·玛尔维要你杀掉8只山地狮和10只巨型山地狮。</description>
+</quest>
+<quest id="703" level="40" requires-level="33" side="1" colors="33 36 38 43 49">
+<start type="npc" id="2817" />
+<name>烧烤秃鹰翅膀</name>
+<description>给里格弗兹带去4只秃鹫的翅膀。</description>
+</quest>
+<quest id="862" level="23" requires-level="15" side="3" colors="15 19 21 26 31">
+<start type="npc" id="3443" />
+<name>掘地鼠炖肉</name>
+<description>给十字路口的格拉布弄到8只掘地鼠。</description>
+</quest>
+<quest id="2178" level="12" requires-level="9" side="2" colors="0 9 10 15 18">
+<start type="npc" id="3702" />
+<name>炖陆行鸟</name>
+<description>给急弯河的奥兰达利亚·夜歌带回5块陆行鸟肉。</description>
+</quest>
+<quest id="2359" beginning="2360" requires-level="20" side="2" colors="0 0 0 0 0">
+<start type="npc" id="7024" />
+<name>克拉文之塔</name>
+<description>偷取迪菲亚塔楼钥匙，进入迪菲亚塔楼，看看暮色森林的箱子里到底有什么东西，然后向暴风城的马迪亚斯·肖尔汇报。</description>
+</quest>
+<quest id="2360" requires-level="20" side="2" colors="0 0 0 0 0">
+<start type="npc" id="332" />
+<name>马迪亚斯和迪菲亚盗贼</name>
+<description>去西部荒野和密探吉尔妮谈一谈。</description>
+</quest>
+<quest id="2478" beginning="10794" requires-level="20" side="3" colors="0 0 0 0 0">
+<start type="npc" id="7233" />
+<name>基本不可能的任务</name>
+<description>从工头希里克斯那里偷出希里克斯的塔楼钥匙，进入塔楼，然后杀掉两个变异风险投资公司工人、两个风险投资公司巡逻员、两个风险投资公司看守。</description>
+</quest>
+<quest id="4161" level="7" requires-level="1" side="2" colors="1 3 5 10 13">
+<start type="npc" id="6286" />
+<name>卡多雷的菜谱</name>
+<description>为多兰纳尔的扎瑞恩收集7条小蜘蛛腿。</description>
+</quest>
+<quest id="6610" level="45" requires-level="35" side="1" colors="35 41 43 48 55">
+<start type="npc" id="8125" />
+<name>蚌肉大餐</name>
+<description>迪尔格·奎克里弗想要你收集这些原料：\n\n12只巨蛋。你可以在塔纳利斯的大鹏或是其它大型鸟类那里获得这种蛋。\n\n10块美味的蚌肉。你可以从任何蚌类身上获得这种原料！\n\n20块奥特兰克冷酪。去买就是了！\n\n收集好所有原料，然后把它们交给迪尔格。</description>
+</quest>
+<quest id="7321" level="31" requires-level="28" side="3" colors="0 28 29 34 39">
+<start type="npc" id="2393" />
+<name>海龟汤</name>
+<description>给塔伦米尔的克里斯托弗·杰弗寇特带去10块海龟肉。</description>
+</quest>
+<quest id="8307" level="57" requires-level="54" side="1" colors="0 54 55 60 68">
+<start type="npc" id="15174" />
+<name>沙漠食谱</name>
+<description>前往塞纳里奥要塞以西的暮光之锤营地，调查沙虫的烹饪方法。</description>
+</quest>
+<quest id="8313" beginning="8307" level="57" requires-level="54" side="1" colors="0 54 55 60 68">
+<start type="object" id="180503" />
+<name>分享知识</name>
+<description>将破碎的食谱交给塞纳里奥要塞旅店中的卡兰德拉斯。</description>
+</quest>
+<quest id="8584" level="60" requires-level="60" side="1" colors="0 0 60 63 72">
+<start type="npc" id="11811" />
+<name>少管闲事</name>
+<description>塔纳利斯的纳瑞安让你和加基森的迪尔格·奎克里弗谈一谈。</description>
+</quest>
+<quest id="8586" beginning="8584" level="60" requires-level="60" side="1" colors="0 0 60 63 72">
+<start type="npc" id="8125" />
+<name>迪尔格的超美味奇美拉肉片</name>
+<description>加基森的迪尔格·奎克里弗要你给他带去20份地精火箭燃油和20份石中盐。</description>
+</quest>
+<quest id="9171" level="15" requires-level="12" side="3" colors="0 12 13 18 22">
+<start type="npc" id="16253" />
+<name>松脆蜘蛛腿</name>
+<description>将5条松脆蜘蛛腿交给幽魂之地塔奎林的大厨师莫迪尔。</description>
+</quest>
+<quest id="9349" level="61" requires-level="58" side="1" colors="0 58 59 64 73">
+<start type="npc" id="19344" />
+<name>掠食者的卵</name>
+<description>将12枚饥饿掠食者的卵交给地狱火半岛飞艇坠毁点的雷加希。</description>
+</quest>
+<quest id="9356" beginning="9349" level="61" requires-level="58" side="1" colors="0 58 59 64 73">
+<start type="npc" id="19344" />
+<name>万无一失</name>
+<description>将12只强壮的秃鹫翅膀交给飞艇坠毁点的雷加希。</description>
+</quest>
+<quest id="9454" level="6" requires-level="4" side="2" colors="0 0 4 9 12">
+<start type="npc" id="17110" />
+<name>狩猎月痕鹿</name>
+<description>将6份月痕鹿的嫩腰肉交给碧蓝岗哨的艾克提恩。</description>
+</quest>
+<quest id="10794" level="24" requires-level="20" side="3" colors="0 20 22 27 32">
+<start type="npc" id="16684" />
+<name>碎手盗贼</name>
+<description>与奥格瑞玛的申苏尔谈一谈。</description>
+</quest>
+<quest id="10860" level="67" requires-level="65" side="3" colors="0 0 65 70 79">
+<start type="npc" id="21088" />
+<name>莫克纳萨的美味</name>
+<description>瓦拉伊将两道菜品的材料清单交给你，要你帮她收集3根迅猛龙肋排和3块蛇肉，然后返回刀锋山的莫克纳萨村，将材料交给她。</description>
+</quest>
+<quest id="11377" level="Daily" requires-level="70" side="1" colors="0 0 70 73 83">
+<start type="npc" id="24393" />
+<name>甜美的复仇</name>
+<description>贫民窟的巨石洛克希望你用他的烹锅制作一些炖卡利鸟，完成之后回去找他。</description>
+</quest>
+<quest id="11379" level="Daily" requires-level="70" side="1" colors="0 0 70 73 83">
+<start type="npc" id="24393" />
+<name>超级美味烧烤</name>
+<description>贫民窟的巨石洛克希望你用他的烹锅、两份莫克纳萨肋排和一份香脆蛇制作一些恶魔烧烤，完成之后回去找他。</description>
+</quest>
+<quest id="11380" level="Daily" requires-level="70" side="1" colors="0 0 70 73 83">
+<start type="npc" id="24393" />
+<name>魔法美味</name>
+<description>贫民窟的巨石洛克要求你从虚空风暴的生态圆顶中收集15颗魔法莓，完成之后回去找他。</description>
+</quest>
+<quest id="11381" level="Daily" requires-level="70" side="1" colors="0 0 70 73 83">
+<start type="npc" id="24393" />
+<name>灵魂之汤</name>
+<description>贫民窟的巨石洛克希望你用他的烹锅制作一些灵魂之汤，完成之后回去找他。</description>
+</quest>
+<quest id="11665" level="Daily" requires-level="70" side="1" colors="0 0 70 73 83">
+<start type="npc" id="25580" />
+<name>城中的鳄鱼</name>
+<description>为老渔夫巴尔洛带回一只鳄鱼宝宝。你可以在沙塔斯城东北面的希尔米耶湖旁找到他。</description>
+</quest>
+<quest id="11666" level="Daily" requires-level="70" side="1" colors="0 0 70 73 83">
+<start type="npc" id="25580" />
+<name>黑鳞镖鲈</name>
+<description>为老渔夫巴尔洛带回一只黑鳞镖鲈。你可以在沙塔斯城东北面的希尔米耶湖旁找到他。</description>
+</quest>
+<quest id="11667" level="Daily" requires-level="70" side="1" colors="0 0 70 73 83">
+<start type="npc" id="25580" />
+<name>世界上最大的泥鱼</name>
+<description>为老渔夫巴尔洛捕捉到世界上最大的泥鱼。你可以在沙塔斯城东北面的希尔米耶湖旁找到他。</description>
+</quest>
+<quest id="11668" level="Daily" requires-level="70" side="1" colors="0 0 70 73 83">
+<start type="npc" id="25580" />
+<name>巨型淡水虾</name>
+<description>为老渔夫巴尔洛带回10只巨型淡水虾。你可以在沙塔斯城东北面的希尔米耶湖旁找到他。</description>
+</quest>
+<quest id="11669" level="Daily" requires-level="70" side="1" colors="0 0 70 73 83">
+<start type="npc" id="25580" />
+<name>魔血鲷鱼</name>
+<description>为老渔夫巴尔洛带回一只巨型魔血鲷鱼。你可以在沙塔斯城东北面的希尔米耶湖旁找到他。</description>
+</quest>
+<quest id="13087" requires-level="65" side="2" colors="0 0 0 0 0">
+<start type="npc" id="26905" />
+<name>诺森德的厨师</name>
+<description>将4块冰冷的肉交给瓦加德的布罗姆。你可以在诺森德的任意野兽身上找到冰冷的肉。</description>
+</quest>
+<quest id="13088" requires-level="65" side="2" colors="0 0 0 0 0">
+<start type="npc" id="26989" />
+<name>诺森德的厨师</name>
+<description>将4块冰冷的肉交给无畏要塞的罗里克·玛克雷尔。你可以在诺森德的任意野兽身上找到冰冷的肉。</description>
+</quest>
+<quest id="13089" requires-level="65" side="3" colors="0 0 0 0 0">
+<start type="npc" id="26953" />
+<name>诺森德的厨师</name>
+<description>将4块冰冷的肉交给复仇港的托马斯·克里奇。你可以在诺森德的任意野兽身上找到冰冷的肉。</description>
+</quest>
+<quest id="13090" requires-level="65" side="3" colors="0 0 0 0 0">
+<start type="npc" id="26972" />
+<name>诺森德的厨师</name>
+<description>将4块冰冷的肉交给战歌要塞的奥恩·嫩蹄。你可以在诺森德的任意野兽身上找到冰冷的肉。</description>
+</quest>
+<quest id="13100" level="Daily" requires-level="65" side="2" colors="0 0 0 0 0">
+<start type="npc" id="28705" />
+<name>魔法蘑菇肉片</name>
+<description>将2块冰冷的肉和采自达拉然下水道的4枚魔法蘑菇放在你的煎肉锅中，烹制成一份魔法蘑菇肉片，然后将其带到达拉然的鲁因广场，交给摩尔珍品店中的奥尔顿·本内特。</description>
+</quest>
+<quest id="13101" level="Daily" requires-level="65" side="2" colors="0 0 0 0 0">
+<start type="npc" id="28705" />
+<name>魔术旅馆的集会</name>
+<description>亲自烹制12份诺森德炖肉，并从达拉然的奶酪店中取来一壶葡萄酒，把它们带到达拉然的鲁因广场，交给魔术旅馆中的埃里雷。</description>
+</quest>
+<quest id="13102" level="Daily" requires-level="65" side="2" colors="0 0 0 0 0">
+<start type="npc" id="28705" />
+<name>下水道炖肉</name>
+<description>将4根采自晶歌森林的晶歌胡萝卜与4块冰冷的肉放在炖肉锅里进行烹饪。</description>
+</quest>
+<quest id="13103" level="Daily" requires-level="65" side="2" colors="0 0 0 0 0">
+<start type="npc" id="28705" />
+<name>兰尼德的奶酪</name>
+<description>把空的奶酪盘、“再来一杯”奶酪店的陈年达拉然干酪、以及在达拉然的桌子上找到的6只半满的达拉然酒杯放在一起。</description>
+</quest>
+<quest id="13107" level="Daily" requires-level="65" side="2" colors="0 0 0 0 0">
+<start type="npc" id="28705" />
+<name>荠菜热狗！</name>
+<description>在空午餐篮里装入你烹制的4份犀牛热狗，外加你在达拉然草地上找到的4片野芥菜。</description>
+</quest>
+<quest id="13112" level="Daily" requires-level="65" side="3" colors="0 0 0 0 0">
+<start type="npc" id="29631" />
+<name>魔法蘑菇肉片</name>
+<description>将2块冰冷的肉和采自达拉然下水道的4枚魔法蘑菇放在你的煎肉锅中，烹制成一份魔法蘑菇肉片，然后将其带到达拉然的鲁因广场，交给摩尔珍品店中的奥尔顿·本内特。</description>
+</quest>
+<quest id="13113" level="Daily" requires-level="65" side="3" colors="0 0 0 0 0">
+<start type="npc" id="29631" />
+<name>魔术旅馆的集会</name>
+<description>烹制12份诺森德炖肉，并从达拉然的奶酪店中取来一壶葡萄酒，把它们带到达拉然的鲁因广场，交给魔术旅馆中的埃里雷。</description>
+</quest>
+<quest id="13114" level="Daily" requires-level="65" side="3" colors="0 0 0 0 0">
+<start type="npc" id="29631" />
+<name>下水道炖肉</name>
+<description>将4根采自晶歌森林的晶歌胡萝卜与4块冰冷的肉放在炖肉锅里进行烹饪。</description>
+</quest>
+<quest id="13115" level="Daily" requires-level="65" side="3" colors="0 0 0 0 0">
+<start type="npc" id="29631" />
+<name>兰尼德的奶酪</name>
+<description>把空的奶酪盘、“再来一杯”奶酪店的陈年达拉然干酪、以及在达拉然的桌子上找到的6只半满的达拉然酒杯放在一起。</description>
+</quest>
+<quest id="13116" level="Daily" requires-level="65" side="3" colors="0 0 0 0 0">
+<start type="npc" id="29631" />
+<name>荠菜热狗！</name>
+<description>在空午餐篮里装入你烹制的4份犀牛热狗，外加你在达拉然草地上找到的4片野芥菜。</description>
+</quest>
+<quest id="13830" level="Daily" requires-level="70" side="1" colors="0 0 0 0 0">
+<start type="npc" id="28742" />
+<name>幽灵鱼</name>
+<description>达拉然城中的玛西娅·切斯希望你去揭开幽灵鱼的秘密。</description>
+</quest>
+<quest id="13832" level="Daily" requires-level="70" side="1" colors="0 0 0 0 0">
+<start type="npc" id="28742" />
+<name>下水道中的珍宝</name>
+<description>将一块被腐蚀的珠宝交给达拉然城中的玛西娅·切斯。</description>
+</quest>
+<quest id="13833" level="Daily" requires-level="70" side="1" colors="0 0 0 0 0">
+<start type="npc" id="28742" />
+<name>血溶于水</name>
+<description>将5条血齿狂鱼交给达拉然城中的玛西娅·切斯。</description>
+</quest>
+<quest id="13834" level="Daily" requires-level="70" side="1" colors="0 0 0 0 0">
+<start type="npc" id="28742" />
+<name>危险的美食</name>
+<description>将10条恐怖鱼交给达拉然城中的玛西娅·切斯。</description>
+</quest>
+<quest id="13836" level="Daily" requires-level="70" side="1" colors="0 0 0 0 0">
+<start type="npc" id="28742" />
+<name>巨腹鱼的美餐</name>
+<description>将断臂交给达拉然城中的善良的欧莉萨拉。</description>
+</quest>
+<quest id="8288" level="60" requires-level="60" side="1" colors="0 0 60 63 72">
+<start type="npc" id="15180" />
+<name>唯一的领袖</name>
+<description>将勒什雷尔的头颅交给希利苏斯塞纳里奥要塞的流沙守望者巴里斯托尔斯。</description>
+</quest>
+<quest id="8575" level="60" requires-level="60" side="1" colors="0 0 60 63 72">
+<start type="item" id="20949" />
+<name>艾索雷葛斯的魔法账本</name>
+<description>把魔法账本交给塔纳利斯的纳瑞安。</description>
+</quest>
+<quest id="8585" level="60" requires-level="60" side="1" colors="0 0 60 63 72">
+<start type="npc" id="8125" />
+<name>恐怖之岛！</name>
+<description>加基森的迪尔格·奎克里弗要你去菲拉斯的恐怖之岛击杀拉克麦拉，获得拉克麦拉的肉，并从岛上收集20份奇美洛克的腰肋肉。</description>
+</quest>
+<quest id="12634" level="76" requires-level="76" side="1" colors="0 0 76 79 89">
+<start type="npc" id="29157" />
+<name>酿酒的材料</name>
+<description>将1颗橙子、2串香蕉和1颗木瓜交给奈辛瓦里营地的葛瑞姆·雷酒。</description>
+</quest>
+<quest id="12645" beginning="12634" level="76" requires-level="76" side="1" colors="0 0 76 79 89">
+<start type="npc" id="29157" />
+<name>品酒</name>
+<description>将雷酒的丛林佳酿的酒样交给赫米特·奈辛瓦里、哈迪乌斯·哈洛维和塔玛拉·摇链品尝，然后向奈辛瓦里营地的葛瑞姆·雷酒复命。</description>
+</quest>
+<quest id="24806" requires-level="1" side="1" colors="0 0 0 0 0">
+<start type="npc" id="38294" />
+<name>下次好运</name>
+<description>恐怕今天的钓鱼比赛已经决出优胜者了，年轻的旅行者。不过如果你能带回一条鲨鱼，我将把它放归大海，然后发给你一些小奖品。</description>
+</quest>
+</quests>

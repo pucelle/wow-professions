@@ -1,0 +1,2182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<spells version="3.3.3">
+<spell id="818" requires-skill-level="1" colors="0 0 0 1">
+<name>基础营火</name>
+</spell>
+<spell id="37836" requires-skill-level="1" colors="1 30 35 40">
+<name>香料面包</name>
+<create id="30816" count="1" />
+<reagents>
+<item id="30817" count="1" />
+<item id="2678" count="1" />
+</reagents>
+<taught-by-npc cost="10">
+<npc id="1355" />
+<npc id="1382" />
+<npc id="1430" />
+<npc id="1699" />
+<npc id="3026" />
+<npc id="3067" />
+<npc id="3087" />
+<npc id="3399" />
+<npc id="4210" />
+<npc id="4552" />
+<npc id="5159" />
+<npc id="5482" />
+<npc id="6286" />
+<npc id="8306" />
+<npc id="16253" />
+<npc id="16277" />
+<npc id="16676" />
+<npc id="16719" />
+<npc id="17246" />
+<npc id="18987" />
+<npc id="18988" />
+<npc id="18993" />
+<npc id="19185" />
+<npc id="19369" />
+<npc id="33619" />
+<!--<npc id="34708" />
+<npc id="34710" />
+<npc id="34711" />
+<npc id="34712" />
+<npc id="34713" />
+<npc id="34714" />
+<npc id="34785" />
+<npc id="34786" />-->
+</taught-by-npc>
+</spell>
+<spell id="65454" requires-skill-level="1" colors="1 30 35 40">
+<name>悼念糕饼</name>
+<create id="46691" count="1" />
+<reagents>
+<item id="30817" count="1" />
+<item id="1179" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46710" />
+</taught-by-item>
+</spell>
+<spell id="2538" requires-skill-level="1" colors="1 45 65 85">
+<name>烧烤狼肉</name>
+<create id="2679" count="1" />
+<reagents>
+<item id="2672" count="1" />
+</reagents>
+</spell>
+<spell id="2540" requires-skill-level="1" colors="1 45 65 85">
+<name>烤野猪肉</name>
+<create id="2681" count="1" />
+<reagents>
+<item id="769" count="1" />
+</reagents>
+</spell>
+<spell id="7751" requires-skill-level="1" colors="1 45 65 85">
+<name>美味小鱼</name>
+<create id="6290" count="1" />
+<reagents>
+<item id="6291" count="1" />
+</reagents>
+<taught-by-item>
+<item id="6325" />
+</taught-by-item>
+</spell>
+<spell id="7752" requires-skill-level="1" colors="1 45 65 85">
+<name>滑皮鲭鱼</name>
+<create id="787" count="1" />
+<reagents>
+<item id="6303" count="1" />
+</reagents>
+<taught-by-item>
+<item id="6326" />
+</taught-by-item>
+</spell>
+<spell id="8604" requires-skill-level="1" colors="1 45 65 85">
+<name>草药烘蛋</name>
+<create id="6888" count="1" />
+<reagents>
+<item id="6889" count="1" />
+</reagents>
+</spell>
+<spell id="15935" requires-skill-level="1" colors="1 45 65 85">
+<name>香脆蝙蝠翅</name>
+<create id="12224" count="1" />
+<reagents>
+<item id="12223" count="1" />
+</reagents>
+<taught-by-item>
+<item id="12226" />
+</taught-by-item>
+</spell>
+<spell id="21143" requires-skill-level="1" colors="1 45 65 85">
+<name>姜饼</name>
+<create id="17197" count="1" />
+<reagents>
+<item id="6889" count="1" />
+<item id="17194" count="1" />
+</reagents>
+<taught-by-item>
+<item id="17200" />
+</taught-by-item>
+</spell>
+<spell id="33276" requires-skill-level="1" colors="1 45 65 85">
+<name>山猫肉排</name>
+<create id="27635" count="1" />
+<reagents>
+<item id="27668" count="1" />
+</reagents>
+<taught-by-item>
+<item id="27685" />
+</taught-by-item>
+</spell>
+<spell id="33277" requires-skill-level="1" colors="1 45 65 85">
+<name>月痕鹿腰肉</name>
+<create id="24105" count="1" />
+<reagents>
+<item id="23676" count="1" />
+</reagents>
+<taught-by-item>
+<item id="27686" />
+</taught-by-item>
+</spell>
+<spell id="43779" requires-skill-level="1" colors="1 50 62 75">
+<name>美味巧克力蛋糕</name>
+<create id="33924" count="1" />
+<reagents>
+<item id="30817" count="8" />
+<item id="1179" count="4" />
+<item id="2678" count="4" />
+<item id="6889" count="8" />
+<item id="2593" count="1" />
+<item id="785" count="3" />
+</reagents>
+<taught-by-item>
+<item id="33925" />
+</taught-by-item>
+</spell>
+<spell id="62050" requires-skill-level="1" colors="1 90 102 115" camp="1">
+<name>玉米馅料</name>
+<create id="44837" count="1" />
+<reagents>
+<item id="30816" count="1" />
+<item id="44835" count="1" />
+</reagents>
+<taught-by-item>
+<item id="44860" />
+</taught-by-item>
+</spell>
+<spell id="66038" requires-skill-level="1" colors="1 90 102 115" camp="2">
+<name>玉米馅料</name>
+<create id="44837" count="1" />
+<reagents>
+<item id="30816" count="1" />
+<item id="44835" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46803" />
+</taught-by-item>
+</spell>
+<spell id="2539" requires-skill-level="10" colors="10 50 70 90">
+<name>香辣狼肉</name>
+<create id="2680" count="1" />
+<reagents>
+<item id="2672" count="1" />
+</reagents>
+<taught-by-npc cost="50">
+<npc id="1355" />
+<npc id="1382" />
+<npc id="1430" />
+<npc id="1699" />
+<npc id="3026" />
+<npc id="3067" />
+<npc id="3087" />
+<npc id="3399" />
+<npc id="4210" />
+<npc id="4552" />
+<npc id="5159" />
+<npc id="5482" />
+<npc id="6286" />
+<npc id="8306" />
+<npc id="16253" />
+<npc id="16277" />
+<npc id="16676" />
+<npc id="16719" />
+<npc id="17246" />
+<npc id="18987" />
+<npc id="18988" />
+<npc id="18993" />
+<npc id="19185" />
+<npc id="19369" />
+<npc id="33619" />
+<!--<npc id="34708" />
+<npc id="34710" />
+<npc id="34711" />
+<npc id="34712" />
+<npc id="34713" />
+<npc id="34714" />
+<npc id="34785" />
+<npc id="34786" />-->
+</taught-by-npc>
+</spell>
+<spell id="6412" requires-skill-level="10" colors="10 50 70 90">
+<name>卡多雷蜘蛛烤肉</name>
+<create id="5472" count="1" />
+<reagents>
+<item id="5465" count="1" />
+</reagents>
+<taught-by-item>
+<item id="5482" />
+</taught-by-item>
+</spell>
+<spell id="2795" requires-skill-level="10" colors="10 60 80 100">
+<name>啤酒烤猪排</name>
+<create id="2888" count="1" />
+<reagents>
+<item id="2886" count="1" />
+</reagents>
+<taught-by-item>
+<item id="2889" />
+</taught-by-item>
+</spell>
+<spell id="6413" requires-skill-level="20" colors="20 60 80 100">
+<name>蝎肉大餐</name>
+<create id="5473" count="1" />
+<reagents>
+<item id="5466" count="1" />
+</reagents>
+<taught-by-item>
+<item id="5483" />
+</taught-by-item>
+</spell>
+<spell id="6414" requires-skill-level="35" colors="35 75 95 115">
+<name>烤科多肉</name>
+<create id="5474" count="2" />
+<reagents>
+<item id="5467" count="1" />
+</reagents>
+<taught-by-item>
+<item id="5484" />
+</taught-by-item>
+</spell>
+<spell id="21144" requires-skill-level="35" colors="35 75 95 115">
+<name>蛋奶酒</name>
+<create id="17198" count="1" />
+<reagents>
+<item id="6889" count="1" />
+<item id="1179" count="1" />
+<item id="17196" count="1" />
+<item id="17194" count="1" />
+</reagents>
+<taught-by-item>
+<item id="17201" />
+</taught-by-item>
+</spell>
+<spell id="8607" requires-skill-level="40" colors="40 80 100 120">
+<name>熏熊肉</name>
+<create id="6890" count="1" />
+<reagents>
+<item id="3173" count="1" />
+</reagents>
+<taught-by-item>
+<item id="6892" />
+</taught-by-item>
+</spell>
+<spell id="2543" requires-skill-level="50" colors="50 115 135 155">
+<name>杂味炖肉</name>
+<create id="733" count="5" />
+<reagents>
+<item id="729" count="1" />
+<item id="730" count="1" />
+<item id="731" count="1" />
+</reagents>
+<taught-by-item>
+<item id="728" />
+</taught-by-item>
+</spell>
+<spell id="2541" requires-skill-level="50" colors="50 90 110 130">
+<name>山狗肉排</name>
+<create id="2684" count="1" />
+<reagents>
+<item id="2673" count="1" />
+</reagents>
+<taught-by-npc cost="100">
+<npc id="1355" />
+<npc id="1382" />
+<npc id="1430" />
+<npc id="1699" />
+<npc id="3026" />
+<npc id="3067" />
+<npc id="3087" />
+<npc id="3399" />
+<npc id="4210" />
+<npc id="4552" />
+<npc id="5159" />
+<npc id="5482" />
+<npc id="6286" />
+<npc id="8306" />
+<npc id="16253" />
+<npc id="16277" />
+<npc id="16676" />
+<npc id="16719" />
+<npc id="17246" />
+<npc id="18987" />
+<npc id="18988" />
+<npc id="18993" />
+<npc id="19185" />
+<npc id="19369" />
+<npc id="33619" />
+<!--<npc id="34708" />
+<npc id="34710" />
+<npc id="34711" />
+<npc id="34712" />
+<npc id="34713" />
+<npc id="34714" />
+<npc id="34785" />
+<npc id="34786" />-->
+</taught-by-npc>
+</spell>
+<spell id="2542" requires-skill-level="50" colors="50 90 110 130">
+<name>猪肝馅饼</name>
+<create id="724" count="1" />
+<reagents>
+<item id="723" count="1" />
+</reagents>
+<taught-by-item>
+<item id="2697" />
+</taught-by-item>
+</spell>
+<spell id="6415" requires-skill-level="50" colors="50 90 110 130">
+<name>狂鱼肉片</name>
+<create id="5476" count="2" />
+<reagents>
+<item id="5468" count="1" />
+</reagents>
+<taught-by-item>
+<item id="5485" />
+</taught-by-item>
+</spell>
+<spell id="6416" requires-skill-level="50" colors="50 90 110 130">
+<name>炖陆行鸟</name>
+<create id="5477" count="2" />
+<reagents>
+<item id="5469" count="1" />
+</reagents>
+<taught-by-item>
+<item id="5486" />
+</taught-by-item>
+</spell>
+<spell id="6499" requires-skill-level="50" colors="50 90 110 130">
+<name>水煮蚌肉</name>
+<create id="5525" count="1" />
+<reagents>
+<item id="5503" count="1" />
+<item id="159" count="1" />
+</reagents>
+<taught-by-npc cost="100">
+<npc id="1355" />
+<npc id="1382" />
+<npc id="1430" />
+<npc id="1699" />
+<npc id="3026" />
+<npc id="3067" />
+<npc id="3087" />
+<npc id="3399" />
+<npc id="4210" />
+<npc id="4552" />
+<npc id="5159" />
+<npc id="5482" />
+<npc id="6286" />
+<npc id="8306" />
+<npc id="16253" />
+<npc id="16277" />
+<npc id="16676" />
+<npc id="16719" />
+<npc id="17246" />
+<npc id="18987" />
+<npc id="18988" />
+<npc id="18993" />
+<npc id="19185" />
+<npc id="19369" />
+<npc id="33619" />
+<!--<npc id="34708" />
+<npc id="34710" />
+<npc id="34711" />
+<npc id="34712" />
+<npc id="34713" />
+<npc id="34714" />
+<npc id="34785" />
+<npc id="34786" />-->
+</taught-by-npc>
+</spell>
+<spell id="7753" requires-skill-level="50" colors="50 90 110 130">
+<name>长嘴泥鳅</name>
+<create id="4592" count="1" />
+<reagents>
+<item id="6289" count="1" />
+</reagents>
+<taught-by-item>
+<item id="6328" />
+</taught-by-item>
+</spell>
+<spell id="7754" requires-skill-level="50" colors="50 90 110 130">
+<name>洛克湖狂鱼</name>
+<create id="6316" count="1" />
+<reagents>
+<item id="6317" count="1" />
+</reagents>
+<taught-by-item>
+<item id="6329" />
+</taught-by-item>
+</spell>
+<spell id="7827" requires-skill-level="50" colors="50 90 110 130">
+<name>彩鳍鱼</name>
+<create id="5095" count="1" />
+<reagents>
+<item id="6361" count="1" />
+</reagents>
+<taught-by-item>
+<item id="6368" />
+</taught-by-item>
+</spell>
+<spell id="33278" requires-skill-level="50" colors="50 90 110 130">
+<name>美味蝙蝠</name>
+<create id="27636" count="1" />
+<reagents>
+<item id="27669" count="1" />
+</reagents>
+<taught-by-item>
+<item id="27687" />
+</taught-by-item>
+</spell>
+<spell id="3371" requires-skill-level="60" colors="60 100 120 140">
+<name>血肠</name>
+<create id="3220" count="2" />
+<reagents>
+<item id="3173" count="1" />
+<item id="3172" count="1" />
+<item id="3174" count="1" />
+</reagents>
+<taught-by-item>
+<item id="3679" />
+</taught-by-item>
+</spell>
+<spell id="9513" requires-skill-level="60" colors="60 100 120 140">
+<name>菊花茶</name>
+<create id="7676" count="1" />
+<reagents>
+<item id="2452" count="1" />
+<item id="159" count="1" />
+</reagents>
+<taught-by-item>
+<item id="7678" />
+<item id="18160" />
+</taught-by-item>
+</spell>
+<spell id="28267" requires-skill-level="60" colors="60 100 120 140">
+<name>松脆蜘蛛</name>
+<create id="22645" count="1" />
+<reagents>
+<item id="22644" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22647" />
+</taught-by-item>
+</spell>
+<spell id="2544" requires-skill-level="75" colors="75 115 135 155">
+<name>蟹肉蛋糕</name>
+<create id="2683" count="1" />
+<reagents>
+<item id="2674" count="1" />
+</reagents>
+<taught-by-npc cost="200">
+<npc id="1355" />
+<npc id="1382" />
+<npc id="1430" />
+<npc id="1699" />
+<npc id="3026" />
+<npc id="3067" />
+<npc id="3087" />
+<npc id="3399" />
+<npc id="4210" />
+<npc id="4552" />
+<npc id="5159" />
+<npc id="5482" />
+<npc id="6286" />
+<npc id="8306" />
+<npc id="16253" />
+<npc id="16277" />
+<npc id="16676" />
+<npc id="16719" />
+<npc id="17246" />
+<npc id="18987" />
+<npc id="18988" />
+<npc id="18993" />
+<npc id="19185" />
+<npc id="19369" />
+<npc id="33619" />
+<!--<npc id="34708" />
+<npc id="34710" />
+<npc id="34711" />
+<npc id="34712" />
+<npc id="34713" />
+<npc id="34714" />
+<npc id="34785" />
+<npc id="34786" />-->
+</taught-by-npc>
+</spell>
+<spell id="2546" requires-skill-level="80" colors="80 120 140 160">
+<name>猪肉干</name>
+<create id="2687" count="1" />
+<reagents>
+<item id="2677" count="1" />
+</reagents>
+<taught-by-npc cost="150">
+<npc id="1355" />
+<npc id="1382" />
+<npc id="1430" />
+<npc id="1699" />
+<npc id="3026" />
+<npc id="3067" />
+<npc id="3087" />
+<npc id="3399" />
+<npc id="4210" />
+<npc id="4552" />
+<npc id="5159" />
+<npc id="5482" />
+<npc id="6286" />
+<npc id="8306" />
+<npc id="16253" />
+<npc id="16277" />
+<npc id="16676" />
+<npc id="16719" />
+<npc id="17246" />
+<npc id="18987" />
+<npc id="18988" />
+<npc id="18993" />
+<npc id="19185" />
+<npc id="19369" />
+<npc id="33619" />
+<!--<npc id="34708" />
+<npc id="34710" />
+<npc id="34711" />
+<npc id="34712" />
+<npc id="34713" />
+<npc id="34714" />
+<npc id="34785" />
+<npc id="34786" />-->
+</taught-by-npc>
+</spell>
+<spell id="3370" requires-skill-level="80" colors="80 120 140 160">
+<name>鳄鱼肉排</name>
+<create id="3662" count="1" />
+<reagents>
+<item id="2924" count="1" />
+</reagents>
+<taught-by-item>
+<item id="3678" />
+</taught-by-item>
+</spell>
+<spell id="25704" requires-skill-level="80" colors="80 120 140 160">
+<name>烤鼠尾鱼</name>
+<create id="21072" count="1" />
+<reagents>
+<item id="21071" count="1" />
+</reagents>
+<taught-by-item>
+<item id="21099" />
+</taught-by-item>
+</spell>
+<spell id="2545" requires-skill-level="85" colors="85 125 145 165">
+<name>煮蟹爪</name>
+<create id="2682" count="1" />
+<reagents>
+<item id="2675" count="1" />
+</reagents>
+<taught-by-item>
+<item id="2698" />
+</taught-by-item>
+</spell>
+<spell id="8238" requires-skill-level="85" colors="85 125 145 165">
+<name>美味风蛇</name>
+<create id="6657" count="1" />
+<reagents>
+<item id="6522" count="1" />
+</reagents>
+<taught-by-item>
+<item id="6661" />
+</taught-by-item>
+</spell>
+<spell id="3372" requires-skill-level="90" colors="90 130 150 170">
+<name>鱼人鳍汤</name>
+<create id="3663" count="1" />
+<reagents>
+<item id="1468" count="2" />
+</reagents>
+<taught-by-item>
+<item id="3680" />
+</taught-by-item>
+</spell>
+<spell id="6417" requires-skill-level="90" colors="90 130 150 170">
+<name>掘地鼠炖肉</name>
+<create id="5478" count="2" />
+<reagents>
+<item id="5051" count="1" />
+</reagents>
+<taught-by-item>
+<item id="5487" />
+<item id="44977" />
+</taught-by-item>
+</spell>
+<spell id="6501" requires-skill-level="90" colors="90 130 150 170">
+<name>杂烩蚌肉</name>
+<create id="5526" count="1" />
+<reagents>
+<item id="5503" count="1" />
+<item id="1179" count="1" />
+</reagents>
+<taught-by-item>
+<item id="5528" />
+</taught-by-item>
+</spell>
+<spell id="45695" requires-skill-level="100" colors="0 100 105 110">
+<name>拉姆瑟船长的特酿啤酒</name>
+<create id="34832" count="5" />
+<reagents>
+<item id="2596" count="1" />
+<item id="2594" count="1" />
+</reagents>
+<taught-by-item>
+<item id="34834" />
+</taught-by-item>
+</spell>
+<spell id="2547" requires-skill-level="100" colors="100 135 155 175">
+<name>赤脊山炖肉</name>
+<create id="1082" count="1" />
+<reagents>
+<item id="1081" count="1" />
+<item id="1080" count="1" />
+</reagents>
+<taught-by-item>
+<item id="2699" />
+</taught-by-item>
+</spell>
+<spell id="2549" requires-skill-level="100" colors="100 140 160 180">
+<name>干烤狼肉串</name>
+<create id="1017" count="3" />
+<reagents>
+<item id="1015" count="2" />
+</reagents>
+<taught-by-item>
+<item id="2701" />
+</taught-by-item>
+</spell>
+<spell id="6418" requires-skill-level="100" colors="100 140 160 180">
+<name>脆炸蜥蜴尾</name>
+<create id="5479" count="2" />
+<reagents>
+<item id="5470" count="1" />
+</reagents>
+<taught-by-item>
+<item id="5488" />
+</taught-by-item>
+</spell>
+<spell id="7755" requires-skill-level="100" colors="100 140 160 180">
+<name>刺须鲶鱼</name>
+<create id="4593" count="1" />
+<reagents>
+<item id="6308" count="1" />
+</reagents>
+<taught-by-item>
+<item id="6330" />
+</taught-by-item>
+</spell>
+<spell id="62044" requires-skill-level="100" colors="100 150 162 175" camp="1">
+<name>南瓜馅饼</name>
+<create id="44836" count="1" />
+<reagents>
+<item id="46784" count="1" />
+<item id="44853" count="1" />
+</reagents>
+<taught-by-item>
+<item id="44862" />
+</taught-by-item>
+</spell>
+<spell id="66036" requires-skill-level="100" colors="100 150 162 175" camp="2">
+<name>南瓜馅饼</name>
+<create id="44836" count="1" />
+<reagents>
+<item id="46796" count="1" />
+<item id="44853" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46804" />
+</taught-by-item>
+</spell>
+<spell id="2548" requires-skill-level="110" colors="110 130 150 170">
+<name>多汁猪排</name>
+<create id="2685" count="1" />
+<reagents>
+<item id="2677" count="2" />
+</reagents>
+<taught-by-item>
+<item id="2700" />
+</taught-by-item>
+</spell>
+<spell id="3377" requires-skill-level="110" colors="110 150 170 190">
+<name>蜘蛛蛋糕</name>
+<create id="3666" count="1" />
+<reagents>
+<item id="2251" count="2" />
+</reagents>
+<taught-by-item>
+<item id="3683" />
+</taught-by-item>
+</spell>
+<spell id="3397" requires-skill-level="110" colors="110 150 170 190">
+<name>大块的熊排</name>
+<create id="3726" count="1" />
+<reagents>
+<item id="3730" count="1" />
+</reagents>
+<taught-by-item>
+<item id="3734" />
+</taught-by-item>
+</spell>
+<spell id="6419" requires-skill-level="110" colors="110 150 170 190">
+<name>瘦鹿肉</name>
+<create id="5480" count="2" />
+<reagents>
+<item id="5471" count="1" />
+</reagents>
+<taught-by-item>
+<item id="5489" />
+</taught-by-item>
+</spell>
+<spell id="3373" requires-skill-level="120" colors="120 160 180 200">
+<name>鳄鱼浓汤</name>
+<create id="3664" count="1" />
+<reagents>
+<item id="3667" count="1" />
+</reagents>
+<taught-by-item>
+<item id="3681" />
+</taught-by-item>
+</spell>
+<spell id="6500" requires-skill-level="125" colors="125 165 185 205">
+<name>地精芥末蘸蚌肉</name>
+<create id="5527" count="1" />
+<reagents>
+<item id="5504" count="1" />
+</reagents>
+<taught-by-npc cost="300">
+<npc id="1355" />
+<npc id="1382" />
+<npc id="1430" />
+<npc id="1699" />
+<npc id="3026" />
+<npc id="3067" />
+<npc id="3087" />
+<npc id="3399" />
+<npc id="4210" />
+<npc id="4552" />
+<npc id="5159" />
+<npc id="5482" />
+<npc id="6286" />
+<npc id="8306" />
+<npc id="16253" />
+<npc id="16277" />
+<npc id="16676" />
+<npc id="16719" />
+<npc id="17246" />
+<npc id="18987" />
+<npc id="18988" />
+<npc id="18993" />
+<npc id="19185" />
+<npc id="19369" />
+<npc id="33619" />
+<!--<npc id="34708" />
+<npc id="34710" />
+<npc id="34711" />
+<npc id="34712" />
+<npc id="34713" />
+<npc id="34714" />
+<npc id="34785" />
+<npc id="34786" />-->
+</taught-by-npc>
+</spell>
+<spell id="15853" requires-skill-level="125" colors="125 165 185 205">
+<name>瘦狼排</name>
+<create id="12209" count="1" />
+<reagents>
+<item id="1015" count="1" />
+</reagents>
+<taught-by-item>
+<item id="12227" />
+</taught-by-item>
+</spell>
+<spell id="3398" requires-skill-level="125" colors="125 175 195 215">
+<name>烤狮排</name>
+<create id="3727" count="1" />
+<reagents>
+<item id="3731" count="1" />
+</reagents>
+<taught-by-item>
+<item id="3735" />
+</taught-by-item>
+</spell>
+<spell id="3376" requires-skill-level="130" colors="130 170 190 210">
+<name>美味煎蛋卷</name>
+<create id="3665" count="1" />
+<reagents>
+<item id="3685" count="1" />
+</reagents>
+<taught-by-item>
+<item id="3682" />
+</taught-by-item>
+</spell>
+<spell id="24418" requires-skill-level="150" colors="150 160 180 200">
+<name>鳄鱼炖肉</name>
+<create id="20074" count="1" />
+<reagents>
+<item id="3667" count="2" />
+</reagents>
+<taught-by-item>
+<item id="20075" />
+</taught-by-item>
+</spell>
+<spell id="3399" requires-skill-level="150" colors="150 190 210 230">
+<name>香烤狮肉</name>
+<create id="3728" count="1" />
+<reagents>
+<item id="3731" count="2" />
+</reagents>
+<taught-by-item>
+<item id="3736" />
+</taught-by-item>
+</spell>
+<spell id="62049" requires-skill-level="160" colors="160 210 222 235" camp="1">
+<name>酸果蔓酱</name>
+<create id="44840" count="1" />
+<reagents>
+<item id="44854" count="1" />
+<item id="44853" count="1" />
+</reagents>
+<taught-by-item>
+<item id="44858" />
+</taught-by-item>
+</spell>
+<spell id="66035" requires-skill-level="160" colors="160 210 222 235" camp="2">
+<name>酸果蔓酱</name>
+<create id="44840" count="1" />
+<reagents>
+<item id="46793" count="1" />
+<item id="44853" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46805" />
+</taught-by-item>
+</spell>
+<spell id="13028" requires-skill-level="175" colors="0 175 190 205">
+<name>金棘茶</name>
+<create id="10841" count="4" />
+<reagents>
+<item id="3821" count="1" />
+<item id="159" count="1" />
+</reagents>
+<taught-by-npc>
+<npc id="8696" />
+</taught-by-npc>
+</spell>
+<spell id="7828" requires-skill-level="175" colors="175 190 210 230">
+<name>石鳞鳕鱼</name>
+<create id="4594" count="1" />
+<reagents>
+<item id="6362" count="1" />
+</reagents>
+<taught-by-item>
+<item id="6369" />
+</taught-by-item>
+</spell>
+<spell id="3400" requires-skill-level="175" colors="175 215 235 255">
+<name>海龟汤</name>
+<create id="3729" count="1" />
+<reagents>
+<item id="3712" count="1" />
+</reagents>
+<taught-by-item>
+<item id="3737" />
+</taught-by-item>
+</spell>
+<spell id="4094" requires-skill-level="175" colors="175 215 235 255">
+<name>烧烤秃鹰翅膀</name>
+<create id="4457" count="1" />
+<reagents>
+<item id="3404" count="1" />
+</reagents>
+<taught-by-npc cost="500">
+<npc id="2818" />
+</taught-by-npc>
+<taught-by-item>
+<item id="4609" />
+</taught-by-item>
+</spell>
+<spell id="7213" requires-skill-level="175" colors="175 215 235 255">
+<name>烧烤巨蚌</name>
+<create id="6038" count="1" />
+<reagents>
+<item id="4655" count="1" />
+</reagents>
+<taught-by-item>
+<item id="6039" />
+</taught-by-item>
+</spell>
+<spell id="15855" requires-skill-level="175" colors="175 215 235 255">
+<name>烤迅猛龙肉</name>
+<create id="12210" count="1" />
+<reagents>
+<item id="12184" count="1" />
+</reagents>
+<taught-by-item>
+<item id="12228" />
+</taught-by-item>
+</spell>
+<spell id="15856" requires-skill-level="175" colors="175 215 235 255">
+<name>辣味狼排</name>
+<create id="13851" count="1" />
+<reagents>
+<item id="12203" count="1" />
+</reagents>
+<taught-by-item>
+<item id="12229" />
+</taught-by-item>
+</spell>
+<spell id="15861" requires-skill-level="175" colors="175 215 235 255">
+<name>丛林大杂烩</name>
+<create id="12212" count="2" />
+<reagents>
+<item id="12202" count="1" />
+<item id="159" count="1" />
+</reagents>
+<taught-by-item>
+<item id="12231" />
+</taught-by-item>
+</spell>
+<spell id="15863" requires-skill-level="175" colors="175 215 235 255">
+<name>腐肉大餐</name>
+<create id="12213" count="1" />
+<reagents>
+<item id="12037" count="1" />
+</reagents>
+<taught-by-item>
+<item id="12232" />
+</taught-by-item>
+</spell>
+<spell id="15865" requires-skill-level="175" colors="175 215 235 255">
+<name>神秘杂烩</name>
+<create id="12214" count="1" />
+<reagents>
+<item id="12037" count="1" />
+<item id="2596" count="1" />
+</reagents>
+<taught-by-item>
+<item id="12233" />
+</taught-by-item>
+</spell>
+<spell id="20916" requires-skill-level="175" colors="175 215 235 255">
+<name>银头鲑鱼</name>
+<create id="8364" count="1" />
+<reagents>
+<item id="8365" count="1" />
+</reagents>
+<taught-by-item>
+<item id="17062" />
+</taught-by-item>
+</spell>
+<spell id="25954" requires-skill-level="175" colors="175 215 235 255">
+<name>美味鼠尾鱼</name>
+<create id="21217" count="1" />
+<reagents>
+<item id="21153" count="1" />
+</reagents>
+<taught-by-item>
+<item id="21219" />
+</taught-by-item>
+</spell>
+<spell id="15906" requires-skill-level="200" colors="200 225 237 250">
+<name>龙息红椒</name>
+<create id="12217" count="1" />
+<reagents>
+<item id="12037" count="1" />
+<item id="4402" count="1" />
+</reagents>
+<taught-by-item>
+<item id="12239" />
+</taught-by-item>
+</spell>
+<spell id="15910" requires-skill-level="200" colors="200 225 237 250">
+<name>科多肉杂烩</name>
+<create id="12215" count="2" />
+<reagents>
+<item id="12204" count="2" />
+</reagents>
+<taught-by-item>
+<item id="12240" />
+</taught-by-item>
+</spell>
+<spell id="21175" requires-skill-level="200" colors="200 225 237 250">
+<name>蜘蛛肉肠</name>
+<create id="17222" count="1" />
+<reagents>
+<item id="12205" count="2" />
+</reagents>
+<taught-by-npc cost="4000">
+<npc id="1355" />
+<npc id="1382" />
+<npc id="1430" />
+<npc id="1699" />
+<npc id="3026" />
+<npc id="3067" />
+<npc id="3087" />
+<npc id="3399" />
+<npc id="4210" />
+<npc id="4552" />
+<npc id="5159" />
+<npc id="5482" />
+<npc id="6286" />
+<npc id="8306" />
+<npc id="16253" />
+<npc id="16277" />
+<npc id="16676" />
+<npc id="16719" />
+<npc id="17246" />
+<npc id="18987" />
+<npc id="18988" />
+<npc id="18993" />
+<npc id="19185" />
+<npc id="19369" />
+<npc id="33619" />
+<!--<npc id="34708" />
+<npc id="34710" />
+<npc id="34711" />
+<npc id="34712" />
+<npc id="34713" />
+<npc id="34714" />
+<npc id="34785" />
+<npc id="34786" />-->
+</taught-by-npc>
+</spell>
+<spell id="62051" requires-skill-level="220" colors="220 270 282 295" camp="1">
+<name>甜山药</name>
+<create id="44839" count="1" />
+<reagents>
+<item id="44855" count="1" />
+<item id="44853" count="1" />
+<item id="44835" count="1" />
+</reagents>
+<taught-by-item>
+<item id="44859" />
+</taught-by-item>
+</spell>
+<spell id="66034" requires-skill-level="220" colors="220 270 282 295" camp="2">
+<name>甜山药</name>
+<create id="44839" count="1" />
+<reagents>
+<item id="46797" count="1" />
+<item id="44853" count="1" />
+<item id="44835" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46806" />
+</taught-by-item>
+</spell>
+<spell id="15915" requires-skill-level="225" colors="225 250 262 275">
+<name>辣椒蟹肉</name>
+<create id="12216" count="1" />
+<reagents>
+<item id="12206" count="1" />
+</reagents>
+<taught-by-item>
+<item id="16111" />
+</taught-by-item>
+</spell>
+<spell id="15933" requires-skill-level="225" colors="225 250 262 275">
+<name>超级煎蛋卷</name>
+<create id="12218" count="1" />
+<reagents>
+<item id="12207" count="1" />
+</reagents>
+<taught-by-item>
+<item id="16110" />
+</taught-by-item>
+</spell>
+<spell id="18238" requires-skill-level="225" colors="225 250 262 275">
+<name>斑点黄尾鱼</name>
+<create id="6887" count="1" />
+<reagents>
+<item id="4603" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13939" />
+</taught-by-item>
+</spell>
+<spell id="18239" requires-skill-level="225" colors="225 250 262 275">
+<name>煮熟的光滑大鱼</name>
+<create id="13927" count="1" />
+<reagents>
+<item id="13754" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13940" />
+</taught-by-item>
+</spell>
+<spell id="18241" requires-skill-level="225" colors="225 250 262 275">
+<name>油炸红腮鱼</name>
+<create id="13930" count="1" />
+<reagents>
+<item id="13758" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13941" />
+</taught-by-item>
+</spell>
+<spell id="20626" requires-skill-level="225" colors="225 250 262 275">
+<name>安德麦蚌肉杂烩</name>
+<create id="16766" count="2" />
+<reagents>
+<item id="7974" count="2" />
+</reagents>
+<taught-by-item>
+<item id="16767" />
+</taught-by-item>
+</spell>
+<spell id="22480" requires-skill-level="225" colors="225 250 262 275">
+<name>嫩狼肉排</name>
+<create id="18045" count="1" />
+<reagents>
+<item id="12208" count="1" />
+</reagents>
+<taught-by-item>
+<item id="18046" />
+</taught-by-item>
+</spell>
+<spell id="64054" requires-skill-level="225" colors="225 250 275 300">
+<name>蚌肉大餐</name>
+<create id="33004" count="1" />
+<reagents>
+<item id="7974" count="1" />
+</reagents>
+<reward-from>
+<quest id="6610" />
+</reward-from>
+</spell>
+<spell id="18242" requires-skill-level="240" colors="240 265 277 290">
+<name>烟熏鲈鱼</name>
+<create id="13929" count="1" />
+<reagents>
+<item id="13756" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13943" />
+</taught-by-item>
+</spell>
+<spell id="18240" requires-skill-level="240" colors="240 265 277 290">
+<name>烤鱿鱼</name>
+<create id="13928" count="1" />
+<reagents>
+<item id="13755" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13942" />
+</taught-by-item>
+</spell>
+<spell id="18243" requires-skill-level="250" colors="250 275 285 295">
+<name>夜鳞鱼汤</name>
+<create id="13931" count="1" />
+<reagents>
+<item id="13759" count="1" />
+<item id="159" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13945" />
+</taught-by-item>
+</spell>
+<spell id="18244" requires-skill-level="250" colors="250 275 285 295">
+<name>水煮阳鳞鲑鱼</name>
+<create id="13932" count="1" />
+<reagents>
+<item id="13760" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13946" />
+</taught-by-item>
+</spell>
+<spell id="46684" requires-skill-level="250" colors="250 275 285 295">
+<name>熊肉串烧</name>
+<create id="35563" count="1" />
+<reagents>
+<item id="35562" count="1" />
+</reagents>
+<taught-by-item>
+<item id="35564" />
+</taught-by-item>
+</spell>
+<spell id="46688" requires-skill-level="250" colors="250 275 285 295">
+<name>多汁熊肉汉堡</name>
+<create id="35565" count="1" />
+<reagents>
+<item id="35562" count="1" />
+</reagents>
+<taught-by-item>
+<item id="35566" />
+</taught-by-item>
+</spell>
+<spell id="18245" requires-skill-level="275" colors="275 300 312 325">
+<name>炖龙虾</name>
+<create id="13933" count="1" />
+<reagents>
+<item id="13888" count="1" />
+<item id="159" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13947" />
+</taught-by-item>
+</spell>
+<spell id="18246" requires-skill-level="275" colors="275 300 312 325">
+<name>大鱼片</name>
+<create id="13934" count="1" />
+<reagents>
+<item id="13893" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13948" />
+</taught-by-item>
+</spell>
+<spell id="18247" requires-skill-level="275" colors="275 300 312 325">
+<name>烤鲑鱼</name>
+<create id="13935" count="1" />
+<reagents>
+<item id="13889" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13949" />
+</taught-by-item>
+</spell>
+<spell id="22761" requires-skill-level="275" colors="275 300 312 325">
+<name>洛恩塔姆薯块</name>
+<create id="18254" count="1" />
+<reagents>
+<item id="18255" count="1" />
+</reagents>
+<taught-by-item>
+<item id="18267" />
+</taught-by-item>
+</spell>
+<spell id="62045" requires-skill-level="280" colors="280 330 342 355" camp="1">
+<name>慢烤火鸡</name>
+<create id="44838" count="1" />
+<reagents>
+<item id="44834" count="1" />
+<item id="44853" count="2" />
+<item id="44835" count="1" />
+</reagents>
+<taught-by-item>
+<item id="44861" />
+</taught-by-item>
+</spell>
+<spell id="66037" requires-skill-level="280" colors="280 330 342 355" camp="2">
+<name>慢烤火鸡</name>
+<create id="44838" count="1" />
+<reagents>
+<item id="44834" count="1" />
+<item id="44853" count="2" />
+<item id="44835" count="1" />
+</reagents>
+<taught-by-item>
+<item id="46807" />
+</taught-by-item>
+</spell>
+<spell id="24801" requires-skill-level="285" colors="285 310 322 335">
+<name>沙漠肉丸子</name>
+<create id="20452" count="1" />
+<reagents>
+<item id="20424" count="1" />
+</reagents>
+<reward-from>
+<quest id="8313" />
+</reward-from>
+</spell>
+<spell id="33279" requires-skill-level="300" colors="300 320 330 340">
+<name>美味秃鹫</name>
+<create id="27651" count="1" />
+<reagents>
+<item id="27671" count="1" />
+</reagents>
+<taught-by-item>
+<item id="27684" />
+</taught-by-item>
+</spell>
+<spell id="33284" requires-skill-level="300" colors="300 320 330 340">
+<name>掠食者热狗</name>
+<create id="27655" count="1" />
+<reagents>
+<item id="27674" count="1" />
+</reagents>
+<taught-by-item>
+<item id="27688" />
+</taught-by-item>
+</spell>
+<spell id="33290" requires-skill-level="300" colors="300 320 330 340">
+<name>烟熏鲑鱼</name>
+<create id="27661" count="1" />
+<reagents>
+<item id="27422" count="1" />
+</reagents>
+<taught-by-item>
+<item id="27694" />
+</taught-by-item>
+</spell>
+<spell id="33291" requires-skill-level="300" colors="300 320 330 340">
+<name>美味魔尾鱼</name>
+<create id="27662" count="1" />
+<reagents>
+<item id="27425" count="1" />
+</reagents>
+<taught-by-item>
+<item id="27695" />
+</taught-by-item>
+</spell>
+<spell id="36210" requires-skill-level="300" colors="300 320 330 340">
+<name>蚌柳</name>
+<create id="30155" count="1" />
+<reagents>
+<item id="24477" count="2" />
+</reagents>
+<taught-by-item>
+<item id="30156" />
+</taught-by-item>
+</spell>
+<spell id="43758" requires-skill-level="300" colors="300 320 330 340">
+<name>风暴牛排</name>
+<create id="33866" count="1" />
+<reagents>
+<item id="27678" count="1" />
+<item id="13757" count="1" />
+</reagents>
+<taught-by-item>
+<item id="33871" />
+</taught-by-item>
+</spell>
+<spell id="43761" requires-skill-level="300" colors="300 320 330 340">
+<name>烤血鳞鱼</name>
+<create id="33867" count="1" />
+<reagents>
+<item id="33823" count="1" />
+</reagents>
+<taught-by-item>
+<item id="33869" />
+</taught-by-item>
+</spell>
+<spell id="25659" requires-skill-level="300" colors="300 325 337 350">
+<name>迪尔格的超美味奇美拉肉片</name>
+<create id="21023" count="5" />
+<reagents>
+<item id="9061" count="1" />
+<item id="8150" count="1" />
+<item id="21024" count="1" />
+</reagents>
+<taught-by-item>
+<item id="21025" />
+</taught-by-item>
+</spell>
+<spell id="43772" requires-skill-level="300" colors="300 345 355 365">
+<name>金布勒宠物食品</name>
+<create id="33874" count="1" />
+<reagents>
+<item id="27671" count="1" />
+</reagents>
+<taught-by-item>
+<item id="33875" />
+</taught-by-item>
+</spell>
+<spell id="33285" requires-skill-level="310" colors="310 330 340 350">
+<name>孢子小吃</name>
+<create id="27656" count="1" />
+<reagents>
+<item id="27676" count="1" />
+</reagents>
+<taught-by-item>
+<item id="27689" />
+</taught-by-item>
+</spell>
+<spell id="33292" requires-skill-level="310" colors="310 330 340 350">
+<name>烟熏孢子鱼</name>
+<create id="27663" count="1" />
+<reagents>
+<item id="27429" count="1" />
+</reagents>
+<taught-by-item>
+<item id="27696" />
+</taught-by-item>
+</spell>
+<spell id="33286" requires-skill-level="315" colors="315 335 345 355">
+<name>烟熏蜥蜴</name>
+<create id="27657" count="1" />
+<reagents>
+<item id="27677" count="1" />
+</reagents>
+<taught-by-item>
+<item id="27690" />
+</taught-by-item>
+</spell>
+<spell id="42296" requires-skill-level="320" colors="320 335 345 355">
+<name>炖鲑鱼</name>
+<create id="33048" count="1" />
+<reagents>
+<item id="27422" count="1" />
+</reagents>
+<taught-by-npc cost="42000">
+<npc id="19186" />
+</taught-by-npc>
+</spell>
+<spell id="33293" requires-skill-level="320" colors="320 340 350 360">
+<name>烤泥鱼</name>
+<create id="27664" count="1" />
+<reagents>
+<item id="27435" count="1" />
+</reagents>
+<taught-by-item>
+<item id="27697" />
+</taught-by-item>
+</spell>
+<spell id="33294" requires-skill-level="320" colors="320 340 350 360">
+<name>水煮蓝鱼</name>
+<create id="27665" count="1" />
+<reagents>
+<item id="27437" count="1" />
+</reagents>
+<taught-by-item>
+<item id="27698" />
+</taught-by-item>
+</spell>
+<spell id="45022" requires-skill-level="325" colors="0 0 0 325">
+<name>热苹果酒</name>
+<create id="34411" count="2" />
+<reagents>
+<item id="34412" count="1" />
+<item id="17196" count="1" />
+<item id="17194" count="1" />
+</reagents>
+<taught-by-item>
+<item id="34413" />
+</taught-by-item>
+</spell>
+<spell id="43707" requires-skill-level="325" colors="325 335 345 355">
+<name>骨鱼汤</name>
+<create id="33825" count="1" />
+<reagents>
+<item id="33824" count="1" />
+</reagents>
+<taught-by-item>
+<item id="33870" />
+</taught-by-item>
+</spell>
+<spell id="43765" requires-skill-level="325" colors="325 335 345 355">
+<name>热辣塔布羊排</name>
+<create id="33872" count="1" />
+<reagents>
+<item id="27682" count="1" />
+</reagents>
+<taught-by-item>
+<item id="33873" />
+</taught-by-item>
+</spell>
+<spell id="33288" requires-skill-level="325" colors="325 345 355 365">
+<name>迁跃兽汉堡</name>
+<create id="27659" count="1" />
+<reagents>
+<item id="27681" count="1" />
+</reagents>
+<taught-by-item>
+<item id="27692" />
+</taught-by-item>
+</spell>
+<spell id="33287" requires-skill-level="325" colors="325 345 355 365">
+<name>烧烤裂蹄牛</name>
+<create id="27658" count="1" />
+<reagents>
+<item id="27678" count="1" />
+</reagents>
+<taught-by-item>
+<item id="27691" />
+</taught-by-item>
+</spell>
+<spell id="33289" requires-skill-level="325" colors="325 345 355 365">
+<name>塔布肉排</name>
+<create id="27660" count="1" />
+<reagents>
+<item id="27682" count="1" />
+</reagents>
+<taught-by-item>
+<item id="27693" />
+</taught-by-item>
+</spell>
+<spell id="33295" requires-skill-level="325" colors="325 345 355 365">
+<name>金色鱼柳</name>
+<create id="27666" count="1" />
+<reagents>
+<item id="27438" count="1" />
+</reagents>
+<taught-by-item>
+<item id="27699" />
+</taught-by-item>
+</spell>
+<spell id="38867" requires-skill-level="335" colors="335 355 365 375">
+<name>莫克纳萨肋排</name>
+<create id="31672" count="1" />
+<reagents>
+<item id="31670" count="1" />
+</reagents>
+<taught-by-item>
+<item id="31675" />
+</taught-by-item>
+</spell>
+<spell id="38868" requires-skill-level="335" colors="335 355 365 375">
+<name>香脆蛇</name>
+<create id="31673" count="1" />
+<reagents>
+<item id="31671" count="1" />
+</reagents>
+<taught-by-item>
+<item id="31674" />
+</taught-by-item>
+</spell>
+<spell id="57421" requires-skill-level="350" colors="0 350 365 380">
+<name>诺森德炖肉</name>
+<create id="34747" count="1" />
+<reagents>
+<item id="43013" count="1" />
+</reagents>
+<reward-from>
+<quest id="13087" />
+<quest id="13088" />
+<quest id="13089" />
+<quest id="13090" />
+</reward-from>
+</spell>
+<spell id="58512" requires-skill-level="350" colors="0 350 357 365">
+<name>美味蛋糕</name>
+<create id="43490" count="5" />
+<reagents>
+<item id="30817" count="2" />
+<item id="43501" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43507" />
+</taught-by-item>
+</spell>
+<spell id="58521" requires-skill-level="350" colors="0 350 357 365">
+<name>上周的猛犸肉</name>
+<create id="43488" count="5" />
+<reagents>
+<item id="34736" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43508" />
+</taught-by-item>
+</spell>
+<spell id="58523" requires-skill-level="350" colors="0 350 357 365">
+<name>坏掉的蚌肉</name>
+<create id="43491" count="5" />
+<reagents>
+<item id="36782" count="1" />
+<item id="22577" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43509" />
+</taught-by-item>
+</spell>
+<spell id="58525" requires-skill-level="350" colors="0 350 357 365">
+<name>闹鬼的青鱼</name>
+<create id="43492" count="5" />
+<reagents>
+<item id="41810" count="1" />
+<item id="12808" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43510" />
+</taught-by-item>
+</spell>
+<spell id="45560" requires-skill-level="350" colors="0 350 365 380">
+<name>熏烤石鳞鲶鱼</name>
+<create id="34759" count="1" />
+<reagents>
+<item id="41803" count="1" />
+</reagents>
+<taught-by-npc cost="10000">
+<npc id="26905" />
+<npc id="26953" />
+<npc id="26972" />
+<npc id="26989" />
+<npc id="28705" />
+<npc id="29631" />
+<npc id="33587" />
+</taught-by-npc>
+</spell>
+<spell id="45561" requires-skill-level="350" colors="0 350 365 380">
+<name>烧烤骨鳞鱼</name>
+<create id="34760" count="1" />
+<reagents>
+<item id="41808" count="1" />
+</reagents>
+<taught-by-npc cost="10000">
+<npc id="26905" />
+<npc id="26953" />
+<npc id="26972" />
+<npc id="26989" />
+<npc id="28705" />
+<npc id="29631" />
+<npc id="33587" />
+</taught-by-npc>
+</spell>
+<spell id="45562" requires-skill-level="350" colors="0 350 365 380">
+<name>嫩煎虾虎鱼</name>
+<create id="34761" count="1" />
+<reagents>
+<item id="41812" count="1" />
+</reagents>
+<taught-by-npc cost="10000">
+<npc id="26905" />
+<npc id="26953" />
+<npc id="26972" />
+<npc id="26989" />
+<npc id="28705" />
+<npc id="29631" />
+<npc id="33587" />
+</taught-by-npc>
+</spell>
+<spell id="45549" requires-skill-level="350" colors="0 350 382 415">
+<name>猛犸肉餐</name>
+<create id="34748" count="1" />
+<reagents>
+<item id="34736" count="1" />
+</reagents>
+<taught-by-npc cost="20000">
+<npc id="26905" />
+<npc id="26953" />
+<npc id="26972" />
+<npc id="26989" />
+<npc id="28705" />
+<npc id="29631" />
+<npc id="33587" />
+</taught-by-npc>
+</spell>
+<spell id="45550" requires-skill-level="350" colors="0 350 382 415">
+<name>铲齿鹿排</name>
+<create id="34749" count="1" />
+<reagents>
+<item id="43009" count="1" />
+</reagents>
+<taught-by-npc cost="20000">
+<npc id="26905" />
+<npc id="26953" />
+<npc id="26972" />
+<npc id="26989" />
+<npc id="28705" />
+<npc id="29631" />
+<npc id="33587" />
+</taught-by-npc>
+</spell>
+<spell id="45551" requires-skill-level="350" colors="0 350 382 415">
+<name>虫肉美食</name>
+<create id="34750" count="1" />
+<reagents>
+<item id="43010" count="1" />
+</reagents>
+<taught-by-npc cost="20000">
+<npc id="26905" />
+<npc id="26953" />
+<npc id="26972" />
+<npc id="26989" />
+<npc id="28705" />
+<npc id="29631" />
+<npc id="33587" />
+</taught-by-npc>
+</spell>
+<spell id="45552" requires-skill-level="350" colors="0 350 382 415">
+<name>烘烤座狼</name>
+<create id="34751" count="1" />
+<reagents>
+<item id="43011" count="1" />
+</reagents>
+<taught-by-npc cost="20000">
+<npc id="26905" />
+<npc id="26953" />
+<npc id="26972" />
+<npc id="26989" />
+<npc id="28705" />
+<npc id="29631" />
+<npc id="33587" />
+</taught-by-npc>
+</spell>
+<spell id="45553" requires-skill-level="350" colors="0 350 382 415">
+<name>犀牛热狗</name>
+<create id="34752" count="1" />
+<reagents>
+<item id="43012" count="1" />
+</reagents>
+<taught-by-npc cost="20000">
+<npc id="26905" />
+<npc id="26953" />
+<npc id="26972" />
+<npc id="26989" />
+<npc id="28705" />
+<npc id="29631" />
+<npc id="33587" />
+</taught-by-npc>
+</spell>
+<spell id="45563" requires-skill-level="350" colors="0 350 382 415">
+<name>烤蚌背鱼</name>
+<create id="34762" count="1" />
+<reagents>
+<item id="41806" count="1" />
+</reagents>
+<taught-by-npc cost="20000">
+<npc id="26905" />
+<npc id="26953" />
+<npc id="26972" />
+<npc id="26989" />
+<npc id="28705" />
+<npc id="29631" />
+<npc id="33587" />
+</taught-by-npc>
+</spell>
+<spell id="45564" requires-skill-level="350" colors="0 350 382 415">
+<name>熏烤鲑鱼</name>
+<create id="34763" count="1" />
+<reagents>
+<item id="41809" count="1" />
+</reagents>
+<taught-by-npc cost="20000">
+<npc id="26905" />
+<npc id="26953" />
+<npc id="26972" />
+<npc id="26989" />
+<npc id="28705" />
+<npc id="29631" />
+<npc id="33587" />
+</taught-by-npc>
+</spell>
+<spell id="45565" requires-skill-level="350" colors="0 350 382 415">
+<name>煮水母</name>
+<create id="34764" count="1" />
+<reagents>
+<item id="41813" count="1" />
+</reagents>
+<taught-by-npc cost="20000">
+<npc id="26905" />
+<npc id="26953" />
+<npc id="26972" />
+<npc id="26989" />
+<npc id="28705" />
+<npc id="29631" />
+<npc id="33587" />
+</taught-by-npc>
+</spell>
+<spell id="45566" requires-skill-level="350" colors="0 350 382 415">
+<name>腌制利齿青鱼</name>
+<create id="34765" count="1" />
+<reagents>
+<item id="41810" count="1" />
+</reagents>
+<taught-by-npc cost="20000">
+<npc id="26905" />
+<npc id="26953" />
+<npc id="26972" />
+<npc id="26989" />
+<npc id="28705" />
+<npc id="29631" />
+<npc id="33587" />
+</taught-by-npc>
+</spell>
+<spell id="45569" requires-skill-level="350" colors="0 350 382 415">
+<name>烤鳐鱼</name>
+<create id="42942" count="1" />
+<reagents>
+<item id="41802" count="1" />
+</reagents>
+<taught-by-npc cost="20000">
+<npc id="26905" />
+<npc id="26953" />
+<npc id="26972" />
+<npc id="26989" />
+<npc id="28705" />
+<npc id="29631" />
+<npc id="33587" />
+</taught-by-npc>
+</spell>
+<spell id="58065" requires-skill-level="350" colors="0 350 382 415">
+<name>达拉然蚌肉杂烩</name>
+<create id="43268" count="1" />
+<reagents>
+<item id="36782" count="2" />
+</reagents>
+<taught-by-npc cost="20000">
+<npc id="26905" />
+<npc id="26953" />
+<npc id="26972" />
+<npc id="26989" />
+<npc id="28705" />
+<npc id="29631" />
+<npc id="33587" />
+</taught-by-npc>
+</spell>
+<spell id="33296" requires-skill-level="350" colors="350 370 375 380">
+<name>香辣小龙虾</name>
+<create id="27667" count="1" />
+<reagents>
+<item id="27439" count="1" />
+</reagents>
+<taught-by-item>
+<item id="27700" />
+</taught-by-item>
+</spell>
+<spell id="42302" requires-skill-level="350" colors="350 375 380 385">
+<name>渔夫的美味</name>
+<create id="33052" count="6" />
+<reagents>
+<item id="27515" count="1" />
+</reagents>
+<taught-by-npc cost="60000">
+<npc id="19186" />
+</taught-by-npc>
+</spell>
+<spell id="42305" requires-skill-level="350" colors="350 375 380 385">
+<name>黄油鲑鱼</name>
+<create id="33053" count="2" />
+<reagents>
+<item id="27516" count="1" />
+</reagents>
+<taught-by-npc cost="60000">
+<npc id="19186" />
+</taught-by-npc>
+</spell>
+<spell id="53056" requires-skill-level="375" colors="0 375 387 400">
+<name>甜果酒</name>
+<create id="39520" count="5" />
+<reagents>
+<item id="35949" count="2" />
+<item id="35948" count="1" />
+</reagents>
+<!--
+<taught-by-npc>
+<npc id="32516" />
+</taught-by-npc>
+-->
+</spell>
+<spell id="45554" requires-skill-level="375" colors="0 375 400 425">
+<name>筵席</name>
+<create id="34753" count="1" />
+<reagents>
+<item id="34736" count="1" />
+<item id="43009" count="1" />
+<item id="43010" count="1" />
+<item id="43013" count="2" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="26905" />
+<npc id="26953" />
+<npc id="26972" />
+<npc id="26989" />
+<npc id="28705" />
+<npc id="29631" />
+<npc id="33587" />
+</taught-by-npc>
+</spell>
+<spell id="62350" requires-skill-level="400" colors="0 400 405 460">
+<name>生拌狼肉糜</name>
+<create id="44953" count="1" />
+<reagents>
+<item id="43011" count="2" />
+<item id="43007" count="1" />
+</reagents>
+<taught-by-item>
+<item id="44954" />
+</taught-by-item>
+</spell>
+<spell id="64358" requires-skill-level="400" colors="0 400 412 425">
+<name>黑肉冻</name>
+<create id="45932" count="1" />
+<reagents>
+<item id="41805" count="3" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="26905" />
+<npc id="26953" />
+<npc id="26972" />
+<npc id="26989" />
+<npc id="28705" />
+<npc id="29631" />
+<npc id="33587" />
+</taught-by-npc>
+</spell>
+<spell id="45555" requires-skill-level="400" colors="400 425 450 475">
+<name>猛犸肉大餐</name>
+<create id="34754" count="1" />
+<reagents>
+<item id="34736" count="2" />
+<item id="43007" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43018" />
+</taught-by-item>
+</spell>
+<spell id="45556" requires-skill-level="400" colors="400 425 450 475">
+<name>香嫩铲齿鹿排</name>
+<create id="34755" count="1" />
+<reagents>
+<item id="43009" count="2" />
+<item id="43007" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43019" />
+</taught-by-item>
+</spell>
+<spell id="45557" requires-skill-level="400" colors="400 425 450 475">
+<name>香辣虫肉汉堡</name>
+<create id="34756" count="1" />
+<reagents>
+<item id="43010" count="2" />
+<item id="43007" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43020" />
+</taught-by-item>
+</spell>
+<spell id="45558" requires-skill-level="400" colors="400 425 450 475">
+<name>焦烤座狼</name>
+<create id="34757" count="1" />
+<reagents>
+<item id="43011" count="1" />
+<item id="43007" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43021" />
+</taught-by-item>
+</spell>
+<spell id="45559" requires-skill-level="400" colors="400 425 450 475">
+<name>巨型犀牛热狗</name>
+<create id="34758" count="1" />
+<reagents>
+<item id="43012" count="2" />
+<item id="43007" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43022" />
+</taught-by-item>
+</spell>
+<spell id="45567" requires-skill-level="400" colors="400 425 450 475">
+<name>水煮北地蚌背鱼</name>
+<create id="34766" count="1" />
+<reagents>
+<item id="41806" count="1" />
+<item id="43007" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43023" />
+</taught-by-item>
+</spell>
+<spell id="45568" requires-skill-level="400" colors="400 425 450 475">
+<name>爆炒鲑鱼</name>
+<create id="34767" count="1" />
+<reagents>
+<item id="41809" count="1" />
+<item id="43007" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43024" />
+</taught-by-item>
+</spell>
+<spell id="45570" requires-skill-level="400" colors="400 425 450 475">
+<name>帝王鳐鱼片</name>
+<create id="34769" count="1" />
+<reagents>
+<item id="41802" count="1" />
+<item id="43007" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43026" />
+</taught-by-item>
+</spell>
+<spell id="45571" requires-skill-level="400" colors="400 425 450 475">
+<name>香辣蓝色水母</name>
+<create id="34768" count="1" />
+<reagents>
+<item id="41813" count="1" />
+<item id="43007" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43025" />
+</taught-by-item>
+</spell>
+<spell id="57433" requires-skill-level="400" colors="400 425 450 475">
+<name>香辣油炸青鱼</name>
+<create id="42993" count="1" />
+<reagents>
+<item id="41810" count="1" />
+<item id="43007" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43027" />
+</taught-by-item>
+</spell>
+<spell id="57434" requires-skill-level="400" colors="400 425 450 475">
+<name>虫犀肉排</name>
+<create id="42994" count="1" />
+<reagents>
+<item id="43010" count="1" />
+<item id="43012" count="1" />
+<item id="43007" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43028" />
+</taught-by-item>
+</spell>
+<spell id="57435" requires-skill-level="400" colors="400 425 450 475">
+<name>小动物的零食</name>
+<create id="43004" count="4" />
+<reagents>
+<item id="43013" count="2" />
+<item id="43007" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43029" />
+</taught-by-item>
+</spell>
+<spell id="57436" requires-skill-level="400" colors="400 425 450 475">
+<name>犀牛大餐</name>
+<create id="42995" count="1" />
+<reagents>
+<item id="43012" count="1" />
+<item id="43007" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43030" />
+</taught-by-item>
+</spell>
+<spell id="57437" requires-skill-level="400" colors="400 425 450 475">
+<name>钳鱼大餐</name>
+<create id="42996" count="1" />
+<reagents>
+<item id="41808" count="3" />
+<item id="43007" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43031" />
+</taught-by-item>
+</spell>
+<spell id="57438" requires-skill-level="400" colors="400 425 450 475">
+<name>熏烤座狼肉排</name>
+<create id="42997" count="1" />
+<reagents>
+<item id="43011" count="1" />
+<item id="43007" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43032" />
+</taught-by-item>
+</spell>
+<spell id="57439" requires-skill-level="400" colors="400 425 450 475">
+<name>墨鱼片</name>
+<create id="42998" count="1" />
+<reagents>
+<item id="41801" count="1" />
+<item id="43007" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43033" />
+</taught-by-item>
+</spell>
+<spell id="57440" requires-skill-level="400" colors="400 425 450 475">
+<name>香辣猛犸小吃</name>
+<create id="43005" count="1" />
+<reagents>
+<item id="34736" count="1" />
+<item id="43007" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43034" />
+</taught-by-item>
+</spell>
+<spell id="57441" requires-skill-level="400" colors="400 425 450 475">
+<name>熏烤龙鳞鱼</name>
+<create id="42999" count="1" />
+<reagents>
+<item id="41807" count="1" />
+<item id="43007" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43035" />
+</taught-by-item>
+</spell>
+<spell id="57442" requires-skill-level="400" colors="400 425 450 475">
+<name>龙鳞鱼片</name>
+<create id="43000" count="1" />
+<reagents>
+<item id="41807" count="1" />
+<item id="43007" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43036" />
+</taught-by-item>
+</spell>
+<spell id="57443" requires-skill-level="400" colors="400 425 450 475">
+<name>追踪快餐</name>
+<create id="43001" count="1" />
+<reagents>
+<item id="43009" count="1" />
+<item id="43007" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43037" />
+</taught-by-item>
+</spell>
+<spell id="58527" requires-skill-level="425" colors="425 435 455 475">
+<name>丰盛筵席</name>
+<create id="43478" count="1" />
+<reagents>
+<item id="41800" count="2" />
+<item id="34736" count="2" />
+<item id="41803" count="2" />
+<item id="43007" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43505" />
+</taught-by-item>
+</spell>
+<spell id="58528" requires-skill-level="425" colors="425 435 455 475">
+<name>小型筵席</name>
+<create id="43480" count="1" />
+<reagents>
+<item id="41813" count="2" />
+<item id="43012" count="2" />
+<item id="41809" count="2" />
+<item id="43007" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43506" />
+</taught-by-item>
+</spell>
+<spell id="57423" requires-skill-level="450" colors="450 455 460 465">
+<name>鱼肉筵席</name>
+<create id="43015" count="1" />
+<reagents>
+<item id="41806" count="2" />
+<item id="41809" count="2" />
+<item id="41813" count="2" />
+<item id="43007" count="1" />
+</reagents>
+<taught-by-item>
+<item id="43017" />
+</taught-by-item>
+</spell>
+</spells>

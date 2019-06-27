@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>魔兽世界 - 烹饪指南</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="x-ua-compatible" content="IE=7" />
+<meta name="keywords" content="WoW,World of Warcraft,Profession,魔兽,魔兽世界,专业技能" />
+<meta name="author" content="FF" />
+<link rel="stylesheet" href="style.css" />
+<link rel="shortcut icon" href="background/favicon.ico" />
+<script type="text/javascript" src="js/base.js"></script>
+<script type="text/javascript" src="js/tip.js"></script>
+<script type="text/javascript" src="js/wowtip.js"></script>
+<script type="text/javascript" src="js/link.js"></script>
+<script type="text/javascript" src="js/table.js"></script>
+<!--[if IE 6]>
+ <script type="text/javascript" src="js/ie7.js"></script>
+<![endif]-->
+<script type="text/javascript">
+
+
+
+var callback = counting(2, function(){
+	Downloaded();
+	tooltip.init();
+	wowtip.init(xmltable);
+	document.body.className = store.get("camp") ? store.get("camp") : (store.set("camp", "alliance").get("camp"));
+	linkProfession(1);
+	skillTable.init("烹饪", "食谱", [
+		["trainer"],
+		["level",0,75],
+		["level",75,150],
+		["level",150,225],
+		["level",225,300],
+		["level",300,375],
+		["level",375,450],
+		["favourite"],
+		["search"]
+	]);
+	favourite.init("cooking");
+	skillMenu.init("cooking");
+
+});
+var xmltable = loadxml({
+	item	: "data/cooking/items.xml",
+	npc		: "data/cooking/npcs.xml",
+	quest	: "data/cooking/quests.xml",
+	spell	: "data/cooking/spells.xml",
+	skill	: "data/cooking/skills.xml",
+	object	: "data/cooking/objects.xml",
+	comment	: "data/cooking/comments.xml",
+	map		: "data/maps.xml"
+}, callback);
+
+domloaded(callback);
+
+</script>
+</head>
+<body>
+<!--[if IE]>
+<div id="browser">
+<a id="ff" href="http://www.mozillaonline.com/" title="Firefox"><span></span></a>
+<a id="op" href="http://www.operachina.com/" title="Opera"><span></span></a>
+<a id="ch" href="http://www.google.com/chrome/" title="Chrome"><span></span></a>
+<a id="sf" href="http://www.apple.com.cn/safari/download/" title="Safari"><span></span></a>
+</div>
+<![endif]-->
+<div id="wrapper">
+<div id="header">
+	<div id="headerbg"></div>
+	<div id="skills"></div>
+</div>
+<div id="footer"></div>
+</div>
+</body>
+</html>

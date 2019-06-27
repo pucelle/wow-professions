@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<npcs>
+<npc id="10216" class="7" level="15" health="328" A="2" H="3">
+<name>古博·布拉普</name>
+<screenshot>31296</screenshot>
+<coords map="148">
+<coord x="100" y="80" />
+</coords>
+</npc>
+<npc id="12919" class="7" level="45" health="2,218" A="2" H="2">
+<name>纳特·帕格</name>
+<screenshot>69845</screenshot>
+<coords map="15">
+<coord x="170" y="120" />
+</coords>
+</npc>
+<npc id="14740" class="7" level="42" health="1,651" A="3" H="2">
+<name>钓鱼者卡图姆</name>
+<rank>钓鱼训练师和供应商</rank>
+<screenshot>10661</screenshot>
+<coords map="47">
+<coord x="240" y="160" />
+</coords>
+</npc>
+<npc id="15077" class="7" level="50" health="2,215" A="2" H="2">
+<name>林格·巴斯贝特</name>
+<rank>钓鱼大师</rank>
+<event>荆棘谷钓鱼大赛</event>
+<screenshot>23316</screenshot>
+<coords map="33">
+<coord x="80" y="150" />
+</coords>
+</npc>
+<npc id="15079" class="9" level="50" health="2,215" A="2" H="2">
+<name>钓鱼机器人5000型</name>
+<event>荆棘谷钓鱼大赛</event>
+<screenshot>31877</screenshot>
+<coords map="33">
+<coord x="80" y="150" />
+</coords>
+</npc>
+<npc id="18653" class="7" level="1" health="42" A="2" H="2">
+<name>塞瑟</name>
+<screenshot>15471</screenshot>
+<coords map="3703">
+<coord x="190" y="30" />
+</coords>
+</npc>
+<npc id="25580" class="7" level="70" health="4,050" A="2" H="2">
+<name>老渔夫巴尔洛</name>
+<rank>钓鱼大师</rank>
+<screenshot>71816</screenshot>
+<coords map="3519">
+<coord x="110" y="20" />
+</coords>
+</npc>
+<npc id="28742" class="7" level="75" health="10,635" A="1" H="1">
+<name>玛西娅·切斯</name>
+<rank>宗师级钓鱼训练师和补给商</rank>
+<screenshot>94289</screenshot>
+<coords map="4395">
+<coord x="160" y="120" />
+</coords>
+</npc>
+<npc id="31916" class="7" level="65" health="3,524" A="2" H="2">
+<name>塔奈卡</name>
+<rank>卡鲁亚克军需官</rank>
+<screenshot>100049</screenshot>
+<coords map="495">
+<coord x="70" y="110" />
+</coords>
+</npc>
+<npc id="32763" class="7" level="65" health="3,524" A="2" H="2">
+<name>塞鲁克</name>
+<rank>卡鲁亚克军需官</rank>
+<screenshot>100647</screenshot>
+<coords map="65">
+<coord x="140" y="150" />
+</coords>
+</npc>
+<npc id="38294" class="7" level="80" health="5,342" A="2" H="2">
+<name>清水长者</name>
+<rank>荣誉渔夫</rank>
+<event>卡鲁亚克钓鱼大赛</event>
+<screenshot>154213</screenshot>
+<coords map="4395">
+<coord x="150" y="130" />
+</coords>
+</npc>
+<npc id="898" class="7" level="26 - 27" health="787 - 840" A="3" H="3">
+<name>夜行狼人</name>
+<screenshot>39384</screenshot>
+<coords map="10">
+<coord x="170" y="50" />
+<coord x="170" y="60" />
+<coord x="170" y="90" />
+<coord x="170" y="100" />
+<coord x="180" y="50" />
+<coord x="180" y="60" />
+<coord x="180" y="70" />
+<coord x="180" y="90" />
+<coord x="180" y="100" />
+<coord x="190" y="60" />
+<coord x="190" y="70" />
+<coord x="190" y="80" />
+<coord x="190" y="90" />
+<coord x="180" y="80" />
+</coords>
+</npc>
+<npc id="1923" class="1" level="16 - 17" health="356 - 386" A="3" H="3">
+<name>血牙座狼</name>
+<screenshot>35747</screenshot>
+<coords map="130">
+<coord x="130" y="150" />
+<coord x="130" y="160" />
+<coord x="140" y="150" />
+<coord x="140" y="160" />
+<coord x="150" y="150" />
+<coord x="150" y="160" />
+</coords>
+</npc>
+</npcs>

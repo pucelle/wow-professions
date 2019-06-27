@@ -1,0 +1,174 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>魔兽世界 - 锻造指南</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="x-ua-compatible" content="IE=7" />
+<meta name="keywords" content="WoW,World of Warcraft,Profession,魔兽,魔兽世界,专业技能" />
+<meta name="author" content="FF" />
+<link rel="stylesheet" href="style.css" />
+<style type="text/css">
+.topsearchbar ul, .bottomsearchbar ul{display:none;}
+</style>
+<link rel="shortcut icon" href="background/favicon.ico" />
+<script type="text/javascript" src="js/base.js"></script>
+<script type="text/javascript" src="js/tip.js"></script>
+<script type="text/javascript" src="js/wowtip.js"></script>
+<script type="text/javascript" src="js/link.js"></script>
+<script type="text/javascript" src="js/table.js"></script>
+<!--[if IE 6]>
+ <script type="text/javascript" src="js/ie7.js"></script>
+<![endif]-->
+<script type="text/javascript">
+var callback = counting(2, function(){
+	Downloaded();
+	tooltip.init();
+	wowtip.init(xmltable);
+	document.body.className = store.get("camp") ? store.get("camp") : (store.set("camp", "alliance").get("camp"));
+	linkProfession(4);
+	skillTable.init("锻造", "设计图", [
+		["trainer"],
+		["level",0,75],
+		["level",75,150],
+		["level",150,225],
+		["level",225,275],
+		["level",275,300],
+		["level",300,350],
+		["level",350,375],
+		["level",375,450],
+		["favourite"],
+		["search"]
+	]);
+
+	favourite.init("blacksmithing");
+	skillMenu.init("blacksmithing");
+	
+	var topsearchbar = document.getElementById("menu-top").getElementsByTagName("a");
+	topsearchbar = topsearchbar[topsearchbar.length - 1];
+	MouseoutDelay(topsearchbar, topsearchbar.getElementsByTagName("ul")[0]);
+	var bottomsearchbar = document.getElementById("menu-bottom").getElementsByTagName("a");
+	bottomsearchbar = bottomsearchbar[bottomsearchbar.length - 1];
+	MouseoutDelay(bottomsearchbar, bottomsearchbar.getElementsByTagName("ul")[0]);
+});
+
+var xmltable = loadxml({
+	item	: "data/blacksmithing/items.xml",
+	npc		: "data/blacksmithing/npcs.xml",
+	quest	: "data/blacksmithing/quests.xml",
+	spell	: "data/blacksmithing/spells.xml",
+	skill	: "data/blacksmithing/skills.xml",
+	object	: "data/blacksmithing/objects.xml",
+	comment	: "data/blacksmithing/comments.xml",
+	map		: "data/maps.xml"
+}, callback);
+
+domloaded(callback);
+</script>
+</head>
+<body>
+<!--[if IE]>
+<div id="browser">
+<a id="ff" href="http://www.mozillaonline.com/" title="Firefox"><span></span></a>
+<a id="op" href="http://www.operachina.com/" title="Opera"><span></span></a>
+<a id="ch" href="http://www.google.com/chrome/" title="Chrome"><span></span></a>
+<a id="sf" href="http://www.apple.com.cn/safari/download/" title="Safari"><span></span></a>
+</div>
+<![endif]-->
+<div id="wrapper">
+<div id="header">
+<div id="headerbg"></div>
+<div id="skills"></div>
+<div id="version">版本: 3.3.5</div>
+<div id="camp">
+<span class="a2 h3 si-alliance" onclick="changeCamp('alliance')" title="点击以切换到联盟状态">联盟</span>
+<span class="a3 h2 si-horde" onclick="changeCamp('horde')" title="点击以切换到部落状态">部落</span>
+</div>
+</div>
+<div id="menu-top">
+<a href="javascript:skillMenu.click(0)">&nbsp;训练师&nbsp;</a>
+<a href="javascript:skillMenu.click(1)">1-75</a>
+<a href="javascript:skillMenu.click(2)">80-150</a>
+<a href="javascript:skillMenu.click(3)">155-225</a>
+<a href="javascript:skillMenu.click(4)">230-275</a>
+<a href="javascript:skillMenu.click(5)">280-300</a>
+<a href="javascript:skillMenu.click(6)">305-350</a>
+<a href="javascript:skillMenu.click(7)">355-375</a>
+<a href="javascript:skillMenu.click(8)">380-450</a>
+<a href="javascript:skillMenu.click(9)" title="左键点击一个专业技能制造的物品以加入收藏夹，再次点击以删除。">&nbsp;收藏夹&nbsp;</a>
+<a href="javascript:" class="topsearchbar">
+<span onclick="skillMenu.click(10)">&nbsp;搜索栏&nbsp;</span>
+<ul>
+<li onclick="skillTable.searchByClass('0.6')">物品增益</li>
+<li onclick="skillTable.searchByClass('2.0')">单手斧</li>
+<li onclick="skillTable.searchByClass('2.4')">单手锤</li>
+<li onclick="skillTable.searchByClass('2.7')">单手剑</li>
+<li onclick="skillTable.searchByClass('2.15')">匕首</li>
+<li onclick="skillTable.searchByClass('2.1')">双手斧</li>
+<li onclick="skillTable.searchByClass('2.5')">双手锤</li>
+<li onclick="skillTable.searchByClass('2.8')">双手剑</li>
+<li onclick="skillTable.searchByClass('2.6')">长柄武器</li>
+<li onclick="skillTable.searchByClass('2.16')">投掷武器</li>
+<li onclick="skillTable.searchByClass('4.3.1 4.4.1')">头部</li>
+<li onclick="skillTable.searchByClass('4.3.3 4.4.3')">肩部</li>
+<li onclick="skillTable.searchByClass('4.3.5 4.4.5')">胸甲</li>
+<li onclick="skillTable.searchByClass('4.3.9 4.4.9')">护腕</li>
+<li onclick="skillTable.searchByClass('4.3.10 4.4.10')">手套</li>
+<li onclick="skillTable.searchByClass('4.3.6 4.4.6')">腰带</li>
+<li onclick="skillTable.searchByClass('4.3.7 4.4.7')">腿部</li>
+<li onclick="skillTable.searchByClass('4.3.8 4.4.8')">靴子</li>
+<li onclick="skillTable.searchByClass('4.6')">盾牌</li>
+<li onclick="skillTable.searchByClass('7.12')">附魔棒</li>
+<li onclick="skillTable.searchByClass('13.0')">钥匙</li>
+<li onclick="skillTable.searchByClass('0.-3')">其他</li>
+</ul>
+</a>
+<div id="search">
+<input id="text" type="text" onkeydown="if(event.keyCode==13){skillTable.search();}" />
+<div id="go" title="搜索锻造技能" onclick="skillTable.search();"></div>
+</div>
+</div>
+<div id="content"></div>
+<div id="menu-bottom">
+<a href="javascript:skillMenu.click(0)">&nbsp;训练师&nbsp;</a>
+<a href="javascript:skillMenu.click(1)">1-75</a>
+<a href="javascript:skillMenu.click(2)">80-150</a>
+<a href="javascript:skillMenu.click(3)">155-225</a>
+<a href="javascript:skillMenu.click(4)">230-275</a>
+<a href="javascript:skillMenu.click(5)">280-300</a>
+<a href="javascript:skillMenu.click(6)">305-350</a>
+<a href="javascript:skillMenu.click(7)">355-375</a>
+<a href="javascript:skillMenu.click(8)">380-450</a>
+<a href="javascript:skillMenu.click(9)" title="左键点击一个专业技能制造的物品以加入收藏夹，再次点击以删除。">&nbsp;收藏夹&nbsp;</a>
+<a href="javascript:" class="bottomsearchbar">
+<span onclick="skillMenu.click(10)">&nbsp;搜索栏&nbsp;</span>
+<ul>
+<li onclick="skillTable.searchByClass('0.6')">物品增益</li>
+<li onclick="skillTable.searchByClass('2.0')">单手斧</li>
+<li onclick="skillTable.searchByClass('2.4')">单手锤</li>
+<li onclick="skillTable.searchByClass('2.7')">单手剑</li>
+<li onclick="skillTable.searchByClass('2.15')">匕首</li>
+<li onclick="skillTable.searchByClass('2.1')">双手斧</li>
+<li onclick="skillTable.searchByClass('2.5')">双手锤</li>
+<li onclick="skillTable.searchByClass('2.8')">双手剑</li>
+<li onclick="skillTable.searchByClass('2.6')">长柄武器</li>
+<li onclick="skillTable.searchByClass('2.16')">投掷武器</li>
+<li onclick="skillTable.searchByClass('4.3.1 4.4.1')">头部</li>
+<li onclick="skillTable.searchByClass('4.3.3 4.4.3')">肩部</li>
+<li onclick="skillTable.searchByClass('4.3.5 4.4.5')">胸甲</li>
+<li onclick="skillTable.searchByClass('4.3.9 4.4.9')">护腕</li>
+<li onclick="skillTable.searchByClass('4.3.10 4.4.10')">手套</li>
+<li onclick="skillTable.searchByClass('4.3.6 4.4.6')">腰带</li>
+<li onclick="skillTable.searchByClass('4.3.7 4.4.7')">腿部</li>
+<li onclick="skillTable.searchByClass('4.3.8 4.4.8')">靴子</li>
+<li onclick="skillTable.searchByClass('4.6')">盾牌</li>
+<li onclick="skillTable.searchByClass('7.12')">附魔棒</li>
+<li onclick="skillTable.searchByClass('13.0')">钥匙</li>
+<li onclick="skillTable.searchByClass('0.-3')">其他</li>
+</ul>
+</a>
+
+</div>
+<div id="footer"></div>
+</div>
+</body>
+</html>

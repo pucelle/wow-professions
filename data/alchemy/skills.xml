@@ -1,0 +1,4335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<spells version="3.3.3">
+<spell id="2329" requires-skill-level="1" colors="1 55 75 95">
+<name>狮王之力药剂</name>
+<create id="2454" class="0.2.1" count="1" />
+<reagents>
+<item id="2449" count="1" />
+<item id="765" count="1" />
+<item id="3371" count="1" />
+</reagents>
+</spell>
+<spell id="2330" requires-skill-level="1" colors="1 55 75 95">
+<name>初级治疗药水</name>
+<create id="118" class="0.1" count="1" />
+<reagents>
+<item id="2447" count="1" />
+<item id="765" count="1" />
+<item id="3371" count="1" />
+</reagents>
+</spell>
+<spell id="7183" requires-skill-level="1" colors="1 55 75 95">
+<name>初级防御药剂</name>
+<create id="5997" class="0.2.2" count="1" />
+<reagents>
+<item id="765" count="2" />
+<item id="3371" count="1" />
+</reagents>
+</spell>
+<spell id="3170" requires-skill-level="15" colors="15 60 80 100">
+<name>弱效巨魔之血药剂</name>
+<create id="3382" class="0.2.2" count="1" />
+<reagents>
+<item id="2447" count="1" />
+<item id="2449" count="2" />
+<item id="3371" count="1" />
+</reagents>
+<taught-by-npc cost="50">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="17215" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="2331" requires-skill-level="25" colors="25 65 85 105">
+<name>初级法力药水</name>
+<create id="2455" class="0.1" count="1" />
+<reagents>
+<item id="785" count="1" />
+<item id="765" count="1" />
+<item id="3371" count="1" />
+</reagents>
+<taught-by-npc cost="100">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="17215" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="2332" requires-skill-level="40" colors="40 70 90 110">
+<name>初级活力药水</name>
+<create id="2456" class="0.1" count="1" />
+<reagents>
+<item id="785" count="2" />
+<item id="2447" count="1" />
+<item id="3371" count="1" />
+</reagents>
+<taught-by-npc cost="150">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="17215" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="53042" requires-skill-level="50" colors="0 0 0 50">
+<name>混合药剂</name>
+<taught-by-npc cost="1000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="17215" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="2334" requires-skill-level="50" colors="50 80 100 120">
+<name>初级坚韧药剂</name>
+<create id="2458" class="0.2.2" count="1" />
+<reagents>
+<item id="2449" count="2" />
+<item id="2447" count="1" />
+<item id="3371" count="1" />
+</reagents>
+<taught-by-npc cost="250">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="3230" requires-skill-level="50" colors="50 80 100 120">
+<name>初级敏捷药剂</name>
+<create id="2457" class="0.2.1" count="1" />
+<reagents>
+<item id="2452" count="1" />
+<item id="765" count="1" />
+<item id="3371" count="1" />
+</reagents>
+<taught-by-item>
+<item id="2553" />
+</taught-by-item>
+</spell>
+<spell id="4508" requires-skill-level="50" colors="50 80 100 120">
+<name>褪色的治疗药水</name>
+<create id="4596" class="0.1" count="1" />
+<reagents>
+<item id="3164" count="1" />
+<item id="2447" count="1" />
+<item id="3371" count="1" />
+</reagents>
+<taught-by-item>
+<item id="4597" />
+</taught-by-item>
+</spell>
+<spell id="2337" requires-skill-level="55" colors="55 85 105 125">
+<name>次级治疗药水</name>
+<create id="858" class="0.1" count="1" />
+<reagents>
+<item id="118" count="1" />
+<item id="2450" count="1" />
+</reagents>
+<taught-by-npc cost="1000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="17215" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="2335" requires-skill-level="60" colors="60 90 110 130">
+<name>迅捷药水</name>
+<create id="2459" class="0.1" count="1" />
+<reagents>
+<item id="2452" count="1" />
+<item id="2450" count="1" />
+<item id="3371" count="1" />
+</reagents>
+<taught-by-item>
+<item id="2555" />
+</taught-by-item>
+</spell>
+<spell id="6617" requires-skill-level="60" colors="60 90 110 130">
+<name>怒气药水</name>
+<create id="5631" class="0.1" count="1" />
+<reagents>
+<item id="5635" count="2" />
+<item id="3371" count="1" />
+</reagents>
+<taught-by-item>
+<item id="5640" />
+</taught-by-item>
+</spell>
+<spell id="7836" requires-skill-level="80" colors="0 80 90 100">
+<name>黑口鱼油</name>
+<create id="6370" class="7.11" count="1" />
+<reagents>
+<item id="6358" count="2" />
+</reagents>
+<taught-by-npc cost="250">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="3171" requires-skill-level="90" colors="90 120 140 160">
+<name>智慧药剂</name>
+<create id="3383" class="0.2.2" count="1" />
+<reagents>
+<item id="785" count="1" />
+<item id="2450" count="2" />
+<item id="3371" count="1" />
+</reagents>
+<taught-by-npc cost="500">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="7179" requires-skill-level="90" colors="90 120 140 160">
+<name>水下呼吸药剂</name>
+<create id="5996" class="0.2" count="1" />
+<reagents>
+<item id="3820" count="1" />
+<item id="6370" count="2" />
+<item id="3371" count="1" />
+</reagents>
+<taught-by-npc cost="450">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="8240" requires-skill-level="90" colors="90 120 140 160">
+<name>增长药剂</name>
+<create id="6662" class="0.2.1" count="1" />
+<reagents>
+<item id="6522" count="1" />
+<item id="2449" count="1" />
+<item id="3371" count="1" />
+</reagents>
+<taught-by-item>
+<item id="6663" />
+</taught-by-item>
+</spell>
+<spell id="7255" requires-skill-level="100" colors="100 130 150 170">
+<name>神圣防护药水</name>
+<create id="6051" class="0.1" count="1" />
+<reagents>
+<item id="2453" count="1" />
+<item id="2452" count="1" />
+<item id="3371" count="1" />
+</reagents>
+<taught-by-item>
+<item id="6053" />
+</taught-by-item>
+</spell>
+<spell id="7841" requires-skill-level="100" colors="100 130 150 170">
+<name>速游药水</name>
+<create id="6372" class="0.1" count="1" />
+<reagents>
+<item id="2452" count="1" />
+<item id="6370" count="1" />
+<item id="3371" count="1" />
+</reagents>
+<taught-by-npc cost="1000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="3172" requires-skill-level="110" colors="110 135 155 175">
+<name>初级抗魔药水</name>
+<create id="3384" class="0.1" count="1" />
+<reagents>
+<item id="785" count="3" />
+<item id="3355" count="1" />
+<item id="3371" count="1" />
+</reagents>
+<taught-by-item>
+<item id="3393" />
+</taught-by-item>
+</spell>
+<spell id="3447" requires-skill-level="110" colors="110 135 155 175">
+<name>治疗药水</name>
+<create id="929" class="0.1" count="1" />
+<reagents>
+<item id="2453" count="1" />
+<item id="2450" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-npc cost="4000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="3173" requires-skill-level="120" colors="120 145 165 185">
+<name>次级法力药水</name>
+<create id="3385" class="0.1" count="1" />
+<reagents>
+<item id="785" count="1" />
+<item id="3820" count="1" />
+<item id="3371" count="1" />
+</reagents>
+<taught-by-npc cost="1500">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="3174" requires-skill-level="120" colors="120 145 165 185">
+<name>治愈药水</name>
+<create id="3386" class="0.1" count="1" />
+<reagents>
+<item id="1288" count="1" />
+<item id="2453" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-item>
+<item id="3394" />
+</taught-by-item>
+</spell>
+<spell id="3176" requires-skill-level="125" colors="125 150 170 190">
+<name>强力巨魔之血药剂</name>
+<create id="3388" class="0.2.2" count="1" />
+<reagents>
+<item id="2453" count="2" />
+<item id="2450" count="2" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-npc cost="1500">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="7837" requires-skill-level="130" colors="130 150 160 170">
+<name>火焰之油</name>
+<create id="6371" class="7.11" count="1" />
+<reagents>
+<item id="6359" count="2" />
+</reagents>
+<taught-by-npc cost="1000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="3177" requires-skill-level="130" colors="130 155 175 195">
+<name>防御药剂</name>
+<create id="3389" class="0.2.2" count="1" />
+<reagents>
+<item id="3355" count="1" />
+<item id="3820" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-npc cost="2000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="7256" requires-skill-level="135" colors="135 160 180 200">
+<name>暗影防护药水</name>
+<create id="6048" class="0.1" count="1" />
+<reagents>
+<item id="3369" count="1" />
+<item id="3356" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-item>
+<item id="6054" />
+</taught-by-item>
+</spell>
+<spell id="63732" requires-skill-level="135" colors="135 160 180 200">
+<name>初级精准药剂</name>
+<create id="45621" class="0.2" count="1" />
+<reagents>
+<item id="6371" count="1" />
+<item id="2453" count="1" />
+<item id="3371" count="1" />
+</reagents>
+<taught-by-npc cost="2000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="2333" requires-skill-level="140" colors="140 165 185 205">
+<name>次级敏捷药剂</name>
+<create id="3390" class="0.2.1" count="1" />
+<reagents>
+<item id="3355" count="1" />
+<item id="2452" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-item>
+<item id="3396" />
+</taught-by-item>
+</spell>
+<spell id="7845" requires-skill-level="140" colors="140 165 185 205">
+<name>火力药剂</name>
+<create id="6373" class="0.2.1" count="1" />
+<reagents>
+<item id="6371" count="2" />
+<item id="3356" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-npc cost="3000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="3188" requires-skill-level="150" colors="150 175 195 215">
+<name>食人魔力量药剂</name>
+<create id="3391" class="0.2.1" count="1" />
+<reagents>
+<item id="2449" count="1" />
+<item id="3356" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-item>
+<item id="6211" />
+</taught-by-item>
+</spell>
+<spell id="6624" requires-skill-level="150" colors="150 175 195 215">
+<name>自由行动药水</name>
+<create id="5634" class="0.1" count="1" />
+<reagents>
+<item id="6370" count="2" />
+<item id="3820" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-item>
+<item id="5642" />
+</taught-by-item>
+</spell>
+<spell id="7181" requires-skill-level="155" colors="155 175 195 215">
+<name>强效治疗药水</name>
+<create id="1710" class="0.1" count="1" />
+<reagents>
+<item id="3357" count="1" />
+<item id="3356" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-npc cost="5000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="3452" requires-skill-level="160" colors="160 180 200 220">
+<name>法力药水</name>
+<create id="3827" class="0.1" count="1" />
+<reagents>
+<item id="3820" count="1" />
+<item id="3356" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-npc cost="5000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="3448" requires-skill-level="165" colors="165 185 205 225">
+<name>次级隐形药水</name>
+<create id="3823" class="0.1" count="1" />
+<reagents>
+<item id="3818" count="1" />
+<item id="3355" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-npc cost="5000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="3449" requires-skill-level="165" colors="165 190 210 230">
+<name>暗影之油</name>
+<create id="3824" class="0.-3" count="1" />
+<reagents>
+<item id="3818" count="4" />
+<item id="3369" count="4" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-item>
+<item id="6068" />
+</taught-by-item>
+</spell>
+<spell id="7257" requires-skill-level="165" colors="165 210 230 250">
+<name>火焰防护药水</name>
+<create id="6049" class="0.1" count="1" />
+<reagents>
+<item id="4402" count="1" />
+<item id="6371" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-item>
+<item id="6055" />
+</taught-by-item>
+</spell>
+<spell id="3450" requires-skill-level="175" colors="175 195 215 235">
+<name>坚韧药剂</name>
+<create id="3825" class="0.2.2" count="1" />
+<reagents>
+<item id="3355" count="1" />
+<item id="3821" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-npc cost="6000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+<taught-by-item>
+<item id="3830" />
+</taught-by-item>
+</spell>
+<spell id="6618" requires-skill-level="175" colors="175 195 215 235">
+<name>暴怒药水</name>
+<create id="5633" class="0.1" count="1" />
+<reagents>
+<item id="5637" count="1" />
+<item id="3356" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-item>
+<item id="5643" />
+</taught-by-item>
+</spell>
+<spell id="3451" requires-skill-level="180" colors="180 200 220 240">
+<name>超强巨魔之血药剂</name>
+<create id="3826" class="0.2.2" count="1" />
+<reagents>
+<item id="3357" count="1" />
+<item id="2453" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-item>
+<item id="3831" />
+</taught-by-item>
+</spell>
+<spell id="11449" requires-skill-level="185" colors="185 205 225 245">
+<name>敏捷药剂</name>
+<create id="8949" class="0.2.1" count="1" />
+<reagents>
+<item id="3820" count="1" />
+<item id="3821" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-npc cost="6500">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="7258" requires-skill-level="190" colors="190 205 225 245">
+<name>冰霜防护药水</name>
+<create id="6050" class="0.1" count="1" />
+<reagents>
+<item id="3819" count="1" />
+<item id="3821" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-item>
+<item id="6056" />
+</taught-by-item>
+</spell>
+<spell id="7259" requires-skill-level="190" colors="190 210 230 250">
+<name>自然防护药水</name>
+<create id="6052" class="0.1" count="1" />
+<reagents>
+<item id="3357" count="1" />
+<item id="3820" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-item>
+<item id="6057" />
+</taught-by-item>
+</spell>
+<spell id="21923" requires-skill-level="190" colors="190 210 230 250">
+<name>冰霜之力药剂</name>
+<create id="17708" class="0.2.1" count="1" />
+<reagents>
+<item id="3819" count="2" />
+<item id="3358" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-item>
+<item id="17709" />
+</taught-by-item>
+</spell>
+<spell id="3453" requires-skill-level="195" colors="195 215 235 255">
+<name>侦测次级隐形药剂</name>
+<create id="3828" class="0.2" count="1" />
+<reagents>
+<item id="3358" count="1" />
+<item id="3818" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-item>
+<item id="3832" />
+</taught-by-item>
+</spell>
+<spell id="11450" requires-skill-level="195" colors="195 215 235 255">
+<name>强效防御药剂</name>
+<create id="8951" class="0.2.2" count="1" />
+<reagents>
+<item id="3355" count="1" />
+<item id="3821" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-npc cost="7500">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="3454" requires-skill-level="200" colors="200 220 240 260">
+<name>冰霜之油</name>
+<create id="3829" class="0.-3" count="1" />
+<reagents>
+<item id="3358" count="4" />
+<item id="3819" count="2" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-item>
+<item id="14634" />
+</taught-by-item>
+</spell>
+<spell id="12609" requires-skill-level="200" colors="200 220 240 260">
+<name>猫眼药剂</name>
+<create id="10592" class="0.2" count="1" />
+<reagents>
+<item id="3821" count="1" />
+<item id="3818" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-npc cost="8000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="11448" requires-skill-level="205" colors="205 220 240 260">
+<name>强效法力药水</name>
+<create id="6149" class="0.1" count="1" />
+<reagents>
+<item id="3358" count="1" />
+<item id="3821" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-npc cost="9000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="11451" requires-skill-level="205" colors="205 220 240 260">
+<name>献祭之油</name>
+<create id="8956" class="0.8" count="1" />
+<reagents>
+<item id="4625" count="1" />
+<item id="3821" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-npc cost="8000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="11452" requires-skill-level="210" colors="210 225 245 265">
+<name>滋补药剂</name>
+<create id="9030" class="0.1" count="1" />
+<reagents>
+<item id="7067" count="1" />
+<item id="3821" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<reward-from>
+<quest id="2203" />
+<quest id="2501" />
+</reward-from>
+</spell>
+<spell id="11453" requires-skill-level="210" colors="210 225 245 265">
+<name>抗魔药水</name>
+<create id="9036" class="0.1" count="1" />
+<reagents>
+<item id="3358" count="1" />
+<item id="8831" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="9293" />
+</taught-by-item>
+</spell>
+<spell id="11456" requires-skill-level="210" colors="210 225 245 265">
+<name>地精火箭燃油</name>
+<create id="9061" class="7.1" count="1" />
+<reagents>
+<item id="4625" count="1" />
+<item id="9260" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-item>
+<item id="10644" />
+</taught-by-item>
+</spell>
+<spell id="4942" requires-skill-level="215" colors="215 230 250 270">
+<name>次级石盾药水</name>
+<create id="4623" class="0.1" count="1" />
+<reagents>
+<item id="3858" count="1" />
+<item id="3821" count="1" />
+<item id="3372" count="1" />
+</reagents>
+<taught-by-item>
+<item id="4624" />
+</taught-by-item>
+</spell>
+<spell id="11457" requires-skill-level="215" colors="215 230 250 270">
+<name>优质治疗药水</name>
+<create id="3928" class="0.1" count="1" />
+<reagents>
+<item id="8838" count="1" />
+<item id="3358" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-npc cost="10000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="22808" requires-skill-level="215" colors="215 230 250 270">
+<name>强效水下呼吸药剂</name>
+<create id="18294" class="0.2" count="1" />
+<reagents>
+<item id="7972" count="1" />
+<item id="8831" count="2" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-npc cost="10000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="11458" requires-skill-level="225" colors="225 240 260 280">
+<name>野葡萄药水</name>
+<create id="9144" class="0.1" count="1" />
+<reagents>
+<item id="8153" count="1" />
+<item id="8831" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="9294" />
+</taught-by-item>
+</spell>
+<spell id="11459" requires-skill-level="225" colors="225 240 260 280">
+<name>点金石</name>
+<create id="9149" class="4.-4" count="1" />
+<reagents>
+<item id="3575" count="4" />
+<item id="9262" count="1" />
+<item id="8831" count="4" />
+<item id="4625" count="4" />
+</reagents>
+<taught-by-item>
+<item id="9303" />
+</taught-by-item>
+</spell>
+<spell id="11479" requires-skill-level="225" colors="225 240 260 280">
+<name>点铁成金</name>
+<create id="3577" class="7.7" count="1" />
+<reagents>
+<item id="3575" count="1" />
+</reagents>
+<taught-by-item>
+<item id="9304" />
+</taught-by-item>
+</spell>
+<spell id="11480" requires-skill-level="225" colors="225 240 260 280">
+<name>转化秘银</name>
+<create id="6037" class="7.7" count="1" />
+<reagents>
+<item id="3860" count="1" />
+</reagents>
+<taught-by-item>
+<item id="9305" />
+</taught-by-item>
+</spell>
+<spell id="11460" requires-skill-level="230" colors="230 245 265 285">
+<name>侦测亡灵药剂</name>
+<create id="9154" class="0.2" count="1" />
+<reagents>
+<item id="8836" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-npc cost="5000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="15833" requires-skill-level="230" colors="230 245 265 285">
+<name>昏睡药水</name>
+<create id="12190" class="0.1" count="1" />
+<reagents>
+<item id="8831" count="3" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-npc cost="10000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="11461" requires-skill-level="235" colors="235 250 270 290">
+<name>奥法药剂</name>
+<create id="9155" class="0.2.1" count="1" />
+<reagents>
+<item id="8839" count="1" />
+<item id="3821" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-npc cost="10000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="11464" requires-skill-level="235" colors="235 250 270 290">
+<name>隐形药水</name>
+<create id="9172" class="0.1" count="1" />
+<reagents>
+<item id="8845" count="1" />
+<item id="8838" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="9295" />
+</taught-by-item>
+</spell>
+<spell id="11465" requires-skill-level="235" colors="235 250 270 290">
+<name>强效聪颖药剂</name>
+<create id="9179" class="0.2.2" count="1" />
+<reagents>
+<item id="8839" count="1" />
+<item id="3358" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-npc cost="12000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="11466" requires-skill-level="240" colors="240 255 275 295">
+<name>阿尔萨斯的礼物</name>
+<create id="9088" class="0.2.2" count="1" />
+<reagents>
+<item id="8836" count="1" />
+<item id="8839" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="9296" />
+</taught-by-item>
+</spell>
+<spell id="11467" requires-skill-level="240" colors="240 255 275 295">
+<name>强效敏捷药剂</name>
+<create id="9187" class="0.2.1" count="1" />
+<reagents>
+<item id="8838" count="1" />
+<item id="3821" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-npc cost="12000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="11468" requires-skill-level="240" colors="240 255 275 295">
+<name>梦境药剂</name>
+<create id="9197" class="0.2" count="1" />
+<reagents>
+<item id="8831" count="3" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="9297" />
+</taught-by-item>
+</spell>
+<spell id="11472" requires-skill-level="245" colors="245 260 280 300">
+<name>巨人药剂</name>
+<create id="9206" class="0.2.1" count="1" />
+<reagents>
+<item id="8838" count="1" />
+<item id="8846" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="9298" />
+</taught-by-item>
+</spell>
+<spell id="11473" requires-skill-level="245" colors="245 260 280 300">
+<name>幻象染料</name>
+<create id="9210" class="7.11" count="1" />
+<reagents>
+<item id="8845" count="2" />
+<item id="4342" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="9302" />
+</taught-by-item>
+</spell>
+<spell id="17551" requires-skill-level="250" colors="0 250 255 260">
+<name>石鳞鱼油</name>
+<create id="13423" class="7.11" count="1" />
+<reagents>
+<item id="13422" count="1" />
+</reagents>
+<taught-by-npc cost="15000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="11476" requires-skill-level="250" colors="250 265 285 305">
+<name>暗影之力药剂</name>
+<create id="9264" class="0.2.1" count="1" />
+<reagents>
+<item id="8845" count="3" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="9301" />
+</taught-by-item>
+</spell>
+<spell id="11477" requires-skill-level="250" colors="250 265 285 305">
+<name>屠魔药剂</name>
+<create id="9224" class="0.2.1" count="1" />
+<reagents>
+<item id="8846" count="1" />
+<item id="8845" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="9300" />
+</taught-by-item>
+</spell>
+<spell id="11478" requires-skill-level="250" colors="250 265 285 305">
+<name>侦测恶魔药剂</name>
+<create id="9233" class="0.2" count="1" />
+<reagents>
+<item id="8846" count="2" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-npc cost="14000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="26277" requires-skill-level="250" colors="250 265 285 305">
+<name>强效火力药剂</name>
+<create id="21546" class="0.2.1" count="1" />
+<reagents>
+<item id="6371" count="3" />
+<item id="4625" count="3" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="21547" />
+</taught-by-item>
+</spell>
+<spell id="3175" requires-skill-level="250" colors="250 275 295 315">
+<name>有限无敌药水</name>
+<create id="3387" class="0.1" count="1" />
+<reagents>
+<item id="8839" count="2" />
+<item id="8845" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="3395" />
+</taught-by-item>
+</spell>
+<spell id="17552" requires-skill-level="255" colors="255 270 290 310">
+<name>强效怒气药水</name>
+<create id="13442" class="0.1" count="1" />
+<reagents>
+<item id="8846" count="3" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-npc cost="15000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+<taught-by-item>
+<item id="13476" />
+</taught-by-item>
+</spell>
+<spell id="17553" requires-skill-level="260" colors="260 275 295 315">
+<name>优质法力药水</name>
+<create id="13443" class="0.1" count="1" />
+<reagents>
+<item id="8838" count="2" />
+<item id="8839" count="2" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-npc cost="15000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+<taught-by-item>
+<item id="13477" />
+</taught-by-item>
+</spell>
+<spell id="17554" requires-skill-level="265" colors="265 280 300 320">
+<name>超强防御药剂</name>
+<create id="13445" class="0.2.2" count="1" />
+<reagents>
+<item id="13423" count="2" />
+<item id="8838" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13478" />
+</taught-by-item>
+</spell>
+<spell id="17555" requires-skill-level="270" colors="270 285 305 325">
+<name>先知药剂</name>
+<create id="13447" class="0.2.2" count="1" />
+<reagents>
+<item id="13463" count="1" />
+<item id="13466" count="2" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-npc cost="15000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+<taught-by-item>
+<item id="13479" />
+</taught-by-item>
+</spell>
+<spell id="17187" requires-skill-level="275" colors="0 275 282 290">
+<name>转化：奥金</name>
+<create id="12360" class="7.7" count="1" />
+<reagents>
+<item id="12359" count="1" />
+<item id="12363" count="1" />
+</reagents>
+<taught-by-item>
+<item id="12958" />
+</taught-by-item>
+</spell>
+<spell id="17559" requires-skill-level="275" colors="0 275 282 290">
+<name>转化：点气成火</name>
+<create id="7078" class="7.10" count="1" />
+<reagents>
+<item id="7082" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13482" />
+</taught-by-item>
+</spell>
+<spell id="17560" requires-skill-level="275" colors="0 275 282 290">
+<name>转化：点火成土</name>
+<create id="7076" class="7.10" count="1" />
+<reagents>
+<item id="7078" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13483" />
+</taught-by-item>
+</spell>
+<spell id="17561" requires-skill-level="275" colors="0 275 282 290">
+<name>转化：转土成水</name>
+<create id="7080" class="7.10" count="1" />
+<reagents>
+<item id="7076" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13484" />
+</taught-by-item>
+</spell>
+<spell id="17562" requires-skill-level="275" colors="0 275 282 290">
+<name>转化：点水成气</name>
+<create id="7082" class="7.10" count="1" />
+<reagents>
+<item id="7080" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13485" />
+</taught-by-item>
+</spell>
+<spell id="17563" requires-skill-level="275" colors="0 275 282 290">
+<name>转化：死灵化水</name>
+<create id="7080" class="7.10" count="1" />
+<reagents>
+<item id="12808" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13486" />
+</taught-by-item>
+</spell>
+<spell id="17564" requires-skill-level="275" colors="0 275 282 290">
+<name>转化：水转死灵</name>
+<create id="12808" class="7.10" count="1" />
+<reagents>
+<item id="7080" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13487" />
+</taught-by-item>
+</spell>
+<spell id="17565" requires-skill-level="275" colors="0 275 282 290">
+<name>转化：生命归土</name>
+<create id="7076" class="7.10" count="1" />
+<reagents>
+<item id="12803" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13488" />
+</taught-by-item>
+</spell>
+<spell id="17566" requires-skill-level="275" colors="0 275 282 290">
+<name>转化：土转生命</name>
+<create id="12803" class="7.10" count="1" />
+<reagents>
+<item id="7076" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13489" />
+</taught-by-item>
+</spell>
+<spell id="17556" requires-skill-level="275" colors="275 290 310 330">
+<name>特效治疗药水</name>
+<create id="13446" class="0.1" count="1" />
+<reagents>
+<item id="13464" count="2" />
+<item id="13465" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-npc cost="20000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+<taught-by-item>
+<item id="13480" />
+</taught-by-item>
+</spell>
+<spell id="17557" requires-skill-level="275" colors="275 290 310 330">
+<name>蛮力药剂</name>
+<create id="13453" class="0.2.1" count="1" />
+<reagents>
+<item id="8846" count="2" />
+<item id="13466" count="2" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-npc cost="20000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+<taught-by-item>
+<item id="13481" />
+</taught-by-item>
+</spell>
+<spell id="24365" requires-skill-level="275" colors="275 290 310 330">
+<name>魔血药剂</name>
+<create id="20007" class="0.2.2" count="1" />
+<reagents>
+<item id="13463" count="1" />
+<item id="13466" count="2" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="20011" />
+</taught-by-item>
+</spell>
+<spell id="24366" requires-skill-level="275" colors="275 290 310 330">
+<name>强效昏睡药水</name>
+<create id="20002" class="0.1" count="1" />
+<reagents>
+<item id="13463" count="2" />
+<item id="13464" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="20012" />
+</taught-by-item>
+</spell>
+<spell id="17570" requires-skill-level="280" colors="280 295 315 335">
+<name>强效石盾药水</name>
+<create id="13455" class="0.1" count="1" />
+<reagents>
+<item id="13423" count="2" />
+<item id="10620" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13490" />
+</taught-by-item>
+</spell>
+<spell id="17571" requires-skill-level="280" colors="280 295 315 335">
+<name>猫鼬药剂</name>
+<create id="13452" class="0.2.1" count="1" />
+<reagents>
+<item id="13465" count="2" />
+<item id="13466" count="2" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13491" />
+</taught-by-item>
+</spell>
+<spell id="17572" requires-skill-level="285" colors="285 300 320 340">
+<name>净化药水</name>
+<create id="13462" class="0.1" count="1" />
+<reagents>
+<item id="13467" count="2" />
+<item id="13466" count="2" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-npc cost="20000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+<taught-by-item>
+<item id="13492" />
+</taught-by-item>
+</spell>
+<spell id="17573" requires-skill-level="285" colors="285 300 320 340">
+<name>强效奥法药剂</name>
+<create id="13454" class="0.2.1" count="1" />
+<reagents>
+<item id="13463" count="3" />
+<item id="13465" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-npc cost="20000">
+<npc id="1215" />
+<npc id="1386" />
+<npc id="1470" />
+<npc id="2132" />
+<npc id="2391" />
+<npc id="2837" />
+<npc id="3009" />
+<npc id="3184" />
+<npc id="3347" />
+<npc id="3603" />
+<npc id="3964" />
+<npc id="4160" />
+<npc id="4611" />
+<npc id="4900" />
+<npc id="5177" />
+<npc id="5499" />
+<npc id="7948" />
+<npc id="16161" />
+<npc id="16588" />
+<npc id="16642" />
+<npc id="16723" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+<taught-by-item>
+<item id="13493" />
+</taught-by-item>
+</spell>
+<spell id="24367" requires-skill-level="285" colors="285 300 320 340">
+<name>活力行动药水</name>
+<create id="20008" class="0.1" count="1" />
+<reagents>
+<item id="13467" count="2" />
+<item id="13465" count="2" />
+<item id="10286" count="2" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="20013" />
+</taught-by-item>
+</spell>
+<spell id="17574" requires-skill-level="290" colors="290 305 325 345">
+<name>强效火焰防护药水</name>
+<create id="13457" class="0.1" count="1" />
+<reagents>
+<item id="7068" count="1" />
+<item id="13463" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13494" />
+</taught-by-item>
+</spell>
+<spell id="17575" requires-skill-level="290" colors="290 305 325 345">
+<name>强效冰霜防护药水</name>
+<create id="13456" class="0.1" count="1" />
+<reagents>
+<item id="7070" count="1" />
+<item id="13463" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13495" />
+</taught-by-item>
+</spell>
+<spell id="17576" requires-skill-level="290" colors="290 305 325 345">
+<name>强效自然防护药水</name>
+<create id="13458" class="0.1" count="1" />
+<reagents>
+<item id="7067" count="1" />
+<item id="13463" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13496" />
+</taught-by-item>
+</spell>
+<spell id="17577" requires-skill-level="290" colors="290 305 325 345">
+<name>强效奥术防护药水</name>
+<create id="13461" class="0.1" count="1" />
+<reagents>
+<item id="11176" count="1" />
+<item id="13463" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13497" />
+</taught-by-item>
+</spell>
+<spell id="17578" requires-skill-level="290" colors="290 305 325 345">
+<name>强效暗影防护药水</name>
+<create id="13459" class="0.1" count="1" />
+<reagents>
+<item id="3824" count="1" />
+<item id="13463" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13499" />
+</taught-by-item>
+</spell>
+<spell id="24368" requires-skill-level="290" colors="290 305 325 345">
+<name>特效巨魔之血药剂</name>
+<create id="20004" class="0.2.2" count="1" />
+<reagents>
+<item id="8846" count="1" />
+<item id="13466" count="2" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="20014" />
+</taught-by-item>
+</spell>
+<spell id="17580" requires-skill-level="295" colors="295 310 330 350">
+<name>特效法力药水</name>
+<create id="13444" class="0.1" count="1" />
+<reagents>
+<item id="13463" count="3" />
+<item id="13467" count="2" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13501" />
+</taught-by-item>
+</spell>
+<spell id="25146" requires-skill-level="300" colors="300 301 305 310">
+<name>转化：元素火焰</name>
+<create id="7068" class="7.10" count="3" />
+<reagents>
+<item id="7077" count="1" />
+</reagents>
+<taught-by-item>
+<item id="20761" />
+</taught-by-item>
+</spell>
+<spell id="22732" requires-skill-level="300" colors="300 310 320 330">
+<name>特效活力药水</name>
+<create id="18253" class="0.1" count="1" />
+<reagents>
+<item id="10286" count="1" />
+<item id="13464" count="4" />
+<item id="13463" count="4" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="18257" />
+</taught-by-item>
+</spell>
+<spell id="17634" requires-skill-level="300" colors="300 315 322 330">
+<name>化石合剂</name>
+<create id="13506" class="0.1" count="2" />
+<reagents>
+<item id="13423" count="7" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13518" />
+</taught-by-item>
+</spell>
+<spell id="17635" requires-skill-level="300" colors="300 315 322 330">
+<name>泰坦合剂</name>
+<create id="13510" class="0.3" count="2" />
+<reagents>
+<item id="8846" count="7" />
+<item id="13423" count="3" />
+<item id="13468" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13519" />
+<item id="31354" />
+</taught-by-item>
+</spell>
+<spell id="17636" requires-skill-level="300" colors="300 315 322 330">
+<name>精炼智慧合剂</name>
+<create id="13511" class="0.3" count="2" />
+<reagents>
+<item id="13463" count="7" />
+<item id="13467" count="3" />
+<item id="13468" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13520" />
+<item id="31356" />
+</taught-by-item>
+</spell>
+<spell id="17637" requires-skill-level="300" colors="300 315 322 330">
+<name>超级能量合剂</name>
+<create id="13512" class="0.3" count="2" />
+<reagents>
+<item id="13463" count="7" />
+<item id="13465" count="3" />
+<item id="13468" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13521" />
+<item id="31355" />
+</taught-by-item>
+</spell>
+<spell id="17638" requires-skill-level="300" colors="300 315 322 330">
+<name>多重抗性合剂</name>
+<create id="13513" class="0.3" count="2" />
+<reagents>
+<item id="13467" count="7" />
+<item id="13465" count="3" />
+<item id="13468" count="1" />
+<item id="8925" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13522" />
+<item id="31357" />
+</taught-by-item>
+</spell>
+<spell id="24266" requires-skill-level="300" colors="300 315 322 330">
+<name>古拉巴什疯狂魔精</name>
+<create id="19931" class="12.0" count="3" />
+<reagents>
+<item id="12938" count="1" />
+<item id="19943" count="1" />
+<item id="12804" count="6" />
+<item id="13468" count="1" />
+</reagents>
+</spell>
+<spell id="33732" requires-skill-level="300" colors="300 315 322 330">
+<name>不稳定的治疗药水</name>
+<create id="28100" class="0.1" count="1" />
+<reagents>
+<item id="13464" count="1" />
+<item id="22785" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="20000">
+<npc id="16588" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="33738" requires-skill-level="300" colors="300 315 322 330">
+<name>强攻药剂</name>
+<create id="28102" class="0.2.1" count="1" />
+<reagents>
+<item id="13465" count="1" />
+<item id="22785" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="20000">
+<npc id="16588" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="33740" requires-skill-level="300" colors="300 315 322 330">
+<name>法能药剂</name>
+<create id="28103" class="0.2.1" count="1" />
+<reagents>
+<item id="13463" count="1" />
+<item id="22785" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="20000">
+<npc id="16588" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="28543" requires-skill-level="305" colors="305 320 327 335">
+<name>伪装药剂</name>
+<create id="22823" class="0.2" count="1" />
+<reagents>
+<item id="22787" count="1" />
+<item id="22785" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22900" />
+</taught-by-item>
+</spell>
+<spell id="28544" requires-skill-level="305" colors="305 320 327 335">
+<name>特效力量药剂</name>
+<create id="22824" class="0.2.1" count="1" />
+<reagents>
+<item id="13465" count="1" />
+<item id="22785" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="25000">
+<npc id="16588" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="28545" requires-skill-level="310" colors="310 325 332 340">
+<name>治疗能量药剂</name>
+<create id="22825" class="0.2.1" count="1" />
+<reagents>
+<item id="13464" count="1" />
+<item id="22786" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="25000">
+<npc id="16588" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="33733" requires-skill-level="310" colors="310 325 332 340">
+<name>不稳定的法力药水</name>
+<create id="28101" class="0.1" count="1" />
+<reagents>
+<item id="22787" count="2" />
+<item id="22785" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="25000">
+<npc id="16588" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="39636" requires-skill-level="310" colors="310 325 332 340">
+<name>特效坚韧药剂</name>
+<create id="32062" class="0.2.2" count="1" />
+<reagents>
+<item id="22787" count="2" />
+<item id="22785" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="25000">
+<npc id="16588" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="28546" requires-skill-level="315" colors="315 330 337 345">
+<name>潜行药水</name>
+<create id="22826" class="0.1" count="1" />
+<reagents>
+<item id="22787" count="2" />
+<item id="22785" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22901" />
+</taught-by-item>
+</spell>
+<spell id="33741" requires-skill-level="315" colors="315 330 337 345">
+<name>掌控药剂</name>
+<create id="28104" class="0.2.1" count="1" />
+<reagents>
+<item id="22789" count="1" />
+<item id="22785" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="30000">
+<npc id="16588" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="28549" requires-skill-level="320" colors="320 335 342 350">
+<name>特效冰霜能量药剂</name>
+<create id="22827" class="0.2.1" count="1" />
+<reagents>
+<item id="22578" count="2" />
+<item id="22790" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22902" />
+</taught-by-item>
+</spell>
+<spell id="28550" requires-skill-level="320" colors="320 335 342 350">
+<name>疯狂力量药水</name>
+<create id="22828" class="0.1" count="1" />
+<reagents>
+<item id="22789" count="3" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22903" />
+</taught-by-item>
+</spell>
+<spell id="39637" requires-skill-level="320" colors="320 335 342 350">
+<name>土灵药剂</name>
+<create id="32063" class="0.2.2" count="1" />
+<reagents>
+<item id="22786" count="1" />
+<item id="22787" count="2" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32070" />
+</taught-by-item>
+</spell>
+<spell id="39638" requires-skill-level="320" colors="320 335 342 350">
+<name>德莱尼智慧药剂</name>
+<create id="32067" class="0.2.2" count="1" />
+<reagents>
+<item id="22785" count="1" />
+<item id="22789" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="30000">
+<npc id="16588" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="45061" requires-skill-level="325" colors="325 335 342 350">
+<name>疯狂炼金师药水</name>
+<create id="34440" class="0.1" count="1" />
+<reagents>
+<item id="8925" count="1" />
+<item id="22787" count="2" />
+</reagents>
+<taught-by-npc cost="35000">
+<npc id="16588" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="28551" requires-skill-level="325" colors="325 340 347 355">
+<name>超级治疗药水</name>
+<create id="22829" class="0.1" count="1" />
+<reagents>
+<item id="22791" count="2" />
+<item id="22785" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="16588" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="28552" requires-skill-level="325" colors="325 340 347 355">
+<name>搜寻之眼药剂</name>
+<create id="22830" class="0.2" count="1" />
+<reagents>
+<item id="22787" count="2" />
+<item id="22789" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22904" />
+</taught-by-item>
+</spell>
+<spell id="38070" requires-skill-level="325" colors="325 340 347 355">
+<name>水银石</name>
+<create id="31080" class="4.-4" count="1" />
+<reagents>
+<item id="22452" count="1" />
+<item id="21886" count="1" />
+<item id="22457" count="1" />
+</reagents>
+<taught-by-npc cost="20000">
+<npc id="16588" />
+<npc id="18802" />
+<npc id="19052" />
+<npc id="27023" />
+<npc id="27029" />
+<npc id="33608" />
+<npc id="33630" />
+<npc id="33674" />
+</taught-by-npc>
+</spell>
+<spell id="28553" requires-skill-level="330" colors="330 345 352 360">
+<name>特效敏捷药剂</name>
+<create id="22831" class="0.2.1" count="1" />
+<reagents>
+<item id="22789" count="1" />
+<item id="22785" count="2" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22905" />
+<item id="24001" />
+</taught-by-item>
+</spell>
+<spell id="39639" requires-skill-level="330" colors="330 345 352 360">
+<name>铁皮药剂</name>
+<create id="32068" class="0.2.2" count="1" />
+<reagents>
+<item id="22790" count="1" />
+<item id="22787" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="32071" />
+</taught-by-item>
+</spell>
+<spell id="28554" requires-skill-level="335" colors="335 350 357 365">
+<name>遮罩药水</name>
+<create id="22871" class="0.1" count="1" />
+<reagents>
+<item id="22787" count="3" />
+<item id="22791" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22906" />
+</taught-by-item>
+</spell>
+<spell id="38960" requires-skill-level="335" colors="335 350 357 365">
+<name>魔能力量药水</name>
+<create id="31679" class="0.2.1" count="1" />
+<reagents>
+<item id="22789" count="1" />
+<item id="22792" count="2" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="31680" />
+</taught-by-item>
+</spell>
+<spell id="28555" requires-skill-level="340" colors="340 355 362 370">
+<name>超级法力药水</name>
+<create id="22832" class="0.1" count="1" />
+<reagents>
+<item id="22786" count="2" />
+<item id="22785" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22907" />
+</taught-by-item>
+</spell>
+<spell id="28556" requires-skill-level="345" colors="345 360 367 375">
+<name>特效火力药剂</name>
+<create id="22833" class="0.2.1" count="1" />
+<reagents>
+<item id="22574" count="2" />
+<item id="22790" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22908" />
+</taught-by-item>
+</spell>
+<spell id="28557" requires-skill-level="345" colors="345 360 367 375">
+<name>特效防御药剂</name>
+<create id="22834" class="0.2.2" count="1" />
+<reagents>
+<item id="22790" count="3" />
+<item id="22789" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22909" />
+</taught-by-item>
+</spell>
+<spell id="38962" requires-skill-level="345" colors="345 360 367 375">
+<name>魔能回复药水</name>
+<create id="31676" class="0.1" count="1" />
+<reagents>
+<item id="22785" count="2" />
+<item id="22792" count="3" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="31681" />
+</taught-by-item>
+</spell>
+<spell id="28672" requires-skill-level="350" colors="0 0 0 350">
+<name>转化大师</name>
+<reward-from>
+<quest id="10899" />
+</reward-from>
+</spell>
+<spell id="28675" requires-skill-level="350" colors="0 0 0 350">
+<name>药水大师</name>
+<reward-from>
+<quest id="10897" />
+</reward-from>
+</spell>
+<spell id="28677" requires-skill-level="350" colors="0 0 0 350">
+<name>药剂大师</name>
+<reward-from>
+<quest id="10902" />
+</reward-from>
+</spell>
+<spell id="53838" requires-skill-level="350" colors="350 360 370 380">
+<name>复苏治疗药水</name>
+<create id="39671" class="0.1" count="1" />
+<reagents>
+<item id="36901" count="2" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="40000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="17632" requires-skill-level="350" colors="350 365 372 380">
+<name>炼金石</name>
+<create id="13503" class="4.-4" count="1" />
+<reagents>
+<item id="9149" count="1" />
+<item id="25867" count="1" />
+<item id="25868" count="1" />
+<item id="22794" count="2" />
+<item id="23571" count="5" />
+</reagents>
+<taught-by-item>
+<item id="13517" />
+</taught-by-item>
+</spell>
+<spell id="28558" requires-skill-level="350" colors="350 365 372 380">
+<name>特效暗影能量药剂</name>
+<create id="22835" class="0.2.1" count="1" />
+<reagents>
+<item id="22790" count="1" />
+<item id="22792" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22910" />
+</taught-by-item>
+</spell>
+<spell id="28562" requires-skill-level="350" colors="350 365 372 380">
+<name>特效无梦睡眠药水</name>
+<create id="22836" class="0.1" count="1" />
+<reagents>
+<item id="22786" count="1" />
+<item id="22792" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22911" />
+</taught-by-item>
+</spell>
+<spell id="28563" requires-skill-level="350" colors="350 365 372 380">
+<name>英雄药水</name>
+<create id="22837" class="0.1" count="1" />
+<reagents>
+<item id="22789" count="2" />
+<item id="22790" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22912" />
+</taught-by-item>
+</spell>
+<spell id="28564" requires-skill-level="350" colors="350 365 372 380">
+<name>加速药水</name>
+<create id="22838" class="0.1" count="1" />
+<reagents>
+<item id="22789" count="2" />
+<item id="22791" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22913" />
+<item id="35295" />
+</taught-by-item>
+</spell>
+<spell id="28565" requires-skill-level="350" colors="350 365 372 380">
+<name>毁灭药水</name>
+<create id="22839" class="0.1" count="1" />
+<reagents>
+<item id="22792" count="2" />
+<item id="22791" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22914" />
+</taught-by-item>
+</spell>
+<spell id="28566" requires-skill-level="350" colors="350 365 372 380">
+<name>转化：源生空气至源生火焰</name>
+<create id="21884" class="7.10" count="1" />
+<reagents>
+<item id="22451" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22915" />
+</taught-by-item>
+</spell>
+<spell id="28567" requires-skill-level="350" colors="350 365 372 380">
+<name>转化：源生之土至源生之水</name>
+<create id="21885" class="7.10" count="1" />
+<reagents>
+<item id="22452" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22916" />
+</taught-by-item>
+</spell>
+<spell id="28568" requires-skill-level="350" colors="350 365 372 380">
+<name>转化：源生火焰至源生之土</name>
+<create id="22452" class="7.10" count="1" />
+<reagents>
+<item id="21884" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22917" />
+<item id="30443" />
+</taught-by-item>
+</spell>
+<spell id="28569" requires-skill-level="350" colors="350 365 372 380">
+<name>转化：源生之水至源生空气</name>
+<create id="22451" class="7.10" count="1" />
+<reagents>
+<item id="21885" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22918" />
+</taught-by-item>
+</spell>
+<spell id="29688" requires-skill-level="350" colors="350 365 372 380">
+<name>转化：源生之能</name>
+<create id="23571" class="7.10" count="1" />
+<reagents>
+<item id="22452" count="1" />
+<item id="21885" count="1" />
+<item id="22451" count="1" />
+<item id="21884" count="1" />
+<item id="22457" count="1" />
+</reagents>
+<taught-by-item>
+<item id="23574" />
+</taught-by-item>
+</spell>
+<spell id="32765" requires-skill-level="350" colors="350 365 372 380">
+<name>转化：大地风暴钻石</name>
+<create id="25867" class="3.6" count="1" />
+<reagents>
+<item id="23079" count="3" />
+<item id="23107" count="3" />
+<item id="23112" count="3" />
+<item id="22452" count="2" />
+<item id="21885" count="2" />
+</reagents>
+<taught-by-item>
+<item id="25869" />
+</taught-by-item>
+</spell>
+<spell id="32766" requires-skill-level="350" colors="350 365 372 380">
+<name>转化：天火钻石</name>
+<create id="25868" class="3.6" count="1" />
+<reagents>
+<item id="23077" count="3" />
+<item id="21929" count="3" />
+<item id="23117" count="3" />
+<item id="21884" count="2" />
+<item id="22451" count="2" />
+</reagents>
+<taught-by-item>
+<item id="25870" />
+<item id="29232" />
+</taught-by-item>
+</spell>
+<spell id="53841" requires-skill-level="355" colors="355 365 375 385">
+<name>怒火药剂</name>
+<create id="40068" class="0.2.1" count="1" />
+<reagents>
+<item id="36901" count="1" />
+<item id="37921" count="2" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="40000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="28570" requires-skill-level="355" colors="355 370 375 380">
+<name>特效魔血药剂</name>
+<create id="22840" class="0.2.2" count="1" />
+<reagents>
+<item id="22790" count="1" />
+<item id="22791" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22919" />
+</taught-by-item>
+</spell>
+<spell id="41458" requires-skill-level="360" colors="0 360 370 380">
+<name>特效奥术防护药锅</name>
+<create id="32839" class="0.8" count="1" />
+<reagents>
+<item id="22457" count="2" />
+<item id="22793" count="7" />
+<item id="23782" count="1" />
+</reagents>
+</spell>
+<spell id="41500" requires-skill-level="360" colors="0 360 370 380">
+<name>特效火焰防护药锅</name>
+<create id="32849" class="0.8" count="1" />
+<reagents>
+<item id="21884" count="2" />
+<item id="22793" count="7" />
+<item id="23782" count="1" />
+</reagents>
+</spell>
+<spell id="41501" requires-skill-level="360" colors="0 360 370 380">
+<name>特效冰霜防护药锅</name>
+<create id="32850" class="0.8" count="1" />
+<reagents>
+<item id="21885" count="2" />
+<item id="22793" count="7" />
+<item id="23782" count="1" />
+</reagents>
+</spell>
+<spell id="41502" requires-skill-level="360" colors="0 360 370 380">
+<name>特效自然防护药锅</name>
+<create id="32851" class="0.8" count="1" />
+<reagents>
+<item id="21886" count="2" />
+<item id="22793" count="7" />
+<item id="23782" count="1" />
+</reagents>
+</spell>
+<spell id="41503" requires-skill-level="360" colors="0 360 370 380">
+<name>特效暗影防护药锅</name>
+<create id="32852" class="0.8" count="1" />
+<reagents>
+<item id="22456" count="2" />
+<item id="22793" count="7" />
+<item id="23782" count="1" />
+</reagents>
+</spell>
+<spell id="53839" requires-skill-level="360" colors="360 365 375 385">
+<name>冰冷法力药水</name>
+<create id="40067" class="0.1" count="1" />
+<reagents>
+<item id="36907" count="2" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="40000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="28571" requires-skill-level="360" colors="360 375 377 380">
+<name>特效火焰防护药水</name>
+<create id="22841" class="0.1" count="5" />
+<reagents>
+<item id="21884" count="1" />
+<item id="22793" count="3" />
+<item id="18256" count="5" />
+</reagents>
+<taught-by-item>
+<item id="22920" />
+</taught-by-item>
+</spell>
+<spell id="28572" requires-skill-level="360" colors="360 375 377 380">
+<name>特效冰霜防护药水</name>
+<create id="22842" class="0.1" count="5" />
+<reagents>
+<item id="21885" count="1" />
+<item id="22793" count="3" />
+<item id="18256" count="5" />
+</reagents>
+<taught-by-item>
+<item id="22921" />
+</taught-by-item>
+</spell>
+<spell id="28573" requires-skill-level="360" colors="360 375 377 380">
+<name>特效自然防护药水</name>
+<create id="22844" class="0.1" count="5" />
+<reagents>
+<item id="21886" count="1" />
+<item id="22793" count="3" />
+<item id="18256" count="5" />
+</reagents>
+<taught-by-item>
+<item id="22922" />
+</taught-by-item>
+</spell>
+<spell id="28575" requires-skill-level="360" colors="360 375 377 380">
+<name>特效奥术防护药水</name>
+<create id="22845" class="0.1" count="5" />
+<reagents>
+<item id="22457" count="1" />
+<item id="22793" count="3" />
+<item id="18256" count="5" />
+</reagents>
+<taught-by-item>
+<item id="22923" />
+</taught-by-item>
+</spell>
+<spell id="28576" requires-skill-level="360" colors="360 375 377 380">
+<name>特效暗影防护药水</name>
+<create id="22846" class="0.1" count="5" />
+<reagents>
+<item id="22456" count="1" />
+<item id="22793" count="3" />
+<item id="18256" count="5" />
+</reagents>
+<taught-by-item>
+<item id="22924" />
+</taught-by-item>
+</spell>
+<spell id="28577" requires-skill-level="360" colors="360 375 377 380">
+<name>特效神圣防护药水</name>
+<create id="22847" class="0.1" count="5" />
+<reagents>
+<item id="21886" count="1" />
+<item id="22793" count="3" />
+<item id="18256" count="5" />
+</reagents>
+<taught-by-item>
+<item id="22925" />
+</taught-by-item>
+</spell>
+<spell id="38961" requires-skill-level="360" colors="360 375 377 380">
+<name>魔能法力药水</name>
+<create id="31677" class="0.1" count="1" />
+<reagents>
+<item id="22793" count="1" />
+<item id="22792" count="2" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="31682" />
+</taught-by-item>
+</spell>
+<spell id="28578" requires-skill-level="365" colors="365 375 377 380">
+<name>强化药剂</name>
+<create id="22848" class="0.2.2" count="1" />
+<reagents>
+<item id="22791" count="1" />
+<item id="22793" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22926" />
+<item id="35294" />
+</taught-by-item>
+</spell>
+<spell id="28579" requires-skill-level="365" colors="365 375 377 380">
+<name>铁盾药水</name>
+<create id="22849" class="0.1" count="1" />
+<reagents>
+<item id="22790" count="2" />
+<item id="22573" count="3" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22927" />
+</taught-by-item>
+</spell>
+<spell id="53842" requires-skill-level="365" colors="365 375 382 390">
+<name>法术能量药剂</name>
+<create id="40070" class="0.2.1" count="1" />
+<reagents>
+<item id="36901" count="1" />
+<item id="36904" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="40000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="28580" requires-skill-level="375" colors="375 375 377 380">
+<name>转化：源生暗影至源生之水</name>
+<create id="21885" class="7.10" count="1" />
+<reagents>
+<item id="22456" count="1" />
+</reagents>
+</spell>
+<spell id="28581" requires-skill-level="375" colors="375 375 377 380">
+<name>转化：源生之水至源生暗影</name>
+<create id="22456" class="7.10" count="1" />
+<reagents>
+<item id="21885" count="1" />
+</reagents>
+</spell>
+<spell id="28582" requires-skill-level="375" colors="375 375 377 380">
+<name>转化：源生法力至源生火焰</name>
+<create id="21884" class="7.10" count="1" />
+<reagents>
+<item id="22457" count="1" />
+</reagents>
+</spell>
+<spell id="28583" requires-skill-level="375" colors="375 375 377 380">
+<name>转化：源生火焰至源生法力</name>
+<create id="22457" class="7.10" count="1" />
+<reagents>
+<item id="21884" count="1" />
+</reagents>
+</spell>
+<spell id="28584" requires-skill-level="375" colors="375 375 377 380">
+<name>转化：源生生命至源生之土</name>
+<create id="22452" class="7.10" count="1" />
+<reagents>
+<item id="21886" count="1" />
+</reagents>
+</spell>
+<spell id="28585" requires-skill-level="375" colors="375 375 377 380">
+<name>转化：源生之土至源生生命</name>
+<create id="21886" class="7.10" count="1" />
+<reagents>
+<item id="22452" count="1" />
+</reagents>
+</spell>
+<spell id="28586" requires-skill-level="375" colors="375 375 377 380">
+<name>超级活力药水</name>
+<create id="22850" class="0.1" count="1" />
+<reagents>
+<item id="22793" count="2" />
+<item id="22786" count="1" />
+<item id="22791" count="1" />
+<item id="18256" count="1" />
+</reagents>
+</spell>
+<spell id="28587" requires-skill-level="375" colors="375 375 377 380">
+<name>强固合剂</name>
+<create id="22851" class="0.3" count="2" />
+<reagents>
+<item id="22794" count="1" />
+<item id="22793" count="3" />
+<item id="22790" count="7" />
+<item id="18256" count="1" />
+</reagents>
+</spell>
+<spell id="28588" requires-skill-level="375" colors="375 375 377 380">
+<name>强效回复合剂</name>
+<create id="22853" class="0.3" count="2" />
+<reagents>
+<item id="22794" count="1" />
+<item id="22793" count="3" />
+<item id="22786" count="7" />
+<item id="18256" count="1" />
+</reagents>
+</spell>
+<spell id="28589" requires-skill-level="375" colors="375 375 377 380">
+<name>无情突袭合剂</name>
+<create id="22854" class="0.3" count="2" />
+<reagents>
+<item id="22794" count="1" />
+<item id="22793" count="3" />
+<item id="22789" count="7" />
+<item id="18256" count="1" />
+</reagents>
+</spell>
+<spell id="28590" requires-skill-level="375" colors="375 375 377 380">
+<name>盲目光芒合剂</name>
+<create id="22861" class="0.3" count="2" />
+<reagents>
+<item id="22794" count="1" />
+<item id="22793" count="3" />
+<item id="22791" count="7" />
+<item id="18256" count="1" />
+</reagents>
+</spell>
+<spell id="28591" requires-skill-level="375" colors="375 375 377 380">
+<name>纯粹死亡合剂</name>
+<create id="22866" class="0.3" count="2" />
+<reagents>
+<item id="22794" count="1" />
+<item id="22793" count="3" />
+<item id="22792" count="7" />
+<item id="18256" count="1" />
+</reagents>
+</spell>
+<spell id="47046" requires-skill-level="375" colors="375 380 385 390">
+<name>守护者的炼金石</name>
+<create id="35748" class="4.-4" count="1" />
+<reagents>
+<item id="13503" count="1" />
+<item id="22451" count="6" />
+<item id="30183" count="2" />
+</reagents>
+<taught-by-item>
+<item id="35752" />
+</taught-by-item>
+</spell>
+<spell id="47048" requires-skill-level="375" colors="375 380 385 390">
+<name>巫师的炼金石</name>
+<create id="35749" class="4.-4" count="1" />
+<reagents>
+<item id="13503" count="1" />
+<item id="21884" count="6" />
+<item id="30183" count="2" />
+</reagents>
+<taught-by-item>
+<item id="35753" />
+</taught-by-item>
+</spell>
+<spell id="47049" requires-skill-level="375" colors="375 380 385 390">
+<name>救赎者的炼金石</name>
+<create id="35750" class="4.-4" count="1" />
+<reagents>
+<item id="13503" count="1" />
+<item id="21886" count="6" />
+<item id="30183" count="2" />
+</reagents>
+<taught-by-item>
+<item id="35754" />
+</taught-by-item>
+</spell>
+<spell id="47050" requires-skill-level="375" colors="375 380 385 390">
+<name>刺客的炼金石</name>
+<create id="35751" class="4.-4" count="1" />
+<reagents>
+<item id="13503" count="1" />
+<item id="22456" count="6" />
+<item id="30183" count="2" />
+</reagents>
+<taught-by-item>
+<item id="35755" />
+</taught-by-item>
+</spell>
+<spell id="53812" requires-skill-level="375" colors="375 380 385 390">
+<name>亚口鱼油</name>
+<create id="40195" class="7.11" count="1" />
+<reagents>
+<item id="40199" count="1" />
+</reagents>
+<taught-by-npc cost="60000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="53848" requires-skill-level="375" colors="375 380 385 390">
+<name>专家药剂</name>
+<create id="40076" class="0.2.1" count="1" />
+<reagents>
+<item id="40195" count="3" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="60000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="53899" requires-skill-level="375" colors="375 380 385 390">
+<name>次级强韧合剂</name>
+<create id="40079" class="0.3" count="1" />
+<reagents>
+<item id="37921" count="4" />
+<item id="36901" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="60000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="62409" requires-skill-level="375" colors="375 380 385 390">
+<name>轻灵之油</name>
+<create id="44958" class="7.11" count="1" />
+<reagents>
+<item id="41814" count="2" />
+</reagents>
+<taught-by-npc cost="60000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="42736" requires-skill-level="375" colors="375 390 397 405">
+<name>多彩奇迹合剂</name>
+<create id="33208" class="0.3" count="2" />
+<reagents>
+<item id="22786" count="7" />
+<item id="22791" count="3" />
+<item id="22794" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="33209" />
+</taught-by-item>
+</spell>
+<spell id="53900" requires-skill-level="380" colors="380 385 390 395">
+<name>噩梦药水</name>
+<create id="40081" class="0.1" count="1" />
+<reagents>
+<item id="36901" count="1" />
+<item id="36907" count="2" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="120000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="53847" requires-skill-level="385" colors="385 390 395 400">
+<name>精神药水</name>
+<create id="40072" class="0.2.2" count="1" />
+<reagents>
+<item id="36907" count="3" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="65000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="54218" requires-skill-level="385" colors="385 390 395 400">
+<name>极效力量药剂</name>
+<create id="40073" class="0.2.1" count="1" />
+<reagents>
+<item id="36904" count="2" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="120000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="62213" requires-skill-level="385" colors="385 390 395 400">
+<name>次级抗性合剂</name>
+<create id="44939" class="0.3" count="1" />
+<reagents>
+<item id="39970" count="4" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="120000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="53898" requires-skill-level="390" colors="390 395 400 405">
+<name>极效坚韧药剂</name>
+<create id="40078" class="0.2.2" count="1" />
+<reagents>
+<item id="36901" count="4" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="120000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="53840" requires-skill-level="395" colors="395 400 407 415">
+<name>极效敏捷药剂</name>
+<create id="39666" class="0.2.1" count="1" />
+<reagents>
+<item id="36901" count="2" />
+<item id="36903" count="2" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="120000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="60367" requires-skill-level="395" colors="395 400 407 415">
+<name>极效思维药剂</name>
+<create id="44332" class="0.2.2" count="1" />
+<reagents>
+<item id="37921" count="2" />
+<item id="36907" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="120000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="53905" requires-skill-level="395" colors="395 415 422 430">
+<name>不灭药水</name>
+<create id="40093" class="0.1" count="1" />
+<reagents>
+<item id="36906" count="2" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="120000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="60350" requires-skill-level="395" colors="395 420 430 440">
+<name>转化：泰坦神铁</name>
+<create id="41163" class="7.7" count="1" />
+<reagents>
+<item id="36913" count="8" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="53936" requires-skill-level="400" colors="400 410 415 420">
+<name>极效奥术防护药水</name>
+<create id="40213" class="0.1" count="1" />
+<reagents>
+<item id="37701" count="2" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="44564" />
+</taught-by-item>
+</spell>
+<spell id="53937" requires-skill-level="400" colors="400 410 415 420">
+<name>极效冰霜防护药水</name>
+<create id="40215" class="0.1" count="1" />
+<reagents>
+<item id="37702" count="2" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="44566" />
+</taught-by-item>
+</spell>
+<spell id="53938" requires-skill-level="400" colors="400 410 415 420">
+<name>极效暗影防护药水</name>
+<create id="40217" class="0.1" count="1" />
+<reagents>
+<item id="37704" count="2" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="44568" />
+</taught-by-item>
+</spell>
+<spell id="53939" requires-skill-level="400" colors="400 410 415 420">
+<name>极效火焰防护药水</name>
+<create id="40214" class="0.1" count="1" />
+<reagents>
+<item id="37705" count="2" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="44565" />
+</taught-by-item>
+</spell>
+<spell id="53942" requires-skill-level="400" colors="400 410 415 420">
+<name>极效自然防护药水</name>
+<create id="40216" class="0.1" count="1" />
+<reagents>
+<item id="37703" count="2" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-item>
+<item id="44567" />
+</taught-by-item>
+</spell>
+<spell id="60893" requires-skill-level="400" colors="400 415 422 430">
+<name>诺森德炼金研究</name>
+<reagents>
+<item id="36901" count="10" />
+<item id="36903" count="10" />
+<item id="36907" count="4" />
+<item id="40411" count="4" />
+</reagents>
+<taught-by-npc cost="200000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="53895" requires-skill-level="400" colors="400 415 422 430">
+<name>狂乱炼金师药水</name>
+<create id="40077" class="0.1" count="1" />
+<reagents>
+<item id="36901" count="2" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60893" />
+</taught-by-spell>
+</spell>
+<spell id="53904" requires-skill-level="400" colors="400 415 422 430">
+<name>强效活力药水</name>
+<create id="40087" class="0.1" count="1" />
+<reagents>
+<item id="36907" count="2" />
+<item id="36905" count="2" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60893" />
+</taught-by-spell>
+</spell>
+<spell id="54220" requires-skill-level="400" colors="400 415 422 430">
+<name>防护药剂</name>
+<create id="40097" class="0.2.2" count="1" />
+<reagents>
+<item id="36906" count="2" />
+<item id="37701" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60893" />
+</taught-by-spell>
+</spell>
+<spell id="54221" requires-skill-level="400" colors="400 415 422 430">
+<name>速度药水</name>
+<create id="40211" class="0.1" count="1" />
+<reagents>
+<item id="36903" count="2" />
+<item id="40195" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60893" />
+</taught-by-spell>
+</spell>
+<spell id="54222" requires-skill-level="400" colors="400 415 422 430">
+<name>狂野魔法药水</name>
+<create id="40212" class="0.1" count="1" />
+<reagents>
+<item id="36905" count="2" />
+<item id="40195" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60893" />
+</taught-by-spell>
+</spell>
+<spell id="56519" requires-skill-level="400" colors="400 415 422 430">
+<name>极效魔血药剂</name>
+<create id="40109" class="0.2.2" count="1" />
+<reagents>
+<item id="36901" count="1" />
+<item id="36905" count="2" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60893" />
+</taught-by-spell>
+</spell>
+<spell id="60354" requires-skill-level="400" colors="400 415 422 430">
+<name>精确药剂</name>
+<create id="44325" class="0.2.1" count="1" />
+<reagents>
+<item id="36904" count="2" />
+<item id="36907" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60893" />
+</taught-by-spell>
+</spell>
+<spell id="60355" requires-skill-level="400" colors="400 415 422 430">
+<name>致命打击药剂</name>
+<create id="44327" class="0.2.1" count="1" />
+<reagents>
+<item id="36901" count="1" />
+<item id="36903" count="2" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60893" />
+</taught-by-spell>
+</spell>
+<spell id="60356" requires-skill-level="400" colors="400 415 422 430">
+<name>极效防御药剂</name>
+<create id="44328" class="0.2.2" count="1" />
+<reagents>
+<item id="36906" count="2" />
+<item id="37704" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60893" />
+</taught-by-spell>
+</spell>
+<spell id="60357" requires-skill-level="400" colors="400 415 422 430">
+<name>精准药剂</name>
+<create id="44329" class="0.2.1" count="1" />
+<reagents>
+<item id="36901" count="1" />
+<item id="36903" count="2" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60893" />
+</taught-by-spell>
+</spell>
+<spell id="60365" requires-skill-level="400" colors="400 415 422 430">
+<name>护甲穿透药剂</name>
+<create id="44330" class="0.2.1" count="1" />
+<reagents>
+<item id="36904" count="2" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60893" />
+</taught-by-spell>
+</spell>
+<spell id="60366" requires-skill-level="400" colors="400 415 422 430">
+<name>闪电疾速药剂</name>
+<create id="44331" class="0.2.1" count="1" />
+<reagents>
+<item id="37921" count="1" />
+<item id="37704" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60893" />
+</taught-by-spell>
+</spell>
+<spell id="62410" requires-skill-level="400" colors="400 415 422 430">
+<name>水上行走药剂</name>
+<create id="8827" class="0.2.2" count="1" />
+<reagents>
+<item id="44958" count="3" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60893" />
+</taught-by-spell>
+</spell>
+<spell id="60396" requires-skill-level="400" colors="400 420 425 430">
+<name>水银炼金石</name>
+<create id="44322" class="4.-4" count="1" />
+<reagents>
+<item id="36901" count="20" />
+<item id="35625" count="2" />
+<item id="36908" count="1" />
+</reagents>
+<taught-by-npc cost="200000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="60403" requires-skill-level="400" colors="400 420 425 430">
+<name>不灭炼金石</name>
+<create id="44323" class="4.-4" count="1" />
+<reagents>
+<item id="37921" count="20" />
+<item id="40195" count="12" />
+<item id="36908" count="1" />
+</reagents>
+<taught-by-npc cost="200000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="60405" requires-skill-level="400" colors="400 420 425 430">
+<name>强力炼金石</name>
+<create id="44324" class="4.-4" count="1" />
+<reagents>
+<item id="36903" count="15" />
+<item id="36904" count="15" />
+<item id="36908" count="1" />
+</reagents>
+<taught-by-npc cost="200000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="53771" requires-skill-level="405" colors="0 405 415 425">
+<name>转化：永恒生命到永恒暗影</name>
+<create id="35627" class="7.10" count="1" />
+<reagents>
+<item id="35625" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60350" />
+</taught-by-spell>
+</spell>
+<spell id="53773" requires-skill-level="405" colors="0 405 415 425">
+<name>转化：永恒生命到永恒火焰</name>
+<create id="36860" class="7.10" count="1" />
+<reagents>
+<item id="35625" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60350" />
+</taught-by-spell>
+</spell>
+<spell id="53774" requires-skill-level="405" colors="0 405 415 425">
+<name>转化：永恒火焰到永恒之水</name>
+<create id="35622" class="7.10" count="1" />
+<reagents>
+<item id="36860" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60350" />
+</taught-by-spell>
+</spell>
+<spell id="53775" requires-skill-level="405" colors="0 405 415 425">
+<name>转化：永恒火焰到永恒生命</name>
+<create id="35625" class="7.10" count="1" />
+<reagents>
+<item id="36860" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60350" />
+</taught-by-spell>
+</spell>
+<spell id="53776" requires-skill-level="405" colors="0 405 415 425">
+<name>转化：永恒空气到永恒之水</name>
+<create id="35622" class="7.10" count="1" />
+<reagents>
+<item id="35623" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60350" />
+</taught-by-spell>
+</spell>
+<spell id="53777" requires-skill-level="405" colors="0 405 415 425">
+<name>转化：永恒空气到永恒之土</name>
+<create id="35624" class="7.10" count="1" />
+<reagents>
+<item id="35623" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60350" />
+</taught-by-spell>
+</spell>
+<spell id="53779" requires-skill-level="405" colors="0 405 415 425">
+<name>转化：永恒暗影到永恒之土</name>
+<create id="35624" class="7.10" count="1" />
+<reagents>
+<item id="35627" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60350" />
+</taught-by-spell>
+</spell>
+<spell id="53780" requires-skill-level="405" colors="0 405 415 425">
+<name>转化：永恒暗影到永恒生命</name>
+<create id="35625" class="7.10" count="1" />
+<reagents>
+<item id="35627" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60350" />
+</taught-by-spell>
+</spell>
+<spell id="53781" requires-skill-level="405" colors="0 405 415 425">
+<name>转化：永恒之土到永恒空气</name>
+<create id="35623" class="7.10" count="1" />
+<reagents>
+<item id="35624" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60350" />
+</taught-by-spell>
+</spell>
+<spell id="53782" requires-skill-level="405" colors="0 405 415 425">
+<name>转化：永恒之土到永恒暗影</name>
+<create id="35627" class="7.10" count="1" />
+<reagents>
+<item id="35624" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60350" />
+</taught-by-spell>
+</spell>
+<spell id="53783" requires-skill-level="405" colors="0 405 415 425">
+<name>转化：永恒之水到永恒空气</name>
+<create id="35623" class="7.10" count="1" />
+<reagents>
+<item id="35622" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60350" />
+</taught-by-spell>
+</spell>
+<spell id="53784" requires-skill-level="405" colors="0 405 415 425">
+<name>转化：永恒之水到永恒火焰</name>
+<create id="36860" class="7.10" count="1" />
+<reagents>
+<item id="35622" count="1" />
+</reagents>
+<taught-by-spell>
+<spell id="60350" />
+</taught-by-spell>
+</spell>
+<spell id="53836" requires-skill-level="405" colors="405 410 417 425">
+<name>符文治疗药水</name>
+<create id="33447" class="0.1" count="1" />
+<reagents>
+<item id="36901" count="1" />
+<item id="36906" count="2" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="58871" requires-skill-level="410" colors="0 410 412 415">
+<name>无尽治疗药水</name>
+<create id="43569" class="0.1" count="1" />
+<reagents>
+<item id="33447" count="10" />
+<item id="40411" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="58868" requires-skill-level="410" colors="410 415 417 420">
+<name>无尽法力药水</name>
+<create id="43570" class="0.1" count="1" />
+<reagents>
+<item id="33448" count="10" />
+<item id="40411" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="53837" requires-skill-level="410" colors="410 415 422 430">
+<name>符文法力药水</name>
+<create id="33448" class="0.1" count="1" />
+<reagents>
+<item id="36905" count="2" />
+<item id="36901" count="1" />
+<item id="18256" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="57427" requires-skill-level="425" colors="425 435 440 445">
+<name>转化：大地侵攻钻石</name>
+<create id="41334" class="3.6" count="1" />
+<reagents>
+<item id="36932" count="1" />
+<item id="36929" count="1" />
+<item id="36860" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="67025" requires-skill-level="425" colors="425 440 445 450">
+<name>北地合剂</name>
+<create id="47499" class="0.3" count="1" />
+<reagents>
+<item id="36908" count="4" />
+<item id="40411" count="1" />
+</reagents>
+<taught-by-npc cost="100000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="57425" requires-skill-level="430" colors="430 440 445 450">
+<name>转化：天焰钻石</name>
+<create id="41266" class="3.6" count="1" />
+<reagents>
+<item id="36917" count="1" />
+<item id="36923" count="1" />
+<item id="35623" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="53901" requires-skill-level="435" colors="435 450 457 465">
+<name>冰霜巨龙合剂</name>
+<create id="46376" class="0.3" count="2" />
+<reagents>
+<item id="36906" count="5" />
+<item id="36905" count="5" />
+<item id="36908" count="1" />
+<item id="40411" count="1" />
+</reagents>
+<taught-by-npc cost="180000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="53902" requires-skill-level="435" colors="435 450 457 465">
+<name>石血合剂</name>
+<create id="46379" class="0.3" count="2" />
+<reagents>
+<item id="36905" count="7" />
+<item id="37704" count="3" />
+<item id="36908" count="1" />
+<item id="40411" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="53903" requires-skill-level="435" colors="435 450 457 465">
+<name>无尽怒气合剂</name>
+<create id="46377" class="0.3" count="2" />
+<reagents>
+<item id="36905" count="7" />
+<item id="36901" count="3" />
+<item id="36908" count="1" />
+<item id="40411" count="1" />
+</reagents>
+<taught-by-npc cost="180000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="54213" requires-skill-level="435" colors="435 450 457 465">
+<name>纯净魔精合剂</name>
+<create id="46378" class="0.3" count="2" />
+<reagents>
+<item id="36906" count="7" />
+<item id="40195" count="3" />
+<item id="36908" count="1" />
+<item id="40411" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="66659" requires-skill-level="440" colors="0 440 452 465">
+<name>转化：赤玉石</name>
+<create id="36919" class="3.0" count="1" />
+<reagents>
+<item id="36918" count="1" />
+<item id="36860" count="1" />
+</reagents>
+<reward-from>
+<quest id="14151" />
+</reward-from>
+</spell>
+<spell id="66658" requires-skill-level="450" colors="0 450 452 465">
+<name>转化：无暇紫晶玉</name>
+<create id="36931" class="3.5" count="1" />
+<reagents>
+<item id="36930" count="1" />
+<item id="35627" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="66660" requires-skill-level="450" colors="0 450 452 465">
+<name>转化：王者琥珀</name>
+<create id="36922" class="3.2" count="1" />
+<reagents>
+<item id="36921" count="1" />
+<item id="35625" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="66662" requires-skill-level="450" colors="0 450 452 465">
+<name>转化：恐惧石</name>
+<create id="36928" class="3.3" count="1" />
+<reagents>
+<item id="36927" count="1" />
+<item id="35627" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="66663" requires-skill-level="450" colors="0 450 452 465">
+<name>转化：巨锆石</name>
+<create id="36925" class="3.1" count="1" />
+<reagents>
+<item id="36924" count="1" />
+<item id="35623" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+<spell id="66664" requires-skill-level="450" colors="0 450 452 465">
+<name>转化：祖尔之眼</name>
+<create id="36934" class="3.4" count="1" />
+<reagents>
+<item id="36933" count="3" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="26903" />
+<npc id="26951" />
+<npc id="26975" />
+<npc id="26987" />
+<npc id="28703" />
+<npc id="33588" />
+</taught-by-npc>
+</spell>
+
+</spells>

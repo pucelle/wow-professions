@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<objects>
+	<object id="74447">
+		<name>巨大铁皮箱</name>
+		<screenshot>51397</screenshot>
+		<coords map="491">
+			<coord x="50" y="70" />
+			<coord x="120" y="70" />
+			<coord x="150" y="90" />
+			<coord x="170" y="70" />
+			<coord x="190" y="100" />
+			<coord x="250" y="110" />
+		</coords>
+		<coords map="133">
+			<coord x="130" y="150" />
+			<coord x="150" y="170" />
+			<coord x="200" y="110" />
+			<coord x="210" y="60" />
+			<coord x="210" y="120" />
+		</coords>
+	</object>
+	<object id="131978">
+		<name>大型秘银宝箱</name>
+		<screenshot>62091</screenshot>
+		<coords map="1337">
+			<coord x="120" y="90" />
+			<coord x="140" y="120" />
+		</coords>
+	</object>
+	<object id="131979">
+		<name>大木箱</name>
+		<coords map="1337">
+			<coord x="120" y="90" />
+			<coord x="140" y="120" />
+		</coords>
+	</object>
+	<object id="141979">
+		<name>上古宝藏</name>
+		<screenshot>86101</screenshot>
+		<coords map="1337">
+			<coord x="110" y="10" />
+		</coords>
+	</object>
+	<object id="142184">
+		<name>船长的箱子</name>
+		<screenshot>72630</screenshot>
+		<coords map="440">
+			<coord x="230" y="90" />
+		</coords>
+	</object>
+	<object id="149502">
+		<name>黑龙的财宝</name>
+		<screenshot>32411</screenshot>
+		<coords map="51">
+			<coord x="110" y="70" />
+		</coords>
+	</object>
+	<object id="153468">
+		<name>大型秘银宝箱</name>
+		<screenshot>61885</screenshot>
+		<coords map="28">
+			<coord x="120" y="20" />
+			<coord x="120" y="30" />
+			<coord x="130" y="20" />
+		</coords>
+	</object>
+	<object id="160845">
+		<name>黑暗宝箱</name>
+		<screenshot>43669</screenshot>
+		<coords map="1584">
+			<coord x="160" y="100" />
+		</coords>
+	</object>
+	<object id="179697">
+		<name>竞技场财宝箱</name>
+		<screenshot>50439</screenshot>
+		<coords map="33">
+			<coord x="90" y="90" />
+		</coords>
+	</object>
+	<object id="191349">
+		<name>埃雷苟斯的宝箱</name>
+		<name>Cache of Eregos</name>
+		<screenshot>98947</screenshot>
+		<coords map="4228-4">
+			<coord x="140" y="160" />
+		</coords>
+	</object>
+</objects>

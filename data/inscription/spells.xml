@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<spells>
+<spell id="51005" icon="ability_miling">
+<name>研磨</name>
+<code>
+[table][tbody][tr][td][span class="name q"]研磨[/span][/td][/tr][tr][td]2秒施法时间[/td][/tr][/tbody][/table][div class="q2"]将5份草药研磨成制作墨水所需的油渣。这个过程会摧毁草药。[/div]
+</code>
+</spell>
+<spell id="61288" icon="inv_inscription_tradeskill01" cost="1000">
+<name>小型雕文研究</name>
+<code>
+[table][tbody][tr][td][span class="name q"]小型雕文研究[/span][/td][/tr][tr][td]3秒施法时间[/td][th]20小时冷却时间[/th][/tr][/tbody][/table][div class="q2"]制造随机种类的卷轴，并试图从中发现新的小型雕文配方。[/div]
+</code>
+</spell>
+<spell id="45360" icon="inv_inscription_tradeskill01" cost="40000">
+<name>铭文</name>
+<code>
+[table][tbody][tr][td][span class="name q"]铭文[/span][/td][th]专家级[/th][/tr][tr][td]瞬发[/td][/tr][/tbody][/table][div class="q2"]使铭文师可以制造魔法铭文物品，技能上限为300点。[/div]
+</code>
+</spell>
+<spell id="61177" icon="inv_inscription_tradeskill01" cost="85000">
+<name>诺森德铭文研究</name>
+<code>
+[table][tbody][tr][td][span class="name q"]诺森德铭文研究[/span][/td][/tr][tr][td]3秒施法时间[/td][th]20小时冷却时间[/th][/tr][/tbody][/table][div class="q2"]总结你的工作经验，制造出一件随机的铭文产品。你很可能通过这种方式领悟新的大型雕文配方。[/div]
+</code>
+</spell>
+<spell id="61117" icon="inv_inscription_tradeskill01" cost="63750">
+<name>大师的利斧铭文</name>
+<code>
+[table][tbody][tr][td][span class="name q"]大师的利斧铭文[/span][/td][/tr][tr][td]4秒施法时间[/td][/tr][/tbody][/table][div class="q2"]永久性地为一件肩部装备附加攻击强度提高120点、爆击等级提高15的效果。[br /][br /]只能对你自己的护甲使用，且使用之后该装备会与你绑定。[/div]
+</code>
+</spell>
+<spell id="61118" icon="inv_inscription_tradeskill01" cost="63750">
+<name>大师的峭壁铭文</name>
+<code>
+[table][tbody][tr][td][span class="name q"]大师的峭壁铭文[/span][/td][/tr][tr][td]4秒施法时间[/td][/tr][/tbody][/table][div class="q2"]永久性地为一件肩部装备附加法术强度提高70点、每5秒回复6点法力值的效果。[br /][br /]只能对你自己的护甲使用，且使用之后该装备会与你绑定。[/div]
+</code>
+</spell>
+<spell id="61119" icon="inv_inscription_tradeskill01" cost="63750">
+<name>大师的巅峰铭文</name>
+<code>
+[table][tbody][tr][td][span class="name q"]大师的巅峰铭文[/span][/td][/tr][tr][td]4秒施法时间[/td][/tr][/tbody][/table][div class="q2"]永久性地为一件肩部装备附加躲闪等级提高60、防御等级提高15的效果。[br /][br /]只能对你自己的护甲使用，且使用之后该装备会与你绑定。[/div]
+</code>
+</spell>
+<spell id="61120" icon="inv_inscription_tradeskill01" cost="63750">
+<name>大师的风暴铭文</name>
+<code>
+[table][tbody][tr][td][span class="name q"]大师的风暴铭文[/span][/td][/tr][tr][td]4秒施法时间[/td][/tr][/tbody][/table][div class="q2"]永久性地为一件肩部装备附加法术强度提高70点、爆击等级提高15的效果。[br /][br /]只能对你自己的护甲使用，且使用之后该装备会与你绑定。[/div]
+</code>
+</spell>
+<spell id="64323" icon="inv_inscr">
+<name>雕文精通之书</name>
+<code>
+[table][tbody][tr][td][span class="name q"]雕文精通之书[/span][/td][/tr][tr][td]5秒施法时间[/td][/tr][/tbody][/table][div class="q2"]通过此书领悟新的雕文。[/div]
+</code>
+</spell>
+<spell id="2018" icon="trade_blacksmithing" cost="10">
+<name>锻造</name>
+<code>
+[table][tbody][tr][td][span class="name q"]锻造[/span][/td][/tr][/tbody][/table][div class="q2"]使铁匠可以制造武器和护甲。需要通过采矿得到的石块和金属。[/div]
+</code>
+</spell>
+<spell id="2108" icon="inv_misc_armorkit_17" cost="10">
+<name>制皮</name>
+<code>
+[table][tbody][tr][td][span class="name q"]制皮[/span][/td][/tr][/tbody][/table][div class="q2"]使制皮匠可以制造皮甲。需要剥皮师从野兽身上剥皮的皮毛。[/div]
+</code>
+</spell>
+<spell id="2259" icon="trade_alchemy" cost="10">
+<name>炼金术</name>
+<code>
+[table][tbody][tr][td][span class="name q"]炼金术[/span][/td][/tr][/tbody][/table][div class="q2"]使炼金师可以配制药水。需要由采药师收集的草药。[/div]
+</code>
+</spell>
+<spell id="2550" icon="inv_misc_food_15" cost="100">
+<name>烹饪</name>
+<code>
+[table][tbody][tr][td][span class="name q"]烹饪[/span][/td][/tr][/tbody][/table][div class="q2"]使厨师可以制造食物。需要火焰和从野兽身上收集的肉块以烹制食物。[/div]
+</code>
+</spell>
+<spell id="3908" icon="trade_tailoring" cost="10">
+<name>裁缝</name>
+<code>
+[table][tbody][tr][td][span class="name q"]裁缝[/span][/td][/tr][/tbody][/table][div class="q2"]使裁缝可以制造衬衣和布甲。需要从人型生物身上获得的布料。[/div]
+</code>
+</spell>
+<spell id="4036" icon="trade_engineering" cost="10">
+<name>工程学</name>
+<code>
+[table][tbody][tr][td][span class="name q"]工程学[/span][/td][/tr][/tbody][/table][div class="q2"]使技师可以制造工程学物品。需要通过采矿得到的石块和金属。[/div]
+</code>
+</spell>
+<spell id="7411" icon="trade_engraving" cost="10">
+<name>附魔</name>
+<code>
+[table][tbody][tr][td][span class="name q"]附魔[/span][/td][/tr][/tbody][/table][div class="q2"]使附魔师可以为装备附魔。需要由分解魔法装备而得到的魔法尘和魔法精华。[/div]
+</code>
+</spell>
+<spell id="25229" icon="inv_misc_gem_01" cost="10">
+<name>珠宝加工</name>
+<code>
+[table][tbody][tr][td][span class="name q"]珠宝加工[/span][/td][/tr][/tbody][/table][div class="q2"]使珠宝匠可以制作珠宝。需要通过采矿技能获得的珍贵宝石和金属。[/div]
+</code>
+</spell>
+<spell id="45357" icon="inv_inscription_tradeskill01" cost="10">
+<name>铭文</name>
+<code>
+[table][tbody][tr][td][span class="name q"]铭文[/span][/td][/tr][/tbody][/table][div class="q2"]使铭文师可以制造魔法铭文物品。需要由采药师收集的草药。[/div]
+</code>
+</spell>
+<spell id="62734" icon="trade_fishing">
+<name>钓鱼</name>
+<code>
+[table][tbody][tr][td][span class="name q"]钓鱼[/span][/td][/tr][tr][td]10-20码距离[/td][/tr][/tbody][/table][div class="q2"]装备鱼竿之后可以寻找一片水域钓鱼。当水中的鱼漂溅起水花的时候，立刻右键点击鱼漂以捕捉上钩的鱼。钓鱼技能的等级越高，你越有可能在高等级的水域中钓到鱼。[/div]
+</code>
+</spell>
+</spells>

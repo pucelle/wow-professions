@@ -1,0 +1,3259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<items>
+<item id="2772" class="7.7" level="30" icon="inv_ore_iron_01" quality="1">
+<name>铁矿石</name>
+<code>
+[div class="name q1"]铁矿石[/div][div]需要珠宝加工 (125)[/div]
+</code>
+</item>
+<item id="3356" class="7.9" level="24" icon="inv_misc_herb_03" quality="1">
+<name>皇血草</name>
+<code>
+[div class="name q1"]皇血草[/div]售价: [span class="si-silver"]1[/span][span class="si-copper"]20[/span]
+</code>
+</item>
+<item id="3371" class="7.11" level="1" icon="inv_drink_06" quality="1">
+<name>空瓶</name>
+<code>
+[div class="name q1"]空瓶[/div]售价: [span class="si-copper"]4[/span]
+</code>
+</item>
+<item id="3372" class="7.11" level="25" icon="inv_alchemy_leadedvial" quality="1">
+<name>铅瓶</name>
+<code>
+[div class="name q1"]铅瓶[/div]售价: [span class="si-copper"]40[/span]
+</code>
+</item>
+<item id="3819" class="7.9" level="39" icon="inv_misc_flower_03" quality="1">
+<name>冬刺草</name>
+<code>
+[div class="name q1"]冬刺草[/div]
+</code>
+</item>
+<item id="3829" class="0.-3" level="40" icon="inv_potion_20" quality="1">
+<name>冰霜之油</name>
+<code>
+[div class="name q1"]冰霜之油[/div][div]需要等级 30[/div][div class="q2"]使用: 涂在近战武器上之后，有10%的几率在击中敌人时施放寒冰箭。持续30分钟。[/div]
+</code>
+</item>
+<item id="4470" class="7.11" level="5" icon="inv_tradeskillitem_01" quality="1">
+<name>普通木柴</name>
+<code>
+[div class="name q1"]普通木柴[/div]售价: [span class="si-copper"]38[/span]
+</code>
+</item>
+<item id="4625" class="7.9" level="41" icon="inv_misc_herb_19" quality="1">
+<name>火焰花</name>
+<code>
+[div class="name q1"]火焰花[/div]
+</code>
+</item>
+<item id="5500" class="3.7" level="25" icon="inv_misc_gem_pearl_02" quality="2">
+<name>彩色珍珠</name>
+<code>
+[div class="name q2"]彩色珍珠[/div]
+</code>
+</item>
+<item id="5637" class="7.11" level="30" icon="inv_misc_bone_08" quality="1">
+<name>大牙齿</name>
+<code>
+[div class="name q1"]大牙齿[/div]
+</code>
+</item>
+<item id="6037" class="7.7" level="50" icon="inv_ingot_08" quality="2">
+<name>真银锭</name>
+<code>
+[div class="name q2"]真银锭[/div]
+</code>
+</item>
+<item id="6048" class="0.1" level="27" icon="inv_potion_44" quality="1">
+<name>暗影防护药水</name>
+<code>
+[div class="name q1"]暗影防护药水[/div][div]需要等级 17[/div][div class="q2"]使用: 吸收675到1125点暗影伤害，持续2分钟。(1分钟冷却)[/div]
+</code>
+</item>
+<item id="6217" class="7.12" level="5" icon="inv_misc_flute_01" quality="1">
+<name>铜棒</name>
+<code>
+[div class="name q1"]铜棒[/div][div class="q"]"附魔师需要用它来制作符文铜棒。"[/div]售价: [span class="si-silver"]1[/span][span class="si-copper"]24[/span]
+</code>
+</item>
+<item id="6218" class="7.12" level="5" icon="inv_staff_goldfeathered_01" quality="1">
+<name>符文铜棒</name>
+<code>
+[div class="name q1"]符文铜棒[/div][div]拾取后绑定[/div]
+</code>
+</item>
+<item id="6338" class="7.12" level="20" icon="inv_staff_01" quality="1">
+<name>银棒</name>
+<code>
+[div class="name q1"]银棒[/div][div class="q"]"附魔师必备的工具。"[/div]
+</code>
+</item>
+<item id="6339" class="7.12" level="20" icon="inv_staff_01" quality="1">
+<name>符文银棒</name>
+<code>
+[div class="name q1"]符文银棒[/div][div]拾取后绑定[/div][div class="q"]"可代替任何较低等级的附魔棒。"[/div]
+</code>
+</item>
+<item id="6370" class="7.11" level="15" icon="inv_drink_12" quality="1">
+<name>黑口鱼油</name>
+<code>
+[div class="name q1"]黑口鱼油[/div]
+</code>
+</item>
+<item id="6371" class="7.11" level="25" icon="inv_potion_38" quality="1">
+<name>火焰之油</name>
+<code>
+[div class="name q1"]火焰之油[/div]
+</code>
+</item>
+<item id="7067" class="7.10" level="25" icon="inv_ore_iron_01" quality="1">
+<name>元素之土</name>
+<code>
+[div class="name q1"]元素之土[/div]
+</code>
+</item>
+<item id="7068" class="7.10" level="25" icon="spell_fire_fire" quality="1">
+<name>元素火焰</name>
+<code>
+[div class="name q1"]元素火焰[/div]
+</code>
+</item>
+<item id="7075" class="7.10" level="45" icon="inv_stone_05" quality="1">
+<name>大地之核</name>
+<code>
+[div class="name q1"]大地之核[/div]
+</code>
+</item>
+<item id="7076" class="7.10" level="55" icon="spell_nature_strengthofearthtotem02" quality="2">
+<name>大地精华</name>
+<code>
+[div class="name q2"]大地精华[/div]
+</code>
+</item>
+<item id="7077" class="7.10" level="45" icon="spell_fire_lavaspawn" quality="1">
+<name>火焰之心</name>
+<code>
+[div class="name q1"]火焰之心[/div]
+</code>
+</item>
+<item id="7078" class="7.10" level="55" icon="spell_fire_volcano" quality="2">
+<name>火焰精华</name>
+<code>
+[div class="name q2"]火焰精华[/div]
+</code>
+</item>
+<item id="7079" class="7.10" level="45" icon="inv_misc_orb_01" quality="1">
+<name>纯水之球</name>
+<code>
+[div class="name q1"]纯水之球[/div]
+</code>
+</item>
+<item id="7080" class="7.10" level="55" icon="spell_nature_acid_01" quality="2">
+<name>水之精华</name>
+<code>
+[div class="name q2"]水之精华[/div]
+</code>
+</item>
+<item id="7081" class="7.10" level="45" icon="spell_nature_cyclone" quality="1">
+<name>风之气息</name>
+<code>
+[div class="name q1"]风之气息[/div]
+</code>
+</item>
+<item id="7082" class="7.10" level="55" icon="spell_nature_earthbind" quality="2">
+<name>空气精华</name>
+<code>
+[div class="name q2"]空气精华[/div]
+</code>
+</item>
+<item id="7392" class="7.6" level="1" icon="inv_misc_monsterscales_03" quality="1">
+<name>绿色幼龙鳞片</name>
+<code>
+[div class="name q1"]绿色幼龙鳞片[/div]
+</code>
+</item>
+<item id="7909" class="3.7" level="45" icon="inv_misc_gem_crystal_02" quality="2">
+<name>青绿石</name>
+<code>
+[div class="name q2"]青绿石[/div]
+</code>
+</item>
+<item id="7971" class="3.7" level="40" icon="inv_misc_gem_pearl_01" quality="2">
+<name>黑珍珠</name>
+<code>
+[div class="name q2"]黑珍珠[/div]
+</code>
+</item>
+<item id="7972" class="7.10" level="45" icon="inv_misc_slime_01" quality="1">
+<name>亡灵腐液</name>
+<code>
+[div class="name q1"]亡灵腐液[/div]
+</code>
+</item>
+<item id="8153" class="7.9" level="40" icon="inv_misc_herb_03" quality="2">
+<name>野葡萄藤</name>
+<code>
+[div class="name q2"]野葡萄藤[/div]
+</code>
+</item>
+<item id="8170" class="7.6" level="50" icon="inv_misc_leatherscrap_02" quality="1">
+<name>硬甲皮</name>
+<code>
+[div class="name q1"]硬甲皮[/div]售价: [span class="si-silver"]20[/span]
+</code>
+</item>
+<item id="8831" class="7.9" level="42" icon="inv_misc_herb_17" quality="1">
+<name>紫莲花</name>
+<code>
+[div class="name q1"]紫莲花[/div]
+</code>
+</item>
+<item id="8838" class="7.9" level="46" icon="inv_misc_herb_18" quality="1">
+<name>太阳草</name>
+<code>
+[div class="name q1"]太阳草[/div]
+</code>
+</item>
+<item id="8925" class="7.11" level="35" icon="inv_alchemy_crystalvial" quality="1">
+<name>水晶瓶</name>
+<code>
+[div class="name q1"]水晶瓶[/div]售价: [span class="si-silver"]5[/span]
+</code>
+</item>
+<item id="9224" class="0.2.1" level="50" icon="inv_potion_27" quality="1">
+<name>屠魔药剂</name>
+<code>
+[div class="name q1"]屠魔药剂[/div][div]需要等级 40[/div][div class="q2"]使用: 使你对恶魔的攻击强度提高265点，持续5分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="9254" class="12.0" level="40" icon="inv_misc_map_01" quality="1">
+<name>科尔戈的藏宝图</name>
+<code>
+[div class="name q1"]科尔戈的藏宝图[/div][div]该物品将触发一个任务[/div][div]需要等级 40[/div]
+</code>
+</item>
+<item id="10938" class="7.12" level="10" icon="inv_enchant_essencemagicsmall" quality="2">
+<name>次级魔法精华</name>
+<code>
+[div class="name q2"]次级魔法精华[/div][div class="q2"]使用: 将三块次级魔法精华转化为一块强效魔法精华。[/div]售价: [span class="si-silver"]8[/span]
+</code>
+</item>
+<item id="10939" class="7.12" level="15" icon="inv_enchant_essencemagiclarge" quality="2">
+<name>强效魔法精华</name>
+<code>
+[div class="name q2"]强效魔法精华[/div][div class="q2"]使用: 将一块强效魔法精华转化为三块次级魔法精华。[/div]
+</code>
+</item>
+<item id="10940" class="7.12" level="10" icon="inv_enchant_duststrange" quality="1">
+<name>奇异之尘</name>
+<code>
+[div class="name q1"]奇异之尘[/div]售价: [span class="si-silver"]8[/span]
+</code>
+</item>
+<item id="10978" class="7.12" level="20" icon="inv_enchant_shardglimmeringsmall" quality="3">
+<name>小块微光碎片</name>
+<code>
+[div class="name q3"]小块微光碎片[/div]
+</code>
+</item>
+<item id="10998" class="7.12" level="20" icon="inv_enchant_essenceastralsmall" quality="2">
+<name>次级星界精华</name>
+<code>
+[div class="name q2"]次级星界精华[/div][div class="q2"]使用: 将三块次级星界精华转化为一块强效星界精华。[/div]
+</code>
+</item>
+<item id="11082" class="7.12" level="25" icon="inv_enchant_essenceastrallarge" quality="2">
+<name>强效星界精华</name>
+<code>
+[div class="name q2"]强效星界精华[/div][div class="q2"]使用: 将一块强效星界精华转化为三块次级星界精华。[/div]
+</code>
+</item>
+<item id="11083" class="7.12" level="25" icon="inv_enchant_dustsoul" quality="1">
+<name>灵魂之尘</name>
+<code>
+[div class="name q1"]灵魂之尘[/div]
+</code>
+</item>
+<item id="11084" class="7.12" level="25" icon="inv_enchant_shardglimmeringlarge" quality="3">
+<name>大块微光碎片</name>
+<code>
+[div class="name q3"]大块微光碎片[/div]
+</code>
+</item>
+<item id="11128" class="7.12" level="30" icon="inv_staff_10" quality="1">
+<name>金棒</name>
+<code>
+[div class="name q1"]金棒[/div][div class="q"]"附魔师必备的工具。"[/div]
+</code>
+</item>
+<item id="11130" class="7.12" level="30" icon="inv_staff_10" quality="1">
+<name>符文金棒</name>
+<code>
+[div class="name q1"]符文金棒[/div][div]拾取后绑定[/div][div class="q"]"可代替任何较低等级的附魔棒。"[/div]
+</code>
+</item>
+<item id="11134" class="7.12" level="30" icon="inv_enchant_essencemysticalsmall" quality="2">
+<name>次级秘法精华</name>
+<code>
+[div class="name q2"]次级秘法精华[/div][div class="q2"]使用: 将三块次级秘法精华转化为一块强效秘法精华。[/div]
+</code>
+</item>
+<item id="11135" class="7.12" level="35" icon="inv_enchant_essencemysticallarge" quality="2">
+<name>强效秘法精华</name>
+<code>
+[div class="name q2"]强效秘法精华[/div][div class="q2"]使用: 将一块强效秘法精华转化为三块次级秘法精华。[/div]
+</code>
+</item>
+<item id="11137" class="7.12" level="35" icon="inv_enchant_dustvision" quality="1">
+<name>幻象之尘</name>
+<code>
+[div class="name q1"]幻象之尘[/div]
+</code>
+</item>
+<item id="11138" class="7.12" level="30" icon="inv_enchant_shardglowingsmall" quality="3">
+<name>小块闪光碎片</name>
+<code>
+[div class="name q3"]小块闪光碎片[/div]
+</code>
+</item>
+<item id="11139" class="7.12" level="35" icon="inv_enchant_shardglowinglarge" quality="3">
+<name>大块闪光碎片</name>
+<code>
+[div class="name q3"]大块闪光碎片[/div]
+</code>
+</item>
+<item id="11144" class="7.12" level="40" icon="inv_staff_11" quality="1">
+<name>真银棒</name>
+<code>
+[div class="name q1"]真银棒[/div][div class="q"]"附魔师必备的工具。"[/div]
+</code>
+</item>
+<item id="11145" class="7.12" level="40" icon="inv_staff_11" quality="1">
+<name>符文真银棒</name>
+<code>
+[div class="name q1"]符文真银棒[/div][div]拾取后绑定[/div][div class="q"]"可代替任何较低等级的附魔棒。"[/div]
+</code>
+</item>
+<item id="11174" class="7.12" level="40" icon="inv_enchant_essencenethersmall" quality="2">
+<name>次级虚空精华</name>
+<code>
+[div class="name q2"]次级虚空精华[/div][div class="q2"]使用: 将三块次级虚空精华转化为一块强效虚空精华。[/div]
+</code>
+</item>
+<item id="11175" class="7.12" level="45" icon="inv_enchant_essencenetherlarge" quality="2">
+<name>强效虚空精华</name>
+<code>
+[div class="name q2"]强效虚空精华[/div][div class="q2"]使用: 将一块强效虚空精华转化为三块次级虚空精华。[/div]
+</code>
+</item>
+<item id="11176" class="7.12" level="45" icon="inv_enchant_dustdream" quality="1">
+<name>梦境之尘</name>
+<code>
+[div class="name q1"]梦境之尘[/div]
+</code>
+</item>
+<item id="11177" class="7.12" level="40" icon="inv_enchant_shardradientsmall" quality="3">
+<name>小块强光碎片</name>
+<code>
+[div class="name q3"]小块强光碎片[/div]
+</code>
+</item>
+<item id="11178" class="7.12" level="45" icon="inv_enchant_shardradientlarge" quality="3">
+<name>大块强光碎片</name>
+<code>
+[div class="name q3"]大块强光碎片[/div]
+</code>
+</item>
+<item id="11287" class="2.19" level="15" icon="inv_staff_02" quality="2">
+<name>次级魔法杖</name>
+<code>
+[div class="name q2"]次级魔法杖[/div][div]装备后绑定[/div][table][tbody][tr][td]远程[/td][th]魔杖[/th][/tr][/tbody][/table][table][tbody][tr][td]12 - 22 奥术伤害[/td][th] 速度 1.50[/th][/tr][/tbody][/table][div]（每秒伤害11.3）[/div][div]耐久度 35/35[/div][div]需要等级 5[/div]
+</code>
+</item>
+<item id="11288" class="2.19" level="23" icon="inv_staff_07" quality="2">
+<name>强效魔法杖</name>
+<code>
+[div class="name q2"]强效魔法杖[/div][div]装备后绑定[/div][table][tbody][tr][td]远程[/td][th]魔杖[/th][/tr][/tbody][/table][table][tbody][tr][td]22 - 41 奥术伤害[/td][th] 速度 1.80[/th][/tr][/tbody][/table][div]（每秒伤害17.5）[/div][div]耐久度 45/45[/div][div]需要等级 13[/div]
+</code>
+</item>
+<item id="11289" class="2.19" level="31" icon="inv_staff_02" quality="2">
+<name>次级秘法魔杖</name>
+<code>
+[div class="name q2"]次级秘法魔杖[/div][div]装备后绑定[/div][table][tbody][tr][td]远程[/td][th]魔杖[/th][/tr][/tbody][/table][table][tbody][tr][td]23 - 43 奥术伤害[/td][th] 速度 1.30[/th][/tr][/tbody][/table][div]（每秒伤害25.4）[/div][div]耐久度 55/55[/div][div]需要等级 26[/div]
+</code>
+</item>
+<item id="11290" class="2.19" level="35" icon="inv_wand_07" quality="2">
+<name>强效秘法杖</name>
+<code>
+[div class="name q2"]强效秘法杖[/div][div]装备后绑定[/div][table][tbody][tr][td]远程[/td][th]魔杖[/th][/tr][/tbody][/table][table][tbody][tr][td]40 - 76 奥术伤害[/td][th] 速度 2.00[/th][/tr][/tbody][/table][div]（每秒伤害29.0）[/div][div]耐久度 55/55[/div][div]需要等级 30[/div]
+</code>
+</item>
+<item id="11291" class="7.11" level="30" icon="inv_tradeskillitem_03" quality="1">
+<name>星木</name>
+<code>
+[div class="name q1"]星木[/div]售价: [span class="si-silver"]45[/span]
+</code>
+</item>
+<item id="11811" class="4.-4" level="55" icon="inv_misc_gem_bloodstone_01" quality="3">
+<name>浓烟山脉之心</name>
+<code>
+[div class="name q3"]浓烟山脉之心[/div][div]拾取后绑定[/div][div]唯一[/div][div]饰品[/div][div]150 护甲[/div][div]需要等级 50[/div][div class="q2"]装备: 爆击等级提高17。[/div]
+</code>
+</item>
+<item id="12359" class="7.7" level="50" icon="inv_ingot_07" quality="1">
+<name>瑟银锭</name>
+<code>
+[div class="name q1"]瑟银锭[/div]
+</code>
+</item>
+<item id="12655" class="7.7" level="55" icon="inv_ingot_eternium" quality="1">
+<name>附魔瑟银锭</name>
+<code>
+[div class="name q1"]附魔瑟银锭[/div]
+</code>
+</item>
+<item id="12803" class="7.10" level="55" icon="spell_nature_abolishmagic" quality="2">
+<name>生命精华</name>
+<code>
+[div class="name q2"]生命精华[/div]
+</code>
+</item>
+<item id="12808" class="7.10" level="55" icon="spell_shadow_shadetruesight" quality="2">
+<name>死灵精华</name>
+<code>
+[div class="name q2"]死灵精华[/div]
+</code>
+</item>
+<item id="12810" class="7.6" level="55" icon="inv_misc_rune_05" quality="1">
+<name>魔化皮</name>
+<code>
+[div class="name q1"]魔化皮[/div]售价: [span class="si-silver"]20[/span]
+</code>
+</item>
+<item id="12811" class="7.11" level="60" icon="inv_misc_gem_pearl_03" quality="2">
+<name>正义宝珠</name>
+<code>
+[div class="name q2"]正义宝珠[/div]
+</code>
+</item>
+<item id="13444" class="0.1" level="59" icon="inv_potion_76" quality="1">
+<name>特效法力药水</name>
+<code>
+[div class="name q1"]特效法力药水[/div][div]需要等级 49[/div][div class="q2"]使用: 恢复1350到2250点法力值。(1分钟冷却)[/div]售价: [span class="si-silver"]60[/span]
+</code>
+</item>
+<item id="13446" class="0.1" level="55" icon="inv_potion_54" quality="1">
+<name>特效治疗药水</name>
+<code>
+[div class="name q1"]特效治疗药水[/div][div]需要等级 45[/div][div class="q2"]使用: 恢复1050到1750点生命值。(1分钟冷却)[/div]售价: [span class="si-silver"]40[/span]
+</code>
+</item>
+<item id="13467" class="7.9" level="58" icon="inv_misc_herb_icecap" quality="1">
+<name>冰盖草</name>
+<code>
+[div class="name q1"]冰盖草[/div]售价: [span class="si-silver"]10[/span]
+</code>
+</item>
+<item id="13926" class="3.7" level="40" icon="inv_misc_gem_pearl_04" quality="2">
+<name>金珍珠</name>
+<code>
+[div class="name q2"]金珍珠[/div]
+</code>
+</item>
+<item id="14343" class="7.12" level="50" icon="inv_enchant_shardbrilliantsmall" quality="3">
+<name>小块魔光碎片</name>
+<code>
+[div class="name q3"]小块魔光碎片[/div]
+</code>
+</item>
+<item id="14344" class="7.12" level="55" icon="inv_enchant_shardbrilliantlarge" quality="3">
+<name>大块魔光碎片</name>
+<code>
+[div class="name q3"]大块魔光碎片[/div]
+</code>
+</item>
+<item id="16202" class="7.12" level="50" icon="inv_enchant_essenceeternalsmall" quality="2">
+<name>次级不灭精华</name>
+<code>
+[div class="name q2"]次级不灭精华[/div][div class="q2"]使用: 将三块次级不灭精华转化为一块强效不灭精华。[/div]
+</code>
+</item>
+<item id="16203" class="7.12" level="55" icon="inv_enchant_essenceeternallarge" quality="2">
+<name>强效不灭精华</name>
+<code>
+[div class="name q2"]强效不灭精华[/div][div class="q2"]使用: 将一块强效不灭精华转化为三块次级不灭精华。[/div]
+</code>
+</item>
+<item id="16204" class="7.12" level="55" icon="inv_enchant_dustillusion" quality="1">
+<name>幻影之尘</name>
+<code>
+[div class="name q1"]幻影之尘[/div]
+</code>
+</item>
+<item id="16206" class="7.12" level="55" icon="inv_staff_19" quality="1">
+<name>奥金棒</name>
+<code>
+[div class="name q1"]奥金棒[/div][div class="q"]"附魔师必备的工具。"[/div]
+</code>
+</item>
+<item id="16207" class="7.12" level="58" icon="inv_wand_09" quality="1">
+<name>符文奥金棒</name>
+<code>
+[div class="name q1"]符文奥金棒[/div][div]拾取后绑定[/div][div class="q"]"可代替任何较低等级的附魔棒。"[/div]
+</code>
+</item>
+<item id="17034" class="15.1" level="20" icon="inv_misc_food_02" quality="1">
+<name>枫树种子</name>
+<code>
+[div class="name q1"]枫树种子[/div]售价: [span class="si-silver"]2[/span]
+</code>
+</item>
+<item id="17035" class="15.1" level="30" icon="inv_misc_food_02" quality="1">
+<name>荆棘种子</name>
+<code>
+[div class="name q1"]荆棘种子[/div]售价: [span class="si-silver"]4[/span]
+</code>
+</item>
+<item id="17726" class="15.0" level="1" icon="inv_holiday_christmas_present_01" quality="1">
+<name>烟林牧场特殊礼物</name>
+<code>
+[div class="name q1"]烟林牧场特殊礼物[/div][div]拾取后绑定[/div][div]唯一[/div]
+</code>
+</item>
+<item id="18256" class="7.11" level="55" icon="inv_alchemy_imbuedvial" quality="1">
+<name>灌魔之瓶</name>
+<code>
+[div class="name q1"]灌魔之瓶[/div]售价: [span class="si-silver"]40[/span]
+</code>
+</item>
+<item id="19423" class="15.0" level="10" icon="inv_scroll_02" quality="1">
+<name>塞格的塔罗牌#23</name>
+<code>
+[div class="name q1"]塞格的塔罗牌#23[/div][div]拾取后绑定[/div][div]唯一[/div][div]该物品将触发一个任务[/div][div]需要等级 10[/div][div class="q"]"你的财富在东谷等着你。"[/div]
+</code>
+</item>
+<item id="19424" class="15.0" level="10" icon="inv_scroll_02" quality="1">
+<name>塞格的塔罗牌#24</name>
+<code>
+[div class="name q1"]塞格的塔罗牌#24[/div][div]拾取后绑定[/div][div]唯一[/div][div]该物品将触发一个任务[/div][div]需要等级 10[/div][div class="q"]"你的财富在死亡矿井中等着你。"[/div]
+</code>
+</item>
+<item id="19443" class="15.0" level="10" icon="inv_scroll_02" quality="1">
+<name>塞格的塔罗牌#25</name>
+<code>
+[div class="name q1"]塞格的塔罗牌#25[/div][div]拾取后绑定[/div][div]唯一[/div][div]该物品将触发一个任务[/div][div]需要等级 10[/div][div class="q"]"你的财富在哀嚎洞穴中等着你。"[/div]
+</code>
+</item>
+<item id="19452" class="15.0" level="10" icon="inv_scroll_02" quality="1">
+<name>塞格的塔罗牌#27</name>
+<code>
+[div class="name q1"]塞格的塔罗牌#27[/div][div]拾取后绑定[/div][div]唯一[/div][div]该物品将触发一个任务[/div][div]需要等级 10[/div][div class="q"]"你的财富在灰月洞穴外等着你。"[/div]
+</code>
+</item>
+<item id="20725" class="7.12" level="60" icon="inv_enchant_shardnexuslarge" quality="4">
+<name>连结水晶</name>
+<code>
+[div class="name q4"]连结水晶[/div]
+</code>
+</item>
+<item id="20744" class="0.-3" level="15" icon="inv_poison_mindnumbing" quality="1">
+<name>初级巫师之油</name>
+<code>
+[div class="name q1"]初级巫师之油[/div][div]需要等级 5[/div][div class="q2"]使用: 涂抹在目标武器上之后，使持有者的法术强度提高8点，持续1小时。[/div]
+</code>
+</item>
+<item id="20745" class="0.-3" level="30" icon="inv_potion_98" quality="1">
+<name>初级法力之油</name>
+<code>
+[div class="name q1"]初级法力之油[/div][div]需要等级 20[/div][div class="q2"]使用: 涂抹在目标武器上之后，每5秒为持有者恢复4点法力值，持续1小时。[/div]
+</code>
+</item>
+<item id="20746" class="0.-3" level="40" icon="inv_potion_103" quality="1">
+<name>次级巫师之油</name>
+<code>
+[span class="name q1"]次级巫师之油[/span][br /]需要等级 30[br /][span class="q2"]使用: 涂抹在目标武器上之后，使持有者的法术强度提高16点，持续1小时。不能对等级高于165的物品使用。[/span][br /]5次
+</code>
+</item>
+<item id="20747" class="0.-3" level="50" icon="inv_potion_99" quality="1">
+<name>次级法力之油</name>
+<code>
+[div class="name q1"]次级法力之油[/div][div]需要等级 40[/div][div class="q2"]使用: 涂抹在目标武器上之后，每5秒为持有者恢复8点法力值，持续1小时。[/div]
+</code>
+</item>
+<item id="20748" class="0.-3" level="55" icon="inv_potion_100" quality="1">
+<name>卓越法力之油</name>
+<code>
+[div class="name q1"]卓越法力之油[/div][div]需要等级 45[/div][div class="q2"]使用: 涂抹在目标武器上之后，每5秒为持有者恢复12点法力值，并使法术强度提高13点，持续1小时。[/div]
+</code>
+</item>
+<item id="20749" class="0.-3" level="55" icon="inv_potion_105" quality="1">
+<name>卓越巫师之油</name>
+<code>
+[div class="name q1"]卓越巫师之油[/div][div]需要等级 45[/div][div class="q2"]使用: 涂抹在目标武器上之后，使持有者的法术强度提高36点，爆击等级提高14，持续1小时。[/div]
+</code>
+</item>
+<item id="20750" class="0.-3" level="50" icon="inv_potion_104" quality="1">
+<name>巫师之油</name>
+<code>
+[div class="name q1"]巫师之油[/div][div]需要等级 40[/div][div class="q2"]使用: 涂抹在目标武器上之后，使持有者的法术强度提高24点，持续1小时。[/div]
+</code>
+</item>
+<item id="21327" class="15.0" level="1" icon="inv_holiday_christmas_present_01" quality="1">
+<name>条纹礼物盒</name>
+<code>
+[div class="name q1"]条纹礼物盒[/div][div]拾取后绑定[/div]
+</code>
+</item>
+<item id="21884" class="7.10" level="65" icon="inv_elemental_primal_fire" quality="2">
+<name>源生火焰</name>
+<code>
+[div class="name q2"]源生火焰[/div]
+</code>
+</item>
+<item id="21885" class="7.10" level="65" icon="inv_elemental_primal_water" quality="2">
+<name>源生之水</name>
+<code>
+[div class="name q2"]源生之水[/div]
+</code>
+</item>
+<item id="21886" class="7.10" level="65" icon="inv_elemental_primal_life" quality="2">
+<name>源生生命</name>
+<code>
+[div class="name q2"]源生生命[/div]
+</code>
+</item>
+<item id="22445" class="7.12" level="60" icon="inv_enchant_dustarcane" quality="1">
+<name>奥法之尘</name>
+<code>
+[div class="name q1"]奥法之尘[/div]
+</code>
+</item>
+<item id="22446" class="7.12" level="65" icon="inv_enchant_essencearcanelarge" quality="2">
+<name>强效位面精华</name>
+<code>
+[div class="name q2"]强效位面精华[/div][div class="q2"]使用: 将一份强效位面精华分解为三份次级位面精华。[/div]
+</code>
+</item>
+<item id="22447" class="7.12" level="60" icon="inv_enchant_essencearcanesmall" quality="2">
+<name>次级位面精华</name>
+<code>
+[div class="name q2"]次级位面精华[/div][div class="q2"]使用: 将三份次级位面精华合成为一份强效位面精华。[/div]
+</code>
+</item>
+<item id="22448" class="7.12" level="65" icon="inv_enchant_shardprismaticsmall" quality="3">
+<name>小块棱光碎片</name>
+<code>
+[div class="name q3"]小块棱光碎片[/div]
+</code>
+</item>
+<item id="22449" class="7.12" level="70" icon="inv_enchant_shardprismaticlarge" quality="3">
+<name>大块棱光碎片</name>
+<code>
+[div class="name q3"]大块棱光碎片[/div]
+</code>
+</item>
+<item id="22450" class="7.12" level="70" icon="inv_enchant_voidcrystal" quality="4">
+<name>虚空水晶</name>
+<code>
+[div class="name q4"]虚空水晶[/div]
+</code>
+</item>
+<item id="22451" class="7.10" level="65" icon="inv_elemental_primal_air" quality="2">
+<name>源生空气</name>
+<code>
+[div class="name q2"]源生空气[/div]
+</code>
+</item>
+<item id="22452" class="7.10" level="65" icon="inv_elemental_primal_earth" quality="2">
+<name>源生之土</name>
+<code>
+[div class="name q2"]源生之土[/div]
+</code>
+</item>
+<item id="22456" class="7.10" level="65" icon="inv_elemental_primal_shadow" quality="2">
+<name>源生暗影</name>
+<code>
+[div class="name q2"]源生暗影[/div]
+</code>
+</item>
+<item id="22457" class="7.10" level="65" icon="inv_elemental_primal_mana" quality="2">
+<name>源生法力</name>
+<code>
+[div class="name q2"]源生法力[/div]
+</code>
+</item>
+<item id="22459" class="3.8" level="70" icon="inv_enchant_voidsphere" quality="4">
+<name>虚空之球</name>
+<code>
+[div class="name q4"]虚空之球[/div][div class="q2"]+4 所有抗性[/div][div class="q"]"对应黄色、红色或蓝色插槽。"[/div]
+</code>
+</item>
+<item id="22460" class="3.8" level="70" icon="inv_enchant_prismaticsphere" quality="3">
+<name>棱光之球</name>
+<code>
+[div class="name q3"]棱光之球[/div][div class="q2"]+3 所有抗性[/div][div class="q"]"对应黄色、红色或蓝色插槽。"[/div]
+</code>
+</item>
+<item id="22461" class="7.12" level="61" icon="inv_rod_enchantedfelsteel" quality="1">
+<name>符文魔铁棒</name>
+<code>
+[div class="name q1"]符文魔铁棒[/div][div]拾取后绑定[/div][div class="q"]"可代替任何较低等级的附魔棒。"[/div]
+</code>
+</item>
+<item id="22462" class="7.12" level="61" icon="inv_rod_enchantedadamantite" quality="2">
+<name>符文精金棒</name>
+<code>
+[div class="name q2"]符文精金棒[/div][div]拾取后绑定[/div][div]需要附魔 (350)[/div][div class="q"]"可代替任何较低等级的附魔棒。"[/div]
+</code>
+</item>
+<item id="22463" class="7.12" level="61" icon="inv_rod_enchantedeternium" quality="3">
+<name>符文恒金棒</name>
+<code>
+[div class="name q3"]符文恒金棒[/div][div]拾取后绑定[/div][div]需要附魔 (375)[/div][div class="q"]"可代替任何较低等级的附魔棒。"[/div]
+</code>
+</item>
+<item id="22521" class="0.-3" level="62" icon="inv_potion_101" quality="1">
+<name>超级法力之油</name>
+<code>
+[div class="name q1"]超级法力之油[/div][div]需要等级 52[/div][div class="q2"]使用: 涂抹在目标武器上之后，每5秒为持有者恢复14点法力值，持续1小时。[/div]
+</code>
+</item>
+<item id="22522" class="0.-3" level="68" icon="inv_potion_141" quality="1">
+<name>超级巫师之油</name>
+<code>
+[div class="name q1"]超级巫师之油[/div][div]需要等级 58[/div][div class="q2"]使用: 涂抹在目标武器上之后，使持有者的法术强度提高42点，持续1小时。[/div]
+</code>
+</item>
+<item id="22572" class="7.10" level="65" icon="inv_elemental_mote_air01" quality="1">
+<name>空气微粒</name>
+<code>
+[div class="name q1"]空气微粒[/div][div class="q2"]使用: 将十份空气微粒合成为一份源生空气。[/div]售价: [span class="si-silver"]16[/span]
+</code>
+</item>
+<item id="22573" class="7.10" level="65" icon="inv_elemental_mote_earth01" quality="1">
+<name>土之微粒</name>
+<code>
+[div class="name q1"]土之微粒[/div][div class="q2"]使用: 将十份土之微粒合成为一份源生之土。[/div]售价: [span class="si-silver"]16[/span]
+</code>
+</item>
+<item id="22574" class="7.10" level="65" icon="inv_elemental_mote_fire01" quality="1">
+<name>火焰微粒</name>
+<code>
+[div class="name q1"]火焰微粒[/div][div class="q2"]使用: 将十份火焰微粒合成为一份源生火焰。[/div]售价: [span class="si-silver"]16[/span]
+</code>
+</item>
+<item id="22578" class="7.10" level="65" icon="inv_elemental_mote_water01" quality="1">
+<name>水之微粒</name>
+<code>
+[div class="name q1"]水之微粒[/div][div class="q2"]使用: 将十份水之微粒合成为一份源生之水。[/div]售价: [span class="si-silver"]16[/span]
+</code>
+</item>
+<item id="22791" class="7.9" level="70" icon="inv_misc_herb_netherbloom" quality="1">
+<name>虚空花</name>
+<code>
+[div class="name q1"]虚空花[/div]售价: [span class="si-silver"]40[/span]
+</code>
+</item>
+<item id="22792" class="7.9" level="70" icon="inv_misc_herb_nightmarevine" quality="1">
+<name>噩梦藤</name>
+<code>
+[div class="name q1"]噩梦藤[/div]售价: [span class="si-silver"]50[/span]
+</code>
+</item>
+<item id="22794" class="7.9" level="70" icon="inv_misc_herb_fellotus" quality="2">
+<name>魔莲花</name>
+<code>
+[div class="name q2"]魔莲花[/div]售价: [span class="si-gold"]3[/span]
+</code>
+</item>
+<item id="22824" class="0.2.1" level="61" icon="inv_potion_147" quality="1">
+<name>特效力量药剂</name>
+<code>
+[div class="name q1"]特效力量药剂[/div][div]需要等级 50[/div][div class="q2"]使用: 使你的力量提高35点，持续60分钟。战斗药剂。[/div]
+</code>
+</item>
+<item id="23427" class="7.7" level="70" icon="inv_ore_eternium" quality="2">
+<name>恒金矿石</name>
+<code>
+[div class="name q2"]恒金矿石[/div]
+</code>
+</item>
+<item id="23571" class="7.10" level="65" icon="spell_nature_lightningoverload" quality="3">
+<name>源生之能</name>
+<code>
+[div class="name q3"]源生之能[/div]
+</code>
+</item>
+<item id="25843" class="7.12" level="60" icon="inv_rod_felsteel" quality="1">
+<name>魔铁棒</name>
+<code>
+[div class="name q1"]魔铁棒[/div][div class="q"]"附魔师必备的工具。"[/div]
+</code>
+</item>
+<item id="25844" class="7.12" level="70" icon="inv_rod_adamantite" quality="1">
+<name>精金棒</name>
+<code>
+[div class="name q1"]精金棒[/div][div class="q"]"附魔师必备的工具。"[/div]
+</code>
+</item>
+<item id="25845" class="7.12" level="75" icon="inv_rod_eternium" quality="1">
+<name>恒金棒</name>
+<code>
+[div class="name q1"]恒金棒[/div][div class="q"]"附魔师必备的工具。"[/div]
+</code>
+</item>
+<item id="34052" class="7.12" level="80" icon="inv_enchant_dreamshard_02" quality="3">
+<name>梦境碎片</name>
+<code>
+[div class="name q3"]梦境碎片[/div]
+</code>
+</item>
+<item id="34054" class="7.12" level="70" icon="inv_misc_dust_infinite" quality="1">
+<name>无限之尘</name>
+<code>
+[div class="name q1"]无限之尘[/div]
+</code>
+</item>
+<item id="34055" class="7.10" level="75" icon="inv_enchant_essencecosmicgreater" quality="2">
+<name>强效宇宙精华</name>
+<code>
+[div class="name q2"]强效宇宙精华[/div][div class="q2"]使用: 将一份强效宇宙精华分解为三份次级宇宙精华。[/div]
+</code>
+</item>
+<item id="34056" class="7.12" level="70" icon="inv_enchant_essencecosmiclesser" quality="2">
+<name>次级宇宙精华</name>
+<code>
+[div class="name q2"]次级宇宙精华[/div][div class="q2"]使用: 将三份次级宇宙精华合成为一份强效宇宙精华。[/div]
+</code>
+</item>
+<item id="34057" class="7.12" level="80" icon="inv_enchant_abysscrystal" quality="4">
+<name>深渊水晶</name>
+<code>
+[div class="name q4"]深渊水晶[/div]
+</code>
+</item>
+<item id="35622" class="7.10" level="75" icon="inv_elemental_eternal_water" quality="2">
+<name>永恒之水</name>
+<code>
+[div class="name q2"]永恒之水[/div][div class="q2"]使用: 将一份永恒之水转化为10份水之结晶。[/div]
+</code>
+</item>
+<item id="35623" class="7.10" level="75" icon="inv_elemental_eternal_air" quality="2">
+<name>永恒空气</name>
+<code>
+[div class="name q2"]永恒空气[/div][div class="q2"]使用: 将一份永恒空气转化为10份空气结晶。[/div]
+</code>
+</item>
+<item id="35624" class="7.10" level="75" icon="inv_elemental_eternal_earth" quality="2">
+<name>永恒之土</name>
+<code>
+[div class="name q2"]永恒之土[/div][div class="q2"]使用: 将一份永恒之土转化为10份土之结晶。[/div]
+</code>
+</item>
+<item id="35625" class="7.10" level="75" icon="inv_elemental_eternal_life" quality="2">
+<name>永恒生命</name>
+<code>
+[div class="name q2"]永恒生命[/div][div class="q2"]使用: 将一份永恒生命转化为10份生命结晶。[/div]
+</code>
+</item>
+<item id="35627" class="7.10" level="75" icon="inv_elemental_eternal_shadow" quality="2">
+<name>永恒暗影</name>
+<code>
+[div class="name q2"]永恒暗影[/div][div class="q2"]使用: 将一份永恒暗影转化为10份暗影结晶。[/div]
+</code>
+</item>
+<item id="36860" class="7.10" level="75" icon="inv_elemental_eternal_fire" quality="2">
+<name>永恒火焰</name>
+<code>
+[div class="name q2"]永恒火焰[/div][div class="q2"]使用: 将一份永恒火焰转化为10份火焰结晶。[/div]
+</code>
+</item>
+<item id="36918" class="3.0" level="80" icon="inv_jewelcrafting_gem_04" quality="3">
+<name>血玉石</name>
+<code>
+[div class="name q3"]血玉石[/div]
+</code>
+</item>
+<item id="37663" class="7.7" level="80" icon="inv_ingot_titansteel_blue" quality="2">
+<name>泰坦精钢锭</name>
+<code>
+[div class="name q2"]泰坦精钢锭[/div]
+</code>
+</item>
+<item id="37705" class="7.10" level="75" icon="inv_elemental_crystal_water" quality="1">
+<name>水之结晶</name>
+<code>
+[div class="name q1"]水之结晶[/div][div class="q2"]使用: 将10份水之结晶转化为一份永恒之水。[/div]售价: [span class="si-silver"]24[/span]
+</code>
+</item>
+<item id="41163" class="7.7" level="80" icon="inv_ingot_platinum" quality="2">
+<name>泰坦神铁锭</name>
+<code>
+[div class="name q2"]泰坦神铁锭[/div]
+</code>
+</item>
+<item id="41745" class="7.12" level="70" icon="inv_rod_platinum" quality="1">
+<name>泰坦神铁棒</name>
+<code>
+[div class="name q1"]泰坦神铁棒[/div][div class="q"]"附魔师必备的工具。"[/div]
+</code>
+</item>
+<item id="44452" class="7.12" level="81" icon="inv_rod_titanium" quality="3">
+<name>符文泰坦神铁棒</name>
+<code>
+[div class="name q3"]符文泰坦神铁棒[/div][div]拾取后绑定[/div][div]需要附魔 (425)[/div][div class="q"]"可代替任何较低等级的附魔棒。"[/div]
+</code>
+</item>
+<item id="44958" class="7.11" level="75" icon="inv_drink_11" quality="1">
+<name>轻灵之油</name>
+<code>
+[span class="name q1"]轻灵之油[/span][br /][span class="q2"]使用: 使你自己变得透明，持续5分钟。[/span]
+</code>
+</item>
+<item id="6342" class="9.8" level="12" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔胸甲 - 初级法力</name>
+<code>
+[div class="name q2"]公式：附魔胸甲 - 初级法力[/div][div]需要附魔 (20)[/div][div class="q2"]使用: 教你学会永久性地为一件胸甲附魔，使其获得法力值+5的效果。[/div][br /][div]需要: 次级魔法精华(1)[/div]
+</code>
+<dropped-by>
+<npc id="2065" rate="2/1549" />
+<npc id="2174" rate="2/1616" />
+<npc id="3531" rate="1/1064" />
+<npc id="2477" rate="1/1308" />
+<npc id="17349" rate="1/1337" />
+</dropped-by>
+<contained-in>
+<object id="152608" rate="4/1572" />
+<object id="75293" rate="170/75369" />
+<object id="3642" rate="6/2964" />
+</contained-in>
+</item>
+<item id="6344" class="9.8" level="17" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔护腕 - 初级精神</name>
+<code>
+[div class="name q2"]公式：附魔护腕 - 初级精神[/div][div]需要附魔 (60)[/div][div class="q2"]使用: 教你学会永久性地为一副护腕附魔，使其获得精神+1的效果。[/div][br /][div]需要: 次级魔法精华(2)[/div]
+</code>
+<dropped-by>
+<npc id="3532" rate="1/353" />
+<npc id="3662" rate="2/2444" />
+<npc id="2477" rate="1/1308" />
+<npc id="2184" rate="1/1439" />
+<npc id="3849" rate="2/3165" />
+</dropped-by>
+<contained-in>
+<object id="75293" rate="501/75369" />
+<object id="152608" rate="8/1572" />
+<object id="3642" rate="11/2964" />
+<item id="6307" rate="7/1371" />
+</contained-in>
+</item>
+<item id="6346" class="9.8" level="19" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔胸甲 - 次级法力</name>
+<code>
+[div class="name q2"]公式：附魔胸甲 - 次级法力[/div][div]需要附魔 (80)[/div][div class="q2"]使用: 教你学会永久性地为一件胸甲附魔，使其获得法力值+20的效果。[/div][br /][div]需要: 强效魔法精华(1) 次级魔法精华(1)[/div]售价: [span class="si-silver"]4[/span]
+</code>
+<sold-by>
+<npc id="3346" count="1" />
+<npc id="5757" count="1" />
+</sold-by>
+</item>
+<item id="6347" class="9.8" level="19" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔护腕 - 初级力量</name>
+<code>
+[div class="name q2"]公式：附魔护腕 - 初级力量[/div][div]需要附魔 (80)[/div][div class="q2"]使用: 教你学会永久性地为一副护腕附魔，使其获得力量+1的效果。[/div][br /][div]需要: 奇异之尘(5)[/div]
+</code>
+<dropped-by>
+<npc id="1207" rate="2/1812" />
+<npc id="3528" rate="1/987" />
+<npc id="5865" rate="1/1443" />
+<npc id="3899" rate="1/1527" />
+<npc id="1425" rate="1/1583" />
+</dropped-by>
+<contained-in>
+<object id="152608" rate="12/1572" />
+<object id="75293" rate="460/75369" />
+<object id="3642" rate="18/2964" />
+<item id="6307" rate="6/1371" />
+</contained-in>
+</item>
+<item id="6348" class="9.8" level="20" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔武器 - 初级屠兽</name>
+<code>
+[div class="name q2"]公式：附魔武器 - 初级屠兽[/div][div]需要附魔 (90)[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其获得对野兽伤害+2的效果。[/div][br /][div]需要: 奇异之尘(4) 强效魔法精华(2)[/div]
+</code>
+<dropped-by>
+<npc id="3529" rate="1/819" />
+<npc id="2066" rate="1/1536" />
+<npc id="3231" rate="1/1628" />
+<npc id="2061" rate="1/1697" />
+<npc id="7015" rate="1/1751" />
+</dropped-by>
+<contained-in>
+<object id="3642" rate="26/2964" />
+<object id="152608" rate="10/1572" />
+<object id="75293" rate="440/75369" />
+<item id="4632" rate="6/1387" />
+<item id="19298" rate="2/1328" />
+</contained-in>
+</item>
+<item id="6349" class="9.8" level="20" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔双手武器 - 次级智力</name>
+<code>
+[div class="name q1"]公式：附魔双手武器 - 次级智力[/div][div]需要附魔 (100)[/div][div class="q2"]使用: 教你学会永久性地为一把双手近战武器附魔，使其获得智力+3的效果。[/div][br /][div]需要: 强效魔法精华(3)[/div]售价: [span class="si-silver"]5[/span]
+</code>
+<sold-by>
+<npc id="3012" count="1" />
+<npc id="3346" count="1" />
+<npc id="5158" count="1" />
+<npc id="5758" count="1" />
+</sold-by>
+</item>
+<item id="6375" class="9.8" level="24" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔护腕 - 次级精神</name>
+<code>
+[div class="name q2"]公式：附魔护腕 - 次级精神[/div][div]需要附魔 (120)[/div][div class="q2"]使用: 教你学会永久性地为一副护腕附魔，使其获得精神+3的效果。[/div][br /][div]需要: 次级星界精华(2)[/div]
+</code>
+<dropped-by>
+<npc id="14269" rate="1/413" />
+<npc id="4250" rate="2/1608" />
+<npc id="14424" rate="1/829" />
+<npc id="3736" rate="1/1057" />
+<npc id="616" rate="1/1240" />
+</dropped-by>
+<contained-in>
+<object id="74447" rate="33/17307" />
+<item id="4632" rate="7/1387" />
+<item id="19298" rate="4/1328" />
+</contained-in>
+</item>
+<item id="6377" class="9.8" level="25" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔靴子 - 初级敏捷</name>
+<code>
+[div class="name q2"]公式：附魔靴子 - 初级敏捷[/div][div]需要附魔 (125)[/div][div class="q2"]使用: 教你学会永久性地为一双靴子附魔，使其获得敏捷+1的效果。[/div][br /][div]需要: 奇异之尘(6) 次级星界精华(2)[/div]售价: [span class="si-silver"]10[/span]
+</code>
+<sold-by>
+<npc id="3012" count="1" />
+<npc id="3537" count="1" />
+</sold-by>
+</item>
+<item id="11038" class="9.8" level="22" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔双手武器 - 次级精神</name>
+<code>
+[div class="name q2"]公式：附魔双手武器 - 次级精神[/div][div]需要附魔 (110)[/div][div class="q2"]使用: 教你学会永久性地为一把双手近战武器附魔，使其获得精神+3的效果。[/div][br /][div]需要: 次级星界精华(1) 奇异之尘(6)[/div]
+</code>
+<dropped-by>
+<npc id="4409" rate="1/2936" />
+<npc id="4032" rate="1/3007" />
+<npc id="3815" rate="1/3130" />
+<npc id="3416" rate="2/7326" />
+<npc id="6215" rate="1/3702" />
+</dropped-by>
+<contained-in>
+<object id="3642" rate="3/2964" />
+<item id="4632" rate="9/1387" />
+<item id="6307" rate="5/1371" />
+<item id="19298" rate="4/1328" />
+</contained-in>
+</item>
+<item id="11039" class="9.8" level="22" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔披风 - 初级敏捷</name>
+<code>
+[div class="name q2"]公式：附魔披风 - 初级敏捷[/div][div]需要附魔 (110)[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得敏捷+1的效果。[/div][br /][div]需要: 次级星界精华(1)[/div]售价: [span class="si-silver"]8[/span]
+</code>
+<sold-by>
+<npc id="3954" count="1" />
+<npc id="12043" count="1" />
+</sold-by>
+<dropped-by>
+<npc id="10644" rate="1/694" />
+<npc id="17715" rate="1/919" />
+<npc id="5848" rate="1/1128" />
+<npc id="7170" rate="1/1873" />
+<npc id="5842" rate="1/2418" />
+</dropped-by>
+<contained-in>
+<object id="3642" rate="11/2964" />
+<item id="4632" rate="7/1387" />
+</contained-in>
+</item>
+<item id="11081" class="9.8" level="22" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔盾牌 - 次级防护</name>
+<code>
+[div class="name q2"]公式：附魔盾牌 - 次级防护[/div][div]需要附魔 (115)[/div][div class="q2"]使用: 教你学会永久性地为一面盾牌附魔，使其获得护甲值+30的效果。[/div][br /][div]需要: 次级星界精华(1) 奇异之尘(1) 小块微光碎片(1)[/div]
+</code>
+<dropped-by>
+<npc id="14266" rate="1/755" />
+<npc id="616" rate="1/1240" />
+<npc id="3899" rate="1/1527" />
+<npc id="14267" rate="1/1628" />
+<npc id="5931" rate="1/1830" />
+</dropped-by>
+<contained-in>
+<object id="3642" rate="3/2964" />
+<item id="6307" rate="6/1371" />
+<item id="4632" rate="6/1387" />
+</contained-in>
+</item>
+<item id="11098" class="9.8" level="27" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔披风 - 抵抗次级暗影</name>
+<code>
+[div class="name q2"]公式：附魔披风 - 抵抗次级暗影[/div][div]需要附魔 (135)[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得暗影抗性+10的效果。[/div][br /][div]需要: 强效星界精华(1) 暗影防护药水(1)[/div]
+</code>
+<dropped-by>
+<npc id="5928" rate="1/1073" />
+<npc id="14426" rate="1/1782" />
+<npc id="1014" rate="1/2021" />
+<npc id="5832" rate="1/2730" />
+<npc id="1015" rate="2/6247" />
+</dropped-by>
+<contained-in>
+<object id="74447" rate="26/17307" />
+<item id="4633" rate="25/8040" />
+<item id="4632" rate="4/1387" />
+<item id="19298" rate="2/1328" />
+</contained-in>
+</item>
+<item id="11101" class="9.8" level="28" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔护腕 - 次级力量</name>
+<code>
+[div class="name q2"]公式：附魔护腕 - 次级力量[/div][div]需要附魔 (140)[/div][div class="q2"]使用: 教你学会永久性地为一副护腕附魔，使其获得力量+3的效果。[/div][br /][div]需要: 灵魂之尘(2)[/div]售价: [span class="si-silver"]25[/span]
+</code>
+<sold-by>
+<npc id="3954" count="1" />
+<npc id="12043" count="1" />
+</sold-by>
+</item>
+<item id="11150" class="9.8" level="29" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔手套 - 采矿</name>
+<code>
+[div class="name q2"]公式：附魔手套 - 采矿[/div][div]需要附魔 (145)[/div][div class="q2"]使用: 教你学会永久性地为一双手套附魔，使其获得采矿技能+2的效果。[/div][br /][div]需要: 灵魂之尘(1) 铁矿石(3)[/div]
+</code>
+<dropped-by>
+<npc id="1054" rate="360/22048" />
+<npc id="1051" rate="822/52159" />
+<npc id="1052" rate="694/46955" />
+<npc id="1053" rate="655/46295" />
+<npc id="1364" rate="56/6426" />
+</dropped-by>
+</item>
+<item id="11151" class="9.8" level="29" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔手套 - 采药</name>
+<code>
+[div class="name q2"]公式：附魔手套 - 采药[/div][div]需要附魔 (145)[/div][div class="q2"]使用: 教你学会永久性地为一双手套附魔，使其获得草药学技能+2的效果。[/div][br /][div]需要: 灵魂之尘(1) 皇血草(3)[/div]
+</code>
+<dropped-by>
+<npc id="3834" rate="169/10147" />
+<npc id="3919" rate="153/10245" />
+<npc id="4028" rate="176/13154" />
+<npc id="4029" rate="80/6072" />
+<npc id="4030" rate="5/628" />
+</dropped-by>
+</item>
+<item id="11152" class="9.8" level="29" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔手套 - 钓鱼</name>
+<code>
+[div class="name q2"]公式：附魔手套 - 钓鱼[/div][div]需要附魔 (145)[/div][div class="q2"]使用: 教你学会永久性地为一双手套附魔，使其获得钓鱼技能+2的效果。[/div][br /][div]需要: 灵魂之尘(1) 黑口鱼油(3)[/div]
+</code>
+<dropped-by>
+<npc id="2375" rate="636/52638" />
+<npc id="2374" rate="550/46389" />
+<npc id="2376" rate="1631/146820" />
+<npc id="2377" rate="2172/199063" />
+<npc id="14276" rate="7/1288" />
+</dropped-by>
+</item>
+<item id="11163" class="9.8" level="34" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔护腕 - 次级偏斜</name>
+<code>
+[div class="name q2"]公式：附魔护腕 - 次级偏斜[/div][div]需要附魔 (170)[/div][div class="q2"]使用: 教你学会永久性地为一副护腕附魔，使其获得防御等级+3的效果。[/div][br /][div]需要: 次级秘法精华(1) 灵魂之尘(2)[/div]售价: [span class="si-silver"]30[/span]
+</code>
+<sold-by>
+<npc id="2381" count="1" />
+<npc id="2821" count="1" />
+</sold-by>
+</item>
+<item id="11164" class="9.8" level="35" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔武器 - 次级屠兽</name>
+<code>
+[div class="name q2"]公式：附魔武器 - 次级屠兽[/div][div]需要附魔 (175)[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其获得对野兽的伤害+6的效果。[/div][br /][div]需要: 次级秘法精华(1) 大牙齿(2) 小块闪光碎片(1)[/div]
+</code>
+<dropped-by>
+<npc id="14277" rate="1/1338" />
+<npc id="6238" rate="1/1505" />
+<npc id="6068" rate="1/2039" />
+<npc id="976" rate="1/2208" />
+<npc id="4346" rate="1/2495" />
+</dropped-by>
+<contained-in>
+<object id="3715" rate="2/479" />
+<object id="105570" rate="1/240" />
+<item id="19425" rate="2/321" />
+<item id="4634" rate="43/12061" />
+<item id="19297" rate="5/1862" />
+</contained-in>
+</item>
+<item id="11165" class="9.8" level="35" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔武器 - 次级元素杀手</name>
+<code>
+[div class="name q2"]公式：附魔武器 - 次级元素杀手[/div][div]需要附魔 (175)[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其获得对元素生物的伤害+6的效果。[/div][br /][div]需要: 次级秘法精华(1) 元素之土(1) 小块闪光碎片(1)[/div]
+</code>
+<dropped-by>
+<npc id="12836" rate="1/403" />
+<npc id="6228" rate="1/544" />
+<npc id="14280" rate="1/869" />
+<npc id="11576" rate="1/973" />
+<npc id="763" rate="1/1071" />
+</dropped-by>
+<contained-in>
+<item id="4634" rate="56/12061" />
+<item id="10569" rate="14/4938" />
+</contained-in>
+</item>
+<item id="11166" class="9.8" level="40" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔手套 - 剥皮</name>
+<code>
+[div class="name q2"]公式：附魔手套 - 剥皮[/div][div]需要附魔 (200)[/div][div class="q2"]使用: 教你学会永久性地为一双手套附魔，使其获得剥皮技能+5的效果。[/div][br /][div]需要: 幻象之尘(1) 绿色幼龙鳞片(3)[/div]
+</code>
+<dropped-by>
+<npc id="2605" rate="4/177" />
+<npc id="2558" rate="170/11626" />
+<npc id="2556" rate="2451/170784" />
+<npc id="2557" rate="589/43753" />
+<npc id="2606" rate="13/1743" />
+</dropped-by>
+</item>
+<item id="11167" class="9.8" level="38" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔靴子 - 次级精神</name>
+<code>
+[div class="name q2"]公式：附魔靴子 - 次级精神[/div][div]需要附魔 (190)[/div][div class="q2"]使用: 教你学会永久性地为一双靴子附魔，使其获得精神+3的效果。[/div][br /][div]需要: 强效秘法精华(1) 次级秘法精华(2)[/div]
+</code>
+<dropped-by>
+<npc id="4346" rate="1/2495" />
+<npc id="3985" rate="1/2551" />
+<npc id="5771" rate="1/2601" />
+<npc id="862" rate="1/2708" />
+<npc id="2636" rate="1/2913" />
+</dropped-by>
+<contained-in>
+<object id="142184" rate="4/2607" />
+<item id="10569" rate="21/4938" />
+<item id="4636" rate="38/14044" />
+<item id="19297" rate="5/1862" />
+</contained-in>
+</item>
+<item id="11168" class="9.8" level="39" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔盾牌 - 次级格挡</name>
+<code>
+[div class="name q2"]公式：附魔盾牌 - 次级格挡[/div][div]需要附魔 (195)[/div][div class="q2"]使用: 教你学会永久性地为一面盾牌附魔，使其获得格挡等级+10的效果。[/div][br /][div]需要: 强效秘法精华(2) 幻象之尘(2) 大块闪光碎片(1)[/div]
+</code>
+<dropped-by>
+<npc id="4389" rate="1/3034" />
+<npc id="2551" rate="1/4664" />
+<npc id="7349" rate="2/33341" />
+<npc id="5272" rate="1/16997" />
+<npc id="23595" rate="1/21356" />
+</dropped-by>
+</item>
+<item id="11202" class="9.8" level="42" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔盾牌 - 耐力</name>
+<code>
+[div class="name q2"]公式：附魔盾牌 - 耐力[/div][div]需要附魔 (210)[/div][div class="q2"]使用: 教你学会永久性地为一面盾牌附魔，使其获得耐力+5的效果。[/div][br /][div]需要: 幻象之尘(5)[/div]
+</code>
+<dropped-by>
+<npc id="7997" rate="1/142" />
+<npc id="2781" rate="2/1773" />
+<npc id="1494" rate="1/1253" />
+<npc id="8283" rate="1/1801" />
+<npc id="4686" rate="1/2192" />
+</dropped-by>
+<contained-in>
+<object id="141979" rate="115/11369" />
+<object id="131979" rate="6/1306" />
+<item id="19035" rate="13/3682" />
+<item id="20766" rate="2/1016" />
+</contained-in>
+</item>
+<item id="11203" class="9.8" level="43" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔手套 - 高级采矿</name>
+<code>
+[div class="name q2"]公式：附魔手套 - 高级采矿[/div][div]需要附魔 (215)[/div][div class="q2"]使用: 教你学会永久性地为一双手套附魔，使其获得采矿技能+5的效果。[/div][br /][div]需要: 幻象之尘(3) 真银锭(3)[/div]
+</code>
+<dropped-by>
+<npc id="674" rate="4907/216375" />
+</dropped-by>
+</item>
+<item id="11204" class="9.8" level="44" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔护腕 - 强效精神</name>
+<code>
+[div class="name q2"]公式：附魔护腕 - 强效精神[/div][div]需要附魔 (220)[/div][div class="q2"]使用: 教你学会永久性地为一副护腕附魔，使其获得精神+7的效果。[/div][br /][div]需要: 次级虚空精华(3) 幻象之尘(1)[/div]
+</code>
+<dropped-by>
+<npc id="5352" rate="1/363" />
+<npc id="2779" rate="1/516" />
+<npc id="2782" rate="1/1884" />
+<npc id="4377" rate="2/4429" />
+<npc id="12240" rate="1/2381" />
+</dropped-by>
+<contained-in>
+<object id="141979" rate="96/11369" />
+<object id="131979" rate="6/1306" />
+<object id="142184" rate="10/2607" />
+<item id="4637" rate="53/12269" />
+<item id="9265" rate="12/3300" />
+<item id="19297" rate="3/1862" />
+</contained-in>
+</item>
+<item id="11205" class="9.8" level="45" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔手套 - 高级草药学</name>
+<code>
+[div class="name q2"]公式：附魔手套 - 高级草药学[/div][div]需要附魔 (225)[/div][div class="q2"]使用: 教你学会永久性地为一双手套附魔，使其获得草药学技能+5的效果。[/div][br /][div]需要: 幻象之尘(3) 太阳草(3)[/div]
+</code>
+<dropped-by>
+<npc id="765" rate="485/26316" />
+<npc id="766" rate="471/26931" />
+<npc id="1081" rate="74/4373" />
+<npc id="764" rate="585/36644" />
+<npc id="14448" rate="8/1311" />
+</dropped-by>
+</item>
+<item id="11206" class="9.8" level="45" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔披风 - 次级敏捷</name>
+<code>
+[div class="name q2"]公式：附魔披风 - 次级敏捷[/div][div]需要附魔 (225)[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得敏捷+3的效果。[/div][br /][div]需要: 次级虚空精华(2)[/div]
+</code>
+<dropped-by>
+<npc id="2246" rate="522/37764" />
+<npc id="5623" rate="1334/107186" />
+<npc id="7805" rate="36/3506" />
+</dropped-by>
+</item>
+<item id="11207" class="9.8" level="53" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔武器 - 灼热武器</name>
+<code>
+[div class="name q2"]公式：附魔武器 - 灼热武器[/div][div]需要附魔 (265)[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其经常可以对敌人造成40点额外的火焰伤害。[/div][br /][div]需要: 小块强光碎片(4) 火焰精华(1)[/div]
+</code>
+<dropped-by>
+<npc id="9024" rate="3467/21156" />
+</dropped-by>
+</item>
+<item id="11208" class="9.8" level="46" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔武器 - 屠魔</name>
+<code>
+[div class="name q2"]公式：附魔武器 - 屠魔[/div][div]需要附魔 (230)[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其有一定几率击晕恶魔，并对其造成额外的伤害。[/div][br /][div]需要: 小块强光碎片(1) 梦境之尘(2) 屠魔药剂(1)[/div]
+</code>
+<dropped-by>
+<npc id="1063" rate="1/709" />
+<npc id="950" rate="2/4201" />
+<npc id="1559" rate="2/6651" />
+<npc id="8667" rate="1/3689" />
+<npc id="2931" rate="1/3746" />
+</dropped-by>
+<contained-in>
+<object id="141979" rate="33/11369" />
+<object id="142184" rate="5/2607" />
+<item id="19035" rate="33/3682" />
+<item id="9265" rate="17/3300" />
+<item id="4638" rate="49/11164" />
+<item id="10752" rate="5/1296" />
+<item id="10479" rate="2/537" />
+</contained-in>
+</item>
+<item id="11223" class="9.8" level="47" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔护腕 - 偏斜</name>
+<code>
+[div class="name q2"]公式：附魔护腕 - 偏斜[/div][div]需要附魔 (235)[/div][div class="q2"]使用: 教你学会永久性地为一副护腕附魔，使其获得防御等级+5的效果。[/div][br /][div]需要: 强效虚空精华(1) 梦境之尘(2)[/div]售价: [span class="si-silver"]58[/span]
+</code>
+<sold-by>
+<npc id="989" count="1" />
+<npc id="4229" count="1" />
+</sold-by>
+</item>
+<item id="11224" class="9.8" level="47" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔盾牌 - 冰霜反射</name>
+<code>
+[div class="name q2"]公式：附魔盾牌 - 冰霜反射[/div][div]需要附魔 (235)[/div][div class="q2"]使用: 教你学会永久性地为一面盾牌附魔，使其获得冰霜抗性+8的效果。[/div][br /][div]需要: 大块强光碎片(1) 冰霜之油(1)[/div]
+</code>
+<dropped-by>
+<npc id="14888" rate="18/320" />
+<npc id="14887" rate="23/507" />
+<npc id="14890" rate="12/352" />
+<npc id="6109" rate="28/940" />
+<npc id="14889" rate="5/349" />
+</dropped-by>
+<contained-in>
+<item id="9265" rate="6/3300" />
+</contained-in>
+</item>
+<item id="11225" class="9.8" level="49" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔护腕 - 强效耐力</name>
+<code>
+[div class="name q2"]公式：附魔护腕 - 强效耐力[/div][div]需要附魔 (245)[/div][div class="q2"]使用: 教你学会永久性地为一副护腕附魔，使其获得耐力+7的效果。[/div][br /][div]需要: 梦境之尘(5)[/div]
+</code>
+<dropped-by>
+<npc id="13456" rate="1/8" />
+<npc id="9677" rate="1/575" />
+<npc id="8547" rate="1/979" />
+<npc id="14445" rate="1/1522" />
+<npc id="2752" rate="1/1786" />
+</dropped-by>
+<contained-in>
+<object id="141979" rate="40/11369" />
+<item id="19035" rate="20/3682" />
+<item id="4638" rate="51/11164" />
+<item id="9265" rate="15/3300" />
+</contained-in>
+</item>
+<item id="11226" class="9.8" level="50" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔手套 - 骑乘技能</name>
+<code>
+[div class="name q2"]公式：附魔手套 - 骑乘技能[/div][div]需要附魔 (250)[/div][div class="q2"]使用: 教你学会永久性地为一双手套附魔，使其获得骑乘速度提高2%的效果。[/div][br /][div]需要: 大块强光碎片(2) 梦境之尘(3)[/div]
+</code>
+<dropped-by>
+<npc id="14889" rate="11/349" />
+<npc id="14890" rate="11/352" />
+<npc id="6109" rate="22/940" />
+<npc id="14888" rate="7/320" />
+<npc id="14887" rate="8/507" />
+</dropped-by>
+<contained-in>
+<object id="142184" rate="4/2607" />
+<item id="10479" rate="1/537" />
+</contained-in>
+</item>
+<item id="11813" class="9.8" level="53" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：浓烟山脉之心</name>
+<code>
+[div class="name q2"]公式：浓烟山脉之心[/div][div]需要附魔 (265)[/div][div]使用: 教你学会制作浓烟山脉之心。[/div][br /][div class="name q3"]浓烟山脉之心[/div][div]拾取后绑定[/div][div]唯一[/div][div]饰品[/div][div]150 护甲[/div][div]需要等级 50[/div][div class="q2"]装备: 爆击等级提高17。[/div][br /][div]需要: 火焰精华(3) 小块魔光碎片(3)[/div]
+</code>
+<dropped-by>
+<npc id="9025" rate="1437/17137" />
+</dropped-by>
+</item>
+<item id="16214" class="9.8" level="51" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔护腕 - 强效智力</name>
+<code>
+[span class="q2"]公式：附魔护腕 - 强效智力[/span][br /]需要附魔 (255)[br /][span class="q2"]使用: 教你学会永久性地为一副护腕附魔，使其获得智力+7的效果。[/span][br /][br /]需要: 次级不灭精华(3)
+</code>
+<dropped-by>
+<npc id="2642" rate="17/27432" />
+</dropped-by>
+</item>
+<item id="16215" class="9.8" level="52" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔靴子 - 强效耐力</name>
+<code>
+[div class="name q2"]公式：附魔靴子 - 强效耐力[/div][div]需要附魔 (260)[/div][div class="q2"]使用: 教你学会永久性地为一双靴子附魔，使其获得耐力+7的效果。[/div][br /][div]需要: 梦境之尘(5)[/div]
+</code>
+<dropped-by>
+<npc id="9680" rate="1/480" />
+<npc id="14475" rate="1/1047" />
+<npc id="7072" rate="1/1437" />
+<npc id="6369" rate="1/1591" />
+<npc id="9697" rate="1/1771" />
+</dropped-by>
+<contained-in>
+<object id="179697" rate="23/6825" />
+<object id="160845" rate="11/3645" />
+<item id="19296" rate="11/1856" />
+<item id="9541" rate="1/185" />
+<item id="5758" rate="73/13665" />
+<item id="19035" rate="11/3682" />
+</contained-in>
+</item>
+<item id="16216" class="9.8" level="53" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔披风 - 强效抗性</name>
+<code>
+[div class="name q2"]公式：附魔披风 - 强效抗性[/div][div]需要附魔 (265)[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得所有抗性+5的效果。[/div][br /][div]需要: 火焰之心(1) 大地之核(1) 纯水之球(1) 风之气息(1) 亡灵腐液(1)[/div]
+</code>
+<dropped-by>
+<npc id="5259" rate="61/200981" />
+</dropped-by>
+</item>
+<item id="16217" class="9.8" level="53" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔盾牌 - 强效耐力</name>
+<code>
+[div class="name q1"]公式：附魔盾牌 - 强效耐力[/div][div]拾取后绑定[/div][div]需要附魔 (265)[/div][div class="q2"]使用: 教你学会永久性地为一面盾牌附魔，使其获得耐力+7的效果。[/div][br /][div]需要: 梦境之尘(5)[/div]售价: [span class="si-gold"]1[/span][span class="si-silver"]20[/span]
+</code>
+<sold-by>
+<npc id="4229" count="1" />
+<npc id="4561" count="1" />
+</sold-by>
+</item>
+<item id="16218" class="9.8" level="54" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔护腕 - 超强精神</name>
+<code>
+[div class="name q2"]公式：附魔护腕 - 超强精神[/div][div]需要附魔 (270)[/div][div class="q2"]使用: 教你学会永久性地为一副护腕附魔，使其获得精神+9的效果。[/div][br /][div]需要: 次级不灭精华(3) 梦境之尘(4)[/div]
+</code>
+<dropped-by>
+<npc id="6652" rate="1/321" />
+<npc id="9681" rate="1/460" />
+<npc id="9438" rate="1/990" />
+<npc id="14283" rate="1/1271" />
+<npc id="8300" rate="1/1303" />
+</dropped-by>
+<contained-in>
+<object id="160845" rate="11/3645" />
+<object id="153468" rate="5/1766" />
+<item id="5758" rate="96/13665" />
+<item id="19035" rate="12/3682" />
+<item id="4638" rate="33/11164" />
+<item id="10752" rate="3/1296" />
+<item id="9265" rate="6/3300" />
+</contained-in>
+</item>
+<item id="16219" class="9.8" level="54" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔手套 - 强效敏捷</name>
+<code>
+[div class="name q2"]公式：附魔手套 - 强效敏捷[/div][div]需要附魔 (270)[/div][div class="q2"]使用: 教你学会永久性地为一双手套附魔，使其获得敏捷+7的效果。[/div][br /][div]需要: 次级不灭精华(2) 幻影之尘(3)[/div]
+</code>
+<dropped-by>
+<npc id="6201" rate="95/53474" />
+</dropped-by>
+</item>
+<item id="16220" class="9.8" level="55" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔靴子 - 精神</name>
+<code>
+[div class="name q2"]公式：附魔靴子 - 精神[/div][div]需要附魔 (275)[/div][div class="q2"]使用: 教你学会永久性地为一双靴子附魔，使其获得精神+5的效果。[/div][br /][div]需要: 强效不灭精华(2)[/div]
+</code>
+<dropped-by>
+<npc id="9437" rate="1/363" />
+<npc id="9681" rate="1/460" />
+<npc id="10263" rate="1/760" />
+<npc id="14475" rate="1/1047" />
+<npc id="7068" rate="1/1320" />
+</dropped-by>
+<contained-in>
+<object id="179697" rate="22/6825" />
+<item id="19296" rate="15/1856" />
+<item id="5758" rate="78/13665" />
+<item id="19035" rate="16/3682" />
+<item id="10752" rate="3/1296" />
+<item id="10479" rate="1/537" />
+</contained-in>
+</item>
+<item id="16221" class="9.8" level="55" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔胸甲 - 特效生命</name>
+<code>
+[div class="name q1"]公式：附魔胸甲 - 特效生命[/div][div]需要附魔 (275)[/div][div class="q2"]使用: 教你学会永久性地为一件胸甲附魔，使其获得生命值+100的效果。[/div][br /][div]需要: 小块魔光碎片(2)[/div]售价: [span class="si-gold"]1[/span][span class="si-silver"]60[/span]
+</code>
+<sold-by>
+<npc id="11189" count="1" />
+</sold-by>
+</item>
+<item id="16222" class="9.8" level="56" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔盾牌 - 超强精神</name>
+<code>
+[div class="name q2"]公式：附魔盾牌 - 超强精神[/div][div]需要附魔 (280)[/div][div class="q2"]使用: 教你学会永久性地为一面盾牌附魔，使其获得精神+9的效果。[/div][br /][div]需要: 强效不灭精华(1) 幻影之尘(4)[/div]
+</code>
+<dropped-by>
+<npc id="9447" rate="28/64254" />
+</dropped-by>
+</item>
+<item id="16223" class="9.8" level="57" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔武器 - 冰寒</name>
+<code>
+[div class="name q2"]公式：附魔武器 - 冰寒[/div][div]需要附魔 (285)[/div][div class="q2"]使用: 教你学会永久性地为一把近战武器附魔，使其可以释放冰寒，使目标的移动和攻击速度减慢。对60级以上玩家的效果降低。[/div][br /][div]需要: 小块魔光碎片(4) 水之精华(1) 空气精华(1) 冰盖草(1)[/div]
+</code>
+<dropped-by>
+<npc id="7524" rate="2630/61128" />
+</dropped-by>
+</item>
+<item id="16224" class="9.8" level="57" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔披风 - 超强防御</name>
+<code>
+[div class="name q1"]公式：附魔披风 - 超强防御[/div][div]需要附魔 (285)[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得护甲值+70的效果。[/div][br /][div]需要: 幻影之尘(8)[/div]售价: [span class="si-gold"]2[/span]
+</code>
+<sold-by>
+<npc id="12022" count="1" />
+</sold-by>
+</item>
+<item id="16242" class="9.8" level="58" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔胸甲 - 特效法力</name>
+<code>
+[div class="name q2"]公式：附魔胸甲 - 特效法力[/div][div]需要附魔 (290)[/div][div class="q2"]使用: 教你学会永久性地为一件胸甲附魔，使其获得法力值+100的效果。[/div][br /][div]需要: 幻影之尘(8)[/div]
+</code>
+<dropped-by>
+<npc id="9452" rate="46/41779" />
+</dropped-by>
+</item>
+<item id="16243" class="9.8" level="58" icon="inv_misc_note_01" quality="1">
+<name>公式：符文奥金棒</name>
+<code>
+[div class="name q1"]公式：符文奥金棒[/div][div]需要附魔 (290)[/div][div]使用: 教你学会制作符文奥金棒。[/div][br /][div class="name q1"]符文奥金棒[/div][div]拾取后绑定[/div][div class="q"]"可代替任何较低等级的附魔棒。"[/div][br /][div]需要: 奥金棒(1) 金珍珠(1) 幻影之尘(10) 强效不灭精华(4) 符文真银棒(1) 大块魔光碎片(2)[/div]售价: [span class="si-gold"]2[/span][span class="si-silver"]20[/span]
+</code>
+<sold-by>
+<npc id="12022" count="1" />
+</sold-by>
+</item>
+<item id="16244" class="9.8" level="59" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔手套 - 强效力量</name>
+<code>
+[div class="name q2"]公式：附魔手套 - 强效力量[/div][div]需要附魔 (295)[/div][div class="q2"]使用: 教你学会永久性地为一双手套附魔，使其获得获得力量+7的效果。[/div][br /][div]需要: 次级不灭精华(4) 幻影之尘(4)[/div]
+</code>
+<dropped-by>
+<npc id="9198" rate="43/12088" />
+</dropped-by>
+</item>
+<item id="16245" class="9.8" level="59" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔靴子 - 强效敏捷</name>
+<code>
+[div class="name q2"]公式：附魔靴子 - 强效敏捷[/div][div]需要附魔 (295)[/div][div class="q2"]使用: 教你学会永久性地为一双靴子附魔，使其获得敏捷+7的效果。[/div][br /][div]需要: 次级不灭精华(2) 野葡萄藤(2)[/div]
+</code>
+<dropped-by>
+<npc id="14888" rate="1/320" />
+<npc id="7734" rate="1/1640" />
+<npc id="15389" rate="1/2444" />
+<npc id="4374" rate="1/2777" />
+<npc id="6188" rate="1/3882" />
+</dropped-by>
+</item>
+<item id="16246" class="9.8" level="59" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔护腕 - 超强力量</name>
+<code>
+[div class="name q2"]公式：附魔护腕 - 超强力量[/div][div]需要附魔 (295)[/div][div class="q2"]使用: 教你学会永久性地为一副护腕附魔，使其获得力量+9的效果。[/div][br /][div]需要: 幻影之尘(6) 强效不灭精华(2)[/div]
+</code>
+<dropped-by>
+<npc id="7372" rate="435/9125" />
+</dropped-by>
+</item>
+<item id="16247" class="9.8" level="59" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔武器 - 超强冲击</name>
+<code>
+[div class="name q2"]公式：附魔武器 - 超强冲击[/div][div]需要附魔 (295)[/div][div class="q2"]使用: 教你学会永久性地为一把双手近战武器附魔，使其获得伤害+9的效果。[/div][br /][div]需要: 大块魔光碎片(4) 幻影之尘(10)[/div]
+</code>
+<dropped-by>
+<npc id="10317" rate="3040/27339" />
+</dropped-by>
+</item>
+<item id="16248" class="9.8" level="59" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔武器 - 邪恶</name>
+<code>
+[div class="name q2"]公式：附魔武器 - 邪恶[/div][div]需要附魔 (295)[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其有时可以诅咒目标，降低它们的近战伤害。[/div][br /][div]需要: 大块魔光碎片(4) 死灵精华(4)[/div]
+</code>
+<dropped-by>
+<npc id="10398" rate="9390/156653" />
+<npc id="16810" rate="2760/112709" />
+</dropped-by>
+</item>
+<item id="16249" class="9.8" level="60" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔双手武器 - 特效智力</name>
+<code>
+[div class="name q2"]公式：附魔双手武器 - 特效智力[/div][div]需要附魔 (300)[/div][div class="q2"]使用: 教你学会永久性地为一把双手近战武器附魔，使其获得智力+9的效果。[/div][br /][div]需要: 强效不灭精华(4) 大块魔光碎片(2)[/div]
+</code>
+<dropped-by>
+<npc id="10422" rate="3105/38743" />
+</dropped-by>
+</item>
+<item id="16250" class="9.8" level="60" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔武器 - 超强打击</name>
+<code>
+[div class="name q2"]公式：附魔武器 - 超强打击[/div][div]需要附魔 (300)[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其获得伤害+5的效果。[/div][br /][div]需要: 大块魔光碎片(2) 强效不灭精华(4)[/div]
+</code>
+<dropped-by>
+<npc id="9216" rate="1685/23343" />
+</dropped-by>
+</item>
+<item id="16251" class="9.8" level="60" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔护腕 - 超强耐力</name>
+<code>
+[div class="name q2"]公式：附魔护腕 - 超强耐力[/div][div]需要附魔 (300)[/div][div class="q2"]使用: 教你学会永久性地为一副护腕附魔，使其获得耐力+9的效果。[/div][br /][div]需要: 幻影之尘(10)[/div]
+</code>
+<dropped-by>
+<npc id="12497" rate="4/204" />
+<npc id="12498" rate="4/373" />
+<npc id="12477" rate="4/383" />
+<npc id="5718" rate="2/256" />
+<npc id="16072" rate="4/584" />
+</dropped-by>
+<contained-in>
+<object id="160845" rate="44/3645" />
+<object id="153468" rate="16/1766" />
+<object id="131978" rate="14/2166" />
+<object id="181804" rate="28/6939" />
+<item id="5760" rate="1355/31942" />
+<item id="5759" rate="261/29043" />
+</contained-in>
+</item>
+<item id="16252" class="9.8" level="61" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔武器 - 十字军</name>
+<code>
+[div class="name q2"]公式：附魔武器 - 十字军[/div][div]需要附魔 (300)[/div][div class="q2"]使用: 教你学会永久性地为一把近战武器附魔，使其在近战攻击命中目标时经常获得神圣之力，为装备者恢复75到125点生命值，并使其力量提高100点，持续15秒。对60级以上玩家的效果降低。[/div][br /][div]需要: 大块魔光碎片(4) 正义宝珠(2)[/div]
+</code>
+<dropped-by>
+<npc id="9451" rate="506/39501" />
+<npc id="4494" rate="909/84359" />
+</dropped-by>
+</item>
+<item id="16253" class="9.8" level="62" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔胸甲 - 强效属性</name>
+<code>
+[div class="name q2"]公式：附魔胸甲 - 强效属性[/div][div]需要附魔 (300)[/div][div class="q2"]使用: 教你学会永久性地为一件胸甲附魔，使其获得所有属性提高4点的效果。[/div][br /][div]需要: 大块魔光碎片(2) 幻影之尘(6)[/div]
+</code>
+<dropped-by>
+<npc id="24374" rate="3/8599" />
+<npc id="16461" rate="2/7238" />
+<npc id="23030" rate="1/5125" />
+<npc id="23402" rate="1/5200" />
+<npc id="16485" rate="3/20266" />
+</dropped-by>
+<contained-in>
+<item id="33926" rate="8/1661" />
+</contained-in>
+</item>
+<item id="16254" class="9.8" level="62" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔武器 - 生命偷取</name>
+<code>
+[div class="name q3"]公式：附魔武器 - 生命偷取[/div][div]需要附魔 (300)[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其有时可偷取对手的生命值并将其转移给装备者。对60级以上玩家的效果降低。[/div][br /][div]需要: 大块魔光碎片(4) 死灵精华(4) 生命精华(4)[/div]
+</code>
+<dropped-by>
+<npc id="10499" rate="5559/56679" />
+</dropped-by>
+</item>
+<item id="16255" class="9.8" level="62" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔双手武器 - 特效精神</name>
+<code>
+[div class="name q2"]公式：附魔双手武器 - 特效精神[/div][div]需要附魔 (300)[/div][div class="q2"]使用: 教你学会永久性地为一把双手近战武器附魔，使其获得精神+9的效果。[/div][br /][div]需要: 强效不灭精华(4) 大块魔光碎片(2)[/div]
+</code>
+<dropped-by>
+<npc id="10469" rate="8781/127547" />
+</dropped-by>
+</item>
+<item id="17725" class="9.8" level="38" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔武器 - 寒冬之力</name>
+<code>
+[div class="name q2"]公式：附魔武器 - 寒冬之力[/div][div]需要附魔 (190)[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其获得冰霜法术强度+7的效果。[/div][br /][div]需要: 强效秘法精华(3) 幻象之尘(3) 大块闪光碎片(1) 冬刺草(2)[/div]
+</code>
+<contained-in>
+<item id="17726" rate="1029/5968" />
+<item id="21327" rate="854/26591" />
+</contained-in>
+</item>
+<item id="18259" class="9.8" level="60" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔武器 - 法术能量</name>
+<code>
+[div class="name q3"]公式：附魔武器 - 法术能量[/div][div]需要附魔 (300)[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其获得法术强度提高30点的效果。[/div][br /][div]需要: 大块魔光碎片(4) 强效不灭精华(6) 金珍珠(2)[/div]
+</code>
+<dropped-by>
+<npc id="12057" rate="128/12192" />
+<npc id="11982" rate="74/7750" />
+<npc id="11988" rate="84/9579" />
+<npc id="12056" rate="94/11220" />
+<npc id="12259" rate="66/9783" />
+</dropped-by>
+</item>
+<item id="18260" class="9.8" level="60" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔武器 - 治疗能力</name>
+<code>
+[div class="name q3"]公式：附魔武器 - 治疗能力[/div][div]需要附魔 (300)[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其获得法术强度提高29点的效果。[/div][br /][div]需要: 大块魔光碎片(4) 强效不灭精华(4) 水之精华(4)[/div]
+</code>
+<dropped-by>
+<npc id="12057" rate="135/12192" />
+<npc id="11982" rate="83/7750" />
+<npc id="11988" rate="102/9579" />
+<npc id="12056" rate="113/11220" />
+<npc id="12259" rate="75/9783" />
+</dropped-by>
+</item>
+<item id="19444" class="9.8" level="58" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔武器 - 力量</name>
+<code>
+[div class="name q1"]公式：附魔武器 - 力量[/div][div]拾取后绑定[/div][div]需要附魔 (290)[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其获得力量+15的效果。[/div][br /][div]需要: 大块魔光碎片(4) 大地精华(4)[/div]售价: [span class="si-gold"]3[/span]
+</code>
+<sold-by>
+<npc id="12944" count="1" />
+</sold-by>
+</item>
+<item id="19445" class="9.8" level="58" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔武器 - 敏捷</name>
+<code>
+[div class="name q1"]公式：附魔武器 - 敏捷[/div][div]拾取后绑定[/div][div]需要附魔 (290)[/div][div]需要: 木喉要塞 - 尊敬[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其获得敏捷+15的效果。[/div][br /][div]需要: 大块魔光碎片(4) 空气精华(4)[/div]售价: [span class="si-gold"]3[/span]
+</code>
+<sold-by>
+<npc id="11557" />
+</sold-by>
+</item>
+<item id="19446" class="9.8" level="58" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔护腕 - 法力回复</name>
+<code>
+[div class="name q1"]公式：附魔护腕 - 法力回复[/div][div]拾取后绑定[/div][div]需要附魔 (290)[/div][div]需要: 银色黎明 - 尊敬[/div][div class="q2"]使用: 教你学会永久性地为一副护腕附魔，使其获得每5秒回复4点法力值的效果。[/div][br /][div]需要: 幻影之尘(4) 次级不灭精华(4) 水之精华(2)[/div]售价: [span class="si-gold"]3[/span]
+</code>
+<sold-by>
+<npc id="10856" />
+<npc id="10857" />
+<npc id="11536" />
+</sold-by>
+</item>
+<item id="19447" class="9.8" level="64" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔护腕 - 治疗能量</name>
+<code>
+[div class="name q1"]公式：附魔护腕 - 治疗能量[/div][div]拾取后绑定[/div][div]需要附魔 (300)[/div][div]需要: 银色黎明 - 崇敬[/div][div class="q2"]使用: 教你学会永久性地为一副护腕附魔，使其获得法术强度提高15点的效果。[/div][br /][div]需要: 大块魔光碎片(2) 幻影之尘(4) 次级不灭精华(4)[/div]售价: [span class="si-gold"]6[/span]
+</code>
+<sold-by>
+<npc id="10856" />
+<npc id="10857" />
+<npc id="11536" />
+</sold-by>
+</item>
+<item id="19448" class="9.8" level="66" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔武器 - 强效精神</name>
+<code>
+[div class="name q1"]公式：附魔武器 - 强效精神[/div][div]拾取后绑定[/div][div]需要附魔 (300)[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其获得精神+20的效果。[/div][br /][div]需要: 大块魔光碎片(6) 强效不灭精华(4) 幻影之尘(12)[/div]售价: [span class="si-gold"]8[/span]
+</code>
+<sold-by>
+<npc id="12944" count="1" />
+</sold-by>
+</item>
+<item id="19449" class="9.8" level="70" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔武器 - 强效智力</name>
+<code>
+[div class="name q1"]公式：附魔武器 - 强效智力[/div][div]拾取后绑定[/div][div]需要附魔 (300)[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其获得智力+22的效果。[/div][br /][div]需要: 大块魔光碎片(6) 强效不灭精华(5) 幻影之尘(20)[/div]售价: [span class="si-gold"]10[/span]
+</code>
+<sold-by>
+<npc id="12944" count="1" />
+</sold-by>
+</item>
+<item id="20726" class="9.8" level="70" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔手套 - 威胁</name>
+<code>
+[div class="name q3"]公式：附魔手套 - 威胁[/div][div]拾取后绑定[/div][div]需要附魔 (300)[/div][div class="q2"]使用: 教你学会永久性地为一双手套附魔，使其获得对怪物造成的威胁值提高2%的效果。[/div][br /][div]需要: 小块棱光碎片(4) 强效位面精华(2) 源生生命(8)[/div]
+</code>
+<dropped-by>
+<npc id="15275" rate="2555/6148" />
+</dropped-by>
+</item>
+<item id="20727" class="9.8" level="70" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔手套 - 暗影能量</name>
+<code>
+[div class="name q3"]公式：附魔手套 - 暗影能量[/div][div]拾取后绑定[/div][div]需要附魔 (300)[/div][div class="q2"]使用: 教你学会永久性地为一双手套附魔，使其获得暗影法术强度提高20点的效果。[/div][br /][div]需要: 小块棱光碎片(3) 大块魔光碎片(10) 死灵精华(6)[/div]
+</code>
+<dropped-by>
+<npc id="15543" rate="16/892" />
+<npc id="15517" rate="46/3125" />
+<npc id="15299" rate="33/2650" />
+<npc id="15544" rate="58/4906" />
+<npc id="15509" rate="93/8490" />
+</dropped-by>
+</item>
+<item id="20728" class="9.8" level="70" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔手套 - 冰霜能量</name>
+<code>
+[div class="name q3"]公式：附魔手套 - 冰霜能量[/div][div]拾取后绑定[/div][div]需要附魔 (300)[/div][div class="q2"]使用: 教你学会永久性地为一双手套附魔，使其获得冰霜法术强度提高20点的效果。[/div][br /][div]需要: 小块棱光碎片(3) 大块魔光碎片(10) 水之精华(4)[/div]
+</code>
+<dropped-by>
+<npc id="15299" rate="45/2650" />
+<npc id="15517" rate="51/3125" />
+<npc id="15511" rate="19/1201" />
+<npc id="15509" rate="100/8490" />
+<npc id="15370" rate="24/2142" />
+</dropped-by>
+</item>
+<item id="20729" class="9.8" level="70" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔手套 - 火焰能量</name>
+<code>
+[span class="q3"]公式：附魔手套 - 火焰能量[/span][br /]拾取后绑定[br /]需要附魔 (300)[br /][span class="q2"]永久性地为一双手套附魔，使其获得火焰法术强度提高20点的效果。[/span][br /][br /]需要: 小块棱光碎片(2) 大块魔光碎片(10) 火焰精华(4)
+</code>
+<dropped-by>
+<npc id="15517" rate="47/3125" />
+<npc id="15543" rate="13/892" />
+<npc id="15516" rate="124/9042" />
+<npc id="15510" rate="101/8545" />
+<npc id="15509" rate="94/8490" />
+</dropped-by>
+</item>
+<item id="20730" class="9.8" level="70" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔手套 - 治疗能量</name>
+<code>
+[span class="q3"]公式：附魔手套 - 治疗能量[/span][br /]拾取后绑定[br /]需要附魔 (450)[br /][span class="q2"]永久性地为一双手套附魔，使其获得法术强度提高16点的效果。[/span][br /][br /]需要: 小块棱光碎片(3) 大块魔光碎片(8) 正义宝珠(1)
+</code>
+<dropped-by>
+<npc id="15511" rate="19/1201" />
+<npc id="15299" rate="39/2650" />
+<npc id="15544" rate="72/4906" />
+<npc id="15517" rate="44/3125" />
+<npc id="15516" rate="106/9042" />
+</dropped-by>
+</item>
+<item id="20731" class="9.8" level="70" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔手套 - 超强敏捷</name>
+<code>
+[div class="name q3"]公式：附魔手套 - 超强敏捷[/div][div]拾取后绑定[/div][div]需要附魔 (300)[/div][div class="q2"]使用: 教你学会给一双手套永久性地附魔，使它获得敏捷+15的效果。[/div][br /][div]需要: 小块棱光碎片(3) 强效位面精华(3) 源生空气(2)[/div]
+</code>
+<dropped-by>
+<npc id="15511" rate="18/1201" />
+<npc id="15544" rate="72/4906" />
+<npc id="15299" rate="34/2650" />
+<npc id="15543" rate="11/892" />
+<npc id="15517" rate="36/3125" />
+</dropped-by>
+</item>
+<item id="20732" class="9.8" level="70" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔披风 - 强效火焰抗性</name>
+<code>
+[div class="name q1"]公式：附魔披风 - 强效火焰抗性[/div][div]拾取后绑定[/div][div]需要附魔 (300)[/div][div]需要: 塞纳里奥议会 - 友好[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得火焰抗性+15的效果。[/div][br /][div]需要: 小块棱光碎片(3) 强效位面精华(3) 火焰精华(4)[/div]售价: [span class="si-gold"]10[/span]
+</code>
+<sold-by>
+<npc id="15419" />
+</sold-by>
+</item>
+<item id="20733" class="9.8" level="70" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔披风 - 强效自然抗性</name>
+<code>
+[div class="name q1"]公式：附魔披风 - 强效自然抗性[/div][div]拾取后绑定[/div][div]需要附魔 (300)[/div][div]需要: 塞纳里奥议会 - 尊敬[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得自然抗性+15的效果。[/div][br /][div]需要: 小块棱光碎片(2) 强效位面精华(3) 生命精华(4)[/div]售价: [span class="si-gold"]10[/span]
+</code>
+<sold-by>
+<npc id="15419" />
+</sold-by>
+</item>
+<item id="20734" class="9.8" level="70" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔披风 - 潜行</name>
+<code>
+[div class="name q3"]公式：附魔披风 - 潜行[/div][div]拾取后绑定[/div][div]需要附魔 (300)[/div][div class="q2"]使用: 教你学会给一条披风永久性地附魔，使装备它的角色获得潜行能力提高的效果。[/div][br /][div]需要: 小块棱光碎片(3) 强效位面精华(3) 魔莲花(2)[/div]
+</code>
+<dropped-by>
+<npc id="15299" rate="45/2650" />
+<npc id="15517" rate="48/3125" />
+<npc id="15511" rate="18/1201" />
+<npc id="15509" rate="115/8490" />
+<npc id="15510" rate="112/8545" />
+</dropped-by>
+</item>
+<item id="20735" class="9.8" level="70" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔披风 - 狡诈</name>
+<code>
+[div class="name q3"]公式：附魔披风 - 狡诈[/div][div]拾取后绑定[/div][div]需要附魔 (300)[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得对怪物造成的威胁值降低2%的效果。[/div][br /][div]需要: 小块棱光碎片(4) 强效位面精华(2) 源生暗影(8)[/div]
+</code>
+<dropped-by>
+<npc id="15276" rate="2658/6019" />
+</dropped-by>
+</item>
+<item id="20736" class="9.8" level="70" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔披风 - 躲闪</name>
+<code>
+[div class="name q3"]公式：附魔披风 - 躲闪[/div][div]拾取后绑定[/div][div]需要附魔 (300)[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得躲闪等级+12的效果。[/div][br /][div]需要: 小块棱光碎片(3) 强效位面精华(3) 源生之土(8)[/div]
+</code>
+<dropped-by>
+<npc id="15510" rate="106/8545" />
+<npc id="15543" rate="11/892" />
+<npc id="15299" rate="31/2650" />
+<npc id="15340" rate="32/2896" />
+<npc id="15517" rate="34/3125" />
+</dropped-by>
+</item>
+<item id="20752" class="9.8" level="30" icon="inv_misc_note_01" quality="1">
+<name>公式：初级法力之油</name>
+<code>
+[div class="name q1"]公式：初级法力之油[/div][div]需要附魔 (150)[/div][div]使用: 教你学会制作初级法力之油。[/div][br /][div class="name q1"]初级法力之油[/div][div]需要等级 20[/div][div class="q2"]使用: 涂抹在目标武器上之后，每5秒为持有者恢复4点法力值，持续1小时。[/div][br /][div]需要: 灵魂之尘(3) 枫树种子(2) 铅瓶(1)[/div]售价: [span class="si-silver"]30[/span]
+</code>
+<sold-by>
+<npc id="1318" />
+<npc id="3012" />
+<npc id="3346" />
+<npc id="4228" />
+<npc id="4617" />
+<npc id="5158" />
+<npc id="5757" />
+<npc id="5758" />
+<npc id="15419" />
+<npc id="16635" />
+<npc id="16722" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="18951" />
+<npc id="19234" />
+<npc id="19537" />
+<npc id="19540" />
+<npc id="19663" />
+<npc id="26569" />
+<npc id="27030" />
+<npc id="27054" />
+<npc id="27147" />
+<npc id="28714" />
+<npc id="33633" />
+<npc id="33676" />
+</sold-by>
+</item>
+<item id="20753" class="9.8" level="40" icon="inv_misc_note_01" quality="1">
+<name>公式：次级巫师之油</name>
+<code>
+[div class="name q1"]公式：次级巫师之油[/div][div]需要附魔 (200)[/div][div]使用: 教你学会制作次级巫师之油。[/div][br /][div class="name q1"]次级巫师之油[/div][div]需要等级 30[/div][div class="q2"]使用: 涂抹在目标武器上之后，使持有者的法术强度提高16点，持续1小时。[/div][br /][div]需要: 幻象之尘(3) 荆棘种子(2) 铅瓶(1)[/div]售价: [span class="si-silver"]40[/span]
+</code>
+<sold-by>
+<npc id="1318" />
+<npc id="3012" />
+<npc id="3346" />
+<npc id="4228" />
+<npc id="4617" />
+<npc id="5158" />
+<npc id="5757" />
+<npc id="5758" />
+<npc id="15419" />
+<npc id="16635" />
+<npc id="16722" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="18951" />
+<npc id="19234" />
+<npc id="19537" />
+<npc id="19540" />
+<npc id="19663" />
+<npc id="26569" />
+<npc id="27030" />
+<npc id="27054" />
+<npc id="27147" />
+<npc id="28714" />
+<npc id="33633" />
+<npc id="33676" />
+</sold-by>
+</item>
+<item id="20754" class="9.8" level="50" icon="inv_misc_note_01" quality="1">
+<name>公式：次级法力之油</name>
+<code>
+[div class="name q1"]公式：次级法力之油[/div][div]需要附魔 (250)[/div][div]使用: 教你学会制作次级法力之油。[/div][br /][div class="name q1"]次级法力之油[/div][div]需要等级 40[/div][div class="q2"]使用: 涂抹在目标武器上之后，每5秒为持有者恢复8点法力值，持续1小时。[/div][br /][div]需要: 梦境之尘(3) 紫莲花(2) 水晶瓶(1)[/div]售价: [span class="si-gold"]1[/span]
+</code>
+<sold-by>
+<npc id="15419" />
+</sold-by>
+</item>
+<item id="20755" class="9.8" level="55" icon="inv_misc_note_01" quality="1">
+<name>公式：巫师之油</name>
+<code>
+[div class="name q1"]公式：巫师之油[/div][div]需要附魔 (275)[/div][div]使用: 教你学会制作巫师之油。[/div][br /][div class="name q1"]巫师之油[/div][div]需要等级 40[/div][div class="q2"]使用: 涂抹在目标武器上之后，使持有者的法术强度提高24点，持续1小时。[/div][br /][div]需要: 幻影之尘(3) 火焰花(2) 水晶瓶(1)[/div]售价: [span class="si-gold"]2[/span]
+</code>
+<sold-by>
+<npc id="15419" />
+</sold-by>
+</item>
+<item id="20756" class="9.8" level="60" icon="inv_misc_note_01" quality="1">
+<name>公式：卓越巫师之油</name>
+<code>
+[div class="name q1"]公式：卓越巫师之油[/div][div]拾取后绑定[/div][div]需要附魔 (300)[/div][div]需要: 赞达拉部族 - 尊敬[/div][div]使用: 教你学会制作卓越巫师之油。[/div][br /][div class="name q1"]卓越巫师之油[/div][div]需要等级 45[/div][div class="q2"]使用: 涂抹在目标武器上之后，使持有者的法术强度提高36点，爆击等级提高14，持续1小时。[/div][br /][div]需要: 大块魔光碎片(2) 火焰花(3) 灌魔之瓶(1)[/div]售价: [span class="si-gold"]4[/span]
+</code>
+<sold-by>
+<npc id="14921" />
+</sold-by>
+</item>
+<item id="20757" class="9.8" level="60" icon="inv_misc_note_01" quality="1">
+<name>公式：卓越法力之油</name>
+<code>
+[div class="name q1"]公式：卓越法力之油[/div][div]拾取后绑定[/div][div]需要附魔 (300)[/div][div]需要: 赞达拉部族 - 友好[/div][div]使用: 教你学会制作卓越法力之油。[/div][br /][div class="name q1"]卓越法力之油[/div][div]需要等级 45[/div][div class="q2"]使用: 涂抹在目标武器上之后，每5秒为持有者恢复12点法力值，并使法术强度提高13点，持续1小时。[/div][br /][div]需要: 大块魔光碎片(2) 紫莲花(3) 灌魔之瓶(1)[/div]售价: [span class="si-gold"]4[/span]
+</code>
+<sold-by>
+<npc id="14921" />
+</sold-by>
+</item>
+<item id="20758" class="9.8" level="15" icon="inv_misc_note_01" quality="1">
+<name>公式：初级巫师之油</name>
+<code>
+[div class="name q1"]公式：初级巫师之油[/div][div]需要附魔 (45)[/div][div]使用: 教你学会制作初级巫师之油。[/div][br /][div class="name q1"]初级巫师之油[/div][div]需要等级 5[/div][div class="q2"]使用: 涂抹在目标武器上之后，使持有者的法术强度提高8点，持续1小时。[/div][br /][div]需要: 奇异之尘(2) 枫树种子(1) 空瓶(1)[/div]售价: [span class="si-silver"]5[/span]
+</code>
+<sold-by>
+<npc id="1318" />
+<npc id="3012" />
+<npc id="3346" />
+<npc id="4228" />
+<npc id="4617" />
+<npc id="5158" />
+<npc id="5757" />
+<npc id="5758" />
+<npc id="15419" />
+<npc id="16635" />
+<npc id="16722" />
+<npc id="18753" />
+<npc id="18773" />
+<npc id="18951" />
+<npc id="19234" />
+<npc id="19537" />
+<npc id="19540" />
+<npc id="19663" />
+<npc id="26569" />
+<npc id="27030" />
+<npc id="27054" />
+<npc id="27147" />
+<npc id="28714" />
+<npc id="33633" />
+<npc id="33676" />
+</sold-by>
+</item>
+<item id="22392" class="9.8" level="58" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔双手武器 - 敏捷</name>
+<code>
+[div class="name q1"]公式：附魔双手武器 - 敏捷[/div][div]拾取后绑定[/div][div]需要附魔 (290)[/div][div]需要: 木喉要塞 - 友好[/div][div class="q2"]使用: 教你学会永久性地为一件双手近战武器附魔，使其获得敏捷+25的效果。[/div][br /][div]需要: 大块魔光碎片(8) 空气精华(4)[/div]售价: [span class="si-gold"]2[/span][span class="si-silver"]50[/span]
+</code>
+<sold-by>
+<npc id="11557" />
+</sold-by>
+</item>
+<item id="22530" class="9.8" level="64" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔护腕 - 特效防御</name>
+<code>
+[div class="name q2"]公式：附魔护腕 - 特效防御[/div][div]拾取后绑定[/div][div]需要附魔 (320)[/div][div class="q2"]使用: 教你学会永久性地为一副护腕附魔，使其获得防御等级+12的效果。该装备等级不得低于35级。[/div][br /][div]需要: 小块棱光碎片(2) 奥法之尘(10)[/div]
+</code>
+<dropped-by>
+<npc id="22822" rate="494/80205" />
+<npc id="23008" rate="13/3706" />
+<npc id="20456" rate="137/77497" />
+</dropped-by>
+</item>
+<item id="22531" class="9.8" level="65" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔护腕 - 超强治疗</name>
+<code>
+[div class="name q1"]公式：附魔护腕 - 超强治疗[/div][div]拾取后绑定[/div][div]需要附魔 (325)[/div][div]需要: 荣耀堡 - 友好[/div][div class="q2"]使用: 教你学会永久性地为一副护腕附魔，使其获得法术强度提高15点的效果。该装备等级不得低于35级。[/div][br /][div]需要: 强效位面精华(4) 源生生命(4)[/div]售价: [span class="si-gold"]6[/span]
+</code>
+<sold-by>
+<npc id="17657" />
+</sold-by>
+</item>
+<item id="22532" class="9.8" level="67" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔护腕 - 原始法力回复</name>
+<code>
+[div class="name q2"]公式：附魔护腕 - 原始法力回复[/div][div]需要附魔 (335)[/div][div class="q2"]使用: 教你学会永久性地为一副护腕附魔，使其获得每5秒回复6点法力值的效果。该装备等级不得低于35级。[/div][br /][div]需要: 强效位面精华(8)[/div]
+</code>
+<dropped-by>
+<npc id="22855" rate="1/2562" />
+<npc id="23030" rate="2/5125" />
+<npc id="20042" rate="2/6212" />
+<npc id="21108" rate="1/3597" />
+<npc id="20902" rate="1/4399" />
+</dropped-by>
+<contained-in>
+<item id="33926" rate="5/1661" />
+</contained-in>
+</item>
+<item id="22533" class="9.8" level="70" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔护腕 - 坚韧</name>
+<code>
+[div class="name q2"]公式：附魔护腕 - 坚韧[/div][div]拾取后绑定[/div][div]需要附魔 (350)[/div][div class="q2"]使用: 教你学会永久性地为一副护腕附魔，使其获得耐力+12的效果。该装备等级不得低于35级。[/div][br /][div]需要: 大块棱光碎片(1) 强效位面精华(10) 奥法之尘(20)[/div]
+</code>
+<dropped-by>
+<npc id="17803" rate="719/26510" />
+</dropped-by>
+</item>
+<item id="22534" class="9.8" level="72" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔护腕 - 法术能量</name>
+<code>
+[div class="name q2"]公式：附魔护腕 - 法术能量[/div][div]拾取后绑定[/div][div]需要附魔 (360)[/div][div class="q2"]使用: 教你学会永久性地为一副护腕附魔，使其获得法术强度提高15点的效果。该装备等级不得低于35级。[/div][br /][div]需要: 大块棱光碎片(6) 源生火焰(6) 源生之水(6)[/div]
+</code>
+<dropped-by>
+<npc id="19952" rate="835/92888" />
+</dropped-by>
+</item>
+<item id="22535" class="9.8" level="72" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔戒指 - 打击</name>
+<code>
+[div class="name q1"]公式：附魔戒指 - 打击[/div][div]拾取后绑定[/div][div]需要附魔 (360)[/div][div]需要: 星界财团 - 崇敬[/div][div class="q2"]使用: 教你学会永久性地为一只戒指附魔，使其获得物理伤害+2的效果。只有附魔师自己的戒指才能附魔，且对戒指附魔会使它变为灵魂绑定物品。该装备等级不得低于35级。[/div][br /][div]需要: 大块棱光碎片(2) 奥法之尘(6)[/div]售价: [span class="si-gold"]10[/span]
+</code>
+<sold-by>
+<npc id="17518" />
+</sold-by>
+</item>
+<item id="22536" class="9.8" level="72" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔戒指 - 法术能量</name>
+<code>
+[div class="name q1"]公式：附魔戒指 - 法术能量[/div][div]拾取后绑定[/div][div]需要附魔 (360)[/div][div]需要: 时光守护者 - 尊敬[/div][div class="q2"]使用: 教你学会永久性地为一只戒指附魔，使其获得法术强度提高12点的效果。只有附魔师自己的戒指才能附魔，且对戒指附魔会使它变为灵魂绑定物品。该装备等级不得低于35级。[/div][br /][div]需要: 大块棱光碎片(2) 强效位面精华(2)[/div]售价: [span class="si-gold"]10[/span]
+</code>
+<sold-by>
+<npc id="21643" />
+</sold-by>
+</item>
+<item id="22537" class="9.8" level="74" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔戒指 - 治疗能量</name>
+<code>
+[div class="name q1"]公式：附魔戒指 - 治疗能量[/div][div]拾取后绑定[/div][div]需要附魔 (370)[/div][div]需要: 沙塔尔 - 崇敬[/div][div class="q2"]使用: 教你学会永久性地为一只戒指附魔，使其获得法术强度提高12点的效果。只有附魔师自己的戒指才能附魔，且对戒指附魔会使它变为灵魂绑定物品。该装备等级不得低于35级。[/div][br /][div]需要: 大块棱光碎片(2) 强效位面精华(3) 奥法之尘(5)[/div]售价: [span class="si-gold"]10[/span]
+</code>
+<sold-by>
+<npc id="21432" />
+</sold-by>
+</item>
+<item id="22538" class="9.8" level="75" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔戒指 - 属性</name>
+<code>
+[div class="name q1"]公式：附魔戒指 - 属性[/div][div]拾取后绑定[/div][div]需要附魔 (375)[/div][div]需要: 贫民窟 - 尊敬[/div][div class="q2"]使用: 教你学会永久性地为一只戒指附魔，使其获得所有属性+4的效果。只有附魔师自己的戒指才能附魔，且对戒指附魔会使它变为灵魂绑定物品。该装备等级不得低于35级。[/div][br /][div]需要: 虚空水晶(2) 大块棱光碎片(2)[/div]售价: [span class="si-gold"]20[/span]
+</code>
+<sold-by>
+<npc id="21655" />
+</sold-by>
+</item>
+<item id="22539" class="9.8" level="65" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔盾牌 - 智力</name>
+<code>
+[div class="name q1"]公式：附魔盾牌 - 智力[/div][div]需要附魔 (325)[/div][div class="q2"]使用: 教你学会永久性地为一面盾牌附魔，使其获得智力+12的效果。该装备等级不得低于35级。[/div][br /][div]需要: 强效位面精华(4)[/div]售价: [span class="si-gold"]6[/span]
+</code>
+<sold-by>
+<npc id="18664" count="1" />
+</sold-by>
+</item>
+<item id="22540" class="9.8" level="68" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔盾牌 - 盾牌格档</name>
+<code>
+[div class="name q2"]公式：附魔盾牌 - 盾牌格档[/div][div]需要附魔 (340)[/div][div class="q2"]使用: 教你学会永久性地为一面盾牌附魔，使其获得格挡等级+15的效果。该装备等级不得低于35级。[/div][br /][div]需要: 奥法之尘(12) 强效位面精华(4) 源生之土(10)[/div]
+</code>
+<dropped-by>
+<npc id="22873" rate="2/3513" />
+<npc id="23374" rate="2/5533" />
+<npc id="21350" rate="2/5811" />
+<npc id="23584" rate="2/5818" />
+<npc id="21246" rate="1/3075" />
+</dropped-by>
+<contained-in>
+<item id="33926" rate="9/1661" />
+</contained-in>
+</item>
+<item id="22541" class="9.8" level="72" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔盾牌 - 抗性</name>
+<code>
+[div class="name q2"]公式：附魔盾牌 - 抗性[/div][div]需要附魔 (360)[/div][div class="q2"]使用: 教你学会永久性地为一面盾牌附魔，使其获得所有抗性+5的效果。该装备等级不得低于35级。[/div][br /][div]需要: 大块棱光碎片(2) 土之微粒(1) 火焰微粒(1) 空气微粒(1) 水之微粒(1)[/div]
+</code>
+<dropped-by>
+<npc id="18733" rate="1/888" />
+<npc id="20132" rate="2/1839" />
+<npc id="20898" rate="1/1790" />
+<npc id="25597" rate="1/2100" />
+<npc id="20902" rate="2/4399" />
+</dropped-by>
+<contained-in>
+<item id="33926" rate="4/1661" />
+</contained-in>
+</item>
+<item id="22542" class="9.8" level="61" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔靴子 - 活力</name>
+<code>
+[div class="name q2"]公式：附魔靴子 - 活力[/div][div]需要附魔 (305)[/div][div class="q2"]使用: 教你学会永久性地为一双靴子附魔，使其获得每5秒回复4点法力值和生命值的效果。该装备等级不得低于35级。[/div][br /][div]需要: 奥法之尘(6) 特效治疗药水(4) 特效法力药水(4)[/div]
+</code>
+<dropped-by>
+<npc id="20901" rate="2/4311" />
+<npc id="21246" rate="1/3075" />
+<npc id="22853" rate="2/6552" />
+<npc id="20906" rate="1/4269" />
+<npc id="21023" rate="1/6439" />
+</dropped-by>
+<contained-in>
+<item id="33926" rate="3/1661" />
+</contained-in>
+</item>
+<item id="22543" class="9.8" level="64" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔靴子 - 坚韧</name>
+<code>
+[div class="name q2"]公式：附魔靴子 - 坚韧[/div][div]拾取后绑定[/div][div]需要附魔 (320)[/div][div class="q2"]使用: 教你学会永久性地为一双靴子附魔，使其获得耐力+12的效果。该装备等级不得低于35级。[/div][br /][div]需要: 奥法之尘(12)[/div]
+</code>
+<dropped-by>
+<npc id="18317" rate="813/26877" />
+</dropped-by>
+</item>
+<item id="22544" class="9.8" level="68" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔靴子 - 灵敏</name>
+<code>
+[div class="name q2"]公式：附魔靴子 - 灵敏[/div][div]拾取后绑定[/div][div]需要附魔 (340)[/div][div class="q2"]使用: 教你学会永久性地为一双靴子附魔，使其获得敏捷+12的效果。该装备等级不得低于35级。[/div][br /][div]需要: 强效位面精华(8) 奥法之尘(8)[/div]
+</code>
+<dropped-by>
+<npc id="18521" rate="2378/42115" />
+</dropped-by>
+</item>
+<item id="22545" class="9.8" level="74" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔靴子 - 稳固</name>
+<code>
+[div class="name q2"]公式：附魔靴子 - 稳固[/div][div]拾取后绑定[/div][div]需要附魔 (370)[/div][div class="q2"]使用: 教你学会永久性地为一双靴子附魔，使其获得命中等级和爆击等级+10的效果。该装备等级不得低于35级。[/div][br /][div]需要: 虚空水晶(2) 大块棱光碎片(4)[/div]
+</code>
+<dropped-by>
+<npc id="16472" rate="2251/24831" />
+</dropped-by>
+</item>
+<item id="22547" class="9.8" level="69" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔胸甲 - 优异属性</name>
+<code>
+[div class="name q1"]公式：附魔胸甲 - 优异属性[/div][div]拾取后绑定[/div][div]需要附魔 (345)[/div][div]需要: 荣耀堡 - 崇敬[/div][div class="q2"]使用: 教你学会永久性地为一件胸甲附魔，使其获得所有属性提高6点的效果。该装备等级不得低于35级。[/div][br /][div]需要: 大块棱光碎片(4) 奥法之尘(4) 强效位面精华(4)[/div]售价: [span class="si-gold"]6[/span]
+</code>
+<sold-by>
+<npc id="17657" />
+</sold-by>
+</item>
+<item id="22548" class="9.8" level="66" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔披风 - 特效抗性</name>
+<code>
+[div class="name q2"]公式：附魔披风 - 特效抗性[/div][div]需要附魔 (330)[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得所有抗性+7的效果。该装备等级不得低于35级。[/div][br /][div]需要: 强效位面精华(4) 源生火焰(4) 源生空气(4) 源生之土(4) 源生之水(4)[/div]
+</code>
+<dropped-by>
+<npc id="25484" rate="1/891" />
+<npc id="22881" rate="1/1323" />
+<npc id="20047" rate="2/4008" />
+<npc id="21164" rate="1/2370" />
+<npc id="20910" rate="1/2935" />
+</dropped-by>
+<contained-in>
+<item id="33926" rate="3/1661" />
+</contained-in>
+</item>
+<item id="22551" class="9.8" level="68" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔武器 - 特效智力</name>
+<code>
+[div class="name q2"]公式：附魔武器 - 特效智力[/div][div]拾取后绑定[/div][div]需要附魔 (340)[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其获得智力+30的效果。该装备等级不得低于35级。[/div][br /][div]需要: 大块棱光碎片(2) 强效位面精华(10)[/div]
+</code>
+<dropped-by>
+<npc id="20136" rate="1267/235743" />
+</dropped-by>
+</item>
+<item id="22552" class="9.8" level="68" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔武器 - 特效打击</name>
+<code>
+[div class="name q1"]公式：附魔武器 - 特效打击[/div][div]拾取后绑定[/div][div]需要附魔 (340)[/div][div]需要: 星界财团 - 尊敬[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其获得伤害+7的效果。该装备等级不得低于35级。[/div][br /][div]需要: 大块棱光碎片(2) 强效位面精华(6) 奥法之尘(6)[/div]售价: [span class="si-gold"]6[/span]
+</code>
+<sold-by>
+<npc id="20242" />
+<npc id="23007" />
+</sold-by>
+</item>
+<item id="22553" class="9.8" level="70" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔武器 - 潜能</name>
+<code>
+[div class="name q2"]公式：附魔武器 - 潜能[/div][div]需要附魔 (350)[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其获得力量+20的效果。该装备等级不得低于35级。[/div][br /][div]需要: 大块棱光碎片(4) 强效位面精华(5) 奥法之尘(20)[/div]
+</code>
+<dropped-by>
+<npc id="21863" rate="1/2108" />
+<npc id="21228" rate="2/4974" />
+<npc id="25368" rate="1/2551" />
+<npc id="22959" rate="1/3185" />
+<npc id="21231" rate="1/4712" />
+</dropped-by>
+<contained-in>
+<item id="33926" rate="8/1661" />
+</contained-in>
+</item>
+<item id="22554" class="9.8" level="70" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔双手武器 - 野蛮</name>
+<code>
+[div class="name q2"]公式：附魔双手武器 - 野蛮[/div][div]拾取后绑定[/div][div]需要附魔 (350)[/div][div class="q2"]使用: 教你学会永久性地为一把双手近战武器附魔，使其获得攻击强度+70的效果。该装备等级不得低于35级。[/div][br /][div]需要: 大块棱光碎片(4) 奥法之尘(40)[/div]
+</code>
+<dropped-by>
+<npc id="17465" rate="1472/27637" />
+</dropped-by>
+</item>
+<item id="22555" class="9.8" level="70" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔武器 - 特效法术能量</name>
+<code>
+[div class="name q2"]公式：附魔武器 - 特效法术能量[/div][div]拾取后绑定[/div][div]需要附魔 (350)[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其获得法术强度提高40点的效果。该装备等级不得低于35级。[/div][br /][div]需要: 大块棱光碎片(8) 强效位面精华(8)[/div]
+</code>
+<dropped-by>
+<npc id="22242" rate="1100/165469" />
+<npc id="22243" rate="165/181316" />
+</dropped-by>
+</item>
+<item id="22556" class="9.8" level="72" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔双手武器 - 特效敏捷</name>
+<code>
+[div class="name q2"]公式：附魔双手武器 - 特效敏捷[/div][div]拾取后绑定[/div][div]需要附魔 (360)[/div][div class="q2"]使用: 教你学会永久性地为一把双手近战武器附魔，使其获得敏捷+35的效果。该装备等级不得低于35级。[/div][br /][div]需要: 大块棱光碎片(8) 强效位面精华(6) 奥法之尘(20)[/div]
+</code>
+<dropped-by>
+<npc id="20880" rate="817/4561" />
+</dropped-by>
+</item>
+<item id="22557" class="9.8" level="72" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔武器 - 作战专家</name>
+<code>
+[div class="name q2"]公式：附魔武器 - 作战专家[/div][div]需要附魔 (360)[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其有一定几率在命中时为你的小队成员恢复180到300点生命值。该装备等级不得低于35级。[/div][br /][div]需要: 虚空水晶(8) 大块棱光碎片(8) 源生之水(2)[/div]
+</code>
+<dropped-by>
+<npc id="20756" rate="1/1946" />
+<npc id="18856" rate="3/20754" />
+<npc id="20032" rate="1/6992" />
+<npc id="16461" rate="1/7238" />
+<npc id="25367" rate="1/8363" />
+</dropped-by>
+<contained-in>
+<item id="33926" rate="10/1661" />
+</contained-in>
+</item>
+<item id="22558" class="9.8" level="72" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔武器 - 魔法激荡</name>
+<code>
+[div class="name q2"]公式：附魔武器 - 魔法激荡[/div][div]需要附魔 (360)[/div][div class="q2"]使用: 教你学会永久性地为一把近战武器附魔，使其获得在施法时有一定几率为附近的队友恢复100点法力值的效果。该装备等级不得低于35级。[/div][br /][div]需要: 大块棱光碎片(12) 强效位面精华(10) 奥法之尘(20)[/div]
+</code>
+<dropped-by>
+<npc id="25483" rate="1/1517" />
+<npc id="23022" rate="1/3920" />
+<npc id="20040" rate="1/4729" />
+<npc id="21299" rate="1/4892" />
+<npc id="21023" rate="1/6439" />
+</dropped-by>
+<contained-in>
+<item id="33926" rate="3/1661" />
+</contained-in>
+</item>
+<item id="22559" class="9.8" level="75" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔武器 - 猫鼬</name>
+<code>
+[div class="name q3"]公式：附魔武器 - 猫鼬[/div][div]拾取后绑定[/div][div]需要附魔 (375)[/div][div class="q2"]使用: 教你学会永久性地为一把近战武器附魔，使其获得有一定几率令敏捷提高120点，并略微提升攻击速度的效果。该装备等级不得低于35级。[/div][br /][div]需要: 虚空水晶(6) 大块棱光碎片(10) 强效位面精华(8) 奥法之尘(40)[/div]
+</code>
+<dropped-by>
+<npc id="15687" rate="3656/49478" />
+</dropped-by>
+</item>
+<item id="22560" class="9.8" level="75" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔武器 - 阳炎</name>
+<code>
+[div class="name q3"]公式：附魔武器 - 阳炎[/div][div]拾取后绑定[/div][div]需要附魔 (375)[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其获得火焰和奥术法术强度提高50点的效果。该装备等级不得低于35级。[/div][br /][div]需要: 虚空水晶(12) 大块棱光碎片(10) 强效位面精华(8) 源生火焰(6) 源生之能(1)[/div]
+</code>
+<dropped-by>
+<npc id="16524" rate="2627/40589" />
+</dropped-by>
+</item>
+<item id="22561" class="9.8" level="75" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔武器 - 魂霜</name>
+<code>
+[div class="name q3"]公式：附魔武器 - 魂霜[/div][div]拾取后绑定[/div][div]需要附魔 (375)[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其获得冰霜和暗影法术强度提高54点的效果。该装备等级不得低于35级。[/div][br /][div]需要: 虚空水晶(12) 大块棱光碎片(10) 强效位面精华(8) 源生之水(6) 源生暗影(6)[/div]
+</code>
+<dropped-by>
+<npc id="15688" rate="2134/20719" />
+</dropped-by>
+</item>
+<item id="22562" class="9.8" level="62" icon="inv_misc_note_01" quality="1">
+<name>公式：超级法力之油</name>
+<code>
+[div class="name q1"]公式：超级法力之油[/div][div]需要附魔 (310)[/div][div]使用: 教你学会制作超级法力之油。[/div][br /][div class="name q1"]超级法力之油[/div][div]需要等级 52[/div][div class="q2"]使用: 涂抹在目标武器上之后，每5秒为持有者恢复14点法力值，持续1小时。[/div][br /][div]需要: 奥法之尘(3) 虚空花(1) 灌魔之瓶(1)[/div]售价: [span class="si-gold"]5[/span]
+</code>
+<sold-by>
+<npc id="16635" count="1" />
+<npc id="16722" count="1" />
+<npc id="19663" count="1" />
+</sold-by>
+</item>
+<item id="22563" class="9.8" level="68" icon="inv_misc_note_01" quality="1">
+<name>公式：超级巫师之油</name>
+<code>
+[div class="name q1"]公式：超级巫师之油[/div][div]需要附魔 (340)[/div][div]使用: 教你学会制作超级巫师之油。[/div][br /][div class="name q1"]超级巫师之油[/div][div]需要等级 58[/div][div class="q2"]使用: 涂抹在目标武器上之后，使持有者的法术强度提高42点，持续1小时。[/div][br /][div]需要: 奥法之尘(3) 噩梦藤(1) 灌魔之瓶(1)[/div]售价: [span class="si-gold"]7[/span]
+</code>
+<sold-by>
+<npc id="16635" count="1" />
+<npc id="16722" count="1" />
+<npc id="19663" count="1" />
+</sold-by>
+</item>
+<item id="22565" class="9.8" level="67" icon="inv_misc_note_01" quality="1">
+<name>公式：大块棱光碎片</name>
+<code>
+[div class="name q1"]公式：大块棱光碎片[/div][div]需要附魔 (335)[/div][div]使用: 教你学会将小块棱光碎片合成为大块棱光碎片。[/div][br /][div class="name q3"]大块棱光碎片[/div][br /][div]需要: 小块棱光碎片(3)[/div]售价: [span class="si-gold"]6[/span]
+</code>
+<sold-by>
+<npc id="16635" count="1" />
+<npc id="16722" count="1" />
+<npc id="19663" count="1" />
+</sold-by>
+</item>
+<item id="24000" class="9.8" level="65" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔护腕 - 超级治疗</name>
+<code>
+[div class="name q1"]公式：附魔护腕 - 超级治疗[/div][div]拾取后绑定[/div][div]需要附魔 (325)[/div][div]需要: 萨尔玛 - 友好[/div][div class="q2"]使用: 教你学会永久性地为一副护腕附魔，使其获得法术强度提高15点的效果。该装备等级不得低于35级。[/div][br /][div]需要: 强效位面精华(4) 源生生命(4)[/div]售价: [span class="si-gold"]6[/span]
+</code>
+<sold-by>
+<npc id="17585" />
+</sold-by>
+</item>
+<item id="24003" class="9.8" level="69" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔胸甲 - 优异属性</name>
+<code>
+[div class="name q1"]公式：附魔胸甲 - 优异属性[/div][div]拾取后绑定[/div][div]需要附魔 (345)[/div][div]需要: 萨尔玛 - 崇敬[/div][div class="q2"]使用: 教你学会永久性地为一件胸甲附魔，使其获得所有属性提高6点的效果。该装备等级不得低于35级。[/div][br /][div]需要: 大块棱光碎片(4) 奥法之尘(4) 强效位面精华(4)[/div]售价: [span class="si-gold"]6[/span]
+</code>
+<sold-by>
+<npc id="17585" />
+</sold-by>
+</item>
+<item id="25848" class="9.8" level="70" icon="inv_misc_note_01" quality="1">
+<name>公式：符文精金棒</name>
+<code>
+[div class="name q1"]公式：符文精金棒[/div][div]需要附魔 (350)[/div][div]使用: 教你学会制作符文精金棒。[/div][br /][div class="name q2"]符文精金棒[/div][div]拾取后绑定[/div][div]需要附魔 (350)[/div][div class="q"]"可代替任何较低等级的附魔棒。"[/div][br /][div]需要: 精金棒(1) 强效位面精华(8) 大块棱光碎片(8) 源生之能(1) 符文魔铁棒(1)[/div]售价: [span class="si-gold"]10[/span]
+</code>
+<sold-by>
+<npc id="18960" />
+<npc id="19004" />
+</sold-by>
+</item>
+<item id="25849" class="9.8" level="75" icon="inv_misc_note_01" quality="1">
+<name>公式：符文恒金棒</name>
+<code>
+[div class="name q1"]公式：符文恒金棒[/div][div]需要附魔 (375)[/div][div]使用: 教你学会制作符文恒金棒。[/div][br /][div class="name q3"]符文恒金棒[/div][div]拾取后绑定[/div][div]需要附魔 (375)[/div][div class="q"]"可代替任何较低等级的附魔棒。"[/div][br /][div]需要: 恒金棒(1) 强效位面精华(6) 奥法之尘(6) 符文精金棒(1)[/div]售价: [span class="si-gold"]12[/span]
+</code>
+<sold-by>
+<npc id="19663" count="1" />
+</sold-by>
+</item>
+<item id="28270" class="9.8" level="69" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔胸甲 - 特效韧性</name>
+<code>
+[div class="name q2"]公式：附魔胸甲 - 特效韧性[/div][div]需要附魔 (345)[/div][div class="q2"]使用: 教你学会永久性地为一件胸甲附魔，使其获得韧性等级+15的效果。该装备等级不得低于35级。[/div][br /][div]需要: 强效位面精华(4) 奥法之尘(10)[/div]
+</code>
+<dropped-by>
+<npc id="20052" rate="2/2999" />
+<npc id="20898" rate="1/1790" />
+<npc id="23353" rate="1/2086" />
+<npc id="21863" rate="1/2108" />
+<npc id="20040" rate="2/4729" />
+</dropped-by>
+<contained-in>
+<item id="33926" rate="6/1661" />
+</contained-in>
+</item>
+<item id="28271" class="9.8" level="72" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔手套 - 精确打击</name>
+<code>
+[div class="name q2"]公式：附魔手套 - 精确打击[/div][div]拾取后绑定[/div][div]需要附魔 (360)[/div][div]需要: 塞纳里奥远征队 - 崇敬[/div][div class="q2"]使用: 教你学会永久性地为一双手套附魔，使其获得命中等级+15的效果。该装备等级不得低于35级。[/div][br /][div]需要: 强效位面精华(8) 奥法之尘(2) 大块棱光碎片(2)[/div]售价: [span class="si-gold"]8[/span]
+</code>
+<sold-by>
+<npc id="17904" />
+</sold-by>
+</item>
+<item id="28272" class="9.8" level="72" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔手套 - 特效法术能量</name>
+<code>
+[div class="name q2"]公式：附魔手套 - 特效法术能量[/div][div]拾取后绑定[/div][div]需要附魔 (360)[/div][div]需要: 时光守护者 - 尊敬[/div][div class="q2"]使用: 教你学会永久性地为一双手套附魔，使其获得获得法术强度提高20点的效果。该装备等级不得低于35级。[/div][br /][div]需要: 强效位面精华(6) 大块棱光碎片(6) 源生法力(6)[/div]售价: [span class="si-gold"]8[/span]
+</code>
+<sold-by>
+<npc id="21643" />
+</sold-by>
+</item>
+<item id="28273" class="9.8" level="70" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔手套 - 特效治疗</name>
+<code>
+[div class="name q2"]公式：附魔手套 - 特效治疗[/div][div]拾取后绑定[/div][div]需要附魔 (350)[/div][div]需要: 沙塔尔 - 尊敬[/div][div class="q2"]使用: 教你学会永久性地为一双手套附魔，使其获得获得法术强度提高19点的效果。该装备等级不得低于35级。[/div][br /][div]需要: 强效位面精华(6) 大块棱光碎片(6) 源生生命(6)[/div]售价: [span class="si-gold"]6[/span]
+</code>
+<sold-by>
+<npc id="21432" />
+</sold-by>
+</item>
+<item id="28274" class="9.8" level="65" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔披风 - 法术穿透</name>
+<code>
+[div class="name q2"]公式：附魔披风 - 法术穿透[/div][div]拾取后绑定[/div][div]需要附魔 (325)[/div][div]需要: 星界财团 - 友好[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得法术穿透+20的效果。该装备等级不得低于35级。[/div][br /][div]需要: 强效位面精华(2) 奥法之尘(6) 源生法力(2)[/div]售价: [span class="si-gold"]4[/span]
+</code>
+<sold-by>
+<npc id="20242" />
+<npc id="23007" />
+</sold-by>
+</item>
+<item id="28276" class="9.8" level="70" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔披风 - 强效奥术抗性</name>
+<code>
+[div class="name q3"]公式：附魔披风 - 强效奥术抗性[/div][div]拾取后绑定[/div][div]需要附魔 (350)[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得奥术抗性+15的效果。该装备等级不得低于35级。[/div][br /][div]需要: 大块棱光碎片(4) 源生法力(8)[/div]
+</code>
+<dropped-by>
+<npc id="19796" rate="763/152903" />
+</dropped-by>
+</item>
+<item id="28277" class="9.8" level="70" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔披风 - 强效暗影抗性</name>
+<code>
+[div class="name q3"]公式：附魔披风 - 强效暗影抗性[/div][div]拾取后绑定[/div][div]需要附魔 (350)[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得暗影抗性+15的效果。该装备等级不得低于35级。[/div][br /][div]需要: 大块棱光碎片(4) 源生暗影(8)[/div]
+</code>
+<dropped-by>
+<npc id="18870" rate="460/67697" />
+</dropped-by>
+</item>
+<item id="28279" class="9.8" level="72" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔靴子 - 豹之迅捷</name>
+<code>
+[div class="name q3"]公式：附魔靴子 - 豹之迅捷[/div][div]需要附魔 (360)[/div][div class="q2"]使用: 教你学会永久性地为一双靴子附魔，使其获得移动速度略微提升及敏捷+6的效果。该装备等级不得低于35级。[/div][br /][div]需要: 大块棱光碎片(8) 源生空气(8)[/div]
+</code>
+<dropped-by>
+<npc id="23028" rate="2/5081" />
+<npc id="25371" rate="3/11534" />
+<npc id="19800" rate="1/6577" />
+<npc id="16461" rate="1/7238" />
+<npc id="18885" rate="1/9162" />
+</dropped-by>
+<contained-in>
+<item id="33926" rate="6/1661" />
+</contained-in>
+</item>
+<item id="28280" class="9.8" level="72" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔靴子 - 野猪之速</name>
+<code>
+[div class="name q3"]公式：附魔靴子 - 野猪之速[/div][div]需要附魔 (360)[/div][div class="q2"]使用: 教你学会永久性地为一双靴子附魔，使其获得移动速度略微提升及耐力+9的效果。该装备等级不得低于35级。[/div][br /][div]需要: 大块棱光碎片(8) 源生之土(8)[/div]
+</code>
+<dropped-by>
+<npc id="25484" rate="2/891" />
+<npc id="21228" rate="2/4974" />
+<npc id="20041" rate="4/9958" />
+<npc id="22957" rate="1/3117" />
+<npc id="21218" rate="2/9627" />
+</dropped-by>
+<contained-in>
+<item id="33926" rate="1/1661" />
+</contained-in>
+</item>
+<item id="28281" class="9.8" level="70" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔武器 - 特效治疗</name>
+<code>
+[div class="name q2"]公式：附魔武器 - 特效治疗[/div][div]拾取后绑定[/div][div]需要附魔 (350)[/div][div]需要: 沙塔尔 - 崇敬[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其获得法术强度提高40点的效果。该装备等级不得低于35级。[/div][br /][div]需要: 大块棱光碎片(8) 源生之水(8) 源生生命(8)[/div]售价: [span class="si-gold"]6[/span]
+</code>
+<sold-by>
+<npc id="21432" />
+</sold-by>
+</item>
+<item id="28282" class="9.8" level="65" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔盾牌 - 特效耐力</name>
+<code>
+[div class="name q1"]公式：附魔盾牌 - 特效耐力[/div][div]需要附魔 (325)[/div][div class="q2"]使用: 教你学会永久性地为一面盾牌附魔，使其获得耐力+18的效果。该装备等级不得低于35级。[/div][br /][div]需要: 奥法之尘(15)[/div]售价: [span class="si-gold"]4[/span]
+</code>
+<sold-by>
+<npc id="19663" count="1" />
+</sold-by>
+</item>
+<item id="33148" class="9.8" level="70" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔披风 - 躲闪</name>
+<code>
+[div class="name q3"]公式：附魔披风 - 躲闪[/div][div]拾取后绑定[/div][div]需要附魔 (300)[/div][div]需要: 贫民窟 - 崇拜[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得躲闪等级+12的效果。该装备等级不得低于35级。[/div][br /][div]需要: 小块棱光碎片(3) 强效位面精华(3) 源生之土(8)[/div]售价: [span class="si-gold"]10[/span]
+</code>
+<sold-by>
+<npc id="21655" />
+</sold-by>
+</item>
+<item id="33149" class="9.8" level="70" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔披风 - 潜行</name>
+<code>
+[div class="name q3"]公式：附魔披风 - 潜行[/div][div]拾取后绑定[/div][div]需要附 (300)[/div][div]需要: 塞纳里奥远征队 - 崇拜[/div][div class="q2"]使用: 教你学会给一条披风永久性地附魔，使装角色获得潜行能力提高的效果。[/div][br /][div]需要: 小块棱光碎片(3) 强效位面(3) 魔莲花(2)[/div]售价: [span class="si-gold"]10[/span]
+</code>
+<sold-by>
+<npc id="17904" />
+</sold-by>
+</item>
+<item id="33150" class="9.8" level="70" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔披风 - 狡诈</name>
+<code>
+[div class="name q3"]公式：附魔披风 - 狡诈[/div][div]拾取后绑定[/div][div]需要附魔 (300)[/div][div]需要: 荣耀堡 - 崇拜[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得对怪物造成的威胁值降低2%的效果。[/div][br /][div]需要: 小块棱光碎片(4) 强效位面精华(2) 源生暗影(8)[/div]售价: [span class="si-gold"]10[/span]
+</code>
+<sold-by>
+<npc id="17657" />
+</sold-by>
+</item>
+<item id="33151" class="9.8" level="70" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔披风 - 狡诈</name>
+<code>
+[div class="name q3"]公式：附魔披风 - 狡诈[/div][div]拾取后绑定[/div][div]需要附魔 (300)[/div][div]需要: 萨尔玛 - 崇拜[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得对怪物造成的威胁值降低2%的效果。[/div][br /][div]需要: 小块棱光碎片(4) 强效位面精华(2) 源生暗影(8)[/div]售价: [span class="si-gold"]10[/span]
+</code>
+<sold-by>
+<npc id="17585" />
+</sold-by>
+</item>
+<item id="33152" class="9.8" level="70" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔手套 - 超强敏捷</name>
+<code>
+[div class="name q3"]公式：附魔手套 - 超强敏捷[/div][div]拾取后绑定[/div][div]需要附魔 (300)[/div][div]需要: 时光守护者 - 崇拜[/div][div class="q2"]使用: 教你学会给一双手套永久性地附魔，使它获得敏捷+15的效果。[/div][br /][div]需要: 小块棱光碎片(3) 强效位面精华(3) 源生空气(2)[/div]售价: [span class="si-gold"]10[/span]
+</code>
+<sold-by>
+<npc id="21643" />
+</sold-by>
+</item>
+<item id="33153" class="9.8" level="70" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔手套 - 威胁</name>
+<code>
+[div class="name q3"]公式：附魔手套 - 威胁[/div][div]拾取后绑定[/div][div]需要附魔 (300)[/div][div]需要: 沙塔尔 - 崇拜[/div][div class="q2"]使用: 教你学会永久性地为一双手套附魔，使其获得对怪物造成的威胁值提高2%的效果。[/div][br /][div]需要: 小块棱光碎片(4) 强效位面精华(2) 源生生命(8)[/div]售价: [span class="si-gold"]10[/span]
+</code>
+<sold-by>
+<npc id="21432" />
+</sold-by>
+</item>
+<item id="33165" class="9.8" level="70" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔武器 - 强效敏捷</name>
+<code>
+[div class="name q1"]公式：附魔武器 - 强效敏捷[/div][div]拾取后绑定[/div][div]需要附魔 (350)[/div][div]需要: 紫罗兰之眼 - 崇拜[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其获得敏捷+20的效果。该装备等级不得低于35级。[/div][br /][div]需要: 奥法之尘(8) 强效位面精华(4) 大块棱光碎片(6) 源生空气(2)[/div]售价: [span class="si-gold"]3[/span]
+</code>
+<sold-by>
+<npc id="18255" />
+</sold-by>
+</item>
+<item id="33307" class="9.8" level="75" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔武器 - 斩杀</name>
+<code>
+[div class="name q3"]公式：附魔武器 - 斩杀[/div][div]拾取后绑定[/div][div]需要附魔 (375)[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其获得有一定几率获得护甲穿透等级提高120的效果。该装备等级不得低于60级。[/div][br /][div]要: 虚空水晶(6) 大块棱光碎片(10) 强效位面精华(6) 奥法之尘(30) 特效力量药剂(3)[/div]
+</code>
+<dropped-by>
+<npc id="23574" rate="937/19144" />
+<npc id="23576" rate="1018/21842" />
+<npc id="23578" rate="671/15954" />
+<npc id="23577" rate="668/16258" />
+<npc id="24239" rate="469/13419" />
+</dropped-by>
+</item>
+<item id="34872" class="9.8" level="72" icon="inv_misc_note_01" quality="1">
+<name>公式：虚空碎裂</name>
+<code>
+[div class="name q1"]公式：虚空碎裂[/div][div]拾取后绑定[/div][div]需要附魔 (375)[/div][div]需要: 破碎残阳 - 尊敬[/div][div]使用: 教你学会如何将一块虚空水晶击碎成为两份大块棱光碎片。[/div][br /][div class="name q3"]大块棱光碎片[/div][br /][div]需要: 虚空水晶(1)[/div]售价: [span class="si-gold"]15[/span]
+</code>
+<sold-by>
+<npc id="25032" />
+</sold-by>
+</item>
+<item id="35297" class="9.8" level="72" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔靴子 - 野猪之速</name>
+<code>
+[div class="name q3"]公式：附魔靴子 - 野猪之速[/div][div]拾取后绑定[/div][div]需要附魔 (360)[/div][div class="q2"]使用: 教你学会永久性地为一双靴子附魔，使其获得移动速度略微提升及耐力+9的效果。该装备等级不得低于35级。[/div][br /][div]需要: 大块棱光碎片(8) 源生之土(8)[/div]
+</code>
+<dropped-by>
+<npc id="24664" rate="354/38341" />
+</dropped-by>
+</item>
+<item id="35298" class="9.8" level="61" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔靴子 - 活力</name>
+<code>
+[div class="name q2"]公式：附魔靴子 - 活力[/div][div]拾取后绑定[/div][div]需要附魔 (305)[/div][div class="q2"]使用: 教你学会永久性地为一双靴子附魔，使其获得每5秒回复4点法力值和生命值的效果。该装备等级不得低于35级。[/div][br /][div]需要: 奥法之尘(6) 特效治疗药水(4) 特效法力药水(4)[/div]
+</code>
+<dropped-by>
+<npc id="24664" rate="309/38341" />
+</dropped-by>
+</item>
+<item id="35299" class="9.8" level="72" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔靴子 - 豹之迅捷</name>
+<code>
+[div class="name q3"]公式：附魔靴子 - 豹之迅捷[/div][div]拾取后绑定[/div][div]需要附魔 (360)[/div][div class="q2"]使用: 教你学会永久性地为一双靴子附魔，使其获得移动速度略微提升及敏捷+6的效果。该装备等级不得低于35级。[/div][br /][div]需要: 大块棱光碎片(8) 源生空气(8)[/div]
+</code>
+<dropped-by>
+<npc id="24664" rate="360/38341" />
+</dropped-by>
+</item>
+<item id="35498" class="9.8" level="75" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔武器 - 死亡霜冻</name>
+<code>
+[div class="name q3"]公式：附魔武器 - 死亡霜冻[/div][div]拾取后绑定[/div][div]需要附魔 (350)[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使你的伤害法术和近战武器攻击有一定几率对目标造成额外的冰霜伤害并使目标减速的效果。该装备等级不得低于60级。[/div][br /][div]需要: 源生暗影(2) 源生之水(2)[/div]
+</code>
+<contained-in>
+<object id="187892" rate="413/6450" />
+</contained-in>
+</item>
+<item id="35500" class="9.8" level="70" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔胸甲 - 防御</name>
+<code>
+[div class="name q1"]公式：附魔胸甲 - 防御[/div][div]拾取后绑定[/div][div]需要附魔 (360)[/div][div]需要: 破碎残阳 - 尊敬[/div][div class="q2"]使用: 教你学会永久性地为一件胸甲附魔，使其获得防御等级+16的效果。该装备等级不得低于35级。[/div][br /][div]需要: 强效位面精华(4) 奥法之尘(8) 恒金矿石(4)[/div]售价: [span class="si-gold"]15[/span]
+</code>
+<sold-by>
+<npc id="25032" />
+</sold-by>
+</item>
+<item id="35756" class="9.8" level="70" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔披风 - 钢纹</name>
+<code>
+[div class="name q3"]公式：附魔披风 - 钢纹[/div][div]拾取后绑定[/div][div]需要附魔 (375)[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得防御等级+12的效果。该装备等级不得低于35级。[/div][br /][div]需要: 强效位面精华(8) 源生之土(8)[/div]
+</code>
+<dropped-by>
+<npc id="24560" rate="4056/36174" />
+</dropped-by>
+</item>
+<item id="37330" class="9.8" level="80" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔披风 - 超强奥术抗性</name>
+<code>
+[span class="q2"]公式：附魔披风 - 超强奥术抗性[/span][br /]需要附魔 (400)[br /][span class="q2"]永久性地为一件披风附魔，使其获得奥术抗性提高20点的效果。该物品等级不得低于60级。[/span][br /][br /]需要: 无限之尘(20) 永恒之土(1)
+</code>
+<dropped-by>
+<npc id="31702" rate="81/8011" />
+<npc id="32297" rate="657/161713" />
+</dropped-by>
+</item>
+<item id="37331" class="9.8" level="80" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔披风 - 超级火焰抗性</name>
+<code>
+[div class="name q2"]公式：附魔披风 - 超级火焰抗性[/div][div]需要附魔 (400)[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得火焰抗性+20的效果。该装备等级不得低于60级。[/div][br /][div]需要: 强效宇宙精华(4) 永恒之水(1)[/div]
+</code>
+<dropped-by>
+<npc id="31321" rate="176/11588" />
+<npc id="30921" rate="362/72625" />
+</dropped-by>
+</item>
+<item id="37332" class="9.8" level="80" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔披风 - 超级冰霜抗性</name>
+<code>
+[div class="name q2"]公式：附魔披风 - 超级冰霜抗性[/div][div]需要附魔 (400)[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得冰霜抗性+20的效果。该装备等级不得低于60级。[/div][br /][div]需要: 无限之尘(6) 强效宇宙精华(3) 永恒火焰(1)[/div]
+</code>
+<dropped-by>
+<npc id="32289" rate="619/152086" />
+</dropped-by>
+</item>
+<item id="37333" class="9.8" level="80" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔披风 - 超级自然抗性</name>
+<code>
+[div class="name q2"]公式：附魔披风 - 超级自然抗性[/div][div]需要附魔 (400)[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得自然抗性+20的效果。该装备等级不得低于60级。[/div][br /][div]需要: 无限之尘(15) 强效宇宙精华(1) 永恒暗影(1)[/div]
+</code>
+<dropped-by>
+<npc id="32290" rate="630/174258" />
+</dropped-by>
+</item>
+<item id="37334" class="9.8" level="80" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔披风 - 超级暗影抗性</name>
+<code>
+[div class="name q2"]公式：附魔披风 - 超级暗影抗性[/div][div]需要附魔 (400)[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得暗影抗性+20的效果。该装备等级不得低于60级。[/div][br /][div]需要: 无限之尘(8) 次级宇宙精华(2) 永恒生命(1)[/div]
+</code>
+<dropped-by>
+<npc id="32349" rate="442/45537" />
+</dropped-by>
+</item>
+<item id="37335" class="9.8" level="80" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔披风 - 超强敏捷</name>
+<code>
+[span class="q2"]公式：附魔披风 - 超强敏捷[/span][br /]需要附魔 (400)[br /][span class="q2"]永久性地为一件披风附魔，使其获得敏捷提高16点的效果。该物品等级不得低于60级。[/span][br /][br /]需要: 无限之尘(9)
+</code>
+</item>
+<item id="37339" class="9.8" level="82" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔武器 - 巨人杀手</name>
+<code>
+[div class="name q3"]公式：附魔武器 - 巨人杀手[/div][div]拾取后绑定[/div][div]需要附魔 (430)[/div][div class="q2"]使用: 教你学会永久性地为一把近战武器附魔，使其有一定几率降低目标移动速度、以及对巨人造成额外伤害的效果。该装备等级不得低于60级。[/div][br /][div]需要: 强效宇宙精华(2) 梦境碎片(6)[/div]售价: 梦境碎片(10)
+</code>
+<sold-by>
+<npc id="32514" />
+</sold-by>
+</item>
+<item id="37340" class="9.8" level="82" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔胸甲 - 优异韧性</name>
+<code>
+[span class="q2"]公式：附魔胸甲 - 优异韧性[/span][br /]拾取后绑定[br /]需要附魔 (410)[br /][span class="q2"]永久性地为一件胸甲附魔，使其获得韧性等级提高20的效果。该装备等级不得低于60级。[/span][br /][br /]需要: 强效宇宙精华(2) 梦境精华(2)[br /]售价: 梦境碎片(4)
+</code>
+<sold-by>
+<npc id="32514" />
+</sold-by>
+</item>
+<item id="37344" class="9.8" level="84" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔武器 - 破冰</name>
+<code>
+[div class="name q3"]公式：附魔武器 - 破冰[/div][div]拾取后绑定[/div][div]需要附魔 (425)[/div][div class="q2"]使用: 教你学会永久性地为一件近战武器附魔，使其有时可以造成火焰伤害。该装备等级不得低于60级。[/div][br /][div]需要: 梦境碎片(4) 永恒火焰(4)[/div]售价: 梦境碎片(10)
+</code>
+<sold-by>
+<npc id="32514" />
+</sold-by>
+</item>
+<item id="37345" class="9.8" level="84" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔手套 - 强效突袭</name>
+<code>
+[span class="q2"]公式：附魔手套 - 强效突袭[/span][br /]需要附魔 (420)[br /][span class="q2"]永久性地为一双手套附魔，使其获得攻击强度提高35点的效果。该装备等级不得低于60级。[/span][br /][br /]需要: 无限之尘(6) 强效宇宙精华(1)
+</code>
+</item>
+<item id="37346" class="9.8" level="84" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔护腕 - 精准</name>
+<code>
+[span class="q2"]公式：附魔护腕 - 精准[/span][br /]需要附魔 (420)[br /][span class="q2"]永久性地为一副护腕附魔，使其获得精准等级提高15的效果。该装备等级不得低于60级。[/span][br /][br /]需要: 无限之尘(14) 强效宇宙精华(3)
+</code>
+</item>
+<item id="37347" class="9.8" level="85" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔披风 - 泰坦之纹</name>
+<code>
+[div class="name q2"]公式：附魔披风 - 泰坦之纹[/div][div]拾取后绑定[/div][div]需要附魔 (435)[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得防御等级+16的效果。该装备等级不得低于60级。[/div][br /][div]需要: 无限之尘(8) 泰坦神铁锭(2) 梦境碎片(2)[/div]售价: 梦境碎片(4)
+</code>
+<sold-by>
+<npc id="32514" />
+</sold-by>
+</item>
+<item id="37348" class="9.8" level="85" icon="inv_misc_note_01" quality="1">
+<name>公式：附魔披风 - 强效速度</name>
+<code>
+[span class="q1"]公式：附魔披风 - 强效速度[/span][br /]需要附魔 (425)[br /][span class="q2"]永久性地为一件披风附魔，使其获得急速等级提高23的效果。该物品等级不得低于60级。[/span][br /][br /]需要: 无限之尘(16) 强效宇宙精华(4)
+</code>
+</item>
+<item id="37349" class="9.8" level="85" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔披风 - 暗影护甲</name>
+<code>
+[div class="name q2"]公式：附魔披风 - 暗影护甲[/div][div]拾取后绑定[/div][div]需要附魔 (440)[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得潜行等级略微提高、敏捷提高10点的效果。该装备等级不得低于60级。[/div][br /][div]需要: 无限之尘(12) 深渊水晶(1)[/div]售价: 梦境碎片(4)
+</code>
+<sold-by>
+<npc id="32514" />
+</sold-by>
+</item>
+<item id="44471" class="9.8" level="70" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔披风 - 极效护甲</name>
+<code>
+[div class="name q2"]公式：附魔披风 - 极效护甲[/div][div]拾取后绑定[/div][div]需要附魔 (430)[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得护甲值提高225点的效果。该装备等级不得低于60级。[/div][br /][div]需要: 无限之尘(15) 强效宇宙精华(2)[/div]售价: 梦境碎片(4)
+</code>
+<sold-by>
+<npc id="32514" />
+</sold-by>
+</item>
+<item id="44472" class="9.8" level="70" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔披风 - 强效速度</name>
+<code>
+[div class="name q2"]公式：附魔披风 - 强效速度[/div][div]拾取后绑定[/div][div]需要附魔 (430)[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得急速等级提高23的效果。该装备等级不得低于60级。[/div][br /][div]需要: 无限之尘(16) 强效宇宙精华(4)[/div]售价: 梦境碎片(4)
+</code>
+<sold-by>
+<npc id="32514" />
+</sold-by>
+</item>
+<item id="44473" class="9.8" level="70" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔武器 - 天灾斩除</name>
+<code>
+[div class="name q3"]公式：附魔武器 - 天灾斩除[/div][div]拾取后绑定[/div][div]需要附魔 (430)[/div][div class="q2"]使用: 教你学会永久性地为一把双手近战武器附魔，使其获得对亡灵的攻击强度提高140点的效果。该装备等级不得低于60级。[/div][br /][div]需要: 无限之尘(6) 梦境碎片(6)[/div]售价: 梦境碎片(10)
+</code>
+<sold-by>
+<npc id="32514" />
+</sold-by>
+</item>
+<item id="44483" class="9.8" level="82" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔双手武器 - 杀戮</name>
+<code>
+[div class="name q3"]公式：附魔双手武器 - 杀戮[/div][div]拾取后绑定[/div][div]需要附魔 (430)[/div][div class="q2"]使用: 教你学会永久性地为一把双手近战武器附魔，使其获得攻击强度提高110点的效果。该装备等级不得低于60级。[/div][br /][div]需要: 无限之尘(40) 强效宇宙精华(6) 深渊水晶(6)[/div]售价: 梦境碎片(10)
+</code>
+<sold-by>
+<npc id="32514" />
+</sold-by>
+</item>
+<item id="44484" class="9.8" level="82" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔护腕 - 强效突袭</name>
+<code>
+[div class="name q2"]公式：附魔护腕 - 强效突袭[/div][div]拾取后绑定[/div][div]需要附魔 (430)[/div][div class="q2"]使用: 教你学会永久性地为一副护腕附魔，使其获得攻击强度提高50点的效果。该装备等级不得低于60级。[/div][br /][div]需要: 无限之尘(24) 强效宇宙精华(6)[/div]售价: 梦境碎片(4)
+</code>
+<sold-by>
+<npc id="32514" />
+</sold-by>
+</item>
+<item id="44485" class="9.8" level="85" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔手套 - 士兵</name>
+<code>
+[div class="name q2"]公式：附魔手套 - 士兵[/div][div]拾取后绑定[/div][div]需要附魔 (435)[/div][div class="q2"]使用: 教你学会永久性地为一双手套附魔，使其获得威胁值提高2%、招架等级提高10的效果。该装备等级不得低于60级。[/div][br /][div]需要: 梦境碎片(2) 永恒之土(8)[/div]售价: 梦境碎片(4)
+</code>
+<sold-by>
+<npc id="32514" />
+</sold-by>
+</item>
+<item id="44486" class="9.8" level="82" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔武器 - 超强潜能</name>
+<code>
+[div class="name q3"]公式：附魔武器 - 超强潜能[/div][div]拾取后绑定[/div][div]需要附魔 (435)[/div][div class="q2"]使用: 教你学会永久性地为一把近战武器附魔，使其获得攻击强度提高65点的效果。该装备等级不得低于60级。[/div][br /][div]需要: 无限之尘(10) 强效宇宙精华(2) 梦境碎片(2) 深渊水晶(4)[/div]售价: 梦境碎片(10)
+</code>
+<sold-by>
+<npc id="32514" />
+</sold-by>
+</item>
+<item id="44487" class="9.8" level="82" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔武器 - 极效法术能量</name>
+<code>
+[div class="name q3"]公式：附魔武器 - 极效法术能量[/div][div]拾取后绑定[/div][div]需要附魔 (435)[/div][div class="q2"]使用: 教你学会永久性地为一把近战武器附魔，使其获得法术强度提高63点的效果。该装备等级不得低于60级。[/div][br /][div]需要: 无限之尘(30) 梦境碎片(6) 深渊水晶(6)[/div]售价: 梦境碎片(10)
+</code>
+<sold-by>
+<npc id="32514" />
+</sold-by>
+</item>
+<item id="44488" class="9.8" level="85" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔披风 - 智慧</name>
+<code>
+[div class="name q2"]公式：附魔披风 - 智慧[/div][div]拾取后绑定[/div][div]需要侥?(440)[/div][div class="q2"]使用: 教你学会永久性地为一件披风附魔，使其获得威胁值略微降低、精神提高10点的效果。该装备等级不得低于60级。[/div][br /][div]需要: 强效宇宙精华(6) 深渊水晶(1)[/div]售价: 梦境碎片(4)
+</code>
+<sold-by>
+<npc id="32514" />
+</sold-by>
+</item>
+<item id="44489" class="9.8" level="85" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔胸甲 - 强力属性</name>
+<code>
+[div class="name q2"]公式：附魔胸甲 - 强力属性[/div][div]拾取后绑定[/div][div]需要附魔 (440)[/div][div class="q2"]使用: 教你学会永久性地为一件胸甲附魔，使其获得所有属性提高10点的效果。该装备等级不得低于60级。[/div][br /][div]需要: 梦境碎片(4) 深渊水晶(4)[/div]售价: 梦境碎?4)
+</code>
+<sold-by>
+<npc id="32514" />
+</sold-by>
+</item>
+<item id="44490" class="9.8" level="85" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔靴子 - 强效突袭</name>
+<code>
+[div class="name q2"]公式：附魔靴子 - 强效突袭[/div][div]拾取后绑定[/div][div]需要附魔 (440)[/div][div class="q2"]使用: 教你学会永久性地为一双靴子附魔，使其获得攻击强度提高32点的效果。该装备等级不得低于60级。[/div][br /][div]需要: 强效宇宙精华(4) 梦境碎片(4)[/div]售价: 梦境碎片(4)
+</code>
+<sold-by>
+<npc id="32514" />
+</sold-by>
+</item>
+<item id="44491" class="9.8" level="85" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔靴子 - 海象人的活力</name>
+<code>
+[div class="name q2"]公式：附魔靴子 - 海象人的活力[/div][div]拾取后绑定[/div][div]需要附魔 (440)[/div][div class="q2"]使用: 教你学会永久性地为一双靴子附魔，使其获得耐力提高15点、移动速度略微提高的效果。该装备等级不得低于60级。[/div][br /][div]需要: 无限之尘(10) 强效宇宙精华(2) 梦境碎片(2)[/div]售价: 梦境碎片(4)
+</code>
+<sold-by>
+<npc id="32514" />
+</sold-by>
+</item>
+<item id="44492" class="9.8" level="82" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔武器 - 狂暴</name>
+<code>
+[div class="name q3"]公式：附魔武器 - 狂暴[/div][div]拾取后绑定[/div][div]需要附魔 (440)[/div][div class="q2"]使用: 教你学会永久性地为一把近战武器附魔，使其获得有时令你的攻击强度提高、但是护甲值降低的效果。该装备等级不得低于60级。[/div][br /][div]需要: 无限之尘(12) 强效宇宙精华(4) 梦境碎片(4) 深渊水晶(10)[/div]售价: 梦境碎片(10)
+</code>
+<sold-by>
+<npc id="32514" />
+</sold-by>
+</item>
+<item id="44494" class="9.8" level="82" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔武器 - 生命护卫</name>
+<code>
+[div class="name q3"]公式：附魔武器 - 生命护卫[/div][div]拾取后绑定[/div][div]需要附魔 (425)[/div][div class="q2"]使用: 教你学会永久性地为一把近战武器附魔，使其在命中目标时有一定几率为装备者恢复生命值。该装备等级不得低于60级。[/div][br /][div]需要: 梦境碎片(1) 永恒生命(4)[/div]售价: 梦境碎片(10)
+</code>
+<sold-by>
+<npc id="32514" />
+</sold-by>
+</item>
+<item id="44495" class="9.8" level="82" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔武器 - 黑魔法</name>
+<code>
+[div class="name q3"]公式：附魔武器 - 黑魔法[/div][div]拾取后绑定[/div][div]需要附魔 (440)[/div][div class="q2"]使用: 教你学会永久性地为一把近战武器附魔，使你的伤害法术有时可以附加可怕的诅咒。该装备等级不得低于60级。[/div][br /][div]需要: 强效宇宙精华(6) 梦境碎片(6) 深渊水晶(6)[/div]售价: 梦境碎片(10)
+</code>
+<sold-by>
+<npc id="32514" />
+</sold-by>
+</item>
+<item id="44496" class="9.8" level="82" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔武器 - 精确</name>
+<code>
+[div class="name q3"]公式：附魔武器 - 精确[/div][div]拾取后绑定[/div][div]需要附魔 (440)[/div][div class="q2"]使用: 教你学会永久性地为一把近战武器附魔，使其获得爆击等级和命中等级提高25的效果。该装备等级不得低于60级。[/div][br /][div]需要: 无限之尘(20) 强效宇宙精华(4) 梦境碎片(4) 深渊水晶(6)[/div]售价: 梦境碎片(10)
+</code>
+<sold-by>
+<npc id="32514" />
+</sold-by>
+</item>
+<item id="44498" class="9.8" level="85" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔护腕 - 超强法术能量</name>
+<code>
+[div class="name q2"]公式：附魔护腕 - 超强法术能量[/div][div]拾取后绑定[/div][div]需要附魔 (440)[/div][div class="q2"]使用: 教你学会永久性地为一副护腕附魔，使其获得法术强度提高30点的效果。该装备等级不得低于60级。[/div][br /][div]需要: 无限之尘(6) 强效宇宙精华(6) 梦境碎片(1)[/div]售价: 梦境碎片(4)
+</code>
+<sold-by>
+<npc id="32514" />
+</sold-by>
+</item>
+<item id="44944" class="9.8" level="85" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔护腕 - 特效耐力</name>
+<code>
+[span class="q3"]公式：附魔护腕 - 特效耐力[/span][br /]拾取后绑定[br /]需要附魔 (450)[br /][span class="q2"]使用: 教你学会永久性地为一副护腕附魔，使其获得耐力+40的效果。该装备等级不得低于60级。[/span][br /][br /]需要: 强效宇宙精华(4) 深渊水晶(1)[br /]售价: 深渊水晶(5)
+</code>
+<sold-by>
+<npc id="32514" />
+</sold-by>
+</item>
+<item id="45050" class="9.8" level="53" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：浓烟山脉之心</name>
+<code>
+[div class="name q2"]公式：浓烟山脉之心[/div][div]拾取后绑定[/div][div]需要附魔 (265)[/div][div]使用: 教你学会制作浓烟山脉之心。[/div][br /][div class="name q3"]浓烟山脉之心[/div][div]拾取后绑定[/div][div]唯一[/div][div]饰品[/div][div]150 护甲[/div][div]需要等级 50[/div][div class="q2"]装备: 爆击等级提高17。[/div][br /][div]需要: 火焰精华(3) 小块魔光碎片(3)[/div]
+</code>
+<dropped-by>
+<npc id="9025" rate="1677/17137" />
+</dropped-by>
+</item>
+<item id="45059" class="9.8" level="85" icon="inv_enchant_formulasuperior_01" quality="3">
+<name>公式：附魔法杖 - 强效法术能量</name>
+<code>
+[span class="name q3"]公式：附魔法杖 - 强效法术能量[/span][br /]拾取后绑定[br /]需要附魔 (450)[br /][span class="q2"]使用: 教你学会永久性地为一把法杖附魔，使其获得法术强度提高81点的效果。该装备等级不得低于60级。[/span][br /][br /]需要: 无限之尘(40) 梦境碎片(6) 深渊水晶(6)[br /]售价: 梦境碎片(10)
+</code>
+<sold-by>
+<npc id="32514" />
+</sold-by>
+</item>
+<item id="46027" class="9.8" level="75" icon="inv_enchant_formulaepic_01" quality="4">
+<name>公式：附魔武器 - 利刃防护</name>
+<code>
+[span class="name q4"]公式：附魔武器 - 利刃防护[/span][br /]拾取后绑定[br /]需要附魔 (450)[br /][span class="q2"]使用: 教你学会永久性地为一件武器附魔，使其在攻击敌人时有可能触发利刃防护效果，使你的招架等级提高，并在下一次招架时造成伤害。附魔要求装备者的等级不得低于75级。[/span][br /][br /]需要: 深渊水晶(4) 强效宇宙精华(8) 泰坦精钢锭(1)
+</code>
+<dropped-by>
+<npc id="32857" rate="209/8562" />
+<npc id="33113" rate="97/4355" />
+<npc id="33515" rate="257/12531" />
+<npc id="33118" rate="179/9926" />
+<npc id="33293" rate="165/9371" />
+</dropped-by>
+<contained-in>
+<object id="194307" rate="71/2780" />
+<object id="194200" rate="16/797" />
+<object id="194324" rate="54/2751" />
+<object id="195046" rate="68/3587" />
+<object id="194789" rate="42/2369" />
+</contained-in>
+</item>
+<item id="46348" class="9.8" level="75" icon="inv_enchant_formulaepic_01" quality="4">
+<name>公式：附魔武器 - 吸血</name>
+<code>
+[span class="name q4"]公式：附魔武器 - 吸血[/span][br /]拾取后绑定[br /]需要附魔 (450)[br /][span class="q2"]使用: 教你学会永久性地为一件武器附魔，在攻击敌人或受到流血伤害时，它有可能触发储备血浆效果。当你的生命值过低时，储备血浆可以为你恢复生命值。附魔要求装备者的等级不得低于75级。[/span][br /][br /]需要: 深渊水晶(4) 无限之尘(40) 血玉石(1)
+</code>
+<dropped-by>
+<npc id="33118" rate="223/9926" />
+<npc id="33113" rate="88/4355" />
+<npc id="33288" rate="5/251" />
+<npc id="33293" rate="180/9371" />
+<npc id="33515" rate="224/12531" />
+</dropped-by>
+<contained-in>
+<object id="194821" rate="4/163" />
+<object id="194307" rate="48/2780" />
+<object id="194312" rate="35/2309" />
+<object id="194200" rate="12/797" />
+<object id="195046" rate="52/3587" />
+</contained-in>
+</item>
+<item id="50406" class="9.8" level="80" icon="inv_enchant_formulagood_01" quality="2">
+<name>公式：附魔手套 - 垂钓者</name>
+<code>
+[span class="q2"]公式：附魔手套 - 垂钓者[/span][br /]拾取后绑定[br /]需要附魔 (375)[br /][span class="q2"]永久性地为一双手套附魔，使其获得垂钓技能+5的效果。[/span][br /][br /]需要: 无限之尘(1) 轻灵之油(3)
+</code>
+<dropped-by>
+<npc id="26343" rate="242/51676" />
+<npc id="26336" rate="87/23039" />
+<npc id="26344" rate="176/59533" />
+</dropped-by>
+</item>
+<item id="4632" class="15.0" level="20" icon="inv_misc_ornatebox" quality="2">
+<name>精制青铜宝箱</name>
+<code>
+[div class="name q2"]精制青铜宝箱[/div]
+</code>
+</item>
+<item id="4633" class="15.0" level="25" icon="inv_misc_ornatebox" quality="2">
+<name>厚重青铜宝箱</name>
+<code>
+[div class="name q2"]厚重青铜宝箱[/div]
+</code>
+</item>
+<item id="4634" class="15.0" level="30" icon="inv_misc_ornatebox" quality="2">
+<name>铁质宝箱</name>
+<code>
+[div class="name q2"]铁质宝箱[/div]
+</code>
+</item>
+<item id="4636" class="15.0" level="35" icon="inv_misc_ornatebox" quality="2">
+<name>精铁宝箱</name>
+<code>
+[div class="name q2"]精铁宝箱[/div]
+</code>
+</item>
+<item id="4637" class="15.0" level="40" icon="inv_misc_ornatebox" quality="2">
+<name>钢质宝箱</name>
+<code>
+[div class="name q2"]钢质宝箱[/div]
+</code>
+</item>
+<item id="4638" class="15.0" level="45" icon="inv_misc_ornatebox" quality="2">
+<name>强化钢质宝箱</name>
+<code>
+[div class="name q2"]强化钢质宝箱[/div]
+</code>
+</item>
+<item id="5758" class="15.0" level="50" icon="inv_misc_ornatebox" quality="2">
+<name>秘银宝箱</name>
+<code>
+[div class="name q2"]秘银宝箱[/div]
+</code>
+</item>
+<item id="5759" class="15.0" level="55" icon="inv_misc_ornatebox" quality="2">
+<name>瑟银宝箱</name>
+<code>
+[div class="name q2"]瑟银宝箱[/div]
+</code>
+</item>
+<item id="5760" class="15.0" level="60" icon="inv_misc_ornatebox" quality="2">
+<name>恒金宝箱</name>
+<code>
+[div class="name q2"]恒金宝箱[/div]
+</code>
+</item>
+<item id="6307" class="15.0" icon="inv_drink_12" quality="1">
+<name>瓶中信</name>
+<code>
+[div class="name q1"]瓶中信[/div]
+</code>
+</item>
+<item id="9265" class="12.0" level="45" icon="inv_box_01" quality="2">
+<name>科尔戈的秘密宝藏</name>
+<code>
+[div class="name q2"]科尔戈的秘密宝藏[/div]
+</code>
+<reward-from>
+<quest id="2882" />
+</reward-from>
+</item>
+<item id="9541" class="15.0" level="47" icon="inv_box_04" quality="1">
+<name>糖果盒</name>
+<code>
+[div class="name q1"]糖果盒[/div]
+</code>
+<reward-from>
+<quest id="2747" />
+</reward-from>
+</item>
+<item id="10479" class="15.0" level="50" icon="inv_misc_bag_07_black" quality="2">
+<name>考维克的贸易背包</name>
+<code>
+[div class="name q2"]考维克的贸易背包[/div][div]拾取后绑定[/div]
+</code>
+<reward-from>
+<quest id="3385" />
+</reward-from>
+</item>
+<item id="10569" class="15.0" level="50" icon="inv_box_02" quality="1">
+<name>黑龙军团宝箱</name>
+<code>
+[div class="name q1"]黑龙军团宝箱[/div][div]拾取后绑定[/div][div]唯一[/div][div class="q"]"盖有欺诈者卡拉然的徽记。"[/div]
+</code>
+<reward-from>
+<quest id="3481" />
+</reward-from>
+</item>
+<item id="10752" class="15.0" level="55" icon="inv_box_03" quality="2">
+<name>翡翠宝箱</name>
+<code>
+[div class="name q2"]翡翠宝箱[/div][div]拾取后绑定[/div]
+</code>
+<reward-from>
+<quest id="2521" />
+<quest id="2522" />
+</reward-from>
+</item>
+<item id="19035" class="15.0" level="50" icon="inv_box_01" quality="2">
+<name>拉尔德的午餐篮</name>
+<code>
+[div class="name q2"]拉尔德的午餐篮[/div][div]拾取后绑定[/div]
+</code>
+<reward-from>
+<quest id="7840" />
+</reward-from>
+</item>
+<item id="19296" class="0.8" level="50" icon="inv_misc_bag_21" quality="2">
+<name>高级暗月奖品</name>
+<code>
+[span class="name q2"]高级暗月奖品[/span][br /]需要等级 45[br /][span class="q"]"保证内有一件贵重物品！"[/span]
+</code>
+<reward-from>
+<quest id="7933" />
+</reward-from>
+</item>
+<item id="19297" class="0.8" level="35" icon="inv_misc_bag_07_black" quality="2">
+<name>中级暗月奖品</name>
+<code>
+[span class="name q2"]中级暗月奖品[/span][br /]需要等级 30[br /][span class="q"]"保证内有一件贵重物品！"[/span]
+</code>
+<reward-from>
+<quest id="7932" />
+</reward-from>
+</item>
+<item id="19298" class="0.8" level="20" icon="inv_misc_bag_04" quality="2">
+<name>初级暗月奖品</name>
+<code>
+[div class="name q2"]初级暗月奖品[/div][div]需要等级 15[/div][div class="q"]"保证内有一件贵重物品！"[/div]
+</code>
+<reward-from>
+<quest id="7931" />
+</reward-from>
+</item>
+<item id="19425" class="0.0" level="1" icon="inv_box_02" quality="2">
+<name>神秘的箱子</name>
+<code>
+[div class="name q2"]神秘的箱子[/div][div]拾取后绑定[/div][div]唯一[/div]
+</code>
+<reward-from>
+<quest id="7937" />
+<quest id="7938" />
+<quest id="7944" />
+<quest id="7945" />
+</reward-from>
+</item>
+<item id="20766" class="15.0" level="30" icon="inv_misc_bag_10_green" quality="1">
+<name>粘糊糊的袋子</name>
+<code>
+[div class="name q1"]粘糊糊的袋子[/div]
+</code>
+<dropped-by>
+<npc id="4393" rate="2166/17008" />
+<npc id="4391" rate="258/2463" />
+<npc id="4392" rate="317/3341" />
+</dropped-by>
+</item>
+<item id="33926" class="0.0" level="1" icon="inv_gizmo_khoriumpowercore" quality="3">
+<name>密封的卷轴盒</name>
+<code>
+[div class="name q3"]密封的卷轴盒[/div][div]拾取后绑定[/div][div]唯一[/div][div class="q"]"密封的小盒子。"[/div]售价: [span class="si-silver"]10[/span]
+</code>
+<sold-by>
+<npc id="24396" count="1" />
+</sold-by>
+</item>
+</items>

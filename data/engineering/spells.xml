@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<spells>
+<spell id="13240" icon="inv_musket_01" cost="1500">
+<name>迫击炮：重载</name>
+<code>
+[table][tbody][tr][td][span class="name q"]迫击炮：重载[/span][/td][/tr][tr][td]25秒施法时间[/td][/tr][/tbody][/table][div class="q2"]重新装载地精迫击炮。[/div]
+</code>
+</spell>
+<spell id="20219" icon="inv_gizmo_02">
+<name>侏儒工程学</name>
+<code>
+[table][tbody][tr][td][span class="name q"]侏儒工程学[/span][/td][/tr][tr][td]瞬发[/td][/tr][/tbody][/table][div class="q2"]使技师可以制造神奇但不太可靠的侏儒工程学物品。[/div]
+</code>
+</spell>
+<spell id="20222" icon="spell_fire_selfdestruct">
+<name>地精工程师</name>
+<code>
+[table][tbody][tr][td][span class="name q"]地精工程师[/span][/td][/tr][tr][td]瞬发[/td][/tr][/tbody][/table][div class="q2"]使技师可以制造致命的地精工程学物品。[/div]
+</code>
+</spell>
+<spell id="54736" icon="trade_engineering" cost="100000">
+<name>单兵电磁脉冲发生器</name>
+<code>
+[table][tbody][tr][td][span class="name q"]单兵电磁脉冲发生器[/span][/td][/tr][tr][td]5秒施法时间[/td][/tr][/tbody][/table][div class="q2"]永久性地在你的腰带上加装单兵电磁脉冲发生器，使你可以扰乱附近的机械单位，令它们变得混乱。只有经验丰富的技师可以使用改造过的腰带。[br /][br /]只能对你自己的腰带进行改造，且改造之后这条腰带会与你绑定。[/div]
+</code>
+</spell>
+<spell id="54793" icon="trade_engineering" cost="100000">
+<name>远距离侦测腰带夹</name>
+<code>
+[table][tbody][tr][td][span class="name q"]远距离侦测腰带夹[/span][/td][/tr][tr][td]5秒施法时间[/td][/tr][/tbody][/table][div class="q2"]永久性地在你的腰带上加装一副远距离侦测腰带夹，使你可以看到远处的景物，并在微缩地图上显示气体云雾的位置。只有经验丰富的技师可以使用远距离侦测腰带夹。[/div]
+</code>
+</spell>
+<spell id="54998" icon="trade_engineering" cost="125000">
+<name>手部火箭发射器</name>
+<code>
+[table][tbody][tr][td][span class="name q"]手部火箭发射器[/span][/td][/tr][tr][td]5秒施法时间[/td][/tr][/tbody][/table][div class="q2"]永久性地在你的手套上加装一副手部火箭发射器，经验丰富的技师可以使用它对远处的敌人造成1654到2020点火焰伤害。每分钟只能发射一次。[br /][br /]只能对你自己的手套进行改造，且改造之后这副手套会与你绑定。[/div]
+</code>
+</spell>
+<spell id="54999" icon="trade_engineering" cost="125000">
+<name>超级加速器</name>
+<code>
+[table][tbody][tr][td][span class="name q"]超级加速器[/span][/td][/tr][tr][td]5秒施法时间[/td][/tr][/tbody][/table][div class="q2"]永久性地为一双手套附加超级加速器，资深的工程学技师可以通过启动加速器获得急速等级提高340的效果，持续12秒。手套每分钟只能启动一次。[/div]
+</code>
+</spell>
+<spell id="55002" icon="trade_engineering" cost="100000">
+<name>高弹力衬垫</name>
+<code>
+[table][tbody][tr][td][span class="name q"]高弹力衬垫[/span][/td][/tr][tr][td]5秒施法时间[/td][/tr][/tbody][/table][div class="q2"]永久性地在一件披风中加入高弹力衬垫，使你的敏捷值提高23点，并且可以将披风变成降落伞，减缓坠落速度，持续30秒。[br /][br /]披风每分钟只能使用一次。只有工程学技能达到350才能使用。[/div]
+</code>
+</spell>
+<spell id="55016" icon="trade_engineering" cost="125000">
+<name>硝化甘油推进器</name>
+<code>
+[table][tbody][tr][td][span class="name q"]硝化甘油推进器[/span][/td][/tr][tr][td]5秒施法时间[/td][/tr][/tbody][/table][div class="q2"]永久性地为一双靴子附加硝化甘油推进器，使你的命中和爆击等级提高12，并且可以通过启动推进器极大地提高奔跑速度，持续5秒。[br /][br /]硝化甘油推进器每3分钟只能启动一次。只有工程学技能达到400才能使用。[/div]
+</code>
+</spell>
+<spell id="56273" icon="inv_gizmo_02">
+<name>虫洞：加基森</name>
+<code>
+[table][tbody][tr][td][span class="name q"]虫洞：加基森[/span][/td][th]工程学[/th][/tr][tr][td]10秒施法时间[/td][th]4小时冷却时间[/th][/tr][/tbody][/table][div class="q2"]制造一个虫洞，理论上应该可以把你和你的队友送到加基森去。[/div]
+</code>
+</spell>
+<spell id="63765" icon="trade_engineering" cost="100000">
+<name>弹力蛛丝</name>
+<code>
+[table][tbody][tr][td][span class="name q"]弹力蛛丝[/span][/td][/tr][tr][td]5秒施法时间[/td][/tr][/tbody][/table][div class="q2"]永久性地在一件披风中加入弹性蛛丝，使你的法术强度提高27点，并且可以将披风变成降落伞，减缓坠落速度，持续30秒。[br /][br /]披风每分钟只能使用一次。只有工程学技能达到350才能使用。[/div]
+</code>
+</spell>
+<spell id="63770" icon="trade_engineering" cost="125000">
+<name>装甲护网</name>
+<code>
+[table][tbody][tr][td][span class="name q"]装甲护网[/span][/td][/tr][tr][td]5秒施法时间[/td][/tr][/tbody][/table][div class="q2"]永久性地在板甲手套上附加一层装甲护网，使护甲值提高885点。[br /][br /]添加护网的手套会与你绑定。工程学技能必须达到400点才能激活护网的功能。[/div]
+</code>
+</spell>
+<spell id="67839" icon="trade_engineering" cost="100000">
+<name>思维放大圆盘</name>
+<code>
+[span class='q']思维放大圆盘[/span][br/]5秒施法时间[br/][span class="q2"]拆开头盔并加装上一个思维放大圆盘，使你的耐力提高45点，并使你可以使用意念同一名敌人战斗，很有可能控制他们。每10分钟可以使用一次。[br /][br /]被加装的头盔将会与你绑定。需要工程学达到350点才可以使用。[/span]
+</code>
+</spell>
+<spell id="2018" icon="trade_blacksmithing" cost="10">
+<name>锻造</name>
+<code>
+[table][tbody][tr][td][span class="name q"]锻造[/span][/td][/tr][/tbody][/table][div class="q2"]使铁匠可以制造武器和护甲。需要通过采矿得到的石块和金属。[/div]
+</code>
+</spell>
+<spell id="2108" icon="inv_misc_armorkit_17" cost="10">
+<name>制皮</name>
+<code>
+[table][tbody][tr][td][span class="name q"]制皮[/span][/td][/tr][/tbody][/table][div class="q2"]使制皮匠可以制造皮甲。需要剥皮师从野兽身上剥皮的皮毛。[/div]
+</code>
+</spell>
+<spell id="2259" icon="trade_alchemy" cost="10">
+<name>炼金术</name>
+<code>
+[table][tbody][tr][td][span class="name q"]炼金术[/span][/td][/tr][/tbody][/table][div class="q2"]使炼金师可以配制药水。需要由采药师收集的草药。[/div]
+</code>
+</spell>
+<spell id="2550" icon="inv_misc_food_15" cost="100">
+<name>烹饪</name>
+<code>
+[table][tbody][tr][td][span class="name q"]烹饪[/span][/td][/tr][/tbody][/table][div class="q2"]使厨师可以制造食物。需要火焰和从野兽身上收集的肉块以烹制食物。[/div]
+</code>
+</spell>
+<spell id="3908" icon="trade_tailoring" cost="10">
+<name>裁缝</name>
+<code>
+[table][tbody][tr][td][span class="name q"]裁缝[/span][/td][/tr][/tbody][/table][div class="q2"]使裁缝可以制造衬衣和布甲。需要从人型生物身上获得的布料。[/div]
+</code>
+</spell>
+<spell id="4036" icon="trade_engineering" cost="10">
+<name>工程学</name>
+<code>
+[table][tbody][tr][td][span class="name q"]工程学[/span][/td][/tr][/tbody][/table][div class="q2"]使技师可以制造工程学物品。需要通过采矿得到的石块和金属。[/div]
+</code>
+</spell>
+<spell id="7411" icon="trade_engraving" cost="10">
+<name>附魔</name>
+<code>
+[table][tbody][tr][td][span class="name q"]附魔[/span][/td][/tr][/tbody][/table][div class="q2"]使附魔师可以为装备附魔。需要由分解魔法装备而得到的魔法尘和魔法精华。[/div]
+</code>
+</spell>
+<spell id="25229" icon="inv_misc_gem_01" cost="10">
+<name>珠宝加工</name>
+<code>
+[table][tbody][tr][td][span class="name q"]珠宝加工[/span][/td][/tr][/tbody][/table][div class="q2"]使珠宝匠可以制作珠宝。需要通过采矿技能获得的珍贵宝石和金属。[/div]
+</code>
+</spell>
+<spell id="45357" icon="inv_inscription_tradeskill01" cost="10">
+<name>铭文</name>
+<code>
+[table][tbody][tr][td][span class="name q"]铭文[/span][/td][/tr][/tbody][/table][div class="q2"]使铭文师可以制造魔法铭文物品。需要由采药师收集的草药。[/div]
+</code>
+</spell>
+<spell id="62734" icon="trade_fishing">
+<name>钓鱼</name>
+<code>
+[table][tbody][tr][td][span class="name q"]钓鱼[/span][/td][/tr][tr][td]10-20码距离[/td][/tr][/tbody][/table][div class="q2"]装备鱼竿之后可以寻找一片水域钓鱼。当水中的鱼漂溅起水花的时候，立刻右键点击鱼漂以捕捉上钩的鱼。钓鱼技能的等级越高，你越有可能在高等级的水域中钓到鱼。[/div]
+</code>
+</spell>
+</spells>

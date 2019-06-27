@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<comments>
+<comment>
+<spell id="2660" />
+<spell id="3115" />
+<spell id="12260" />
+<spell id="2663" />
+<words>起始.</words>
+</comment>
+<comment>
+<item id="10713" />
+<words>该设计图由侏儒工程学制造.</words>
+</comment>
+<comment>
+<item id="8030" />
+<words>要想购买该设计图, 你必须完成 [npc=11216@map] 处接受的系列任务, 获得 [item=13544]. 佩戴该饰品才可以与达隆郡的鬼魂交谈.</words>
+</comment>
+<comment>
+<item id="12727" />
+<words>该铸甲术由以下二部分拼合而成: [item=18779@source][item=18780@source]</words>
+</comment>
+<comment>
+<item id="12726" />
+<words>该铸甲术由以下二部分拼合而成: [item=18781@source][item=18782@source]</words>
+</comment>
+<comment>
+<item id="12725" />
+<words>该铸甲术由以下二部分拼合而成: [item=18783@source][item=18784@source]</words>
+</comment>
+<comment>
+<spell id="28242" />
+<spell id="28243" />
+<spell id="28244" />
+<words>该物品的铸造技巧已随纳克萨玛斯的迁移而失传.</words>
+</comment>
+<comment>
+<spell id="21161" />
+<words>[item=18628] 在 [npc=12944@map] 处使用一块 [item=17203] 换取 .</words>
+</comment>
+</comments>

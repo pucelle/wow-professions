@@ -1,0 +1,146 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>魔兽世界 - 附魔指南</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="x-ua-compatible" content="IE=7" />
+<meta name="keywords" content="WoW,World of Warcraft,Profession,魔兽,魔兽世界,专业技能" />
+<meta name="author" content="FF" />
+<link rel="stylesheet" href="style.css" />
+<style type="text/css">
+.topsearchbar ul, .bottomsearchbar ul{display:none;}
+</style>
+<link rel="shortcut icon" href="background/favicon.ico" />
+<script type="text/javascript" src="js/base.js"></script>
+<script type="text/javascript" src="js/tip.js"></script>
+<script type="text/javascript" src="js/wowtip.js"></script>
+<script type="text/javascript" src="js/link.js"></script>
+<script type="text/javascript" src="js/table.js"></script>
+<!--[if IE 6]>
+ <script type="text/javascript" src="js/ie7.js"></script>
+<![endif]-->
+<script type="text/javascript">
+var callback = counting(2, function(){
+	Downloaded();
+	tooltip.init();
+	wowtip.init(xmltable);
+	document.body.className = store.get("camp") ? store.get("camp") : (store.set("camp", "alliance").get("camp"));
+	linkProfession(5);
+	skillTable.init("附魔", "公式", [
+		["trainer"],
+		["level",0,75],
+		["level",75,150],
+		["level",150,225],
+		["level",225,300],
+		["level",300,375],
+		["level",375,450],
+		["favourite"],
+		["search"]
+	]);
+	favourite.init("enchanting");
+	skillMenu.init("enchanting");
+	
+	var topsearchbar = document.getElementById("menu-top").getElementsByTagName("a");
+	topsearchbar = topsearchbar[topsearchbar.length - 1];
+	MouseoutDelay(topsearchbar, topsearchbar.getElementsByTagName("ul")[0]);
+	var bottomsearchbar = document.getElementById("menu-bottom").getElementsByTagName("a");
+	bottomsearchbar = bottomsearchbar[bottomsearchbar.length - 1];
+	MouseoutDelay(bottomsearchbar, bottomsearchbar.getElementsByTagName("ul")[0]);
+});
+
+var xmltable = loadxml({
+	item	: "data/enchanting/items.xml",
+	npc		: "data/enchanting/npcs.xml",
+	quest	: "data/enchanting/quests.xml",
+	spell	: "data/enchanting/spells.xml",
+	skill	: "data/enchanting/skills.xml",
+	object	: "data/enchanting/objects.xml",
+	comment	: "data/enchanting/comments.xml",
+	map		: "data/maps.xml"
+}, callback);
+
+domloaded(callback);
+
+</script>
+</head>
+<body>
+<!--[if IE]>
+<div id="browser">
+<a id="ff" href="http://www.mozillaonline.com/" title="Firefox"><span></span></a>
+<a id="op" href="http://www.operachina.com/" title="Opera"><span></span></a>
+<a id="ch" href="http://www.google.com/chrome/" title="Chrome"><span></span></a>
+<a id="sf" href="http://www.apple.com.cn/safari/download/" title="Safari"><span></span></a>
+</div>
+<![endif]-->
+<div id="wrapper">
+<div id="header">
+<div id="headerbg"></div>
+<div id="skills"></div>
+<div id="version">版本: 3.3.5</div>
+<div id="camp">
+<span class="a2 h3 si-alliance" onclick="changeCamp('alliance')" title="点击以切换到联盟状态">联盟</span>
+<span class="a3 h2 si-horde" onclick="changeCamp('horde')" title="点击以切换到部落状态">部落</span>
+</div>
+</div>
+<div id="menu-top">
+<a href="javascript:skillMenu.click(0)">&nbsp;训练师&nbsp;</a>
+<a href="javascript:skillMenu.click(1)">1-70</a>
+<a href="javascript:skillMenu.click(2)">85-150</a>
+<a href="javascript:skillMenu.click(3)">155-225</a>
+<a href="javascript:skillMenu.click(4)">230-300</a>
+<a href="javascript:skillMenu.click(5)">305-375</a>
+<a href="javascript:skillMenu.click(6)">380-450</a>
+<a href="javascript:skillMenu.click(7)" title="左键点击一个专业技能制造的物品以加入收藏夹，再次点击以删除。">&nbsp;收藏夹&nbsp;</a>
+<a href="javascript:" class="topsearchbar">
+<span onclick="skillMenu.click(8)">&nbsp;搜索栏&nbsp;</span>
+<ul>
+<li onclick="skillTable.search('附魔武器')">武器</li>
+<li onclick="skillTable.search('附魔双手武器')">双手武器</li>
+<li onclick="skillTable.search('附魔披风')">披风</li>
+<li onclick="skillTable.search('附魔胸甲')">胸甲</li>
+<li onclick="skillTable.search('附魔护腕')">护腕</li>
+<li onclick="skillTable.search('附魔手套')">手套</li>
+<li onclick="skillTable.search('附魔靴子')">靴子</li>
+<li onclick="skillTable.search('附魔盾牌')">盾牌</li>
+<li onclick="skillTable.searchByClass('0.-3')">油</li>
+<li onclick="skillTable.searchByClass('2.19')">魔杖</li>
+<li onclick="skillTable.searchByClass('4.-4')">饰品</li>
+<li onclick="skillTable.searchByClass('7.12')">材料</li>
+</ul>
+</a>
+<div id="search">
+<input id="text" type="text" onkeydown="if(event.keyCode==13){skillTable.search();}" />
+<div id="go" title="搜索附魔技能" onclick="skillTable.search();"></div>
+</div>
+</div>
+<div id="content"></div>
+<div id="menu-bottom">
+<a href="javascript:skillMenu.click(0)">&nbsp;训练师&nbsp;</a>
+<a href="javascript:skillMenu.click(1)">1-70</a>
+<a href="javascript:skillMenu.click(2)">85-150</a>
+<a href="javascript:skillMenu.click(3)">155-225</a>
+<a href="javascript:skillMenu.click(4)">230-300</a>
+<a href="javascript:skillMenu.click(5)">305-375</a>
+<a href="javascript:skillMenu.click(6)">380-450</a>
+<a href="javascript:skillMenu.click(7)" title="左键点击一个专业技能制造的物品以加入收藏夹，再次点击以删除。">&nbsp;收藏夹&nbsp;</a>
+<a href="javascript:" class="bottomsearchbar">
+<span onclick="skillMenu.click(8)">&nbsp;搜索栏&nbsp;</span>
+<ul>
+<li onclick="skillTable.search('附魔武器')">武器</li>
+<li onclick="skillTable.search('附魔双手武器')">双手武器</li>
+<li onclick="skillTable.search('附魔披风')">披风</li>
+<li onclick="skillTable.search('附魔胸甲')">胸甲</li>
+<li onclick="skillTable.search('附魔护腕')">护腕</li>
+<li onclick="skillTable.search('附魔手套')">手套</li>
+<li onclick="skillTable.search('附魔靴子')">靴子</li>
+<li onclick="skillTable.search('附魔盾牌')">盾牌</li>
+<li onclick="skillTable.searchByClass('0.-3')">油</li>
+<li onclick="skillTable.searchByClass('2.19')">魔杖</li>
+<li onclick="skillTable.searchByClass('4.-4')">饰品</li>
+<li onclick="skillTable.searchByClass('7.12')">材料</li>
+</ul>
+</a></div>
+<div id="footer"></div>
+</div>
+</body>
+</html>

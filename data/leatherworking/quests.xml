@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quests>
+<quest id="769" level="10" requires-level="4" side="3" colors="4 6 8 13 16">
+<start type="npc" id="3050" />
+<name>科多兽皮包</name>
+<description>给雷霆崖的维尔伦·陆行者带去4块轻皮和4份粗线。</description>
+</quest>
+<quest id="1487" level="21" requires-level="15" side="1" colors="15 17 19 24 28">
+<start type="npc" id="5768" />
+<name>清除变异者</name>
+<description>哀嚎洞穴的厄布鲁要求你杀掉7只变异破坏者、7只剧毒飞蛇、7只变异蹒跚者和7只变异尖牙风蛇。</description>
+</quest>
+<quest id="1582" level="18" requires-level="8" side="2" colors="8 14 16 21 25">
+<start type="npc" id="4217" />
+<name>月光外衣</name>
+<description>把1双雕花皮手套、5双雕花皮靴和5件雕花皮质披风交给达纳苏斯的洛瑟里亚斯。</description>
+</quest>
+<quest id="2521" level="55" requires-level="45" side="1" colors="45 51 53 58 66">
+<start type="npc" id="7363" />
+<name>为库米沙效力</name>
+<description>在你探索诅咒之地的旅程中，如果碰巧发现了无暇的德莱尼水晶球，就把它交给收藏家库米沙。\n\n你要知道，这种宝石是整个艾泽拉斯最珍稀的水晶。诅咒之地上的任何一种生物都有可能带着一颗无暇的德莱尼水晶球。\n\n每找到一颗，你都会得到相应的酬劳。</description>
+</quest>
+<quest id="2522" level="55" requires-level="45" side="1" colors="45 51 53 58 66">
+<start type="npc" id="7363" />
+<name>库米沙的努力</name>
+<description>找到一颗无暇的德莱尼水晶球，把它交给收藏家库米沙。</description>
+</quest>
+<quest id="2747" level="60" requires-level="42" side="1" colors="42 56 58 63 72">
+<start type="npc" id="7763" />
+<name>特别的蛋</name>
+<description>从菲拉斯发现的各种蛋中，我只见过极少数 "特别的蛋"。这种蛋真的非常稀有...</description>
+</quest>
+<quest id="2848" level="45" requires-level="30" side="2" colors="30 41 43 48 55">
+<start type="npc" id="7852" />
+<name>蛮皮护肩</name>
+<description>给羽月要塞的普拉特·马克格鲁带去6片厚重护甲片和1株野葡萄。</description>
+</quest>
+<quest id="2849" level="45" requires-level="30" side="2" colors="30 41 43 48 55">
+<start type="npc" id="7852" />
+<name>蛮皮外衣</name>
+<description>给羽月要塞的普拉特·马克格鲁带去2件龟鳞胸甲、2副龟鳞手套和1株野葡萄。</description>
+</quest>
+<quest id="2850" level="45" requires-level="30" side="2" colors="30 41 43 48 55">
+<start type="npc" id="7852" />
+<name>蛮皮头盔</name>
+<description>给羽月要塞的普拉特·马克格鲁比带去2件夜色外套、2条夜色头巾和一株野葡萄。</description>
+</quest>
+<quest id="2851" level="45" requires-level="30" side="2" colors="30 41 43 48 55">
+<start type="npc" id="7852" />
+<name>蛮皮战靴</name>
+<description>给羽月要塞的普拉特·马克格鲁带去2条夜色裤、2双夜色靴和2株野葡萄。</description>
+</quest>
+<quest id="2852" level="45" requires-level="30" side="2" colors="30 41 43 48 55">
+<start type="npc" id="7852" />
+<name>蛮皮护腿</name>
+<description>给羽月要塞的普拉特·马克格鲁比带去2顶龟鳞头盔、2副龟鳞护腕和2株野葡萄。</description>
+</quest>
+<quest id="2853" level="45" requires-level="30" side="2" colors="30 41 43 48 55">
+<start type="npc" id="7852" />
+<name>蛮皮护甲大师</name>
+<description>将普拉特的信交给达纳苏斯的制皮大师泰龙尼斯。</description>
+</quest>
+<quest id="2855" level="45" requires-level="30" side="3" colors="30 41 43 48 55">
+<start type="npc" id="7854" />
+<name>蛮皮护肩</name>
+<description>给莫沙彻营地的杉多尔·迅蹄带去6块厚重护甲片和1株野葡萄。</description>
+</quest>
+<quest id="2856" level="45" requires-level="30" side="3" colors="30 41 43 48 55">
+<start type="npc" id="7854" />
+<name>蛮皮外衣</name>
+<description>给莫沙彻营地的杉多尔·迅蹄带去2件龟鳞胸甲、2副龟鳞手套和1株野葡萄。</description>
+</quest>
+<quest id="2857" level="45" requires-level="30" side="3" colors="30 41 43 48 55">
+<start type="npc" id="7854" />
+<name>蛮皮头盔</name>
+<description>给莫沙彻营地的杉多尔·迅蹄带去2件夜色外套、2条夜色头巾和1株野葡萄。</description>
+</quest>
+<quest id="2858" level="45" requires-level="30" side="3" colors="30 41 43 48 55">
+<start type="npc" id="7854" />
+<name>蛮皮战靴</name>
+<description>给莫沙彻营地的杉多尔·迅蹄带去2条夜色短裤、2双夜色长靴和2株野葡萄。</description>
+</quest>
+<quest id="2859" level="45" requires-level="30" side="3" colors="30 41 43 48 55">
+<start type="npc" id="7854" />
+<name>蛮皮护腿</name>
+<description>给莫沙彻营地的杉多尔·迅蹄带去2顶龟鳞头盔、2副龟鳞护腕和2株野葡萄。</description>
+</quest>
+<quest id="2860" level="45" requires-level="30" side="3" colors="30 41 43 48 55">
+<start type="npc" id="7854" />
+<name>蛮皮护甲大师</name>
+<description>将杉多尔的信交给雷霆崖的制皮大师犹纳。</description>
+</quest>
+<quest id="2882" level="45" requires-level="40" side="1" colors="40 41 43 48 55">
+<start type="item" id="9254" />
+<name>科尔戈的黄金</name>
+<description>找到科尔戈的黄金！</description>
+</quest>
+<quest id="3481" level="50" requires-level="40" side="1" colors="40 46 48 53 61">
+<start type="object" id="149502" />
+<name>打开箱子…</name>
+<description>打开箱子。</description>
+</quest>
+<quest id="5141" level="55" requires-level="40" side="2" colors="40 51 53 58 66">
+<start type="npc" id="7866" />
+<name>龙鳞制皮</name>
+<description>将2套硬化蝎壳胸甲、2套硬化蝎壳手套和10片龙鳞交给艾萨拉的彼得·加林。\n\n完成这项任务之后，你就可以学到龙鳞制皮技术了。\n\n同时，你也将永远无法学习元素制皮技术和部族制皮技术，在决定之前先考虑清楚。</description>
+</quest>
+<quest id="5145" level="55" requires-level="40" side="3" colors="40 51 53 58 66">
+<start type="npc" id="7867" />
+<name>龙鳞制皮</name>
+<description>将2套硬化蝎壳胸甲、2套硬化蝎壳手套和10片龙鳞交给荒芜之地的索卡夫·龙眼。\n\n完成这项任务之后，你就可以学到龙鳞制皮技术了。\n\n同时，你也将永远无法学习元素制皮技术和部族制皮技术，在决定之前先考虑清楚。</description>
+</quest>
+<quest id="5144" level="55" requires-level="40" side="2" colors="40 51 53 58 66">
+<start type="npc" id="7868" />
+<name>元素制皮</name>
+<description>将2个火焰之心、2个纯水之球、2个大地之核和2个风之气息交给灼热峡谷的萨拉·坦尼。\n\n一旦你完成这项任务，就可以开始学习元素制皮技艺了。\n\n同时，你也就无法再学习龙鳞制皮和部落制皮了，在你决定之前要考虑清楚。</description>
+</quest>
+<quest id="5146" level="55" requires-level="40" side="3" colors="40 51 53 58 66">
+<start type="npc" id="7869" />
+<name>元素制皮</name>
+<description>将2个火焰之心、2个纯水之球、2个大地之核和2个风之气息交给阿拉希山脉的布鲁姆·白蹄。\n\n一旦你完成这项任务，就可以开始学习元素制皮技艺了。\n\n同时，你也就无法再学习龙鳞制皮和部落制皮了，在你决定之前要考虑清楚。</description>
+</quest>
+<quest id="5143" level="55" requires-level="40" side="2" colors="40 51 53 58 66">
+<start type="npc" id="7870" />
+<name>部族制皮</name>
+<description>将1件蛮皮外衣和1件蛮皮头盔交给菲拉斯的凯雷希亚·猎月。\n\n完成这项任务之后，你就可以学到部族制皮技术了。\n\n同时，你也将永远无法学习元素制皮技术和龙鳞制皮技术，在决定之前先考虑清楚。</description>
+</quest>
+<quest id="5148" level="55" requires-level="40" side="3" colors="40 51 53 58 66">
+<start type="npc" id="7871" />
+<name>部族制皮</name>
+<description>将1件蛮皮外衣和1件蛮皮头盔交给荆棘谷的瑟伊布。\n\n完成这项任务之后，你就可以学到部族制皮技术了。\n\n同时，你也将永远无法学习元素制皮技术和龙鳞制皮技术，在决定之前先考虑清楚。</description>
+</quest>
+<quest id="6984" requires-level="30" side="3" colors="0 0 0 0 0">
+<start type="npc" id="13418" />
+<name>烟林牧场的感谢</name>
+<description>和奥格瑞玛的冬天爷爷谈一谈。</description>
+</quest>
+<quest id="7045" requires-level="30" side="2" colors="0 0 0 0 0">
+<start type="npc" id="13433" />
+<name>烟林牧场的感谢</name>
+<description>和铁炉堡的冬天爷爷谈一谈。</description>
+</quest>
+<quest id="7493" level="60" requires-level="60" colors="0 0 60 63 72">
+<start type="npc" id="14392" />
+<name>一切才刚刚开始</name>
+</quest>
+<quest id="7497" level="60" requires-level="60" side="2" colors="0 0 60 63 72">
+<name>一切才刚刚开始</name>
+</quest>
+<quest id="7840" level="49" requires-level="44" side="3" colors="44 45 47 52 59">
+<start type="npc" id="14731" />
+<name>拉尔德的午餐</name>
+<description>辛特兰恶齿村的拉尔德要求你去找到拉尔德的午餐。完成任务之后就回到他那里去。\n\n拉尔德说他把午餐留在了北面的岛上。当心邪枝巨魔。</description>
+</quest>
+<quest id="7931" requires-level="15" side="1" colors="0 0 0 0 0">
+<start type="npc" id="14828" />
+<name>5张奖券 - 小奖品</name>
+</quest>
+<quest id="7932" requires-level="30" side="1" colors="0 0 0 0 0">
+<start type="npc" id="14828" />
+<name>12张奖券 - 普通奖品</name>
+</quest>
+<quest id="7933" requires-level="45" side="1" colors="0 0 0 0 0">
+<start type="npc" id="14828" />
+<name>40张奖券 - 高级奖品</name>
+</quest>
+<quest id="8769" requires-level="40" side="1" colors="0 0 0 0 0">
+<start type="object" id="180748" />
+<name>条纹礼物盒</name>
+<description>打开圣诞树下的条纹礼物盒。</description>
+</quest>
+<quest id="13818" level="80" requires-level="80" side="1" colors="0 0 80 83 94">
+<start type="npc" id="33957" />
+<name>英雄：奥尔加隆</name>
+<description>将守护者的徽记带到奥杜尔的档案馆控制台前。</description>
+</quest>
+<quest id="3442" level="48" requires-level="40" side="1" colors="40 44 46 51 58">
+<start type="npc" id="8479" />
+<name>无瑕之焰</name>
+<description>收集4份烈焰之心和4份傀儡之油，然后把这些东西交给卡拉然·温布雷。</description>
+</quest>
+<quest id="6963" requires-level="30" side="3" colors="0 0 0 0 0">
+<start type="npc" id="13418" />
+<name>被偷走的冬幕节礼物</name>
+<description>前往奥特兰克山脉雪域寻找失踪的烟林牧场密探。</description>
+</quest>
+<quest id="7042" requires-level="30" side="2" colors="0 0 0 0 0">
+<start type="npc" id="13434" />
+<name>被偷走的冬幕节礼物</name>
+<description>前往奥特兰克山脉雪域寻找失踪的烟林牧场密探。</description>
+</quest>
+</quests>

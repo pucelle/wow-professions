@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<npcs>
+<npc id="26679" class="7" level="73 - 74" health="9,940 - 10,282" A="2" H="1">
+<name>银溪镇猎人</name>
+<screenshot>94411</screenshot>
+<coords map="394">
+<coord x="70" y="60" />
+<coord x="70" y="70" />
+<coord x="80" y="60" />
+<coord x="80" y="70" />
+</coords>
+</npc>
+<npc id="26708" class="7" level="73 - 74" health="9,940 - 10,282" A="2" H="1">
+<name>银溪镇平民</name>
+<screenshot>94414</screenshot>
+<coords map="394">
+<coord x="70" y="60" />
+<coord x="70" y="70" />
+<coord x="80" y="60" />
+<coord x="80" y="70" />
+</coords>
+</npc>
+<npc id="26916" class="7" level="71" health="9,291" A="2" H="3">
+<name>明蒂·丁克斯</name>
+<rank>宗师级铭文训练师</rank>
+<screenshot>90537</screenshot>
+<coords map="495">
+<coord x="170" y="120" />
+</coords>
+</npc>
+<npc id="26959" class="7" level="71" health="9,291" A="3" H="2">
+<name>书记员凯尔斯</name>
+<rank>宗师级铭文训练师</rank>
+<screenshot>90800</screenshot>
+<coords map="495">
+<coord x="230" y="50" />
+</coords>
+</npc>
+<npc id="26977" class="7" level="69" health="7,984" A="3" H="2">
+<name>奥德蕾·炎枪</name>
+<rank>宗师级铭文训练师</rank>
+<screenshot>93192</screenshot>
+<coords map="3537">
+<coord x="120" y="100" />
+</coords>
+</npc>
+<npc id="26995" class="7" level="71" health="9,291" A="2" H="3">
+<name>汀克·亮钉</name>
+<rank>宗师级铭文训练师</rank>
+<screenshot>89241</screenshot>
+<coords map="3537">
+<coord x="170" y="140" />
+</coords>
+</npc>
+<npc id="27546" class="7" level="68 - 74" health="9,940 - 10,282" A="3" H="3">
+<name>银溪镇猎人</name>
+<screenshot>94343</screenshot>
+<coords map="394">
+<coord x="100" y="130" />
+<coord x="100" y="140" />
+<coord x="110" y="130" />
+<coord x="110" y="140" />
+</coords>
+</npc>
+<npc id="27676" class="7" level="69 - 74" health="9,940 - 10,282" A="2" H="1">
+<name>银溪镇防御者</name>
+<screenshot>94345</screenshot>
+<coords map="394">
+<coord x="60" y="60" />
+<coord x="70" y="60" />
+<coord x="70" y="70" />
+</coords>
+</npc>
+<npc id="28702" class="7" level="75" health="8,508" A="2" H="2">
+<name>帕林教授</name>
+<rank>宗师级铭文训练师</rank>
+<screenshot>94208</screenshot>
+<coords map="4395">
+<coord x="120" y="70" />
+</coords>
+</npc>
+<npc id="28723" class="7" level="75" health="8,508" A="2" H="2">
+<name>拉兰娜·德罗姆</name>
+<rank>铭文供应商</rank>
+<screenshot>94209</screenshot>
+<coords map="4395">
+<coord x="120" y="70" />
+</coords>
+</npc>
+<npc id="30706" class="7" level="35" health="1,202" A="3" H="2">
+<name>犹尔曼</name>
+<rank>铭文训练师</rank>
+<screenshot>101566</screenshot>
+<coords map="1637">
+<coord x="160" y="90" />
+</coords>
+</npc>
+<npc id="30709" class="7" level="35" health="902" A="3" H="2">
+<name>波什金·哈比德尔</name>
+<rank>铭文训练师</rank>
+<screenshot>101370</screenshot>
+<coords map="1638">
+<coord x="80" y="40" />
+</coords>
+</npc>
+<npc id="30710" class="7" level="35" health="902" A="3" H="2">
+<name>赞塔希娅</name>
+<rank>铭文训练师</rank>
+<screenshot>96893</screenshot>
+<coords map="3487">
+<coord x="200" y="40" />
+</coords>
+</npc>
+<npc id="30711" class="7" level="35" health="902" A="3" H="2">
+<name>玛尔迦丝·帕克雷</name>
+<rank>铭文训练师</rank>
+<screenshot>96896</screenshot>
+<coords map="1497">
+<coord x="180" y="110" />
+</coords>
+</npc>
+<npc id="30713" class="7" level="35" health="902" A="2" H="3">
+<name>卡塔莉娜·斯坦弗</name>
+<rank>铭文训练师</rank>
+<screenshot>95202</screenshot>
+<coords map="1519">
+<coord x="140" y="140" />
+</coords>
+</npc>
+<npc id="30715" class="7" level="35" health="902" A="2" H="3">
+<name>芬迪·达金</name>
+<rank>铭文训练师</rank>
+<screenshot>119432</screenshot>
+<coords map="1657">
+<coord x="170" y="20" />
+</coords>
+</npc>
+<npc id="30716" class="7" level="35" health="902" A="2" H="3">
+<name>索斯</name>
+<rank>铭文训练师</rank>
+<screenshot>119425</screenshot>
+<coords map="3557">
+<coord x="110" y="70" />
+</coords>
+</npc>
+<npc id="30717" class="7" level="35" health="902" A="2" H="3">
+<name>艾莉丝·布莱里特</name>
+<rank>铭文训练师</rank>
+<screenshot>101654</screenshot>
+<coords map="1537">
+<coord x="180" y="90" />
+</coords>
+</npc>
+<npc id="30721" class="7" level="60" health="2,136" A="2" H="3">
+<name>迈克尔·斯克瓦</name>
+<rank>大师级铭文训练师</rank>
+<screenshot>101505</screenshot>
+<coords map="3483">
+<coord x="160" y="130" />
+</coords>
+</npc>
+<npc id="30722" class="7" level="60" health="2,136" A="3" H="2">
+<name>奈菲拉蒂</name>
+<rank>大师级铭文训练师</rank>
+<screenshot>101764</screenshot>
+<coords map="3483">
+<coord x="150" y="70" />
+</coords>
+</npc>
+<npc id="30734" class="7" level="60" health="2,136" A="2" H="3">
+<name>耶塞贝尔·比坎</name>
+<rank>铭文供应商</rank>
+<screenshot>101504</screenshot>
+<coords map="3483">
+<coord x="160" y="130" />
+</coords>
+</npc>
+<npc id="30735" class="7" level="60" health="2,136" A="3" H="2">
+<name>库尔·墨印</name>
+<rank>铭文供应商</rank>
+<screenshot>160070</screenshot>
+<coords map="3483">
+<coord x="150" y="70" />
+</coords>
+</npc>
+<npc id="33603" class="7" level="75" health="8,508" A="2" H="2">
+<name>亚瑟·丹尼</name>
+<rank>宗师级铭文训练师</rank>
+<screenshot>126386</screenshot>
+<coords map="210">
+<coord x="210" y="40" />
+</coords>
+</npc>
+<npc id="33615" class="10" level="60" health="9,156" A="2" H="2">
+<name>铭文</name>
+<screenshot>126596</screenshot>
+<coords map="3703">
+<coord x="130" y="180" />
+</coords>
+</npc>
+<npc id="33638" class="7" level="62" health="2,266" A="2" H="2">
+<name>抄写员兰罗尔</name>
+<rank>大师级铭文训练师</rank>
+<screenshot>128044</screenshot>
+<coords map="3703">
+<coord x="160" y="140" />
+</coords>
+</npc>
+<npc id="33679" class="7" level="62" health="2,266" A="2" H="2">
+<name>记录员利迪欧</name>
+<rank>大师级铭文训练师</rank>
+<screenshot>126634</screenshot>
+<coords map="3703">
+<coord x="100" y="80" />
+</coords>
+</npc>
+</npcs>

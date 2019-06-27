@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quests>
+<quest id="1141" level="14" requires-level="10" side="2" colors="0 10 12 17 21">
+<start type="npc" id="10216" />
+<name>钓鱼世家</name>
+<description>为奥伯丁的古博·布拉普抓6条黑海岸石斑鱼。</description>
+</quest>
+<quest id="6607" level="45" requires-level="35" side="1" colors="35 41 43 48 55">
+<start type="npc" id="12919" />
+<name>钓鱼专家纳特·帕格</name>
+<description>纳特·帕格要你钓到以下几种鱼：\n悲伤沼泽芦苇海岸的芦苇海岸大马哈鱼。\n\n凄凉之地萨瑟里斯海岸的萨瑟里斯虎鱼。\n\n菲拉斯沃丹提斯河的菲拉斯草鱼。\n\n荆棘谷野人海岸的野人海岸蓝色叉牙鱼。\n\n当你钓到这些鱼之后，就可以回到纳特·帕格那里去了！</description>
+</quest>
+<quest id="7815" level="50" requires-level="44" side="3" colors="44 46 48 53 61">
+<start type="npc" id="14740" />
+<name>钳嘴龟！</name>
+<description>辛特兰恶齿村的钓鱼者卡图姆要你去杀掉15只海水钳嘴龟。完成任务之后回到他那里去复命。</description>
+</quest>
+<quest id="8193" requires-level="1" side="1" colors="0 0 0 0 0">
+<start type="npc" id="15077" />
+<name>钓鱼大师</name>
+<description>欢迎参加藏宝海湾钓鱼比赛，每周我们都会选出一位最好的渔夫，授予他钓鱼大师的称号。\n\n在下午2点到4点之间，大群的斑点可口鱼会出现在荆棘谷海岸。如果你的浮标落在可口鱼鱼群中，你肯定能钓上一些的，这比在荆棘谷一般的海域垂钓要有效的多。</description>
+</quest>
+<quest id="8221" requires-level="1" side="1" colors="0 0 0 0 0">
+<start type="npc" id="15079" />
+<name>稀有鱼类 - 基佛天使鱼</name>
+<description>为藏宝海湾的钓鱼机器人5000型带回一条基佛天使鱼。</description>
+</quest>
+<quest id="8224" requires-level="1" side="1" colors="0 0 0 0 0">
+<start type="npc" id="15079" />
+<name>稀有鱼类 - 迪森皇后鱼</name>
+<description>为藏宝海湾的钓鱼机器人5000型带回一条迪森皇后鱼。</description>
+</quest>
+<quest id="8225" requires-level="1" side="1" colors="0 0 0 0 0">
+<start type="npc" id="15079" />
+<name>稀有鱼类 - 布隆奈尔蓝斑鱼</name>
+<description>为藏宝海湾的钓鱼机器人5000型带回一条布隆奈尔蓝斑鱼。</description>
+</quest>
+<quest id="10037" level="64" requires-level="62" side="1" colors="0 0 62 67 76">
+<start type="npc" id="18653" />
+<name>宁可去钓鱼</name>
+<description>为沙塔斯城的塞瑟带回8条新鲜的亮鳞电鳗。</description>
+</quest>
+<quest id="11665" level="70" requires-level="70" side="1" colors="0 0 70 73 83">
+<start type="npc" id="25580" />
+<name>城中的鳄鱼</name>
+<description>为老渔夫巴尔洛带回一只鳄鱼宝宝。你可以在沙塔斯城东北面的希尔米耶湖旁找到他。</description>
+</quest>
+<quest id="11666" level="70" requires-level="70" side="1" colors="0 0 70 73 83">
+<start type="npc" id="25580" />
+<name>黑鳞镖鲈</name>
+<description>为老渔夫巴尔洛带回一只黑鳞镖鲈。你可以在沙塔斯城东北面的希尔米耶湖旁找到他。</description>
+</quest>
+<quest id="11667" level="70" requires-level="70" side="1" colors="0 0 70 73 83">
+<start type="npc" id="25580" />
+<name>世界上最大的泥鱼</name>
+<description>为老渔夫巴尔洛捕捉到世界上最大的泥鱼。你可以在沙塔斯城东北面的希尔米耶湖旁找到他。</description>
+</quest>
+<quest id="11668" level="70" requires-level="70" side="1" colors="0 0 70 73 83">
+<start type="npc" id="25580" />
+<name>巨型淡水虾</name>
+<description>为老渔夫巴尔洛带回10只巨型淡水虾。你可以在沙塔斯城东北面的希尔米耶湖旁找到他。</description>
+</quest>
+<quest id="11669" level="70" requires-level="70" side="1" colors="0 0 70 73 83">
+<start type="npc" id="25580" />
+<name>魔血鲷鱼</name>
+<description>为老渔夫巴尔洛带回一只巨型魔血鲷鱼。你可以在沙塔斯城东北面的希尔米耶湖旁找到他。</description>
+</quest>
+<quest id="13826" colors="0 0 0 0 0">
+<name>钓鱼专家纳特·帕格</name>
+</quest>
+<quest id="13830" level="Daily" requires-level="70" side="1" colors="0 0 0 0 0">
+<start type="npc" id="28742" />
+<name>幽灵鱼</name>
+<description>达拉然城中的玛西娅·切斯希望你去揭开幽灵鱼的秘密。</description>
+</quest>
+<quest id="13832" level="Daily" requires-level="70" side="1" colors="0 0 0 0 0">
+<start type="npc" id="28742" />
+<name>下水道中的珍宝</name>
+<description>将一块被腐蚀的珠宝交给达拉然城中的玛西娅·切斯。</description>
+</quest>
+<quest id="13833" level="Daily" requires-level="70" side="1" colors="0 0 0 0 0">
+<start type="npc" id="28742" />
+<name>血溶于水</name>
+<description>将5条血齿狂鱼交给达拉然城中的玛西娅·切斯。</description>
+</quest>
+<quest id="13834" level="Daily" requires-level="70" side="1" colors="0 0 0 0 0">
+<start type="npc" id="28742" />
+<name>危险的美食</name>
+<description>将10条恐怖鱼交给达拉然城中的玛西娅·切斯。</description>
+</quest>
+<quest id="13836" level="Daily" requires-level="70" side="1" colors="0 0 0 0 0">
+<start type="npc" id="28742" />
+<name>巨腹鱼的美餐</name>
+<description>将断臂交给达拉然城中的善良的欧莉萨拉。</description>
+</quest>
+<quest id="24803" requires-level="1" side="1" colors="0 0 0 0 0">
+<start type="npc" id="38294" />
+<name>卡鲁亚克钓鱼大赛</name>
+<description>在卡鲁亚克，人们有着每周锻炼自己钓鱼技能的悠久传统。\n\n第一个带回黑尖鲨鱼的旅行者，不仅能获得丰厚的奖励，还能赢得至少一天的 "诺森德最佳渔夫" 的称号。\n\n黑尖鲨鱼最喜欢的食物是小型亚口鱼，到小型亚口鱼经常出没的地方去碰碰运气吧。</description>
+</quest>
+<quest id="24806" requires-level="1" side="1" colors="0 0 0 0 0">
+<start type="npc" id="38294" />
+<name>下次好运</name>
+<description>恐怕今天的钓鱼比赛已经决出优胜者了，年轻的旅行者。不过如果你能带回一条鲨鱼，我将把它放归大海，然后发给你一些小奖品。</description>
+</quest>
+</quests>

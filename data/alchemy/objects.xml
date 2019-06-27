@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<objects>
+<object id="3642">
+<name>科卡尔的战利品</name>
+<screenshot>48497</screenshot>
+<coords map="17">
+<coord x="130" y="40" />
+</coords>
+</object>
+<object id="74448">
+<name>坚固的大箱子</name>
+<screenshot>38215</screenshot>
+<coords map="28">
+<coord x="120" y="20" />
+<coord x="120" y="30" />
+<coord x="120" y="50" />
+<coord x="130" y="20" />
+</coords>
+</object>
+<object id="75293">
+<name>破碎的大箱子</name>
+<screenshot>57488</screenshot>
+<coords map="3433">
+<coord x="90" y="140" />
+<coord x="90" y="180" />
+<coord x="110" y="150" />
+</coords>
+<coords map="3525">
+<coord x="40" y="100" />
+<coord x="50" y="90" />
+<coord x="60" y="100" />
+</coords>
+</object>
+<object id="131978">
+<name>大型秘银宝箱</name>
+<screenshot>62091</screenshot>
+<coords map="1337">
+<coord x="120" y="90" />
+<coord x="140" y="120" />
+</coords>
+</object>
+<object id="131979">
+<name>大木箱</name>
+<coords map="1337">
+<coord x="120" y="90" />
+<coord x="140" y="120" />
+</coords>
+</object>
+<object id="141979">
+<name>上古宝藏</name>
+<screenshot>86101</screenshot>
+<coords map="1337">
+<coord x="110" y="10" />
+</coords>
+</object>
+<object id="142184">
+<name>船长的箱子</name>
+<screenshot>72630</screenshot>
+<coords map="440">
+<coord x="230" y="90" />
+</coords>
+</object>
+<object id="149502">
+<name>黑龙的财宝</name>
+<screenshot>32411</screenshot>
+<coords map="51">
+<coord x="110" y="70" />
+</coords>
+</object>
+<object id="152608">
+<name>科卡尔的战利品</name>
+<screenshot>39744</screenshot>
+<coords map="17">
+<coord x="130" y="70" />
+</coords>
+</object>
+<object id="153468">
+<name>大型秘银宝箱</name>
+<screenshot>61885</screenshot>
+<coords map="28">
+<coord x="120" y="20" />
+<coord x="120" y="30" />
+<coord x="130" y="20" />
+</coords>
+</object>
+<object id="160845">
+<name>黑暗宝箱</name>
+<screenshot>43669</screenshot>
+<coords map="1584">
+<coord x="160" y="100" />
+</coords>
+</object>
+<object id="179697">
+<name>竞技场财宝箱</name>
+<screenshot>50439</screenshot>
+<coords map="33">
+<coord x="90" y="90" />
+</coords>
+</object>
+<object id="180368">
+<name>疯狂石板</name>
+<screenshot>92657</screenshot>
+<coords map="19">
+<coord x="200" y="90" />
+</coords>
+</object>
+<object id="180748">
+<name>节日礼物</name>
+<event>冬幕节</event>
+<screenshot>67103</screenshot>
+<coords map="1537">
+<coord x="100" y="130" />
+</coords>
+<coords map="1637">
+<coord x="150" y="130" />
+</coords>
+</object>
+</objects>

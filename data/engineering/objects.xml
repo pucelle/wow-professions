@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<objects>
+	<object id="3642">
+		<name>科卡尔的战利品</name>
+		<screenshot>48497</screenshot>
+		<coords map="17">
+			<coord x="130" y="40" />
+		</coords>
+	</object>
+	<object id="3714">
+		<name>联盟保险箱</name>
+		<screenshot>41540</screenshot>
+		<coords map="17">
+			<coord x="140" y="160" />
+		</coords>
+	</object>
+	<object id="74447">
+		<name>巨大铁皮箱</name>
+		<screenshot>51397</screenshot>
+		<coords map="491">
+			<coord x="50" y="70" />
+			<coord x="120" y="70" />
+			<coord x="150" y="90" />
+			<coord x="170" y="70" />
+			<coord x="190" y="100" />
+			<coord x="250" y="110" />
+		</coords>
+		<coords map="133">
+			<coord x="130" y="150" />
+			<coord x="150" y="170" />
+			<coord x="200" y="110" />
+			<coord x="210" y="60" />
+			<coord x="210" y="120" />
+		</coords>
+	</object>
+	<object id="74448">
+		<name>坚固的大箱子</name>
+		<screenshot>38215</screenshot>
+		<coords map="28">
+			<coord x="120" y="20" />
+			<coord x="120" y="30" />
+			<coord x="120" y="50" />
+			<coord x="130" y="20" />
+		</coords>
+	</object>
+	<object id="75293">
+		<name>破碎的大箱子</name>
+		<screenshot>57488</screenshot>
+		<coords map="3433">
+			<coord x="90" y="140" />
+			<coord x="90" y="180" />
+			<coord x="110" y="150" />
+		</coords>
+		<coords map="3525">
+			<coord x="40" y="100" />
+			<coord x="50" y="90" />
+			<coord x="60" y="100" />
+		</coords>
+	</object>
+	<object id="105570">
+		<name>联盟保险箱</name>
+		<screenshot>41147</screenshot>
+		<coords map="36">
+			<coord x="30" y="140" />
+			<coord x="40" y="150" />
+			<coord x="50" y="110" />
+			<coord x="50" y="150" />
+			<coord x="60" y="110" />
+			<coord x="60" y="120" />
+		</coords>
+	</object>
+	<object id="131978">
+		<name>大型秘银宝箱</name>
+		<screenshot>62091</screenshot>
+		<coords map="1337">
+			<coord x="120" y="90" />
+			<coord x="140" y="120" />
+		</coords>
+	</object>
+	<object id="131979">
+		<name>大木箱</name>
+		<coords map="1337">
+			<coord x="120" y="90" />
+			<coord x="140" y="120" />
+		</coords>
+	</object>
+	<object id="141979">
+		<name>上古宝藏</name>
+		<screenshot>86101</screenshot>
+		<coords map="1337">
+			<coord x="110" y="10" />
+		</coords>
+	</object>
+	<object id="142184">
+		<name>船长的箱子</name>
+		<screenshot>72630</screenshot>
+		<coords map="440">
+			<coord x="230" y="90" />
+		</coords>
+	</object>
+	<object id="152608">
+		<name>科卡尔的战利品</name>
+		<screenshot>39744</screenshot>
+		<coords map="17">
+			<coord x="130" y="70" />
+		</coords>
+	</object>
+	<object id="179564">
+		<name>戈多克贡品</name>
+		<screenshot>69903</screenshot>
+		<coords map="2557">
+			<coord x="210" y="180" />
+		</coords>
+	</object>
+	<object id="149502">
+		<name>黑龙的财宝</name>
+		<screenshot>32411</screenshot>
+		<coords map="51">
+			<coord x="110" y="70" />
+		</coords>
+	</object>
+		<object id="179552">
+<name>结构图：战地修理机器人74A型</name>
+<screenshot>66606</screenshot>
+<coords map="1584">
+<coord x="100" y="100" />
+</coords>
+</object>
+	<object id="180748">
+		<name>节日礼物</name>
+		<screenshot>67103</screenshot>
+		<event>冬幕节</event>
+		<coords map="1537">
+			<coord x="100" y="130" />
+		</coords>
+		<coords map="1637">
+			<coord x="150" y="130" />
+		</coords>
+	</object>
+	<object id="191761">
+		<name>原型机控制台</name>
+		<screenshot>152433</screenshot>
+		<coords map="67">
+			<coord x="110" y="90" />
+		</coords>
+	</object>
+<object id="142475">
+<name>矩阵式打孔计算机3005-B</name>
+<screenshot>57847</screenshot>
+<coords map="133">
+<coord x="200" y="90" />
+</coords>
+</object>
+<object id="142696">
+<name>矩阵式打孔计算机3005-D</name>
+<screenshot>57853</screenshot>
+<coords map="133">
+<coord x="120" y="180" />
+</coords>
+</object>
+</objects>

@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quests>
+<quest id="1578" level="12" requires-level="1" side="2" colors="1 8 10 15 18">
+<start type="npc" id="6031" />
+<name>前线的补给</name>
+<description>给洛克莫丹南部警戒塔的索瓦尔德带去6把铜斧和6条铜质链甲腰带。</description>
+</quest>
+<quest id="1618" level="16" requires-level="1" side="2" colors="1 12 14 19 23">
+<start type="npc" id="6031" />
+<name>赤脊山的补给</name>
+<description>托姆斯·深炉要你给赤脊山的弗纳·奥斯古带去4条铜质符文腰带和4把铜质大锤。</description>
+</quest>
+<quest id="2521" level="55" requires-level="45" side="1" colors="45 51 53 58 66">
+<start type="npc" id="7363" />
+<name>为库米沙效力</name>
+<description>在你探索诅咒之地的旅程中，如果碰巧发现了无暇的德莱尼水晶球，就把它交给收藏家库米沙。\n\n你要知道，这种宝石是整个艾泽拉斯最珍稀的水晶。诅咒之地上的任何一种生物都有可能带着一颗无暇的德莱尼水晶球。\n\n每找到一颗，你都会得到相应的酬劳。</description>
+</quest>
+<quest id="2522" level="55" requires-level="45" side="1" colors="45 51 53 58 66">
+<start type="npc" id="7363" />
+<name>库米沙的努力</name>
+<description>找到一颗无暇的德莱尼水晶球，把它交给收藏家库米沙。</description>
+</quest>
+<quest id="2747" level="60" requires-level="42" side="1" colors="42 56 58 63 72">
+<start type="npc" id="7763" />
+<name>特别的蛋</name>
+<description>从菲拉斯发现的各种蛋中，我只见过极少数 "特别的蛋"。这种蛋真的非常稀有...</description>
+</quest>
+<quest id="2751" level="32" requires-level="32" side="3" colors="0 0 32 35 41">
+<start type="npc" id="7790" />
+<name>野人装甲</name>
+<description>将2副青铜花纹护腕、2把青铜巨剑和2只锋利的爪子交给奥格瑞玛的奥罗克·沃姆什。</description>
+</quest>
+<quest id="2752" level="32" requires-level="32" side="3" colors="0 0 32 35 41">
+<start type="npc" id="7790" />
+<name>铁肩铠</name>
+<description>将4把青铜战斧和4把青铜战锤交给奥格瑞玛的奥罗克·沃姆什。</description>
+</quest>
+<quest id="2753" level="36" requires-level="32" side="3" colors="0 32 34 39 45">
+<start type="npc" id="7790" />
+<name>踩在脚下</name>
+<description>将4顶绿铁头盔、4副绿铁护腕和4副绿铁护腿交给奥格瑞玛的奥罗克·沃姆什。</description>
+</quest>
+<quest id="2754" level="36" requires-level="32" side="3" colors="0 32 34 39 45">
+<start type="npc" id="7790" />
+<name>疯狂之角</name>
+<description>将2只结实的铁锤、2双镀银青铜战靴和2副镀银青铜手套交给奥格瑞玛的奥罗克·沃姆什。</description>
+</quest>
+<quest id="2755" level="36" requires-level="32" side="3" colors="0 32 34 39 45">
+<start type="npc" id="7790" />
+<name>沃姆什的喜悦</name>
+<description>观察并学习沃姆什的喜悦之舞。</description>
+</quest>
+<quest id="2758" level="40" requires-level="40" side="2" colors="0 0 40 43 49">
+<start type="npc" id="7798" />
+<name>锻造的本源</name>
+<description>将6副金鳞护腕交给暴风城的巨锤汉克。</description>
+</quest>
+<quest id="2761" level="45" requires-level="40" side="1" colors="40 41 43 48 55">
+<start type="npc" id="7802" />
+<name>铁匠必修课</name>
+<description>将40块秘银锭和40块铁锭交给荆棘谷的加尔文。</description>
+</quest>
+<quest id="2762" level="45" requires-level="40" side="1" colors="40 41 43 48 55">
+<start type="npc" id="7802" />
+<name>白花花的银子</name>
+<description>将40块秘银锭和5块真银锭交给荆棘谷的加尔文。</description>
+</quest>
+<quest id="2763" level="45" requires-level="40" side="1" colors="40 41 43 48 55">
+<start type="npc" id="7802" />
+<name>灌魔工艺</name>
+<description>将40块秘银锭和4块黄水晶交给荆棘谷的加尔文。</description>
+</quest>
+<quest id="5124" level="60" requires-level="55" side="1" colors="55 56 58 63 72">
+<start type="npc" id="10637" />
+<name>炽热板甲护手</name>
+<description>将6块魔化瑟银锭、2份火焰精华和4颗红宝石交给玛雷弗斯·暗锤。另外你还得把未淬火的板甲护手也交给他。</description>
+</quest>
+<quest id="5127" level="60" requires-level="55" side="1" colors="55 56 58 63 72">
+<start type="npc" id="10918" />
+<name>恶魔熔炉</name>
+<description>到黑石塔去找到古拉鲁克。杀死他，然后用血污长矛刺入他的尸体。当他的灵魂被吸干后，这支矛就会成为穿魂长矛。\n\n你还必须找到未铸造的符文覆饰胸甲。\n\n将穿魂长矛和未铸造的符文覆饰胸甲都交给冬泉谷的罗拉克斯。</description>
+</quest>
+<quest id="5283" level="40" requires-level="40" side="2" colors="0 0 40 43 49">
+<start type="npc" id="5164" />
+<name>铸造护甲的艺术</name>
+<description>要想成为一名护甲铸造师的话，你必须将下列物品交给格鲁努斯：4顶精制秘银头盔、2双精制秘银战靴和1副精制秘银胸甲。</description>
+</quest>
+<quest id="5301" level="40" requires-level="40" side="3" colors="0 0 40 43 49">
+<start type="npc" id="11177" />
+<name>铸造护甲的艺术</name>
+<description>要想成为一名护甲铸造师的话，你必须将下列物品交给奥克索斯：4顶精制秘银头盔、2双精制秘银战靴和1副精制秘银胸甲。</description>
+</quest>
+<quest id="5284" level="40" requires-level="40" side="2" colors="0 0 40 43 49">
+<start type="npc" id="11146" />
+<name>武器铸造师之道</name>
+<description>要想成为一名武器铸造师的话，你必须将下列物品交给埃隆努斯·冷钢：4把月钢宽剑、4把巨型铁斧、2把秘银重斧和2把巨型黑色锤。</description>
+</quest>
+<quest id="5302" level="40" requires-level="40" side="3" colors="0 0 40 43 49">
+<start type="npc" id="11178" />
+<name>武器铸造师之道</name>
+<description>要想成为一名武器铸造师的话，你必须将下列物品交给伯古什：4把月钢宽剑、4把巨型铁斧、2把秘银重斧和2把巨型黑色锤。</description>
+</quest>
+<quest id="2756" level="40" requires-level="40" side="3" colors="0 0 40 43 49">
+<start type="npc" id="7792" />
+<name>古老的技艺</name>
+<description>将4套钢质胸甲和4顶钢质头盔交给奥格瑞玛的铁砧阿图尔克。</description>
+</quest>
+<quest id="2773" level="45" requires-level="40" side="1" colors="40 41 43 48 55">
+<start type="npc" id="7804" />
+<name>秘银小子</name>
+<description>将2件重型秘银胸甲和1副精制秘银手套带给特秘银手套交给特伦顿·轻锤。</description>
+</quest>
+<quest id="2772" level="45" requires-level="40" side="1" colors="40 41 43 48 55">
+<start type="npc" id="7804" />
+<name>世界在你脚下</name>
+<description>将2双秘银重靴和1条精制秘银短裤交秘银短裤交给特伦顿·轻锤。</description>
+</quest>
+<quest id="2771" level="45" requires-level="40" side="1" colors="40 41 43 48 55">
+<start type="npc" id="7804" />
+<name>罩帽和护肩</name>
+<description>将2顶秘银罩帽和1副精制秘银护肩带秘银护肩交给特伦顿·轻锤。</description>
+</quest>
+<quest id="2882" level="45" requires-level="40" side="1" colors="40 41 43 48 55">
+<start type="item" id="9254" />
+<name>科尔戈的黄金</name>
+<description>找到科尔戈的黄金！</description>
+</quest>
+<quest id="3385" level="50" requires-level="40" side="1" colors="40 46 48 53 61">
+<start type="npc" id="8439" />
+<name>黑市交易</name>
+<description>杀了贸易首领考维克和他的同伙科朗克。从他的尸体上拿回商人的背包，把它交给尼莉丝。</description>
+</quest>
+<quest id="3481" level="50" requires-level="40" side="1" colors="40 46 48 53 61">
+<start type="object" id="149502" />
+<name>打开箱子…</name>
+<description>打开箱子。</description>
+</quest>
+<quest id="5305" level="60" requires-level="50" side="1" colors="50 56 58 63 72">
+<start type="npc" id="11191" />
+<name>甜美的平静</name>
+<description>到斯坦索姆去杀死红衣铸锤师。将红衣铸锤师的围裙交给莉莉丝。</description>
+</quest>
+<quest id="5306" level="60" requires-level="50" side="1" colors="50 56 58 63 72">
+<start type="npc" id="11192" />
+<name>沃什加斯的蛇石</name>
+<description>到黑石塔去杀死暗影猎手沃什加斯，将沃什加斯的蛇石交给基尔拉姆。</description>
+</quest>
+<quest id="5307" level="60" requires-level="50" side="1" colors="50 56 58 63 72">
+<start type="npc" id="11193" />
+<name>腐蚀</name>
+<description>在斯坦索姆找到黑衣守卫铸剑师，然后杀死他。将黑色卫士徽记交给亡灵杀手瑟里尔。</description>
+</quest>
+<quest id="6984" requires-level="30" side="3" colors="0 0 0 0 0">
+<start type="npc" id="13418" />
+<name>烟林牧场的感谢</name>
+<description>和奥格瑞玛的冬天爷爷谈一谈。</description>
+</quest>
+<quest id="7045" requires-level="30" side="2" colors="0 0 0 0 0">
+<start type="npc" id="13433" />
+<name>烟林牧场的感谢</name>
+<description>和铁炉堡的冬天爷爷谈一谈。</description>
+</quest>
+<quest id="7604" level="60" requires-level="60" side="1" colors="0 0 60 63 72">
+<start type="item" id="18628" />
+<name>瑟银兄弟会契约</name>
+<description>如果你愿意接受萨弗隆的设计图，请将瑟银兄弟会契约交给罗克图斯·暗契。</description>
+</quest>
+<quest id="7649" level="60" requires-level="50" side="1" colors="50 56 58 63 72">
+<start type="item" id="18769" />
+<name>魔化瑟银板甲：第一卷</name>
+<description>将这本典籍交给它的主人。</description>
+</quest>
+<quest id="7650" level="60" requires-level="50" side="1" colors="50 56 58 63 72">
+<start type="item" id="18770" />
+<name>魔化瑟银板甲：第二卷</name>
+<description>将这本典籍交给它的主人。</description>
+</quest>
+<quest id="7651" level="60" requires-level="50" side="1" colors="50 56 58 63 72">
+<start type="item" id="18771" />
+<name>魔化瑟银板甲：第三卷</name>
+<description>将这本典籍交给它的主人。</description>
+</quest>
+<quest id="7653" level="60" requires-level="50" side="1" colors="50 56 58 63 72">
+<start type="npc" id="14567" />
+<name>君王板甲腰带</name>
+<description>要想得到腰带的设计图，就给我拿10块瑟银锭来。</description>
+</quest>
+<quest id="7654" level="60" requires-level="50" side="1" colors="50 56 58 63 72">
+<start type="npc" id="14567" />
+<name>君王板甲战靴</name>
+<description>要想得到靴子的设计图，就给我拿20块瑟银锭来。对，20块。你是不是要哭了？要不要手帕？\n\n&lt;德罗泰恩大笑着。&gt;</description>
+</quest>
+<quest id="7655" level="60" requires-level="50" side="1" colors="50 56 58 63 72">
+<start type="npc" id="14567" />
+<name>君王板甲护腕</name>
+<description>要想得到护腕的设计图，就给我拿10块瑟银锭来。\n\n你还好吧，小姑娘？你看上去已经满脸通红了。</description>
+</quest>
+<quest id="7656" level="60" requires-level="50" side="1" colors="50 56 58 63 72">
+<start type="npc" id="14567" />
+<name>君王板甲护胸</name>
+<description>要想得到胸甲的设计图，就给我拿30块瑟银锭来。\n\n哦，孩子，又是你。你是否要跑到你的神明那里哭诉，抱怨他们为什么要抛弃你？坚强些，孩子！没有人说过生活是公平的。</description>
+</quest>
+<quest id="7657" level="60" requires-level="50" side="1" colors="50 56 58 63 72">
+<start type="npc" id="14567" />
+<name>君王板甲头盔</name>
+<description>只要给我25块瑟银锭，头盔的设计图就是你的了。</description>
+</quest>
+<quest id="7658" level="60" requires-level="50" side="1" colors="50 56 58 63 72">
+<start type="npc" id="14567" />
+<name>君王板甲护腿</name>
+<description>只要给我30块瑟银锭，头盔的设计图就是你的了。\n\n我知道，我快把你搞得破产了！但是你那些陈词滥调的悲惨故事我早就听腻了，省省吧。</description>
+</quest>
+<quest id="7659" level="60" requires-level="50" side="1" colors="50 56 58 63 72">
+<start type="npc" id="14567" />
+<name>君王板甲护肩</name>
+<description>要想得到胸甲的设计图，就给我拿10块瑟银锭来。</description>
+</quest>
+<quest id="7840" level="49" requires-level="44" side="3" colors="44 45 47 52 59">
+<start type="npc" id="14731" />
+<name>拉尔德的午餐</name>
+<description>辛特兰恶齿村的拉尔德要求你去找到拉尔德的午餐。完成任务之后就回到他那里去。\n\n拉尔德说他把午餐留在了北面的岛上。当心邪枝巨魔。</description>
+</quest>
+<quest id="7931" requires-level="15" side="1" colors="0 0 0 0 0">
+<start type="npc" id="14828" />
+<name>5张奖券 - 小奖品</name>
+</quest>
+<quest id="7932" requires-level="30" side="1" colors="0 0 0 0 0">
+<start type="npc" id="14828" />
+<name>12张奖券 - 普通奖品</name>
+</quest>
+<quest id="7933" requires-level="45" side="1" colors="0 0 0 0 0">
+<start type="npc" id="14828" />
+<name>40张奖券 - 高级奖品</name>
+</quest>
+<quest id="7937" requires-level="10" side="1" colors="0 0 0 0 0">
+<start type="item" id="19423" />
+<name>财富在等着你……</name>
+<description>到艾尔文森林的东谷伐木场去寻找你的财宝吧。</description>
+</quest>
+<quest id="7938" requires-level="10" side="1" colors="0 0 0 0 0">
+<start type="item" id="19424" />
+<name>财富在等着你……</name>
+<description>到西部荒野的死亡矿井中去寻找你的财宝吧。</description>
+</quest>
+<quest id="7944" requires-level="10" side="1" colors="0 0 0 0 0">
+<start type="item" id="19443" />
+<name>财富在等着你……</name>
+<description>到贫瘠之地的哀嚎洞穴中去寻找你的财宝吧。</description>
+</quest>
+<quest id="7945" requires-level="10" side="1" colors="0 0 0 0 0">
+<start type="item" id="19452" />
+<name>财富在等着你……</name>
+<description>到莫高雷的灰月洞穴去寻找你的财宝吧。</description>
+</quest>
+<quest id="8769" requires-level="40" side="1" colors="0 0 0 0 0">
+<start type="object" id="180748" />
+<name>条纹礼物盒</name>
+<description>打开圣诞树下的条纹礼物盒。</description>
+</quest>
+<quest id="13818" level="80" requires-level="80" side="1" colors="0 0 80 83 94">
+<start type="npc" id="33957" />
+<name>英雄：奥尔加隆</name>
+<description>将守护者的徽记带到奥杜尔的档案馆控制台前。</description>
+</quest>
+<quest id="5103" level="60" requires-level="55" side="1" colors="55 56 58 63 72">
+<start type="object" id="176090" />
+<name>火热的死亡</name>
+<description>世界上一定有人知道关于这副手套的事情，祝你好运！</description>
+</quest>
+<quest id="3379" level="50" requires-level="40" side="1" colors="40 46 48 53 61">
+<start type="npc" id="8439" />
+<name>暗影蛛丝</name>
+<description>杀死在灼热峡谷游荡的暗影蛛丝偷猎者小队。尼莉丝认为他们共有5名成员，你的任务就是把他们全都干掉。</description>
+</quest>
+<quest id="3442" level="48" requires-level="40" side="1" colors="40 44 46 51 58">
+<start type="npc" id="8479" />
+<name>无瑕之焰</name>
+<description>收集4份烈焰之心和4份傀儡之油，然后把这些东西交给卡拉然·温布雷。</description>
+</quest>
+<quest id="6963" requires-level="30" side="3" colors="0 0 0 0 0">
+<start type="npc" id="13418" />
+<name>被偷走的冬幕节礼物</name>
+<description>前往奥特兰克山脉雪域寻找失踪的烟林牧场密探。</description>
+</quest>
+<quest id="7042" requires-level="30" side="2" colors="0 0 0 0 0">
+<start type="npc" id="13434" />
+<name>被偷走的冬幕节礼物</name>
+<description>前往奥特兰克山脉雪域寻找失踪的烟林牧场密探。</description>
+</quest>
+</quests>

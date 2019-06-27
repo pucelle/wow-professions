@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<spells>
+<spell id="10656" icon="inv_misc_monsterscales_03">
+<name>龙鳞制皮</name>
+<code>
+[table][tbody][tr][td][span class="name q"]龙鳞制皮[/span][/td][/tr][tr][td]瞬发[/td][/tr][/tbody][/table][div class="q2"]使你可以制造普通制皮匠无法制造的特殊龙鳞护甲。所有龙鳞甲都是锁甲。[/div]
+</code>
+</spell>
+<spell id="10658" icon="spell_fire_volcano">
+<name>元素制皮</name>
+<code>
+[table][tbody][tr][td][span class="name q"]元素制皮[/span][/td][/tr][tr][td]瞬发[/td][/tr][/tbody][/table][div class="q2"]使你可以制造普通制皮匠无法制造的特殊元素护甲。[/div]
+</code>
+</spell>
+<spell id="10660" icon="spell_nature_nullward">
+<name>部族制皮</name>
+<code>
+[table][tbody][tr][td][span class="name q"]部族制皮[/span][/td][/tr][tr][td]瞬发[/td][/tr][/tbody][/table][div class="q2"]使你可以制造普通制皮匠无法制造的特殊部族护甲。[/div]
+</code>
+</spell>
+<spell id="60584" icon="trade_leatherworking" cost="47500">
+<name>蛛魔腿甲强化片</name>
+<code>
+[table][tbody][tr][td][span class="name q"]蛛魔腿甲强化片[/span][/td][/tr][tr][td]5秒施法时间[/td][/tr][/tbody][/table][div class="q2"]永久性地在一件腿部装备上附加一块蛛魔腿甲强化片，使其获得攻击强度提高75点、爆击等级提高22的效果。[br /][br /]只能对你自己的护甲进行强化，且强化之后该护甲会与你绑定。[/div]
+</code>
+</spell>
+<spell id="57701" icon="trade_leatherworking">
+<name>毛皮衬垫 - 奥术抗性</name>
+<code>
+[table][tbody][tr][td][span class="name q"]毛皮衬垫 - 奥术抗性[/span][/td][/tr][tr][td]5秒施法时间[/td][/tr][/tbody][/table][div class="q2"]永久性地为一副护腕附魔，使其获得奥术抗性提高70点的效果。[br /][br /]只能对制皮师自己的护腕使用，且对护腕使用会使其变为灵魂绑定物品。装备者的制皮技能必须高于400点才能获得这个效果。[/div]
+</code>
+</spell>
+<spell id="57683" icon="trade_leatherworking" cost="66500">
+<name>毛皮衬垫 - 攻击强度</name>
+<code>
+[table][tbody][tr][td][span class="name q"]毛皮衬垫 - 攻击强度[/span][/td][/tr][tr][td]5秒施法时间[/td][/tr][/tbody][/table][div class="q2"]永久性地为一副护腕附魔，使其获得攻击强度提高130点的效果。[br /][br /]只能对制皮师自己的护腕使用，且对护腕使用会使其变为灵魂绑定物品。装备者的制皮技能必须高于400点才能获得这个效果。[/div]
+</code>
+</spell>
+<spell id="57692" icon="trade_leatherworking">
+<name>毛皮衬垫 - 火焰抗性</name>
+<code>
+[table][tbody][tr][td][span class="name q"]毛皮衬垫 - 火焰抗性[/span][/td][/tr][tr][td]5秒施法时间[/td][/tr][/tbody][/table][div class="q2"]永久性地为一副护腕附魔，使其获得火焰抗性提高70点的效果。[br /][br /]只能对制皮师自己的护腕使用，且对护腕使用会使其变为灵魂绑定物品。装备者的制皮技能必须高于400点才能获得这个效果。[/div]
+</code>
+</spell>
+<spell id="57694" icon="trade_leatherworking">
+<name>毛皮衬垫 - 冰霜抗性</name>
+<code>
+[table][tbody][tr][td][span class="name q"]毛皮衬垫 - 冰霜抗性[/span][/td][/tr][tr][td]5秒施法时间[/td][/tr][/tbody][/table][div class="q2"]永久性地为一副护腕附魔，使其获得冰霜抗性提高70点的效果。[br /][br /]只能对制皮师自己的护腕使用，且对护腕使用会使其变为灵魂绑定物品。装备者的制皮技能必须高于400点才能获得这个效果。[/div]
+</code>
+</spell>
+<spell id="57699" icon="trade_leatherworking">
+<name>毛皮衬垫 - 自然抗性</name>
+<code>
+[table][tbody][tr][td][span class="name q"]毛皮衬垫 - 自然抗性[/span][/td][/tr][tr][td]5秒施法时间[/td][/tr][/tbody][/table][div class="q2"]永久性地为一副护腕附魔，使其获得自然抗性提高70点的效果。[br /][br /]只能对制皮师自己的护腕使用，且对护腕使用会使其变为灵魂绑定物品。装备者的制皮技能必须高于400点才能获得这个效果。[/div]
+</code>
+</spell>
+<spell id="57696" icon="trade_leatherworking">
+<name>毛皮衬垫 - 暗影抗性</name>
+<code>
+[table][tbody][tr][td][span class="name q"]毛皮衬垫 - 暗影抗性[/span][/td][/tr][tr][td]5秒施法时间[/td][/tr][/tbody][/table][div class="q2"]永久性地为一副护腕附魔，使其获得暗影抗性提高70点的效果。[br /][br /]只能对制皮师自己的护腕使用，且对护腕使用会使其变为灵魂绑定物品。装备者的制皮技能必须高于400点才能获得这个效果。[/div]
+</code>
+</spell>
+<spell id="57691" icon="trade_leatherworking" cost="66500">
+<name>毛皮衬垫 - 法术强度</name>
+<code>
+[table][tbody][tr][td][span class="name q"]毛皮衬垫 - 法术强度[/span][/td][/tr][tr][td]5秒施法时间[/td][/tr][/tbody][/table][div class="q2"]永久性地为一副护腕附魔，使其获得法术强度提高76点的效果。[br /][br /]只能对制皮师自己的护腕使用，且对护腕使用会使其变为灵魂绑定物品。装备者的制皮技能必须高于400点才能获得这个效果。[/div]
+</code>
+</spell>
+<spell id="57690" icon="trade_leatherworking" cost="66500">
+<name>毛皮衬垫 - 耐力</name>
+<code>
+[table][tbody][tr][td][span class="name q"]毛皮衬垫 - 耐力[/span][/td][/tr][tr][td]5秒施法时间[/td][/tr][/tbody][/table][div class="q2"]永久性地为一副护腕附魔，使其获得耐力提高102点的效果。[br /][br /]只能对制皮师自己的护腕使用，且对护腕使用会使其变为灵魂绑定物品。装备者的制皮技能必须高于400点才能获得这个效果。[/div]
+</code>
+</spell>
+<spell id="60583" icon="trade_leatherworking" cost="47500">
+<name>冰虫腿甲强化片</name>
+<code>
+[table][tbody][tr][td][span class="name q"]冰虫腿甲强化片[/span][/td][/tr][tr][td]5秒施法时间[/td][/tr][/tbody][/table][div class="q2"]永久性地在一件腿部装备上附加一块冰虫腿甲强化片，使其获得耐力提高55点、敏捷提高22点的效果。[br /][br /]只能对你自己的护甲进行强化，且强化之后该护甲会与你绑定。[/div]
+</code>
+</spell>
+<spell id="2018" icon="trade_blacksmithing" cost="10">
+<name>锻造</name>
+<code>
+[table][tbody][tr][td][span class="name q"]锻造[/span][/td][/tr][/tbody][/table][div class="q2"]使铁匠可以制造武器和护甲。需要通过采矿得到的石块和金属。[/div]
+</code>
+</spell>
+<spell id="2108" icon="inv_misc_armorkit_17" cost="10">
+<name>制皮</name>
+<code>
+[table][tbody][tr][td][span class="name q"]制皮[/span][/td][/tr][/tbody][/table][div class="q2"]使制皮匠可以制造皮甲。需要剥皮师从野兽身上剥皮的皮毛。[/div]
+</code>
+</spell>
+<spell id="2259" icon="trade_alchemy" cost="10">
+<name>炼金术</name>
+<code>
+[table][tbody][tr][td][span class="name q"]炼金术[/span][/td][/tr][/tbody][/table][div class="q2"]使炼金师可以配制药水。需要由采药师收集的草药。[/div]
+</code>
+</spell>
+<spell id="2550" icon="inv_misc_food_15" cost="100">
+<name>烹饪</name>
+<code>
+[table][tbody][tr][td][span class="name q"]烹饪[/span][/td][/tr][/tbody][/table][div class="q2"]使厨师可以制造食物。需要火焰和从野兽身上收集的肉块以烹制食物。[/div]
+</code>
+</spell>
+<spell id="3908" icon="trade_tailoring" cost="10">
+<name>裁缝</name>
+<code>
+[table][tbody][tr][td][span class="name q"]裁缝[/span][/td][/tr][/tbody][/table][div class="q2"]使裁缝可以制造衬衣和布甲。需要从人型生物身上获得的布料。[/div]
+</code>
+</spell>
+<spell id="4036" icon="trade_engineering" cost="10">
+<name>工程学</name>
+<code>
+[table][tbody][tr][td][span class="name q"]工程学[/span][/td][/tr][/tbody][/table][div class="q2"]使技师可以制造工程学物品。需要通过采矿得到的石块和金属。[/div]
+</code>
+</spell>
+<spell id="7411" icon="trade_engraving" cost="10">
+<name>附魔</name>
+<code>
+[table][tbody][tr][td][span class="name q"]附魔[/span][/td][/tr][/tbody][/table][div class="q2"]使附魔师可以为装备附魔。需要由分解魔法装备而得到的魔法尘和魔法精华。[/div]
+</code>
+</spell>
+<spell id="25229" icon="inv_misc_gem_01" cost="10">
+<name>珠宝加工</name>
+<code>
+[table][tbody][tr][td][span class="name q"]珠宝加工[/span][/td][/tr][/tbody][/table][div class="q2"]使珠宝匠可以制作珠宝。需要通过采矿技能获得的珍贵宝石和金属。[/div]
+</code>
+</spell>
+<spell id="45357" icon="inv_inscription_tradeskill01" cost="10">
+<name>铭文</name>
+<code>
+[table][tbody][tr][td][span class="name q"]铭文[/span][/td][/tr][/tbody][/table][div class="q2"]使铭文师可以制造魔法铭文物品。需要由采药师收集的草药。[/div]
+</code>
+</spell>
+<spell id="62734" icon="trade_fishing">
+<name>钓鱼</name>
+<code>
+[table][tbody][tr][td][span class="name q"]钓鱼[/span][/td][/tr][tr][td]10-20码距离[/td][/tr][/tbody][/table][div class="q2"]装备鱼竿之后可以寻找一片水域钓鱼。当水中的鱼漂溅起水花的时候，立刻右键点击鱼漂以捕捉上钩的鱼。钓鱼技能的等级越高，你越有可能在高等级的水域中钓到鱼。[/div]
+</code>
+</spell>
+</spells>

@@ -1,0 +1,1968 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<items>
+<item id="118" class="0.1" level="5" icon="inv_potion_49" quality="1">
+<name>初级治疗药水</name>
+<code>
+[div class="name q1"]初级治疗药水[/div][div class="q2"]使用: 恢复70到90点生命值。[/div]
+</code>
+</item>
+<item id="858" class="0.1" level="13" icon="inv_potion_50" quality="1">
+<name>次级治疗药水</name>
+<code>
+[div class="name q1"]次级治疗药水[/div][div]需要等级 3[/div][div class="q2"]使用: 恢复140到180点生命值。[/div]
+</code>
+</item>
+<item id="929" class="0.1" level="22" icon="inv_potion_51" quality="1">
+<name>治疗药水</name>
+<code>
+[div class="name q1"]治疗药水[/div][div]需要等级 12[/div][div class="q2"]使用: 恢复280到360点生命值。[/div]
+</code>
+</item>
+<item id="1710" class="0.1" level="31" icon="inv_potion_52" quality="1">
+<name>强效治疗药水</name>
+<code>
+[div class="name q1"]强效治疗药水[/div][div]需要等级 21[/div][div class="q2"]使用: 恢复455到585点生命值。[/div]
+</code>
+</item>
+<item id="2455" class="0.1" level="15" icon="inv_potion_70" quality="1">
+<name>初级法力药水</name>
+<code>
+[div class="name q1"]初级法力药水[/div][div]需要等级 5[/div][div class="q2"]使用: 恢复140到180点法力值。[/div]
+</code>
+</item>
+<item id="3385" class="0.1" level="24" icon="inv_potion_71" quality="1">
+<name>次级法力药水</name>
+<code>
+[div class="name q1"]次级法力药水[/div][div]需要等级 14[/div][div class="q2"]使用: 恢复280到360点法力值。[/div]
+</code>
+</item>
+<item id="3827" class="0.1" level="32" icon="inv_potion_72" quality="1">
+<name>法力药水</name>
+<code>
+[div class="name q1"]法力药水[/div][div]需要等级 22[/div][div class="q2"]使用: 恢复455到585点法力值。[/div]
+</code>
+</item>
+<item id="3928" class="0.1" level="45" icon="inv_potion_53" quality="1">
+<name>优质治疗药水</name>
+<code>
+[div class="name q1"]优质治疗药水[/div][div]需要等级 35[/div][div class="q2"]使用: 恢复700到900点生命值。[/div]
+</code>
+</item>
+<item id="6149" class="0.1" level="41" icon="inv_potion_73" quality="1">
+<name>强效法力药水</name>
+<code>
+[div class="name q1"]强效法力药水[/div][div]需要等级 31[/div][div class="q2"]使用: 恢复700到900点法力值。[/div]
+</code>
+</item>
+<item id="13443" class="0.1" level="51" icon="inv_potion_74" quality="1">
+<name>优质法力药水</name>
+<code>
+[div class="name q1"]优质法力药水[/div][div]需要等级 41[/div][div class="q2"]使用: 恢复900到1500点法力值。[/div]
+</code>
+</item>
+<item id="13446" class="0.1" level="55" icon="inv_potion_54" quality="1">
+<name>特效治疗药水</name>
+<code>
+[div class="name q1"]特效治疗药水[/div][div]需要等级 45[/div][div class="q2"]使用: 恢复1050到1750点生命值。[/div]
+</code>
+</item>
+<item id="21114" class="0.5" level="1" icon="inv_drink_04" quality="1">
+<name>黑暗美味朗姆酒</name>
+<code>
+[div class="name q1"]黑暗美味朗姆酒[/div][div class="q2"]使用: 使你的耐力提高10点，持续15分钟，并让你喝得酩酊大醉！[/div]
+</code>
+</item>
+<item id="21151" class="0.5" level="1" icon="inv_drink_04" quality="1">
+<name>黑标美味朗姆酒</name>
+<code>
+[div class="name q1"]黑标美味朗姆酒[/div][div class="q2"]使用: 使你的耐力提高15点，持续15分钟，并让你喝得酩酊大醉！[/div]
+</code>
+</item>
+<item id="20709" class="0.5" level="1" icon="inv_drink_08" quality="1">
+<name>光明美味朗姆酒</name>
+<code>
+[div class="name q1"]光明美味朗姆酒[/div][div class="q2"]使用: 使你的耐力提高5点，持续15分钟，并让你喝得酩酊大醉！[/div]
+</code>
+</item>
+<item id="16967" class="4.-5" level="4" icon="inv_misc_monsterhead_02" quality="1">
+<name>菲拉斯草鱼</name>
+<screenshot>79102</screenshot>
+<code>
+[div class="name q1"]菲拉斯草鱼[/div][div]任务物品[/div][div]唯一[/div][div]副手[/div]
+</code>
+</item>
+<item id="1467" class="12.0" level="1" icon="inv_misc_fish_02" quality="1">
+<name>斑点太阳鱼</name>
+<code>
+[div class="name q1"]斑点太阳鱼[/div][div]任务物品[/div]
+</code>
+</item>
+<item id="6717" class="12.0" level="1" icon="inv_gizmo_02" quality="1">
+<name>小齿轮</name>
+<code>
+[div class="name q1"]小齿轮[/div][div]任务物品[/div]
+</code>
+</item>
+<item id="6718" class="12.0" level="1" icon="inv_misc_gear_03" quality="1">
+<name>导电器</name>
+<code>
+[div class="name q1"]导电器[/div][div]任务物品[/div]
+</code>
+</item>
+<item id="16968" class="12.0" level="1" icon="inv_misc_fish_32" quality="1">
+<name>萨瑟里斯虎鱼</name>
+<code>
+[div class="name q1"]萨瑟里斯虎鱼[/div][div]任务物品[/div][div]唯一[/div]
+</code>
+</item>
+<item id="16969" class="12.0" level="1" icon="inv_misc_fish_08" quality="1">
+<name>野人海岸蓝色叉牙鱼</name>
+<code>
+[div class="name q1"]野人海岸蓝色叉牙鱼[/div][div]任务物品[/div][div]唯一[/div]
+</code>
+</item>
+<item id="16970" class="12.0" level="1" icon="inv_misc_fish_21" quality="1">
+<name>芦苇海岸大马哈鱼</name>
+<code>
+[div class="name q1"]芦苇海岸大马哈鱼[/div][div]任务物品[/div][div]唯一[/div]
+</code>
+</item>
+<item id="19807" class="12.0" level="4" icon="inv_misc_fish_21" quality="1">
+<name>斑点可口鱼</name>
+<code>
+[div class="name q1"]斑点可口鱼[/div][div]拾取后绑定[/div][div]持续时间: 4小时[/div]
+</code>
+</item>
+<item id="19975" class="12.0" level="1" icon="inv_misc_fish_05" quality="1">
+<name>祖利安臭泥鱼</name>
+<code>
+[div class="name q1"]祖利安臭泥鱼[/div]
+</code>
+</item>
+<item id="34864" class="12.0" level="7" icon="ability_hunter_pet_crocolisk" quality="1">
+<name>鳄鱼宝宝</name>
+<code>
+[div class="name q1"]鳄鱼宝宝[/div][div]任务物品[/div]
+</code>
+</item>
+<item id="34865" class="12.0" level="7" icon="inv_misc_fish_43" quality="1">
+<name>黑鳞镖鲈</name>
+<code>
+[div class="name q1"]黑鳞镖鲈[/div][div]任务物品[/div]
+</code>
+</item>
+<item id="34867" class="12.0" level="7" icon="inv_misc_fish_44" quality="1">
+<name>巨型魔血鲷鱼</name>
+<code>
+[div class="name q1"]巨型魔血鲷鱼[/div][div]任务物品[/div]
+</code>
+</item>
+<item id="34868" class="12.0" level="7" icon="inv_misc_fish_45" quality="1">
+<name>世界上最大的泥鱼</name>
+<code>
+[div class="name q1"]世界上最大的泥鱼[/div][div]任务物品[/div]
+</code>
+</item>
+<item id="35313" class="12.0" level="60" icon="inv_misc_fish_37" quality="1">
+<name>浮肿的刺鳃鲑鱼</name>
+<code>
+[div class="name q1"]浮肿的刺鳃鲑鱼[/div][div]拾取后绑定[/div][div]持续时间: 2小时[/div]
+</code>
+</item>
+<item id="45902" class="12.0" level="1" icon="inv_misc_fish_56" quality="1">
+<name>幽灵鱼</name>
+<code>
+[span class="name q1"]幽灵鱼[/span][br /]任务物品[br /][span class="q2"]使用: 吃它。[/span]
+</code>
+</item>
+<item id="45903" class="12.0" level="1" icon="inv_stone_05" quality="1">
+<name>被腐蚀的珠宝</name>
+<code>
+[span class="name q1"]被腐蚀的珠宝[/span][br /]任务物品
+</code>
+</item>
+<item id="45904" class="12.0" level="1" icon="inv_misc_fish_53" quality="1">
+<name>恐怖鱼</name>
+<code>
+[span class="name q1"]恐怖鱼[/span][br /]任务物品[br /][span class="q"]"不错，非常可怕！"[/span]
+</code>
+</item>
+<item id="45905" class="12.0" level="1" icon="inv_misc_fish_27" quality="1">
+<name>血齿狂鱼</name>
+<code>
+[span class="name q1"]血齿狂鱼[/span][br /]任务物品
+</code>
+</item>
+<item id="3671" class="15.0" level="1" icon="inv_misc_bone_humanskull_01" quality="0">
+<name>亡者的颅骨</name>
+<code>
+[div class="name q0"]亡者的颅骨[/div]
+</code>
+</item>
+<item id="4875" class="15.0" level="1" icon="inv_misc_bone_01" quality="0">
+<name>粘糊糊的骨头</name>
+<code>
+[div class="name q0"]粘糊糊的骨头[/div]
+</code>
+</item>
+<item id="5569" class="15.0" level="20" icon="inv_misc_herb_06" quality="0">
+<name>海草</name>
+<code>
+[div class="name q0"]海草[/div]
+</code>
+</item>
+<item id="6297" class="15.0" level="1" icon="inv_misc_bone_orcskull_01" quality="0">
+<name>死者的颅骨</name>
+<code>
+[div class="name q0"]死者的颅骨[/div]
+</code>
+</item>
+<item id="6301" class="15.0" level="1" icon="inv_misc_bone_dwarfskull_01" quality="0">
+<name>老车夫的颅骨</name>
+<code>
+[div class="name q0"]老车夫的颅骨[/div][div class="q"]"看起来有人不喜欢这家伙。"[/div]
+</code>
+</item>
+<item id="6307" class="15.0" icon="inv_drink_12" quality="1">
+<name>瓶中信</name>
+<code>
+[div class="name q1"]瓶中信[/div]
+</code>
+</item>
+<item id="6353" class="15.0" level="15" icon="inv_box_01" quality="1">
+<name>小箱子</name>
+<code>
+[div class="name q1"]小箱子[/div]
+</code>
+</item>
+<item id="6354" class="15.0" level="20" icon="inv_box_03" quality="1">
+<name>锁住的小箱子</name>
+<code>
+[div class="name q1"]锁住的小箱子[/div]
+</code>
+</item>
+<item id="6355" class="15.0" level="30" icon="inv_box_01" quality="1">
+<name>结实的宝箱</name>
+<code>
+[div class="name q1"]结实的宝箱[/div]
+</code>
+</item>
+<item id="6356" class="15.0" level="8" icon="inv_box_01" quality="1">
+<name>破损的箱子</name>
+<code>
+[div class="name q1"]破损的箱子[/div]
+</code>
+</item>
+<item id="6456" class="15.0" level="1" icon="inv_misc_slime_01" quality="0">
+<name>酸性淤泥</name>
+<code>
+[div class="name q0"]酸性淤泥[/div]
+</code>
+</item>
+<item id="6457" class="15.0" level="1" icon="inv_misc_gear_02" quality="0">
+<name>生锈的工程学零件</name>
+<code>
+[div class="name q0"]生锈的工程学零件[/div]
+</code>
+</item>
+<item id="13875" class="15.0" level="45" icon="inv_box_01" quality="1">
+<name>锁住的铁箍箱</name>
+<code>
+[div class="name q1"]锁住的铁箍箱[/div]
+</code>
+</item>
+<item id="13918" class="15.0" level="55" icon="inv_box_01" quality="1">
+<name>加固的宝箱</name>
+<code>
+[div class="name q1"]加固的宝箱[/div]
+</code>
+</item>
+<item id="20708" class="15.0" level="15" icon="inv_box_01" quality="1">
+<name>紧紧封起来的箱子</name>
+<code>
+[div class="name q1"]紧紧封起来的箱子[/div]
+</code>
+</item>
+<item id="21113" class="15.0" level="25" icon="inv_box_01" quality="1">
+<name>防水箱</name>
+<code>
+[div class="name q1"]防水箱[/div]
+</code>
+</item>
+<item id="21150" class="15.0" level="35" icon="inv_box_01" quality="1">
+<name>铁箍箱</name>
+<code>
+[div class="name q1"]铁箍箱[/div]
+</code>
+</item>
+<item id="21228" class="15.0" level="45" icon="inv_box_02" quality="1">
+<name>秘银箱</name>
+<code>
+[div class="name q1"]秘银箱[/div]
+</code>
+</item>
+<item id="25447" class="15.0" level="1" icon="inv_misc_bone_orcskull_01" quality="0">
+<name>裂开的颅骨</name>
+<code>
+[div class="name q0"]裂开的颅骨[/div]
+</code>
+</item>
+<item id="27441" class="15.0" level="60" icon="inv_misc_fish_38" quality="0">
+<name>邪血钳鱼</name>
+<code>
+[div class="name q0"]邪血钳鱼[/div][div class="q"]"一种生活在充满邪恶能量的水池和熔岩中的鱼。不要吃！"[/div]
+</code>
+</item>
+<item id="27443" class="15.0" level="70" icon="inv_gizmo_03" quality="0">
+<name>抽水泵残骸</name>
+<code>
+[div class="name q0"]抽水泵残骸[/div]
+</code>
+</item>
+<item id="35314" class="15.0" level="60" icon="inv_misc_herb_06" quality="0">
+<name>未消化的杂草</name>
+<code>
+[div class="name q0"]未消化的杂草[/div]
+</code>
+</item>
+<item id="39552" class="15.0" level="1" icon="inv_misc_bone_orcskull_01" quality="0">
+<name>溶解的颅骨</name>
+<code>
+[div class="name q0"]溶解的颅骨[/div]
+</code>
+</item>
+<item id="43645" class="15.0" level="1" icon="inv_misc_hook_01" quality="0">
+<name>扭曲的鱼钩</name>
+<code>
+[div class="name q0"]扭曲的鱼钩[/div][div class="q"]"好像有人想在喷泉里钓鱼。谁会傻到这种地步？"[/div]
+</code>
+</item>
+<item id="43653" class="15.0" level="1" icon="inv_misc_bone_02" quality="0">
+<name>被吃掉一部分的鱼</name>
+<code>
+[div class="name q0"]被吃掉一部分的鱼[/div][div class="q"]"鱼身上可以看到细小的牙印。"[/div]
+</code>
+</item>
+<item id="43694" class="15.0" level="1" icon="inv_misc_bone_taurenskull_01" quality="0">
+<name>淹死的老鼠</name>
+<code>
+[div class="name q0"]淹死的老鼠[/div][div class="q"]"看起来，这次掉进锅里之后没有发生什么奇遇。"[/div]
+</code>
+</item>
+<item id="44756" class="15.0" level="1" icon="inv_misc_slime_01" quality="0">
+<name>凝固的黏液</name>
+<code>
+[div class="name q0"]凝固的黏液[/div]
+</code>
+</item>
+<item id="6455" class="15.0" level="1" icon="inv_shield_09" quality="0">
+<name>旧车轮</name>
+<code>
+[span class="name q0"]旧车轮[/span]
+</code>
+</item>
+<item id="45188" class="15.0" level="1" icon="inv_misc_herb_11a" quality="0">
+<name>干枯的海藻</name>
+<code>
+[span class="name q0"]干枯的海藻[/span]
+</code>
+</item>
+<item id="45189" class="15.0" level="1" icon="inv_misc_clothscrap_01" quality="0">
+<name>破旧的船帆</name>
+<code>
+[span class="name q0"]破旧的船帆[/span]
+</code>
+</item>
+<item id="45190" class="15.0" level="1" icon="inv_misc_flute_01" quality="0">
+<name>漂木</name>
+<code>
+[span class="name q0"]漂木[/span]
+</code>
+</item>
+<item id="45191" class="15.0" level="1" icon="inv_misc_shell_01" quality="0">
+<name>空蚌壳</name>
+<code>
+[span class="name q0"]空蚌壳[/span]
+</code>
+</item>
+<item id="45194" class="15.0" level="1" icon="inv_fabric_linen_03" quality="0">
+<name>纠结的鱼线</name>
+<code>
+[span class="name q0"]纠结的鱼线[/span]
+</code>
+</item>
+<item id="45195" class="15.0" level="1" icon="inv_drink_09" quality="0">
+<name>空的郎姆酒瓶</name>
+<code>
+[span class="name q0"]空的郎姆酒瓶[/span]
+</code>
+</item>
+<item id="45196" class="15.0" level="1" icon="inv_misc_clothscrap_01" quality="0">
+<name>破布</name>
+<code>
+[span class="name q0"]破布[/span]
+</code>
+</item>
+<item id="45197" class="15.0" level="1" icon="trade_herbalism" quality="0">
+<name>树枝</name>
+<code>
+[span class="name q0"]树枝[/span]
+</code>
+</item>
+<item id="45198" class="15.0" level="1" icon="inv_misc_herb_05" quality="0">
+<name>水草</name>
+<code>
+[span class="name q0"]水草[/span]
+</code>
+</item>
+<item id="45199" class="15.0" level="1" icon="inv_boots_04" quality="0">
+<name>旧靴子</name>
+<code>
+[span class="name q0"]旧靴子[/span]
+</code>
+</item>
+<item id="45200" class="15.0" level="1" icon="inv_misc_fish_74" quality="0">
+<name>病鱼</name>
+<code>
+[span class="name q0"]病鱼[/span]
+</code>
+</item>
+<item id="45201" class="15.0" level="1" icon="inv_stone_08" quality="0">
+<name>石块</name>
+<code>
+[span class="name q0"]石块[/span]
+</code>
+</item>
+<item id="45202" class="15.0" level="1" icon="inv_misc_shell_04" quality="0">
+<name>淡水蜗牛</name>
+<code>
+[span class="name q0"]淡水蜗牛[/span]
+</code>
+</item>
+<item id="36794" class="15.0" icon="inv_misc_bone_02" quality="0">
+<name>洗净的鱼骨</name>
+<code>
+[span class="name q0"]洗净的鱼骨[/span]
+</code>
+</item>
+<item id="6351" class="15.4" level="15" icon="inv_crate_05" quality="1">
+<name>被挤压过的箱子</name>
+<code>
+[div class="name q1"]被挤压过的箱子[/div][div class="q"]"风险投资公司的补给品"[/div]
+</code>
+</item>
+<item id="6352" class="15.4" level="25" icon="inv_crate_06" quality="1">
+<name>浸水的箱子</name>
+<code>
+[div class="name q1"]浸水的箱子[/div][div class="q"]"风险投资公司的补给品"[/div]
+</code>
+</item>
+<item id="6357" class="15.4" level="35" icon="inv_crate_03" quality="1">
+<name>密封的箱子</name>
+<code>
+[div class="name q1"]密封的箱子[/div][div class="q"]"风险投资公司的补给品"[/div]
+</code>
+</item>
+<item id="13874" class="15.4" level="45" icon="inv_crate_03" quality="1">
+<name>沉重的箱子</name>
+<code>
+[div class="name q1"]沉重的箱子[/div][div class="q"]"风险投资公司的补给品"[/div]
+</code>
+</item>
+<item id="27481" class="15.4" level="60" icon="inv_crate_01" quality="1">
+<name>沉重的补给箱</name>
+<code>
+[div class="name q1"]沉重的补给箱[/div][div class="q"]"备用水泵零件"[/div]
+</code>
+</item>
+<item id="10156" class="4.3.9" level="60" icon="inv_bracer_18" quality="2">
+<name>水银护腕</name>
+<screenshot>67327</screenshot>
+<code>
+[div class="name q2"]水银护腕[/div][div]装备后绑定[/div][table][tbody][tr][td]手腕[/td][th]锁甲[/th][/tr][/tbody][/table][div]141 护甲[/div][div]需要等级 55[/div]
+</code>
+</item>
+<item id="3371" class="7.11" level="1" icon="inv_drink_06" quality="1">
+<name>空瓶</name>
+<code>
+[div class="name q1"]空瓶[/div]
+</code>
+</item>
+<item id="3372" class="7.11" level="25" icon="inv_alchemy_leadedvial" quality="1">
+<name>铅瓶</name>
+<code>
+[div class="name q1"]铅瓶[/div]
+</code>
+</item>
+<item id="7973" class="7.11" level="40" icon="inv_misc_shell_03" quality="1">
+<name>巨型蚌壳</name>
+<code>
+[div class="name q1"]巨型蚌壳[/div][div class="q2"]使用: 打开蚌壳！[/div]
+</code>
+</item>
+<item id="24476" class="7.11" level="65" icon="inv_misc_shell_03" quality="1">
+<name>裂纹的蚌壳</name>
+<code>
+[div class="name q1"]裂纹的蚌壳[/div][div class="q2"]使用: 打开蚌壳！[/div]
+</code>
+</item>
+<item id="27511" class="7.11" level="60" icon="inv_misc_flute_01" quality="1">
+<name>雕文卷轴盒</name>
+<code>
+[div class="name q1"]雕文卷轴盒[/div]
+</code>
+</item>
+<item id="27513" class="7.11" level="60" icon="inv_crate_02" quality="1">
+<name>奇怪的箱子</name>
+<code>
+[div class="name q1"]奇怪的箱子[/div]
+</code>
+</item>
+<item id="36781" class="7.11" level="75" icon="inv_misc_shell_02" quality="1">
+<name>深水蚌</name>
+<code>
+[div class="name q1"]深水蚌[/div][div class="q2"]使用: 打开蚌壳！[/div]
+</code>
+</item>
+<item id="44475" class="7.11" level="70" icon="inv_crate_04" quality="1">
+<name>加固的箱子</name>
+<code>
+[div class="name q1"]加固的箱子[/div]
+</code>
+</item>
+<item id="45909" class="7.11" level="80" icon="inv_misc_shell_04" quality="1">
+<name>巨型深水蚌</name>
+<code>
+[span class="name q1"]巨型深水蚌[/span][br /][span class="q2"]使用: 打开蚌壳！[/span]
+</code>
+</item>
+<item id="6470" class="7.6" level="1" icon="inv_misc_monsterscales_02" quality="1">
+<name>飞蛇鳞片</name>
+<code>
+[div class="name q1"]飞蛇鳞片[/div]
+</code>
+</item>
+<item id="3857" class="7.7" level="30" icon="inv_ore_tin_01" quality="1">
+<name>煤块</name>
+<code>
+[div class="name q1"]煤块[/div]
+</code>
+</item>
+<item id="3820" class="7.9" level="20" icon="inv_misc_herb_11" quality="1">
+<name>荆棘藻</name>
+<code>
+[div class="name q1"]荆棘藻[/div]
+</code>
+</item>
+<item id="45907" class="7.8" level="1" icon="inv_misc_bone_02" quality="0">
+<name>几乎被吃光的骨鳞钳鱼</name>
+<code>
+[span class="name q0"]几乎被吃光的骨鳞钳鱼[/span]
+</code>
+</item>
+<item id="6643" class="15.4" level="5" icon="inv_misc_fish_08" quality="1">
+<name>浮肿的小鱼</name>
+<code>
+[div class="name q1"]浮肿的小鱼[/div]
+</code>
+</item>
+<item id="6299" class="0.5" level="5" icon="inv_misc_fish_28" quality="1">
+<name>病怏怏的鱼</name>
+<code>
+[div class="name q1"]病怏怏的鱼[/div][div class="q2"]使用: 在15秒内恢复总计30点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="6291" class="7.8" level="5" icon="inv_misc_fish_08" quality="1">
+<name>新鲜的美味小鱼</name>
+<code>
+[div class="name q1"]新鲜的美味小鱼[/div][div class="q2"]使用: 在15秒内恢复总计30点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="6303" class="7.8" level="5" icon="inv_misc_fish_24" quality="1">
+<name>新鲜的滑皮鲭鱼</name>
+<code>
+[div class="name q1"]新鲜的滑皮鲭鱼[/div][div class="q2"]使用: 在15秒内恢复总计30点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="6458" class="0.8" level="15" icon="inv_misc_monsterhead_02" quality="1">
+<name>滑腻的鱼</name>
+<code>
+[div class="name q1"]滑腻的鱼[/div][div]需要等级 5[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="6358" class="7.11" level="15" icon="inv_misc_monsterhead_04" quality="1">
+<name>黑口鱼</name>
+<code>
+[div class="name q1"]黑口鱼[/div]
+</code>
+</item>
+<item id="6522" class="0.5" level="15" icon="inv_misc_monsterhead_01" quality="1">
+<name>变异鱼</name>
+<code>
+[div class="name q1"]变异鱼[/div][div class="q2"]使用: 吃我。[/div]
+</code>
+</item>
+<item id="12238" class="0.5" level="15" icon="inv_misc_fish_26" quality="1">
+<name>黑海岸石斑鱼</name>
+<code>
+[div class="name q1"]黑海岸石斑鱼[/div][div]需要等级 5[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="6289" class="7.8" level="15" icon="inv_misc_fish_32" quality="1">
+<name>新鲜的长嘴泥鳅</name>
+<code>
+[div class="name q1"]新鲜的长嘴泥鳅[/div][div]需要等级 5[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="6317" class="7.8" level="15" icon="inv_misc_fish_03" quality="1">
+<name>新鲜的洛克湖狂鱼</name>
+<code>
+[div class="name q1"]新鲜的洛克湖狂鱼[/div][div]需要等级 5[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="6361" class="7.8" level="15" icon="inv_misc_fish_25" quality="1">
+<name>新鲜的彩鳍鱼</name>
+<code>
+[div class="name q1"]新鲜的彩鳍鱼[/div][div]需要等级 5[/div][div class="q2"]使用: 在18秒内恢复总计61点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="21071" class="7.8" level="20" icon="inv_misc_fish_20" quality="1">
+<name>新鲜的鼠尾鱼</name>
+<code>
+[div class="name q1"]新鲜的鼠尾鱼[/div][div]需要等级 10[/div][div class="q2"]使用: 在21秒内恢复155点生命值和315点法力值。进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="6359" class="7.11" level="25" icon="inv_misc_monsterhead_01" quality="1">
+<name>火鳞鳝鱼</name>
+<code>
+[div class="name q1"]火鳞鳝鱼[/div]
+</code>
+</item>
+<item id="6308" class="7.8" level="25" icon="inv_misc_fish_30" quality="1">
+<name>新鲜的刺须鲶鱼</name>
+<code>
+[div class="name q1"]新鲜的刺须鲶鱼[/div][div]需要等级 15[/div][div class="q2"]使用: 在21秒内恢复总计243点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="6362" class="7.8" level="35" icon="inv_misc_fish_04" quality="1">
+<name>新鲜的石鳞鳕鱼</name>
+<code>
+[div class="name q1"]新鲜的石鳞鳕鱼[/div][div]需要等级 25[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="8365" class="7.8" level="35" icon="inv_misc_fish_02" quality="1">
+<name>新鲜的银头鲑鱼</name>
+<code>
+[div class="name q1"]新鲜的银头鲑鱼[/div][div]需要等级 25[/div][div class="q2"]使用: 在24秒内恢复总计552点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="21153" class="7.8" level="40" icon="inv_misc_fish_21" quality="1">
+<name>新鲜的大鼠尾鱼</name>
+<code>
+[div class="name q1"]新鲜的大鼠尾鱼[/div][div]需要等级 30[/div][div class="q2"]使用: 在21秒内恢复567点生命值和882点法力值。进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="13422" class="7.11" level="45" icon="inv_misc_fish_11" quality="1">
+<name>石鳞鳗</name>
+<code>
+[div class="name q1"]石鳞鳗[/div]
+</code>
+</item>
+<item id="13757" class="7.11" level="45" icon="inv_misc_fish_12" quality="1">
+<name>电鳗</name>
+<code>
+[div class="name q1"]电鳗[/div]
+</code>
+</item>
+<item id="13755" class="0.5" level="45" icon="inv_misc_fish_13" quality="1">
+<name>冬鱿鱼</name>
+<code>
+[div class="name q1"]冬鱿鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="4603" class="7.8" level="45" icon="inv_misc_fish_01" quality="1">
+<name>新鲜的斑点黄尾鱼</name>
+<code>
+[div class="name q1"]新鲜的斑点黄尾鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="13754" class="7.8" level="45" icon="inv_misc_monsterhead_03" quality="1">
+<name>新鲜的光滑大鱼</name>
+<code>
+[div class="name q1"]新鲜的光滑大鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="13756" class="7.8" level="45" icon="inv_misc_fish_03" quality="1">
+<name>新鲜的夏日鲈鱼</name>
+<code>
+[div class="name q1"]新鲜的夏日鲈鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="13758" class="7.8" level="45" icon="inv_misc_fish_06" quality="1">
+<name>新鲜的红腮鱼</name>
+<code>
+[div class="name q1"]新鲜的红腮鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="13759" class="7.8" level="45" icon="inv_misc_fish_23" quality="1">
+<name>新鲜的夜鳞鲷鱼</name>
+<code>
+[div class="name q1"]新鲜的夜鳞鲷鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="13760" class="7.8" level="45" icon="inv_misc_fish_19" quality="1">
+<name>新鲜的阳鳞鲑鱼</name>
+<code>
+[div class="name q1"]新鲜的阳鳞鲑鱼[/div][div]需要等级 35[/div][div class="q2"]使用: 在27秒内恢复总计874点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="7070" class="7.10" level="25" icon="inv_potion_03" quality="1">
+<name>元素之水</name>
+<code>
+[div class="name q1"]元素之水[/div]
+</code>
+</item>
+<item id="7079" class="7.10" level="45" icon="inv_misc_orb_01" quality="1">
+<name>纯水之球</name>
+<code>
+[div class="name q1"]纯水之球[/div]
+</code>
+</item>
+<item id="7080" class="7.10" level="55" icon="spell_nature_acid_01" quality="2">
+<name>水之精华</name>
+<code>
+[div class="name q2"]水之精华[/div]
+</code>
+</item>
+<item id="7078" class="7.10" level="55" icon="spell_fire_volcano" quality="2">
+<name>火焰精华</name>
+<code>
+[div class="name q2"]火焰精华[/div]
+</code>
+</item>
+<item id="13893" class="0.5" level="55" icon="inv_misc_monsterhead_02" quality="1">
+<name>新鲜的大鱼</name>
+<code>
+[div class="name q1"]新鲜的大鱼[/div][div]需要等级 45[/div][div class="q2"]使用: 在30秒内恢复总计1392点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="13888" class="7.8" level="55" icon="inv_misc_fish_14" quality="1">
+<name>黑爪龙虾</name>
+<code>
+[div class="name q1"]黑爪龙虾[/div][div]需要等级 45[/div][div class="q2"]使用: 在30秒内恢复总计1392点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="13889" class="7.8" level="55" icon="inv_misc_fish_20" quality="1">
+<name>新鲜的白鳞鲑鱼</name>
+<code>
+[div class="name q1"]新鲜的白鳞鲑鱼[/div][div]需要等级 45[/div][div class="q2"]使用: 在30秒内恢复总计1392点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="13890" class="7.8" level="55" icon="inv_misc_fish_04" quality="1">
+<name>板鳞鱼</name>
+<code>
+[div class="name q1"]板鳞鱼[/div]
+</code>
+</item>
+<item id="27422" class="7.8" level="60" icon="inv_misc_fish_37" quality="1">
+<name>刺鳃鲑鱼</name>
+<code>
+[div class="name q1"]刺鳃鲑鱼[/div]
+</code>
+</item>
+<item id="27425" class="7.8" level="60" icon="inv_misc_fish_39" quality="1">
+<name>斑点魔尾鱼</name>
+<code>
+[div class="name q1"]斑点魔尾鱼[/div]
+</code>
+</item>
+<item id="27429" class="7.8" level="60" icon="inv_misc_fish_34" quality="1">
+<name>赞加孢子鱼</name>
+<code>
+[div class="name q1"]赞加孢子鱼[/div]
+</code>
+</item>
+<item id="27435" class="7.8" level="60" icon="inv_misc_fish_41" quality="1">
+<name>菲格鲁泥鱼</name>
+<code>
+[div class="name q1"]菲格鲁泥鱼[/div]
+</code>
+</item>
+<item id="27437" class="7.8" level="60" icon="inv_misc_fish_23" quality="1">
+<name>冰鳞蓝鱼</name>
+<code>
+[div class="name q1"]冰鳞蓝鱼[/div]
+</code>
+</item>
+<item id="27438" class="7.8" level="60" icon="inv_misc_fish_36" quality="1">
+<name>金镖鱼</name>
+<code>
+[div class="name q1"]金镖鱼[/div]
+</code>
+</item>
+<item id="27439" class="7.8" level="60" icon="inv_misc_fish_14" quality="1">
+<name>狂暴龙虾</name>
+<code>
+[div class="name q1"]狂暴龙虾[/div]
+</code>
+</item>
+<item id="27515" class="4.-5" level="60" icon="inv_misc_fish_39" quality="1">
+<name>粗斑魔尾鱼</name>
+<screenshot>154977</screenshot>
+<code>
+[div class="name q1"]粗斑魔尾鱼[/div][div]副手[/div]
+</code>
+</item>
+<item id="27516" class="4.-5" level="60" icon="inv_misc_fish_37" quality="1">
+<name>巨刺鲑鱼</name>
+<screenshot>32506</screenshot>
+<code>
+[div class="name q1"]巨刺鲑鱼[/div][div]副手[/div]
+</code>
+</item>
+<item id="33823" class="7.8" level="65" icon="inv_misc_fish_29" quality="1">
+<name>血鳞鲶鱼</name>
+<code>
+[div class="name q1"]血鳞鲶鱼[/div]
+</code>
+</item>
+<item id="33824" class="7.8" level="65" icon="inv_misc_fish_40" quality="1">
+<name>弯尾骨鱼</name>
+<code>
+[div class="name q1"]弯尾骨鱼[/div]
+</code>
+</item>
+<item id="22578" class="7.10" level="65" icon="inv_elemental_mote_water01" quality="1">
+<name>水之微粒</name>
+<code>
+[div class="name q1"]水之微粒[/div][div class="q2"]使用: 将十份水之微粒合成为一份源生之水。[/div]
+</code>
+</item>
+<item id="27442" class="15.0" level="70" icon="inv_misc_fish_42" quality="0">
+<name>金鳞卖店鱼</name>
+<code>
+[div class="name q0"]金鳞卖店鱼[/div][div]售出: [span class="si-gold"]6[/span][/div]
+</code>
+</item>
+<item id="35287" class="0.8" level="70" icon="inv_misc_fish_10" quality="1">
+<name>发光的蓝尾鱼</name>
+<code>
+[div class="name q1"]发光的蓝尾鱼[/div][div]需要等级 55[/div][div class="q2"]使用: 恢复455到585点法力值。[/div][div class="q"]"这条小鱼体内充满了奥术能量。"[/div]
+</code>
+</item>
+<item id="35285" class="7.8" level="70" icon="inv_misc_fish_03" quality="1">
+<name>巨型太阳鱼</name>
+<code>
+[div class="name q1"]巨型太阳鱼[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="35286" class="15.4" level="70" icon="inv_misc_fish_03" quality="1">
+<name>浮肿的巨型太阳鱼</name>
+<code>
+[div class="name q1"]浮肿的巨型太阳鱼[/div]
+</code>
+</item>
+<item id="41802" class="7.8" level="70" icon="inv_misc_fish_59" quality="1">
+<name>帝王鳐</name>
+<code>
+[div class="name q1"]帝王鳐[/div]
+</code>
+</item>
+<item id="41803" class="7.8" level="70" icon="inv_misc_fish_46" quality="1">
+<name>石鳞鲶鱼</name>
+<code>
+[div class="name q1"]石鳞鲶鱼[/div]
+</code>
+</item>
+<item id="41805" class="7.8" level="70" icon="inv_misc_fish_49" quality="1">
+<name>北风水母</name>
+<code>
+[div class="name q1"]北风水母[/div]
+</code>
+</item>
+<item id="41806" class="7.8" level="70" icon="inv_misc_fish_62" quality="1">
+<name>蚌背鱼</name>
+<code>
+[div class="name q1"]蚌背鱼[/div]
+</code>
+</item>
+<item id="41807" class="7.8" level="70" icon="inv_misc_fish_54" quality="1">
+<name>龙鳞天使鱼</name>
+<code>
+[div class="name q1"]龙鳞天使鱼[/div]
+</code>
+</item>
+<item id="41808" class="7.8" level="70" icon="inv_misc_fish_48" quality="1">
+<name>骨鳞钳鱼</name>
+<code>
+[div class="name q1"]骨鳞钳鱼[/div]
+</code>
+</item>
+<item id="41809" class="7.8" level="70" icon="inv_misc_fish_51" quality="1">
+<name>冰河鲑鱼</name>
+<code>
+[div class="name q1"]冰河鲑鱼[/div]
+</code>
+</item>
+<item id="41810" class="7.8" level="70" icon="inv_misc_fish_67" quality="1">
+<name>利齿青鱼</name>
+<code>
+[div class="name q1"]利齿青鱼[/div]
+</code>
+</item>
+<item id="41812" class="7.8" level="70" icon="inv_misc_fish_57" quality="1">
+<name>圆头虾虎鱼</name>
+<code>
+[div class="name q1"]圆头虾虎鱼[/div]
+</code>
+</item>
+<item id="41813" class="7.8" level="70" icon="inv_misc_fish_72" quality="1">
+<name>水母</name>
+<code>
+[div class="name q1"]水母[/div]
+</code>
+</item>
+<item id="41814" class="7.8" level="70" icon="inv_misc_fish_69" quality="1">
+<name>晶鳞鱼</name>
+<code>
+[div class="name q1"]晶鳞鱼[/div]
+</code>
+</item>
+<item id="40199" class="7.11" level="75" icon="inv_misc_fish_55" quality="1">
+<name>小型亚口鱼</name>
+<code>
+[div class="name q1"]小型亚口鱼[/div]
+</code>
+</item>
+<item id="43646" class="7.8" level="75" icon="inv_misc_fish_58" quality="1">
+<name>喷泉金鱼</name>
+<code>
+[div class="name q1"]喷泉金鱼[/div][div]需要等级 65[/div][div class="q2"]使用: 在30秒内恢复总计7500点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="37705" class="7.10" level="75" icon="inv_elemental_crystal_water" quality="1">
+<name>水之结晶</name>
+<code>
+[div class="name q1"]水之结晶[/div][div class="q2"]使用: 将10份水之结晶转化为一份永恒之水。[/div]
+</code>
+</item>
+<item id="43571" class="7.8" level="80" icon="inv_misc_fish_31" quality="1">
+<name>下水道鲤鱼</name>
+<code>
+[div class="name q1"]下水道鲤鱼[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计18480点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="43572" class="7.8" level="80" icon="inv_misc_fish_73" quality="1">
+<name>噬魔鱼</name>
+<code>
+[div class="name q1"]噬魔鱼[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计18480点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，天知道会发生什么事情。[/div]
+</code>
+</item>
+<item id="43647" class="7.8" level="80" icon="inv_misc_fish_08" quality="1">
+<name>亮鳞鲤鱼</name>
+<code>
+[div class="name q1"]亮鳞鲤鱼[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计18480点生命值，进食时必须保持坐姿。[/div]
+</code>
+</item>
+<item id="43652" class="7.8" level="80" icon="inv_misc_fish_11" quality="1">
+<name>光滑的鳗鱼</name>
+<code>
+[div class="name q1"]光滑的鳗鱼[/div][div]需要等级 70[/div][div class="q2"]使用: 在30秒内恢复总计18480点生命值。如果你花费至少10秒钟来进食，你的躲闪等级将提高30，持续60分钟。[/div]
+</code>
+</item>
+<item id="13907" class="15.0" level="55" icon="inv_misc_fish_14" quality="1">
+<name>7磅重的龙虾</name>
+<code>
+[div class="name q1"]7磅重的龙虾[/div]
+</code>
+</item>
+<item id="13908" class="15.0" level="55" icon="inv_misc_fish_14" quality="1">
+<name>9磅重的龙虾</name>
+<code>
+[div class="name q1"]9磅重的龙虾[/div]
+</code>
+</item>
+<item id="13909" class="15.0" level="55" icon="inv_misc_fish_14" quality="1">
+<name>12磅重的龙虾</name>
+<code>
+[div class="name q1"]12磅重的龙虾[/div]
+</code>
+</item>
+<item id="13910" class="15.0" level="55" icon="inv_misc_fish_14" quality="1">
+<name>15磅重的龙虾</name>
+<code>
+[div class="name q1"]15磅重的龙虾[/div]
+</code>
+</item>
+<item id="13911" class="15.0" level="55" icon="inv_misc_fish_14" quality="1">
+<name>19磅重的龙虾</name>
+<code>
+[div class="name q1"]19磅重的龙虾[/div]
+</code>
+</item>
+<item id="13912" class="15.0" level="55" icon="inv_misc_fish_14" quality="1">
+<name>21磅重的龙虾</name>
+<code>
+[div class="name q1"]21磅重的龙虾[/div]
+</code>
+</item>
+<item id="13913" class="15.0" level="55" icon="inv_misc_fish_14" quality="1">
+<name>22磅重的龙虾</name>
+<code>
+[div class="name q1"]22磅重的龙虾[/div]
+</code>
+</item>
+<item id="6292" class="4.-5" level="15" icon="inv_misc_fish_33" quality="1">
+<name>10磅重的泥鳅</name>
+<screenshot>18066</screenshot>
+<code>
+[div class="name q1"]10磅重的泥鳅[/div][div]副手[/div]
+</code>
+</item>
+<item id="6294" class="4.-5" level="15" icon="inv_misc_fish_33" quality="1">
+<name>12磅重的泥鳅</name>
+<screenshot>55571</screenshot>
+<code>
+[div class="name q1"]12磅重的泥鳅[/div][div]副手[/div]
+</code>
+</item>
+<item id="6295" class="4.-5" level="15" icon="inv_misc_fish_33" quality="1">
+<name>15磅重的泥鳅</name>
+<screenshot>101537</screenshot>
+<code>
+[div class="name q1"]15磅重的泥鳅[/div][div]副手[/div]
+</code>
+</item>
+<item id="6309" class="4.-5" level="15" icon="inv_misc_fish_30" quality="1">
+<name>17磅重的鲶鱼</name>
+<screenshot>78839</screenshot>
+<code>
+[div class="name q1"]17磅重的鲶鱼[/div][div]副手[/div]
+</code>
+</item>
+<item id="6310" class="4.-5" level="15" icon="inv_misc_fish_30" quality="1">
+<name>19磅重的鲶鱼</name>
+<screenshot>78838</screenshot>
+<code>
+[div class="name q1"]19磅重的鲶鱼[/div][div]副手[/div]
+</code>
+</item>
+<item id="6311" class="4.-5" level="15" icon="inv_misc_fish_30" quality="1">
+<name>22磅重的鲶鱼</name>
+<screenshot>78837</screenshot>
+<code>
+[div class="name q1"]22磅重的鲶鱼[/div][div]副手[/div]
+</code>
+</item>
+<item id="6364" class="4.-5" level="25" icon="inv_misc_fish_30" quality="1">
+<name>32磅重的鲶鱼</name>
+<screenshot>78835</screenshot>
+<code>
+[div class="name q1"]32磅重的鲶鱼[/div][div]副手[/div]
+</code>
+</item>
+<item id="13885" class="4.-5" level="45" icon="inv_misc_fish_06" quality="1">
+<name>34磅重的红腮鱼</name>
+<screenshot>75399</screenshot>
+<code>
+[div class="name q1"]34磅重的红腮鱼[/div][div]副手[/div]
+</code>
+</item>
+<item id="13886" class="4.-5" level="45" icon="inv_misc_fish_06" quality="1">
+<name>37磅重的红腮鱼</name>
+<screenshot>75398</screenshot>
+<code>
+[div class="name q1"]37磅重的红腮鱼[/div][div]副手[/div]
+</code>
+</item>
+<item id="13883" class="4.-5" level="45" icon="inv_misc_fish_06" quality="1">
+<name>45磅重的红腮鱼</name>
+<screenshot>3129</screenshot>
+<code>
+[div class="name q1"]45磅重的红腮鱼[/div][div]副手[/div]
+</code>
+</item>
+<item id="13887" class="4.-5" level="45" icon="inv_misc_fish_06" quality="1">
+<name>52磅重的红腮鱼</name>
+<screenshot>75402</screenshot>
+<code>
+[div class="name q1"]52磅重的红腮鱼[/div][div]副手[/div]
+</code>
+</item>
+<item id="13876" class="15.0" level="45" icon="inv_misc_fish_06" quality="1">
+<name>40磅重的石斑鱼</name>
+<code>
+[div class="name q1"]40磅重的石斑鱼[/div]
+</code>
+</item>
+<item id="13877" class="15.0" level="45" icon="inv_misc_fish_06" quality="1">
+<name>47磅重的石斑鱼</name>
+<code>
+[div class="name q1"]47磅重的石斑鱼[/div]
+</code>
+</item>
+<item id="13880" class="15.0" level="45" icon="inv_misc_fish_06" quality="1">
+<name>68磅重的石斑鱼</name>
+<code>
+[div class="name q1"]68磅重的石斑鱼[/div]
+</code>
+</item>
+<item id="13901" class="4.-5" level="55" icon="inv_misc_fish_02" quality="1">
+<name>15磅重的鲑鱼</name>
+<screenshot>75403</screenshot>
+<code>
+[div class="name q1"]15磅重的鲑鱼[/div][div]副手[/div]
+</code>
+</item>
+<item id="13905" class="4.-5" level="55" icon="inv_misc_fish_02" quality="1">
+<name>29磅重的鲑鱼</name>
+<screenshot>75407</screenshot>
+<code>
+[div class="name q1"]29磅重的鲑鱼[/div][div]副手[/div]
+</code>
+</item>
+<item id="13917" class="4.-5" level="55" icon="inv_misc_monsterhead_02" quality="1">
+<name>103磅重的大鱼</name>
+<screenshot>29545</screenshot>
+<code>
+[span class="name q1"]103磅重的大鱼[/span][br /]副手物品
+</code>
+</item>
+
+<item id="6363" class="4.-5" level="25" icon="inv_misc_fish_30" quality="1">
+<name>26磅重的鲶鱼</name>
+<code>
+[div class="name q1"]26磅重的鲶鱼[/div][div]副手[/div]
+</code>
+</item>
+<item id="13882" class="4.-5" level="45" icon="inv_misc_fish_06" quality="1">
+<name>42磅重的红腮鱼</name>
+<code>
+[div class="name q1"]42磅重的红腮鱼[/div][div]副手[/div]
+</code>
+</item>
+<item id="13884" class="4.-5" level="45" icon="inv_misc_fish_06" quality="1">
+<name>49磅重的红腮鱼</name>
+<code>
+[div class="name q1"]49磅重的红腮鱼[/div][div]副手[/div]
+</code>
+</item>
+<item id="13878" class="15.0" level="45" icon="inv_misc_fish_06" quality="1">
+<name>53磅重的石斑鱼</name>
+<code>
+[div class="name q1"]53磅重的石斑鱼[/div]
+</code>
+</item>
+<item id="13879" class="15.0" level="45" icon="inv_misc_fish_06" quality="1">
+<name>59磅重的石斑鱼</name>
+<code>
+[div class="name q1"]59磅重的石斑鱼[/div]
+</code>
+</item>
+<item id="13914" class="4.-5" level="55" icon="inv_misc_monsterhead_02" quality="1">
+<name>70磅重的大鱼</name>
+<code>
+[div class="name q1"]70磅重的大鱼[/div][div]副手[/div]
+</code>
+</item>
+<item id="13915" class="4.-5" level="55" icon="inv_misc_monsterhead_02" quality="1">
+<name>85磅重的大鱼</name>
+<code>
+[div class="name q1"]85磅重的大鱼[/div][div]副手[/div]
+</code>
+</item>
+<item id="13916" class="4.-5" level="55" icon="inv_misc_monsterhead_02" quality="1">
+<name>92磅重的大鱼</name>
+<code>
+[span class="name q1"]92磅重的大鱼[/span][br /]副手
+</code>
+</item>
+<item id="34484" class="4.-5" level="20" icon="inv_misc_fish_31" quality="2">
+<name>老铁腭</name>
+<screenshot>67029</screenshot>
+<code>
+[div class="name q2"]老铁腭[/div][div]拾取后绑定[/div][div]副手[/div][div]+5 耐力[/div][div class="q"]"生活在铁炉堡的传说之鱼，从来没有被抓住过。把这只鱼握在手里就足以让你心惊胆战了。"[/div]
+</code>
+</item>
+<item id="34486" class="4.-5" level="20" icon="inv_misc_fish_35" quality="2">
+<name>老滑头</name>
+<screenshot>79095</screenshot>
+<code>
+[div class="name q2"]老滑头[/div][div]拾取后绑定[/div][div]副手[/div][div]+5 耐力[/div][div class="q"]"传说是奥格瑞玛最狡猾的鱼，不过它还是没有你狡猾。"[/div]
+</code>
+</item>
+<item id="6360" class="2.4" level="25" icon="inv_misc_fish_04" quality="2">
+<name>钢鳞鱼</name>
+<screenshot>83468</screenshot>
+<code>
+[div class="name q2"]钢鳞鱼[/div][div]装备后绑定[/div][table][tbody][tr][td]单手[/td][th]锤[/th][/tr][tr][td]22 - 42 伤害[/td][th] 速度 2.50[/th][/tr][/tbody][/table][div]（每秒伤害12.8）[/div][div]+4 力量[/div][div]需要等级 20[/div]
+</code>
+</item>
+<item id="19808" class="2.4" level="45" icon="inv_misc_fish_27" quality="2">
+<name>石皮大鱼</name>
+<screenshot>83459</screenshot>
+<code>
+[div class="name q2"]石皮大鱼[/div][div]装备后绑定[/div][table][tbody][tr][td]单手[/td][th]锤[/th][/tr][tr][td]46 - 87 伤害[/td][th] 速度 2.50[/th][/tr][/tbody][/table][div]（每秒伤害26.6）[/div][div]+8 耐力[/div][div]需要等级 40[/div]
+</code>
+</item>
+<item id="44703" class="2.15" level="187" icon="inv_misc_fish_64" quality="2">
+<name>黑暗鲱鱼</name>
+<screenshot>116094</screenshot>
+<code>
+[span class="name q2"]黑暗鲱鱼[/span][br /]装备后绑定[br /][table][tr][td]单手[/td][th]匕首[/th][/tr][tr][td]146 - 271 伤害[/td][th]速度 1.90[/th][/tr][/table]（每秒伤害109.7）[br /]需要等级 78[br /][span class="q2"]装备: 爆击等级提高50。[/span][br /][span class="q"]"鲱鱼找你索命来了！"[/span]
+</code>
+</item>
+<item id="27388" class="0.0" level="70" icon="inv_misc_fish_14" quality="3">
+<name>钳子先生</name>
+<screenshot>61086</screenshot>
+<code>
+[div class="name q3"]钳子先生[/div][div]拾取后绑定[/div][div]需要等级 55[/div][div class="q2"]使用: 跟钳子先生聊天，还可以许一个愿望！也许可以碰到好运气……也许是坏运气……钳子先生自己也不知道！[/div]
+</code>
+</item>
+<item id="27445" class="15.2" level="70" icon="inv_pet_magicalcradadbox" quality="1">
+<name>魔法龙虾盒</name>
+<code>
+[div class="name q1"]魔法龙虾盒[/div][div]拾取后绑定[/div][div class="q2"]使用: 教你学会召唤这种小伙伴。[/div]
+</code>
+</item>
+<item id="43698" class="15.2" level="20" icon="inv_misc_monstertail_03" quality="3">
+<name>巨型下水道老鼠</name>
+<screenshot>109103</screenshot>
+<screenshot>122722</screenshot>
+<code>
+[span class="name q3"]巨型下水道老鼠[/span][br /]拾取后绑定[br /][span class="q2"]使用: 教你学会召唤这种小伙伴。[/span]
+</code>
+</item>
+<item id="46109" class="15.5" level="80" icon="inv_misc_fish_turtle_02" quality="3">
+<name>海龟</name>
+<screenshot>125960</screenshot>
+<screenshot>126693</screenshot>
+<screenshot>135678</screenshot>
+<code>
+[span class="name q3"]海龟[/span][br /]拾取后绑定[br /]需要骑术 (75)[br /][span class="q2"]使用: 教你学会召唤海龟坐骑。这种坐骑在陆地上的移动速度不是很快，但在水里就大不一样了。[/span]
+</code>
+</item>
+<item id="43627" class="15.0" level="1" icon="inv_misc_coin_17" quality="1">
+<name>萨尔的金币</name>
+<code>
+[div class="name q1"]萨尔的金币[/div][div]拾取后绑定[/div][div class="q2"]使用: 将这枚硬币扔回达拉然的喷泉中。[/div][div class="q"]"格罗姆，我的老朋友，愿你安息。"[/div]
+</code>
+</item>
+<item id="43628" class="15.0" level="1" icon="inv_misc_coin_17" quality="1">
+<name>吉安娜·普罗德摩尔的金币</name>
+<code>
+[span class="name q1"]吉安娜·普罗德摩尔的金币[/span][br /]拾取后绑定[br /][span class="q2"]使用: 将这枚硬币扔回达拉然的喷泉中。[/span][br /][span class="q"]"阿尔萨斯，我的挚爱，请回到我身边来。"[/span]
+</code>
+</item>
+<item id="43629" class="15.0" level="1" icon="inv_misc_coin_17" quality="1">
+<name>乌瑟尔·光明使者的金币</name>
+<code>
+[div class="name q1"]乌瑟尔·光明使者的金币[/div][div]拾取后绑定[/div][div class="q2"]使用: 将这枚硬币扔回达拉然的喷泉中。[/div][div class="q"]"年轻的阿尔萨斯必须学会以耐心控制自己的力量。我祈祷他能了解到领袖的真谛在于品德，而非蛮力。"[/div]
+</code>
+</item>
+<item id="43630" class="15.0" level="1" icon="inv_misc_coin_17" quality="1">
+<name>提里奥·弗丁的金币</name>
+<code>
+[span class="name q1"]提里奥·弗丁的金币[/span][br /]拾取后绑定[br /][span class="q2"]使用: 将这枚硬币扔回达拉然的喷泉中。[/span][br /][span class="q"]"我希望泰兰能够茁壮成长，保卫他所关心的人。"[/span]
+</code>
+</item>
+<item id="43631" class="15.0" level="1" icon="inv_misc_coin_17" quality="1">
+<name>塔隆的金币</name>
+<code>
+[span class="name q1"]塔隆的金币[/span][br /]拾取后绑定[br /][span class="q2"]使用: 将这枚硬币扔回达拉然的喷泉中。[/span][br /][span class="q"]"许愿是蠢货的消遣。这枚金币就当是挖掉你眼睛的报酬吧。"[/span]
+</code>
+</item>
+<item id="43632" class="15.0" level="1" icon="inv_misc_coin_17" quality="1">
+<name>希尔瓦娜斯·风行者的金币</name>
+<code>
+[span class="name q1"]希尔瓦娜斯·风行者的金币[/span][br /]拾取后绑定[br /][span class="q2"]使用: 将这枚硬币扔回达拉然的喷泉中。[/span][br /][span class="q"]"希望姐妹们和我一起长大，一起出嫁。这枚金币似乎很古老了。"[/span]
+</code>
+</item>
+<item id="43633" class="15.0" level="1" icon="inv_misc_coin_17" quality="1">
+<name>凯尔萨斯王子的金币</name>
+<code>
+[span class="name q1"]凯尔萨斯王子的金币[/span][br /]拾取后绑定[br /][span class="q2"]使用: 将这枚硬币扔回达拉然的喷泉中。[/span][br /][span class="q"]"那个名叫吉安娜的年轻学徒，就一名人类女子来说，已经算是很有吸引力了。我希望她能认识到我的优雅和强大。"[/span]
+</code>
+</item>
+<item id="43634" class="15.0" level="1" icon="inv_misc_coin_17" quality="1">
+<name>卡特拉娜·普瑞斯托的金币</name>
+<code>
+[span class="name q1"]卡特拉娜·普瑞斯托的金币[/span][br /]拾取后绑定[br /][span class="q2"]使用: 将这枚硬币扔回达拉然的喷泉中。[/span][br /][span class="q"]"听着，小小的许愿泉。把你全部的力量都交给我，不然有你好看。"[/span]
+</code>
+</item>
+<item id="43635" class="15.0" level="1" icon="inv_misc_coin_17" quality="1">
+<name>克尔苏加德的金币</name>
+<code>
+[div class="name q1"]克尔苏加德的金币[/div][div]拾取后绑定[/div][div class="q2"]使用: 将这枚硬币扔回达拉然的喷泉中。[/div][div class="q"]"有时候……我真希望有人能给我一个热情而温暖的拥抱。"[/div]
+</code>
+</item>
+<item id="43636" class="15.0" level="1" icon="inv_misc_coin_17" quality="1">
+<name>克罗米的金币</name>
+<code>
+[span class="name q1"]克罗米的金币[/span][br /]拾取后绑定[br /][span class="q2"]使用: 将这枚硬币扔回达拉然的喷泉中。[/span][br /][span class="q"]"真希望跟我打招呼的那些家伙不再讲有关侏儒或者时间旅行的冷笑话。"[/span]
+</code>
+</item>
+<item id="43637" class="15.0" level="1" icon="inv_misc_coin_17" quality="1">
+<name>布莱恩·铜须的金币</name>
+<code>
+[div class="name q1"]布莱恩·铜须的金币[/div][div]拾取后绑定[/div][div class="q2"]使用: 将这枚硬币扔回达拉然的喷泉中。[/div][div class="q"]"布莱恩·铜须到此一游。"[/div]
+</code>
+</item>
+<item id="43638" class="15.0" level="1" icon="inv_misc_coin_17" quality="1">
+<name>阿鲁高的金币</name>
+<code>
+[span class="name q1"]阿鲁高的金币[/span][br /]拾取后绑定[br /][span class="q2"]使用: 将这枚硬币扔回达拉然的喷泉中。[/span][br /][span class="q"]"我希望有一天可以退休回到自己的小别墅中颐养天年，养几只小狗当宠物。"[/span]
+</code>
+</item>
+<item id="43639" class="15.0" level="1" icon="inv_misc_coin_17" quality="1">
+<name>阿尔萨斯的金币</name>
+<code>
+[div class="name q1"]阿尔萨斯的金币[/div][div]拾取后绑定[/div][div class="q2"]使用: 将这枚硬币扔回达拉然的喷泉中。[/div][div class="q"]"我已经是一个王国的储君了，将要治理大片的疆土。还能许什么愿呢？不如来一个凉快点的座位……"[/div]
+</code>
+</item>
+<item id="43640" class="15.0" level="1" icon="inv_misc_coin_17" quality="1">
+<name>阿克蒙德的金币</name>
+<code>
+[span class="name q1"]阿克蒙德的金币[/span][br /]拾取后绑定[br /][span class="q2"]使用: 将这枚硬币扔回达拉然的喷泉中。[/span][br /][span class="q"]"我想知道你要如何在我的怒火中幸存下来，小喷泉。"[/span]
+</code>
+</item>
+<item id="43641" class="15.0" level="1" icon="inv_misc_coin_17" quality="1">
+<name>安度因·乌瑞恩的金币</name>
+<code>
+[span class="name q1"]安度因·乌瑞恩的金币[/span][br /]拾取后绑定[br /][span class="q2"]使用: 将这枚硬币扔回达拉然的喷泉中。[/span][br /][span class="q"]"我希望自己能快快长大。好像我一直都是10岁的样子。"[/span]
+</code>
+</item>
+<item id="43643" class="15.0" level="1" icon="inv_misc_coin_18" quality="0">
+<name>麦格尼·铜须王子的银币</name>
+<code>
+[div class="name q0"]麦格尼·铜须王子的银币[/div][div class="q"]"我希望父亲和兄弟们比我更健康长寿。我自己当不当国王无所谓。"[/div]
+</code>
+</item>
+<item id="43644" class="15.0" level="1" icon="inv_misc_coin_18" quality="0">
+<name>农夫的银币</name>
+<code>
+[div class="name q0"]农夫的银币[/div][div class="q"]"我真健忘！真希望自己的记忆力更好一点。等等，我是不是已经扔了一枚硬币进去？"[/div]
+</code>
+</item>
+<item id="43675" class="15.0" level="1" icon="inv_misc_coin_18" quality="0">
+<name>范达尔·鹿盔的银币</name>
+<code>
+[div class="name q0"]范达尔·鹿盔的银币[/div][div class="q"]"流沙之战……如果能彻底忘掉它就好了。"[/div]
+</code>
+</item>
+<item id="43676" class="15.0" level="1" icon="inv_misc_coin_18" quality="0">
+<name>奥术师杜安的银币</name>
+<code>
+[div class="name q0"]奥术师杜安的银币[/div][div class="q"]"啊，你为什么不在乎我？阿比迪斯，我愿意跟随你到天涯海角。希望你能在乎我一点……"[/div]
+</code>
+</item>
+<item id="43677" class="15.0" level="1" icon="inv_misc_coin_18" quality="0">
+<name>大工匠梅卡托克的银币</name>
+<code>
+[div class="name q0"]大工匠梅卡托克的银币[/div][div class="q"]"这喷泉的工作原理是什么？我想自己也造一座出来。"[/div]
+</code>
+</item>
+<item id="43678" class="15.0" level="1" icon="inv_misc_coin_18" quality="0">
+<name>安东尼达斯的银币</name>
+<code>
+[div class="name q0"]安东尼达斯的银币[/div][div class="q"]"给我力量接受那些我无法改变的事情，给我勇气改变那些我可以改变的事情，给我智慧看清这两者之间的差别。"[/div]
+</code>
+</item>
+<item id="43679" class="15.0" level="1" icon="inv_misc_coin_18" quality="0">
+<name>穆拉丁·铜须的银币</name>
+<code>
+[div class="name q0"]穆拉丁·铜须的银币[/div][div class="q"]"愿圣光保佑我们这支诺森德远征队。"[/div]
+</code>
+</item>
+<item id="43680" class="15.0" level="1" icon="inv_misc_coin_18" quality="0">
+<name>瓦里安·乌瑞恩国王的银币</name>
+<code>
+[div class="name q0"]瓦里安·乌瑞恩国王的银币[/div][div class="q"]"希望家乡的那场暴动马上平息。我不想看到任何人受伤害。"[/div]
+</code>
+</item>
+<item id="43681" class="15.0" level="1" icon="inv_misc_coin_18" quality="0">
+<name>泰瑞纳斯·米奈希尔国王的银币</name>
+<code>
+[div class="name q0"]泰瑞纳斯·米奈希尔国王的银币[/div][div class="q"]"希望我的儿子阿尔萨斯能为他的子民鞠躬尽瘁。"[/div]
+</code>
+</item>
+<item id="43682" class="15.0" level="1" icon="inv_misc_coin_18" quality="0">
+<name>安纳斯特里亚·逐日者国王的银币</name>
+<code>
+[div class="name q0"]安纳斯特里亚·逐日者国王的银币[/div][div class="q"]"希望小凯尔萨斯能明白，总有一天，他要肩负起领导所有子民的重任。"[/div]
+</code>
+</item>
+<item id="43683" class="15.0" level="1" icon="inv_misc_coin_18" quality="0">
+<name>卡德加的银币</name>
+<code>
+[div class="name q0"]卡德加的银币[/div][div class="q"]"图拉扬和奥蕾莉亚，无论你们在哪里，希望你们安然无恙。"[/div]
+</code>
+</item>
+<item id="43684" class="15.0" level="1" icon="inv_misc_coin_18" quality="0">
+<name>麦迪文的银币</name>
+<code>
+[div class="name q0"]麦迪文的银币[/div][div class="q"]"&lt;你感觉到脑袋里有三个声音在说话，其中两个声音很嘈杂，第三个隐约可以分辨出内容。]"[/div]
+</code>
+</item>
+<item id="43685" class="15.0" level="1" icon="inv_misc_coin_18" quality="0">
+<name>玛维·影歌的银币</name>
+<code>
+[div class="name q0"]玛维·影歌的银币[/div][div class="q"]"伊利丹去哪了？"[/div]
+</code>
+</item>
+<item id="43686" class="15.0" level="1" icon="inv_misc_coin_18" quality="0">
+<name>奥蕾莉亚的银币</name>
+<code>
+[div class="name q0"]奥蕾莉亚的银币[/div][div class="q"]"希望我的妹妹们可以了解自己的潜能，以她们的事迹为风行者家族争光。"[/div]
+</code>
+</item>
+<item id="43687" class="15.0" level="1" icon="inv_misc_coin_18" quality="0">
+<name>艾格文的银币</name>
+<code>
+[div class="name q0"]艾格文的银币[/div][div class="q"]"我真的希望你们这些法师少啃几本书，多用用脑子。"[/div]
+</code>
+</item>
+<item id="43701" class="15.0" level="1" icon="inv_misc_coin_19" quality="0">
+<name>某位步兵的铜币</name>
+<code>
+[div class="name q0"]某位步兵的铜币[/div][div class="q"]"真希望我跟那个整天扛着木材闲逛的表哥换一下……"[/div]
+</code>
+</item>
+<item id="43702" class="15.0" level="1" icon="inv_misc_coin_19" quality="0">
+<name>阿隆索斯·法奥的铜币</name>
+<code>
+[div class="name q0"]阿隆索斯·法奥的铜币[/div][div class="q"]"我希望能向芸芸众生宣讲圣光之道，教他们学会理解三大美德的价值。"[/div]
+</code>
+</item>
+<item id="43703" class="15.0" level="1" icon="inv_misc_coin_19" quality="0">
+<name>安斯雷姆的铜币</name>
+<code>
+[div class="name q0"]安斯雷姆的铜币[/div][div class="q"]"我希望女儿天天快乐，并且可以接受我。她在这里感觉很拘束……"[/div]
+</code>
+</item>
+<item id="43704" class="15.0" level="1" icon="inv_misc_coin_19" quality="0">
+<name>阿图门的铜币</name>
+<code>
+[div class="name q0"]阿图门的铜币[/div][div class="q"]"我能许愿一个更加舒适的马鞍吗？我的屁股很疼。"[/div]
+</code>
+</item>
+<item id="43705" class="15.0" level="1" icon="inv_misc_coin_19" quality="0">
+<name>达纳斯·托尔贝恩的铜币</name>
+<code>
+[div class="name q0"]达纳斯·托尔贝恩的铜币[/div][div class="q"]"我希望有一个巨魔死掉……现在就死。"[/div]
+</code>
+</item>
+<item id="43706" class="15.0" level="1" icon="inv_misc_coin_19" quality="0">
+<name>多尔南的亮晶晶的铜币</name>
+<code>
+[div class="name q0"]多尔南的亮晶晶的铜币[/div][div class="q"]"我希望阿尔萨斯那个坏蛋掉进一堆猛犸人的便便里！"[/div]
+</code>
+</item>
+<item id="43707" class="15.0" level="1" icon="inv_misc_coin_19" quality="0">
+<name>伊崔格的铜币</name>
+<code>
+[div class="name q0"]伊崔格的铜币[/div][div class="q"]"希望提里奥的诺森德之旅以胜利告终，或者，希望他光荣地战死在沙场上。"[/div]
+</code>
+</item>
+<item id="43708" class="15.0" level="1" icon="inv_misc_coin_19" quality="0">
+<name>埃林·提亚斯的铜币</name>
+<code>
+[div class="name q0"]埃林·提亚斯的铜币[/div][div class="q"]"盗贼这个行业可真不轻松。我希望能为了真正的理想而奋斗……"[/div]
+</code>
+</item>
+<item id="43709" class="15.0" level="1" icon="inv_misc_coin_19" quality="0">
+<name>弗斯塔德·蛮锤的铜币</name>
+<code>
+[div class="name q0"]弗斯塔德·蛮锤的铜币[/div][div class="q"]"希望我的故事也能被写进书中。"[/div]
+</code>
+</item>
+<item id="43710" class="15.0" level="1" icon="inv_misc_coin_19" quality="0">
+<name>吉恩的铜币</name>
+<code>
+[div class="name q0"]吉恩的铜币[/div][div class="q"]"哈！吉尔尼斯的喷泉可以实现的愿望比达拉然的喷泉多十倍！"[/div]
+</code>
+</item>
+<item id="43711" class="15.0" level="1" icon="inv_misc_coin_19" quality="0">
+<name>英尼戈的铜币</name>
+<code>
+[div class="name q0"]英尼戈的铜币[/div][div class="q"]"希望父亲能回到我身边……"[/div]
+</code>
+</item>
+<item id="43712" class="15.0" level="1" icon="inv_misc_coin_19" quality="0">
+<name>克拉苏斯的铜币</name>
+<code>
+[div class="name q0"]克拉苏斯的铜币[/div][div class="q"]"我为了那些仍在格瑞姆巴托受苦的兄弟姐妹而祈祷。我一定要解救他们。一定。"[/div]
+</code>
+</item>
+<item id="43713" class="15.0" level="1" icon="inv_misc_coin_19" quality="0">
+<name>克里尔的铜币</name>
+<code>
+[div class="name q0"]克里尔的铜币[/div][div class="q"]"爆炸。现在就爆炸。我希望能看到爆炸。快爆炸！这硬币肯定是有问题，不知道它到底能不能爆炸。"[/div]
+</code>
+</item>
+<item id="43714" class="15.0" level="1" icon="inv_misc_coin_19" quality="0">
+<name>兰德鲁·郎绍特的铜币</name>
+<code>
+[div class="name q0"]兰德鲁·郎绍特的铜币[/div][div class="q"]"希望我能拿回这枚铜币……"[/div]
+</code>
+</item>
+<item id="43715" class="15.0" level="1" icon="inv_misc_coin_19" quality="0">
+<name>穆罗克的铜币</name>
+<code>
+[div class="name q0"]穆罗克的铜币[/div][div class="q"]"只要一次就行了——真的，一次就行——让那个姑娘和我一起骑马去兜风。"[/div]
+</code>
+</item>
+<item id="43716" class="15.0" level="1" icon="inv_misc_coin_19" quality="0">
+<name>奔波尔霸的铜币</name>
+<code>
+[div class="name q0"]奔波尔霸的铜币[/div][div class="q"]"希望诺森德的水变暖和一点，冻得我都快睡着啦！"[/div]
+</code>
+</item>
+<item id="43717" class="15.0" level="1" icon="inv_misc_coin_19" quality="0">
+<name>佳莉娅·米奈希尔公主的铜币</name>
+<code>
+[div class="name q0"]佳莉娅·米奈希尔公主的铜币[/div][div class="q"]"我希望那个英俊的贵族，普瑞斯托大人，能够注意到我！他真是太帅了！"[/div]
+</code>
+</item>
+<item id="43718" class="15.0" level="1" icon="inv_misc_coin_19" quality="0">
+<name>列兵马库斯·乔纳森的铜币</name>
+<code>
+[div class="name q0"]列兵马库斯·乔纳森的铜币[/div][div class="q"]"我希望能长出漂亮而浓密的胡须。"[/div]
+</code>
+</item>
+<item id="43719" class="15.0" level="1" icon="inv_misc_coin_19" quality="0">
+<name>萨兰蒂亚的亮晶晶的铜币</name>
+<code>
+[div class="name q0"]萨兰蒂亚的亮晶晶的铜币[/div][div class="q"]"总有一天，我要比这些法师都更厉害！"[/div]
+</code>
+</item>
+<item id="43720" class="15.0" level="1" icon="inv_misc_coin_19" quality="0">
+<name>侍卫洛文的铜币</name>
+<code>
+[div class="name q0"]侍卫洛文的铜币[/div][div class="q"]"我希望能调离暴风城，并且再次见到瑟尔希。这座城市一点都不好。"[/div]
+</code>
+</item>
+<item id="43721" class="15.0" level="1" icon="inv_misc_coin_19" quality="0">
+<name>斯塔文的铜币</name>
+<code>
+[div class="name q0"]斯塔文的铜币[/div][div class="q"]"你们这些法师居然拒绝帮助两个相爱的人走到一起，只因为其中一个还没有发现他们是天造地设的一对？我希望你们全部完蛋。"[/div]
+</code>
+</item>
+<item id="43722" class="15.0" level="1" icon="inv_misc_coin_19" quality="0">
+<name>温蕾萨的铜币</name>
+<code>
+[div class="name q0"]温蕾萨的铜币[/div][div class="q"]"Asto're da shan're。Turus Fulo Il'amare，A'Talah Adore。Isera'duna……"[/div]
+</code>
+</item>
+<item id="43723" class="15.0" level="1" icon="inv_misc_coin_19" quality="0">
+<name>瓦格斯的铜币</name>
+<code>
+[div class="name q0"]瓦格斯的铜币[/div][div class="q"]"希望杉德尔船长快点把我的酒运过来。"[/div]
+</code>
+</item>
+
+<item id="6256" class="2.20" level="1" icon="inv_fishingpole_02" quality="1">
+<name>鱼竿</name>
+<screenshot>7453</screenshot>
+<code>
+[div class="name q1"]鱼竿[/div][table][tbody][tr][td]双手[/td][th]鱼杆[/th][/tr][tr][td]2 - 4 伤害[/td][th]速度 3.00[/th][/tr][/tbody][/table][div]（每秒伤害1.0）[/div]售价: [span class="si-copper"]23[/span]
+</code>
+</item>
+<item id="12225" class="2.20" level="10" icon="inv_fishingpole_02" quality="1">
+<name>布拉普家族鱼竿</name>
+<screenshot>90061</screenshot>
+<code>
+[div class="name q1"]布拉普家族鱼竿[/div][div]拾取后绑定[/div][table][tbody][tr][td]双手[/td][th]鱼杆[/th][/tr][tr][td]13 - 21 伤害[/td][th]速度 3.00[/th][/tr][/tbody][/table][div]（每秒伤害5.7）[/div][div]需要钓鱼 (1)[/div][div class="q2"]装备: 钓鱼技能提高3点。[/div]
+</code>
+<reward-from>
+<quest id="1141" />
+</reward-from>
+</item>
+<item id="6365" class="2.20" level="10" icon="inv_fishingpole_02" quality="1">
+<name>强化钓鱼竿</name>
+<screenshot>26667</screenshot>
+<code>
+[div class="name q1"]强化钓鱼竿[/div][table][tbody][tr][td]双手[/td][th]鱼杆[/th][/tr][tr][td]13 - 21 伤害[/td][th]速度 3.00[/th][/tr][/tbody][/table][div]（每秒伤害5.7）[/div][div]需要等级 5[/div][div]需要钓鱼 (10)[/div][div class="q2"]装备: 钓鱼技能提高5点。[/div]售价: [span class="si-silver"]9[/span][span class="si-copper"]2[/span]
+</code>
+</item>
+<item id="6366" class="2.20" level="20" icon="inv_fishingpole_02" quality="1">
+<name>暗木鱼竿</name>
+<screenshot>104251</screenshot>
+<code>
+[div class="name q1"]暗木鱼竿[/div][table][tbody][tr][td]双手[/td][th]鱼杆[/th][/tr][tr][td]28 - 43 伤害[/td][th]速度 3.00[/th][/tr][/tbody][/table][div]（每秒伤害11.8）[/div][div]需要等级 15[/div][div]需要钓鱼 (50)[/div][div class="q2"]装备: 钓鱼技能提高15点。[/div]
+</code>
+<dropped-by>
+<npc id="1923" rate="1/1000" />
+<npc id="898" rate="1/1000" />
+</dropped-by>
+</item>
+<item id="6367" class="2.20" level="30" icon="inv_fishingpole_01" quality="1">
+<name>粗铁鱼竿</name>
+<screenshot>4098</screenshot>
+<code>
+[div class="name q1"]粗铁鱼竿[/div][table][tbody][tr][td]双手[/td][th]鱼杆[/th][/tr][tr][td]45 - 69 伤害[/td][th]速度 3.00[/th][/tr][/tbody][/table][div]（每秒伤害19.0）[/div][div]需要等级 25[/div][div]需要钓鱼 (100)[/div][div class="q2"]装备: 钓鱼技能提高20点。[/div]
+</code>
+<contained-in>
+<object id="176582" rate="891/58866" />
+</contained-in>
+</item>
+<item id="19022" class="2.20" level="50" icon="inv_fishingpole_01" quality="2">
+<name>纳特·帕格的超级钓鱼竿FC-5000型</name>
+<screenshot>28924</screenshot>
+<code>
+[div class="name q2"]纳特·帕格的超级钓鱼竿FC-5000型[/div][div]拾取后绑定[/div][div]唯一[/div][table][tbody][tr][td]双手[/td][th]鱼杆[/th][/tr][tr][td]93 - 140 伤害[/td][th]速度 3.00[/th][/tr][/tbody][/table][div]（每秒伤害38.8）[/div][div]需要钓鱼 (100)[/div][div class="q2"]装备: 钓鱼技能提高20点。[/div][div class="q"]"限量版"[/div]
+</code>
+<reward-from>
+<quest id="7815" />
+</reward-from>
+</item>
+<item id="25978" class="2.20" level="60" icon="inv_fishingpole_01" quality="2">
+<name>塞瑟的石墨鱼竿</name>
+<screenshot>123026</screenshot>
+<code>
+[div class="name q2"]塞瑟的石墨鱼竿[/div][div]拾取后绑定[/div][table][tbody][tr][td]双手[/td][th]鱼杆[/th][/tr][tr][td]111 - 168 伤害[/td][th]速度 3.00[/th][/tr][/tbody][/table][div]（每秒伤害46.5）[/div][div]+52 耐力[/div][div]需要钓鱼 (200)[/div][div class="q2"]装备: 钓鱼技能提高20点。[/div]
+</code>
+<reward-from>
+<quest id="10037" />
+</reward-from>
+</item>
+<item id="45858" class="2.20" level="20" icon="inv_fishingpole_01" quality="3">
+<name>纳特的好运鱼竿</name>
+<screenshot>128430</screenshot>
+<code>
+[span class="name q3"]纳特的好运鱼竿[/span][br /]拾取后绑定[br /]唯一[br /][table][tbody][tr][td]双手[/td][th]鱼杆[/th][/tr][tr][td]42 - 63 伤害[/td][th]速度 3.00[/th][/tr][/tbody][/table]（每秒伤害17.5）[br /]需要钓鱼 (225)[br /][span class="q2"]装备: 钓鱼技能提高25点。[/span]
+</code>
+<reward-from>
+<quest id="6607" />
+</reward-from>
+</item>
+<item id="19970" class="2.20" level="20" icon="inv_fishingpole_01" quality="3">
+<name>奥金钓鱼竿</name>
+<screenshot>6299</screenshot>
+<code>
+[div class="name q3"]奥金钓鱼竿[/div][div]拾取后绑定[/div][div]唯一[/div][table][tbody][tr][td]双手[/td][th]鱼杆[/th][/tr][tr][td]42 - 63 伤害[/td][th]速度 3.00[/th][/tr][/tbody][/table][div]（每秒伤害17.5）[/div][div]需要钓鱼 (300)[/div][div class="q2"]装备: 钓鱼技能提高40点。[/div][div class="q"]"看起来纳特·帕格本人曾经使用过它。"[/div]
+</code>
+<reward-from>
+<quest id="8193" />
+</reward-from>
+</item>
+<item id="45991" class="2.20" level="200" icon="achievement_profession_fishing_journeymanfisher" quality="3">
+<name>骨质鱼竿</name>
+<screenshot>130903</screenshot>
+<code>
+[span class="name q3"]骨质鱼竿[/span][br /]拾取后绑定[br /]唯一[table][tbody][tr][td]双手[/td][th]鱼杆[/th][/tr][tr][td]406 - 610 伤害[/td][th]速度 3.00[/th][/tr][/tbody][/table]（每秒伤害169.3）[br /]+40 暗影抗性[br /]需要钓鱼 (300)[br /][span class="q2"]装备: 钓鱼技能提高30点。[/span]
+</code>
+<contained-in>
+<item id="46007" rate="1077/262997" />
+</contained-in>
+</item>
+<item id="45992" class="2.20" level="200" icon="inv_fishingpole_05" quality="3">
+<name>珠宝鱼竿</name>
+<screenshot>129617</screenshot>
+<code>
+[span class="name q3"]珠宝鱼竿[/span][br /]拾取后绑定[br /]唯一[table][tbody][tr][td]双手[/td][th]鱼杆[/th][/tr][tr][td]406 - 610 伤害[/td][th]速度 3.00[/th][/tr][/tbody][/table]（每秒伤害169.3）[br /]需要钓鱼 (300)[br /][span class="q2"]装备: 钓鱼技能提高30点。[/span][br /][span class="q"]"蒂凡妮·卡蒂亚荣誉出品。"[/span]
+</code>
+<contained-in>
+<item id="46007" rate="1072/262997" />
+</contained-in>
+</item>
+<item id="44050" class="2.20" level="200" icon="inv_fishingpole_03" quality="4">
+<name>精致的卡鲁亚克鱼竿</name>
+<screenshot>100109</screenshot>
+<code>
+[div class="name q4"]精致的卡鲁亚克鱼竿[/div][div]拾取后绑定[/div][div]唯一[/div][table][tbody][tr][td]双手[/td][th]鱼杆[/th][/tr][tr][td]447 - 672 伤害[/td][th]速度 3.00[/th][/tr][/tbody][/table][div]（每秒伤害186.5）[/div][div]需要钓鱼 (300)[/div][div]需要: 卡鲁亚克 - 崇拜[/div][div class="q2"]装备: 使你可以在水下呼吸。[/div][div class="q2"]装备: 钓鱼技能提高30点。[/div]售价: [span class="si-gold"]128[/span][span class="si-silver"]4[/span][span class="si-copper"]48[/span]
+</code>
+<sold-by>
+<npc id="31916" />
+<npc id="32763" />
+</sold-by>
+</item>
+<item id="19969" class="4.1.8" level="40" icon="inv_boots_09" quality="2">
+<name>纳特·帕格的超级钓鱼靴</name>
+<screenshot>28082</screenshot>
+<code>
+[div class="name q2"]纳特·帕格的超级钓鱼靴[/div][div]拾取后绑定[/div][table][tbody][tr][td]脚[/td][th]布甲[/th][/tr][/tbody][/table][div]36 护甲[/div][div]+12 耐力[/div][div]需要等级 35[/div][div]需要钓鱼 (1)[/div][div class="q2"]装备: 钓鱼技能提高5点。[/div]
+</code>
+<reward-from>
+<quest id="8225" />
+</reward-from>
+</item>
+<item id="19971" class="0.6" level="45" icon="inv_fabric_mageweave_02" quality="2">
+<name>高强度恒金渔线</name>
+<code>
+[div class="name q2"]高强度恒金渔线[/div][div]拾取后绑定[/div][div]需要钓鱼 (150)[/div][div class="q2"]使用: 将你的钓鱼杆上的渔线换成一根高强度恒金渔线，使钓鱼技能提高5点。[/div]
+</code>
+<reward-from>
+<quest id="8224" />
+</reward-from>
+<contained-in>
+<item id="46007" rate="1288/262997" />
+</contained-in>
+</item>
+<item id="19972" class="4.1.1" level="40" icon="inv_helmet_31" quality="2">
+<name>幸运渔帽</name>
+<screenshot>4337</screenshot>
+<code>
+[div class="name q2"]幸运渔帽[/div][div]拾取后绑定[/div][table][tbody][tr][td]头部[/td][th]布甲[/th][/tr][/tbody][/table][div]43 护甲[/div][div]+15 耐力[/div][div]需要钓鱼 (1)[/div][div class="q2"]装备: 钓鱼技能提高5点。[/div]
+</code>
+<reward-from>
+<quest id="8221" />
+</reward-from>
+</item>
+<item id="33820" class="4.1.1" level="115" icon="inv_helmet_31" quality="3">
+<name>饱经风霜的渔帽</name>
+<screenshot>78226</screenshot>
+<code>
+[div class="name q3"]饱经风霜的渔帽[/div][div]拾取后绑定[/div][table][tbody][tr][td]头部[/td][th]布甲[/th][/tr][/tbody][/table][div]127 护甲[/div][div]+40 耐力[/div][div]+40 精神[/div][div class="q2"]装备: 钓鱼技能提高5点。[/div][div class="q2"]使用: 在你的鱼竿上附加一份鱼饵，使钓鱼技能提高75点，持续10分钟。[/div]
+</code>
+<dropped-by>
+<npc id="34838" rate="1/379203" />
+</dropped-by>
+<contained-in>
+<item id="35348" rate="332/31954" />
+<item id="34863" rate="670/67123" />
+<item id="46007" rate="2519/262997" />
+</contained-in>
+</item>
+<item id="34109" class="9.0" level="40" icon="inv_misc_book_09" quality="1">
+<name>饱经风霜的日记</name>
+<code>
+[div class="name q1"]饱经风霜的日记[/div][div]拾取后绑定[/div][div]需要钓鱼 (100)[/div][div class="q2"]使用: 教你学会寻找鱼群。[/div][br /][div class="q"]寻找渔点[/div][div class="q2"]在微缩地图上显示附近的渔点。同一时间内只能激活一种追踪技能。[/div]
+</code>
+<contained-in>
+<item id="21113" rate="1281/16856" />
+<item id="21150" rate="1105/26741" />
+<item id="21228" rate="899/29306" />
+<item id="27481" rate="561/22500" />
+<item id="27513" rate="906/45654" />
+<item id="20708" rate="149/14892" />
+<item id="35348" rate="503/31954" />
+<item id="34863" rate="571/67123" />
+</contained-in>
+</item>
+<item id="6529" class="0.-3" level="10" icon="inv_misc_orb_03" quality="1">
+<name>闪光的小珠</name>
+<code>
+[div class="name q1"]闪光的小珠[/div][div class="q2"]使用: 装备在鱼竿上之后，可以使你的钓鱼技能提高25点，持续10分钟。[/div]售价: [span class="si-copper"]50[/span]
+</code>
+</item>
+<item id="6530" class="0.-3" level="20" icon="inv_misc_monstertail_03" quality="1">
+<name>夜色虫</name>
+<code>
+[div class="name q1"]夜色虫[/div][div]需要钓鱼 (50)[/div][div class="q2"]使用: 装备在鱼竿上之后，可以使你的钓鱼技能提高50点，持续10分钟。[/div]售价: [span class="si-silver"]1[/span]
+</code>
+</item>
+<item id="6532" class="0.-3" level="30" icon="inv_misc_gem_variety_02" quality="1">
+<name>明亮的小珠</name>
+<code>
+[div class="name q1"]明亮的小珠[/div][div]需要钓鱼 (100)[/div][div class="q2"]使用: 装备在鱼竿上之后，可以使你的钓鱼技能提高75点，持续10分钟。[/div]售价: [span class="si-silver"]2[/span][span class="si-copper"]50[/span]
+</code>
+</item>
+<item id="6533" class="0.-3" level="30" icon="inv_misc_food_26" quality="1">
+<name>水下诱鱼器</name>
+<code>
+[div class="name q1"]水下诱鱼器[/div][div]需要钓鱼 (100)[/div][div class="q2"]使用: 装备在鱼竿上之后，可以使你的钓鱼技能提高100点，持续10分钟。[/div]售价: [span class="si-silver"]2[/span][span class="si-copper"]50[/span]
+</code>
+</item>
+<item id="19979" class="4.-4" level="65" icon="trade_fishing" quality="3">
+<name>钓鱼大师鱼钩</name>
+<screenshot>121855</screenshot>
+<code>
+[div class="name q3"]钓鱼大师鱼钩[/div][div]拾取后绑定[/div][div]饰品[/div][div class="q2"]使用: 将你变形成为一条鱼，可以在水下呼吸，提高游泳速度。[/div]
+</code>
+<reward-from>
+<quest id="8193" />
+</reward-from>
+</item>
+<item id="33816" class="15.2" level="20" icon="inv_drink_19" quality="3">
+<name>牙牙的小桶</name>
+<screenshot>88498</screenshot>
+<code>
+[div class="name q3"]牙牙的小桶[/div][div]拾取后绑定[/div][div class="q2"]使用: 教你学会召唤这种小伙伴。[/div]
+</code>
+<contained-in>
+<item id="35348" rate="1620/31954" />
+</contained-in>
+</item>
+<item id="33818" class="15.2" level="20" icon="inv_drink_19" quality="3">
+<name>毒皮的小桶</name>
+<screenshot>77217</screenshot>
+<code>
+[div class="name q3"]毒皮的小桶[/div][div]拾取后绑定[/div][div class="q2"]使用: 教你学会召唤这种小伙伴。[/div]
+</code>
+<contained-in>
+<item id="35348" rate="1585/31954" />
+</contained-in>
+</item>
+<item id="35349" class="15.2" level="20" icon="inv_drink_19" quality="3">
+<name>尼尼的小桶</name>
+<screenshot>78782</screenshot>
+<code>
+[div class="name q3"]尼尼的小桶[/div][div]拾取后绑定[/div][div class="q2"]使用: 教你学会召唤这种小伙伴。[/div]
+</code>
+<contained-in>
+<item id="35348" rate="1654/31954" />
+</contained-in>
+</item>
+<item id="35350" class="15.2" level="20" icon="inv_drink_19" quality="3">
+<name>莫莫的小桶</name>
+<screenshot>88499</screenshot>
+<code>
+[div class="name q3"]莫莫的小桶[/div][div]拾取后绑定[/div][div class="q2"]使用: 教你学会召唤这种小伙伴。[/div]
+</code>
+<contained-in>
+<item id="35348" rate="1707/31954" />
+</contained-in>
+</item>
+<item id="44983" class="15.2" level="1" icon="ability_hunter_pet_crab" quality="3">
+<name>沙滩蟹</name>
+<screenshot>142194</screenshot>
+<code>
+[span class="name q3"]沙滩蟹[/span][br /]拾取后绑定[br /][span class="q2"]使用: 教你学会召唤这种小伙伴。[/span]
+</code>
+<contained-in>
+<item id="46007" rate="2341/262997" />
+</contained-in>
+</item>
+<item id="34836" class="0.6" level="70" icon="inv_misc_thread_01" quality="2">
+<name>真银渔线</name>
+<code>
+[div class="name q2"]真银渔线[/div][div]拾取后绑定[/div][div]需要钓鱼 (300)[/div][div class="q2"]使用: 将你的鱼竿上的渔线更换为精巧的真银渔线，使钓鱼技能提高3点。[/div]
+</code>
+<contained-in>
+<item id="34863" rate="1282/67123" />
+<item id="35348" rate="561/31954" />
+</contained-in>
+</item>
+<item id="34837" class="4.-2" level="143" icon="inv_jewelry_ring_34" quality="4">
+<name>至尊二戒</name>
+<code>
+[div class="name q4"]至尊二戒[/div][div]装备后绑定[/div][div]手指[/div][div]+22 力量[/div][div]+22 敏捷[/div][div]+22 耐力[/div][div]+22 精神[/div][div]+22 智力[/div][div]需要等级 70[/div][div class="q"]"比至尊一戒强多了。"[/div]
+</code>
+<contained-in>
+<item id="34863" rate="31/67123" />
+<item id="35348" rate="13/31954" />
+</contained-in>
+</item>
+<item id="45998" class="4.0.1" level="10" icon="inv_helmet_50" quality="1">
+<name>破损的丛林帽</name>
+<screenshot>124034</screenshot>
+<code>
+[div class="name q1"]破损的丛林帽[/div][div]头部[/div]
+</code>
+<contained-in>
+<item id="46007" rate="12792/262997" />
+</contained-in>
+</item>
+<item id="45984" class="15.0" level="80" icon="inv_misc_idol_05" quality="1">
+<name>不寻常的指南针</name>
+<code>
+[span class="name q1"]不寻常的指南针[/span][br /][span class="q2"]使用: 看看指南针指向哪里！[/span]
+</code>
+<contained-in>
+<item id="46007" rate="14356/262997" />
+</contained-in>
+</item>
+<item id="45859" class="4.-2" level="206" icon="inv_jewelry_ring_35" quality="4">
+<name>至尊五戒</name>
+<code>
+[span class="name q4"]至尊五戒[/span][br /]装备后绑定[br /]装备唯一[br /]手指[br /]+55 耐力[br /]需要等级 80[br /][span class="q2"]装备: 命中等级提高55。[/span][br /][span class="q2"]装备: 爆击等级提高55。[/span][br /][span class="q"]"这枚戒指好像把至尊三戒和至尊四戒给吃掉了。"[/span]
+</code>
+<contained-in>
+<item id="45986" rate="25/786" />
+</contained-in>
+</item>
+<item id="50255" class="4.-2" level="1" icon="inv_jewelry_ring_39" quality="7">
+<name>恐惧海盗之戒</name>
+<code>
+[div class="q7"]恐惧海盗之戒[/div]
+[div]账号绑定[/div]
+[div]装备唯一[/div]
+[div]手指[/div]
+[div]+34耐力[/div]
+[div]需要等级 1-80[/div]
+[div class="q2"]装备: 爆击等级提高53。[/div]
+[div class="q2"]装备: 命中等级提高29。[/div]
+[div class="q2"]装备: 通过杀死怪物和完成任务获得的经验值提高5%。[/div]
+</code>
+<reward-from>
+<quest id="24803" />
+</reward-from>
+</item>
+<item id="50287" class="4.0.8" level="1" icon="inv_boots_cloth_21" quality="3">
+<name>海湾之靴</name>
+<code>
+[div class="q3"]海湾之靴[/div]
+[div]拾取后绑定[/div]
+[div]脚部[/div]
+[div]需要钓鱼 (200)[/div]
+[div class="q2"]装备: 钓鱼技能提高15点。[/div]
+[div class="q2"]使用: 立即将你传送到藏宝海湾最好的酒馆。(一天冷却)[/div]
+</code>
+<reward-from>
+<quest id="24803" />
+</reward-from>
+</item>
+<item id="34863" class="15.0" level="70" icon="inv_misc_bag_10_green" quality="1">
+<name>钓鱼宝藏</name>
+<code>
+[div class="name q1"]钓鱼宝藏[/div][div]拾取后绑定[/div]
+</code>
+<reward-from>
+<quest id="11666" />
+<quest id="11667" />
+<quest id="11668" />
+<quest id="11669" />
+</reward-from>
+</item>
+<item id="35348" class="15.0" level="70" icon="inv_misc_bag_10_green" quality="1">
+<name>钓鱼宝藏</name>
+<code>
+[div class="name q1"]钓鱼宝藏[/div][div]拾取后绑定[/div]
+</code>
+<reward-from>
+<quest id="11665" />
+</reward-from>
+</item>
+<item id="46007" class="15.0" level="80" icon="inv_misc_bag_07_blue" quality="1">
+<name>钓鱼宝藏</name>
+<code>
+[span class="name q1"]钓鱼宝藏[/span][br /]拾取后绑定
+</code>
+<reward-from>
+<quest id="13830" />
+<quest id="13832" />
+<quest id="13833" />
+<quest id="13834" />
+<quest id="13836" />
+<quest id="24806" />
+</reward-from>
+</item>
+<item id="45986" class="15.0" level="80" icon="inv_misc_enggizmos_17" quality="3">
+<name>泰坦神铁小宝箱</name>
+<code>
+[span class="name q3"]泰坦神铁小宝箱[/span][br /]需要开锁 (400)
+</code>
+<contained-in>
+<item id="46007" rate="615/262997" />
+</contained-in>
+</item>
+<item id="38802" class="0.6" level="29" icon="inv_scroll_03" quality="1">
+<name>卷轴：附魔手套 - 钓鱼</name>
+<code>
+[div class="name q1"]卷轴：附魔手套 - 钓鱼[/div][div class="q2"]使用: 永久性地为一双手套附魔，使其获得钓鱼技能+2的效果。[/div]
+</code>
+</item>
+<item id="50816" class="0.6" level="29" icon="inv_scroll_03" quality="1">
+<name>卷轴：附魔手套 - 垂钓者</name>
+<code>
+[div class="name q1"]卷轴：附魔手套 - 垂钓者[/div][div class="q2"]使用: 永久性地为一双手套附魔，使其获得钓鱼技能+5的效果。[/div]
+</code>
+</item>
+<item id="34832" class="0.5" level="1" icon="inv_drink_03" quality="1">
+<name>拉姆瑟船长的特酿啤酒</name>
+<code>
+[div class="name q1"]拉姆瑟船长的特酿啤酒[/div][div class="q2"]使用: 使你微醉，钓鱼技能提高10点，持续3分钟。[/div]
+</code>
+</item>
+</items>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<comments>
+<comment>
+<spell id="2963" />
+<spell id="3915" />
+<spell id="2387" />
+<spell id="12044" />
+<words>起始.</words>
+</comment>
+<comment>
+<item id="21722" />
+<item id="21723" />
+<words>该图样已无法获得.</words>
+</comment>
+<comment>
+<spell id="26086" />
+<words>传授于[npc=10503@map] 被击杀之后其脚下刷出的 [object=180794].</words>
+</comment>
+<comment>
+<spell id="28205" />
+<spell id="28207" />
+<spell id="28208" />
+<spell id="28209" />
+<words>该物品的缝制工艺已随纳克萨玛斯的迁移而失传.</words>
+</comment>
+<comment>
+<spell id="36667" />
+<spell id="36668" />
+<spell id="36665" />
+<words>该物品的制作方法已失传.</words>
+</comment>
+<comment>
+<spell id="56016" />
+<words>当你获得成就 [achievement=1288] 之后, 可以在 [npc=28699@map] 处学习该技能.</words>
+</comment>
+<comment>
+<spell id="56017" />
+<words>当你获得成就 [achievement=41] 之后, 可以在 [npc=28699@map] 处学习该技能.</words>
+</comment>
+</comments>

@@ -1,0 +1,6090 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<spells version="3.3.3">
+<spell id="3918" requires-skill-level="1" colors="1 20 30 40">
+<name>劣质火药</name>
+<create id="4357" class="7.1" count="1" />
+<reagents>
+<item id="2835" count="1" />
+</reagents>
+</spell>
+<spell id="3919" requires-skill-level="1" colors="1 30 45 60">
+<name>劣质炸药</name>
+<create id="4358" class="7.2" count="2" />
+<reagents>
+<item id="4357" count="2" />
+<item id="2589" count="1" />
+</reagents>
+</spell>
+<spell id="3920" requires-skill-level="1" colors="1 30 45 60">
+<name>精制轻弹丸</name>
+<create id="8067" class="6.3" count="200" />
+<reagents>
+<item id="4357" count="1" />
+<item id="2840" count="1" />
+</reagents>
+</spell>
+<spell id="3922" requires-skill-level="30" colors="30 45 52 60">
+<name>一把螺栓</name>
+<create id="4359" class="7.1" count="1" />
+<reagents>
+<item id="2840" count="1" />
+</reagents>
+<taught-by-npc cost="115">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3923" requires-skill-level="30" colors="30 60 75 90">
+<name>劣质铜壳炸弹</name>
+<create id="4360" class="7.2" count="2" />
+<reagents>
+<item id="2840" count="1" />
+<item id="4359" count="1" />
+<item id="4357" count="2" />
+<item id="2589" count="1" />
+</reagents>
+<taught-by-npc cost="130">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="7430" requires-skill-level="50" colors="50 70 80 90">
+<name>扳手</name>
+<create id="6219" class="2.14" count="1" />
+<reagents>
+<item id="2840" count="6" />
+</reagents>
+<taught-by-npc cost="150">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3924" requires-skill-level="50" colors="50 80 95 110">
+<name>铜管</name>
+<create id="4361" class="7.1" count="1" />
+<reagents>
+<item id="2840" count="2" />
+<item id="2880" count="1" />
+</reagents>
+<taught-by-npc cost="150">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3925" requires-skill-level="50" colors="50 80 95 110">
+<name>劣质火枪</name>
+<create id="4362" class="2.3" count="1" />
+<reagents>
+<item id="4361" count="1" />
+<item id="4359" count="1" />
+<item id="4399" count="1" />
+</reagents>
+<taught-by-npc cost="150">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3977" requires-skill-level="60" colors="60 90 105 120">
+<name>粗制瞄准镜</name>
+<create id="4405" class="0.6" count="1" />
+<reagents>
+<item id="4361" count="1" />
+<item id="774" count="1" />
+<item id="4359" count="1" />
+</reagents>
+<taught-by-npc cost="200">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3926" requires-skill-level="65" colors="65 95 110 125">
+<name>铜质调节器</name>
+<create id="4363" class="7.1" count="1" />
+<reagents>
+<item id="4359" count="2" />
+<item id="2840" count="1" />
+<item id="2589" count="2" />
+</reagents>
+<taught-by-npc cost="225">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3928" requires-skill-level="75" colors="75 105 120 135">
+<name>机械松鼠</name>
+<create id="4401" class="15.2" count="1" />
+<reagents>
+<item id="4363" count="1" />
+<item id="4359" count="1" />
+<item id="2840" count="1" />
+<item id="774" count="2" />
+</reagents>
+<taught-by-item>
+<item id="4408" />
+</taught-by-item>
+</spell>
+<spell id="3929" requires-skill-level="75" colors="75 85 90 95">
+<name>粗制火药粉</name>
+<create id="4364" class="7.1" count="1" />
+<reagents>
+<item id="2836" count="1" />
+</reagents>
+<taught-by-npc cost="250">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3930" requires-skill-level="75" colors="75 85 90 95">
+<name>精制重弹丸</name>
+<create id="8068" class="6.3" count="200" />
+<reagents>
+<item id="4364" count="1" />
+<item id="2840" count="1" />
+</reagents>
+<taught-by-npc cost="250">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3931" requires-skill-level="75" colors="75 90 97 105">
+<name>劣质炸药</name>
+<create id="4365" class="7.2" count="1" />
+<reagents>
+<item id="4364" count="3" />
+<item id="2589" count="1" />
+</reagents>
+<taught-by-npc cost="250">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3932" requires-skill-level="85" colors="85 115 130 145">
+<name>活动假人</name>
+<create id="4366" class="15.-6" count="1" />
+<reagents>
+<item id="4363" count="1" />
+<item id="4359" count="2" />
+<item id="2841" count="1" />
+<item id="2592" count="1" />
+</reagents>
+<taught-by-npc cost="300">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3973" requires-skill-level="90" colors="90 110 125 140">
+<name>银触媒</name>
+<create id="4404" class="7.1" count="5" />
+<reagents>
+<item id="2842" count="1" />
+</reagents>
+<taught-by-npc cost="300">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="8334" requires-skill-level="100" colors="100 115 122 130">
+<name>练习锁</name>
+<create id="6712" class="15.0" count="1" />
+<reagents>
+<item id="2841" count="1" />
+<item id="4359" count="2" />
+<item id="2880" count="1" />
+</reagents>
+<taught-by-npc cost="300">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="8339" requires-skill-level="100" colors="100 115 122 130">
+<name>简易投掷炸弹</name>
+<create id="6714" class="7.2" count="1" />
+<reagents>
+<item id="4364" count="4" />
+<item id="2592" count="1" />
+</reagents>
+<taught-by-item>
+<item id="6716" />
+</taught-by-item>
+</spell>
+<spell id="3933" requires-skill-level="100" colors="100 130 145 160">
+<name>小型爆盐炸弹</name>
+<create id="4367" class="7.2" count="1" />
+<reagents>
+<item id="4364" count="2" />
+<item id="4363" count="1" />
+<item id="2318" count="1" />
+<item id="159" count="1" />
+</reagents>
+<taught-by-item>
+<item id="4409" />
+</taught-by-item>
+</spell>
+<spell id="3934" requires-skill-level="100" colors="100 130 145 160">
+<name>飞虎护目镜</name>
+<create id="4368" class="4.1.1" count="1" />
+<reagents>
+<item id="2318" count="6" />
+<item id="818" count="2" />
+</reagents>
+<taught-by-npc cost="400">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3937" requires-skill-level="105" colors="0 105 130 155">
+<name>大型铜壳炸弹</name>
+<create id="4370" class="7.2" count="2" />
+<reagents>
+<item id="2840" count="3" />
+<item id="4364" count="4" />
+<item id="4404" count="1" />
+</reagents>
+<taught-by-npc cost="450">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3938" requires-skill-level="105" colors="0 105 130 155">
+<name>青铜管</name>
+<create id="4371" class="7.1" count="1" />
+<reagents>
+<item id="2841" count="2" />
+<item id="2880" count="1" />
+</reagents>
+<taught-by-npc cost="450">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3936" requires-skill-level="105" colors="105 130 142 155">
+<name>致命的短枪</name>
+<create id="4369" class="2.3" count="1" />
+<reagents>
+<item id="4361" count="2" />
+<item id="4359" count="4" />
+<item id="4399" count="1" />
+<item id="2319" count="2" />
+</reagents>
+<taught-by-npc cost="420">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3978" requires-skill-level="110" colors="110 135 147 160">
+<name>普通瞄准镜</name>
+<create id="4406" class="0.6" count="1" />
+<reagents>
+<item id="4371" count="1" />
+<item id="1206" count="1" />
+</reagents>
+<taught-by-npc cost="475">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3941" requires-skill-level="120" colors="0 120 145 170">
+<name>小型青铜炸弹</name>
+<create id="4374" class="7.2" count="1" />
+<reagents>
+<item id="4364" count="4" />
+<item id="2841" count="2" />
+<item id="4404" count="1" />
+<item id="2592" count="1" />
+</reagents>
+<taught-by-npc cost="500">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3939" requires-skill-level="120" colors="120 145 157 170">
+<name>精致手工火枪</name>
+<create id="4372" class="2.3" count="1" />
+<reagents>
+<item id="4371" count="2" />
+<item id="4359" count="2" />
+<item id="4400" count="1" />
+<item id="1206" count="3" />
+</reagents>
+<taught-by-item>
+<item id="13309" />
+</taught-by-item>
+</spell>
+<spell id="3940" requires-skill-level="120" colors="120 145 157 170">
+<name>暗影护目镜</name>
+<create id="4373" class="4.1.1" count="1" />
+<reagents>
+<item id="2319" count="4" />
+<item id="1210" count="2" />
+</reagents>
+<taught-by-item>
+<item id="4410" />
+</taught-by-item>
+</spell>
+<spell id="3945" requires-skill-level="125" colors="0 125 135 145">
+<name>烈性火药</name>
+<create id="4377" class="7.1" count="1" />
+<reagents>
+<item id="2838" count="1" />
+</reagents>
+<taught-by-npc cost="500">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3946" requires-skill-level="125" colors="0 125 135 145">
+<name>烈性炸药</name>
+<create id="4378" class="7.2" count="1" />
+<reagents>
+<item id="4377" count="2" />
+<item id="2592" count="1" />
+</reagents>
+<taught-by-npc cost="500">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3947" requires-skill-level="125" colors="0 125 135 145">
+<name>精制实心弹丸</name>
+<create id="8069" class="6.3" count="200" />
+<reagents>
+<item id="4377" count="1" />
+<item id="2841" count="1" />
+</reagents>
+<taught-by-npc cost="300">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="26416" requires-skill-level="125" colors="0 125 137 150">
+<name>小型蓝色烟花</name>
+<create id="21558" class="15.3" count="3" />
+<reagents>
+<item id="4364" count="1" />
+<item id="2319" count="1" />
+</reagents>
+<taught-by-item>
+<item id="21724" />
+</taught-by-item>
+</spell>
+<spell id="26417" requires-skill-level="125" colors="0 125 137 150">
+<name>小型绿色烟花</name>
+<create id="21559" class="15.3" count="3" />
+<reagents>
+<item id="4364" count="1" />
+<item id="2319" count="1" />
+</reagents>
+<taught-by-item>
+<item id="21725" />
+</taught-by-item>
+</spell>
+<spell id="26418" requires-skill-level="125" colors="0 125 137 150">
+<name>小型红色烟花</name>
+<create id="21557" class="15.3" count="3" />
+<reagents>
+<item id="4364" count="1" />
+<item id="2319" count="1" />
+</reagents>
+<taught-by-item>
+<item id="21726" />
+</taught-by-item>
+</spell>
+<spell id="3942" requires-skill-level="125" colors="0 125 150 175">
+<name>高速青铜齿轮</name>
+<create id="4375" class="7.1" count="1" />
+<reagents>
+<item id="2841" count="2" />
+<item id="2592" count="1" />
+</reagents>
+<taught-by-npc cost="500">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3944" requires-skill-level="125" colors="0 125 150 175">
+<name>火焰偏斜器</name>
+<create id="4376" class="7.3" count="1" />
+<reagents>
+<item id="4375" count="1" />
+<item id="4402" count="1" />
+</reagents>
+<taught-by-item>
+<item id="4411" />
+</taught-by-item>
+</spell>
+<spell id="9269" requires-skill-level="125" colors="125 150 162 175">
+<name>侏儒通用遥控器</name>
+<create id="7506" class="4.-4" count="1" />
+<reagents>
+<item id="2841" count="6" />
+<item id="4375" count="1" />
+<item id="814" count="2" />
+<item id="818" count="1" />
+<item id="774" count="1" />
+</reagents>
+<taught-by-item>
+<item id="7560" />
+</taught-by-item>
+</spell>
+<spell id="3949" requires-skill-level="130" colors="130 155 167 180">
+<name>镀银猎枪</name>
+<create id="4379" class="2.3" count="1" />
+<reagents>
+<item id="4371" count="2" />
+<item id="4375" count="2" />
+<item id="4400" count="1" />
+<item id="2842" count="3" />
+</reagents>
+<taught-by-npc cost="550">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="6458" requires-skill-level="135" colors="135 160 172 185">
+<name>精制望远镜</name>
+<create id="5507" class="7.3" count="1" />
+<reagents>
+<item id="4371" count="2" />
+<item id="4375" count="2" />
+<item id="4363" count="1" />
+<item id="1206" count="1" />
+</reagents>
+<taught-by-npc cost="400">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3950" requires-skill-level="140" colors="0 140 165 190">
+<name>重磅青铜炸弹</name>
+<create id="4380" class="7.2" count="2" />
+<reagents>
+<item id="4377" count="2" />
+<item id="2841" count="3" />
+<item id="4404" count="1" />
+</reagents>
+<taught-by-npc cost="600">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3952" requires-skill-level="140" colors="140 165 177 190">
+<name>自动净化装置</name>
+<create id="4381" class="4.-4" count="1" />
+<reagents>
+<item id="4371" count="1" />
+<item id="4375" count="2" />
+<item id="2319" count="2" />
+<item id="1206" count="1" />
+</reagents>
+<taught-by-item>
+<item id="14639" />
+</taught-by-item>
+</spell>
+<spell id="3953" requires-skill-level="145" colors="0 145 170 195">
+<name>青铜框架</name>
+<create id="4382" class="7.1" count="1" />
+<reagents>
+<item id="2841" count="2" />
+<item id="2319" count="1" />
+<item id="2592" count="1" />
+</reagents>
+<taught-by-npc cost="600">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3954" requires-skill-level="145" colors="145 170 182 195">
+<name>夜视步枪</name>
+<create id="4383" class="2.3" count="1" />
+<reagents>
+<item id="4371" count="3" />
+<item id="4375" count="3" />
+<item id="4400" count="1" />
+<item id="1705" count="2" />
+</reagents>
+<taught-by-item>
+<item id="4412" />
+</taught-by-item>
+</spell>
+<spell id="9271" requires-skill-level="150" colors="0 150 160 170">
+<name>水下诱鱼器</name>
+<create id="6533" class="0.-3" count="3" />
+<reagents>
+<item id="2841" count="2" />
+<item id="6530" count="1" />
+<item id="4364" count="1" />
+</reagents>
+<taught-by-npc cost="500">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="23066" requires-skill-level="150" colors="0 150 162 175">
+<name>红色焰火</name>
+<create id="9318" class="0.8" count="3" />
+<reagents>
+<item id="4377" count="1" />
+<item id="4234" count="1" />
+</reagents>
+<taught-by-item>
+<item id="18647" />
+</taught-by-item>
+</spell>
+<spell id="23067" requires-skill-level="150" colors="0 150 162 175">
+<name>蓝色焰火</name>
+<create id="9312" class="0.8" count="3" />
+<reagents>
+<item id="4377" count="1" />
+<item id="4234" count="1" />
+</reagents>
+<taught-by-item>
+<item id="18649" />
+</taught-by-item>
+</spell>
+<spell id="23068" requires-skill-level="150" colors="0 150 162 175">
+<name>绿色焰火</name>
+<create id="9313" class="0.8" count="3" />
+<reagents>
+<item id="4377" count="1" />
+<item id="4234" count="1" />
+</reagents>
+<taught-by-item>
+<item id="18648" />
+</taught-by-item>
+</spell>
+<spell id="12584" requires-skill-level="150" colors="0 150 170 190">
+<name>黄金能量核心</name>
+<create id="10558" class="7.1" count="3" />
+<reagents>
+<item id="3577" count="1" />
+</reagents>
+<taught-by-npc cost="1000">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3955" requires-skill-level="150" colors="150 175 187 200">
+<name>自爆绵羊</name>
+<create id="4384" class="15.-6" count="1" />
+<reagents>
+<item id="4382" count="1" />
+<item id="4375" count="1" />
+<item id="4377" count="2" />
+<item id="2592" count="2" />
+</reagents>
+<taught-by-npc cost="750">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3956" requires-skill-level="150" colors="150 175 187 200">
+<name>绿色护目镜</name>
+<create id="4385" class="4.1.1" count="1" />
+<reagents>
+<item id="2319" count="4" />
+<item id="1206" count="2" />
+<item id="4368" count="1" />
+</reagents>
+<taught-by-npc cost="750">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3957" requires-skill-level="155" colors="155 175 185 195">
+<name>寒冰偏斜器</name>
+<create id="4386" class="7.3" count="1" />
+<reagents>
+<item id="4375" count="1" />
+<item id="3829" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13308" />
+</taught-by-item>
+</spell>
+<spell id="3958" requires-skill-level="160" colors="0 160 170 180">
+<name>铁棒</name>
+<create id="4387" class="7.1" count="1" />
+<reagents>
+<item id="3575" count="2" />
+</reagents>
+<taught-by-npc cost="800">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3959" requires-skill-level="160" colors="160 180 190 200">
+<name>退化射线</name>
+<create id="4388" class="7.3" count="1" />
+<reagents>
+<item id="4375" count="3" />
+<item id="4306" count="2" />
+<item id="1529" count="1" />
+<item id="4371" count="1" />
+</reagents>
+<taught-by-item>
+<item id="4413" />
+</taught-by-item>
+</spell>
+<spell id="9273" requires-skill-level="165" colors="0 165 180 200">
+<name>地精起搏器</name>
+<create id="7148" class="7.3" count="1" />
+<reagents>
+<item id="3575" count="6" />
+<item id="4375" count="2" />
+<item id="814" count="2" />
+<item id="4306" count="2" />
+<item id="1210" count="2" />
+<item id="7191" count="1" />
+</reagents>
+<taught-by-item>
+<item id="7561" />
+</taught-by-item>
+</spell>
+<spell id="3960" requires-skill-level="165" colors="165 185 195 205">
+<name>便携式青铜迫击炮</name>
+<create id="4403" class="7.3" count="1" />
+<reagents>
+<item id="4371" count="4" />
+<item id="4387" count="1" />
+<item id="4377" count="4" />
+<item id="2319" count="4" />
+</reagents>
+<taught-by-item>
+<item id="4414" />
+</taught-by-item>
+</spell>
+<spell id="3961" requires-skill-level="170" colors="0 170 190 210">
+<name>发条式同步协调陀螺仪</name>
+<create id="4389" class="7.1" count="1" />
+<reagents>
+<item id="3575" count="1" />
+<item id="10558" count="1" />
+</reagents>
+<taught-by-npc cost="900">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="12585" requires-skill-level="175" colors="0 175 185 195">
+<name>实心炸药</name>
+<create id="10505" class="7.1" count="1" />
+<reagents>
+<item id="7912" count="2" />
+</reagents>
+<taught-by-npc cost="1000">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="12586" requires-skill-level="175" colors="0 175 185 195">
+<name>实心炸弹</name>
+<create id="10507" class="7.2" count="2" />
+<reagents>
+<item id="10505" count="1" />
+<item id="4306" count="1" />
+</reagents>
+<taught-by-npc cost="1000">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="26420" requires-skill-level="175" colors="0 175 187 200">
+<name>大型蓝色烟花</name>
+<create id="21589" class="15.3" count="3" />
+<reagents>
+<item id="4377" count="1" />
+<item id="4234" count="1" />
+</reagents>
+<taught-by-item>
+<item id="21727" />
+</taught-by-item>
+</spell>
+<spell id="26421" requires-skill-level="175" colors="0 175 187 200">
+<name>大型绿色烟花</name>
+<create id="21590" class="15.3" count="3" />
+<reagents>
+<item id="4377" count="1" />
+<item id="4234" count="1" />
+</reagents>
+<taught-by-item>
+<item id="21728" />
+</taught-by-item>
+</spell>
+<spell id="26422" requires-skill-level="175" colors="0 175 187 200">
+<name>大型红色烟花</name>
+<create id="21592" class="15.3" count="3" />
+<reagents>
+<item id="4377" count="1" />
+<item id="4234" count="1" />
+</reagents>
+<taught-by-item>
+<item id="21729" />
+</taught-by-item>
+</spell>
+<spell id="3962" requires-skill-level="175" colors="0 175 195 215">
+<name>铁皮手雷</name>
+<create id="4390" class="7.2" count="2" />
+<reagents>
+<item id="3575" count="1" />
+<item id="4377" count="1" />
+<item id="4306" count="1" />
+</reagents>
+<taught-by-npc cost="1000">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3963" requires-skill-level="175" colors="0 175 195 215">
+<name>联合收割机组件</name>
+<create id="4391" class="15.-6" count="1" />
+<reagents>
+<item id="4387" count="2" />
+<item id="4382" count="1" />
+<item id="4389" count="2" />
+<item id="4234" count="4" />
+</reagents>
+<taught-by-npc cost="1000">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="12590" requires-skill-level="175" colors="0 175 195 215">
+<name>侏儒微调器</name>
+<create id="10498" class="7.1" count="1" />
+<reagents>
+<item id="3859" count="4" />
+</reagents>
+<taught-by-npc cost="1000">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="12587" requires-skill-level="175" colors="175 195 205 215">
+<name>增亮护目镜</name>
+<create id="10499" class="4.1.1" count="1" />
+<reagents>
+<item id="4234" count="6" />
+<item id="3864" count="2" />
+</reagents>
+<taught-by-item>
+<item id="10601" />
+</taught-by-item>
+</spell>
+<spell id="3979" requires-skill-level="180" colors="180 200 210 220">
+<name>精确瞄准镜</name>
+<create id="4407" class="0.6" count="1" />
+<reagents>
+<item id="4371" count="1" />
+<item id="1529" count="1" />
+<item id="3864" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13310" />
+</taught-by-item>
+</spell>
+<spell id="3965" requires-skill-level="185" colors="0 185 205 225">
+<name>高级假人</name>
+<create id="4392" class="15.-6" count="1" />
+<reagents>
+<item id="4387" count="1" />
+<item id="4382" count="1" />
+<item id="4389" count="1" />
+<item id="4234" count="4" />
+</reagents>
+<taught-by-npc cost="1200">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="8243" requires-skill-level="185" colors="0 185 205 225">
+<name>闪光雷</name>
+<create id="4852" class="7.2" count="1" />
+<reagents>
+<item id="4611" count="1" />
+<item id="4377" count="1" />
+<item id="4306" count="1" />
+</reagents>
+<taught-by-item>
+<item id="6672" />
+</taught-by-item>
+</spell>
+<spell id="3966" requires-skill-level="185" colors="185 205 215 225">
+<name>工匠眼镜</name>
+<create id="4393" class="4.1.1" count="1" />
+<reagents>
+<item id="4234" count="6" />
+<item id="3864" count="2" />
+</reagents>
+<taught-by-item>
+<item id="4415" />
+</taught-by-item>
+</spell>
+<spell id="3967" requires-skill-level="190" colors="0 190 210 230">
+<name>重磅铁制炸弹</name>
+<create id="4394" class="7.2" count="2" />
+<reagents>
+<item id="3575" count="3" />
+<item id="4377" count="3" />
+<item id="4404" count="1" />
+</reagents>
+<taught-by-npc cost="1400">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="21940" requires-skill-level="190" colors="0 190 210 230">
+<name>雪王9000型</name>
+<create id="17716" class="7.3" count="1" />
+<reagents>
+<item id="3860" count="8" />
+<item id="4389" count="4" />
+<item id="17202" count="4" />
+<item id="3829" count="1" />
+</reagents>
+<taught-by-item>
+<item id="17720" />
+</taught-by-item>
+</spell>
+<spell id="12589" requires-skill-level="195" colors="0 195 215 235">
+<name>秘银管</name>
+<create id="10559" class="7.1" count="1" />
+<reagents>
+<item id="3860" count="3" />
+</reagents>
+<taught-by-npc cost="1300">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3968" requires-skill-level="195" colors="195 215 225 235">
+<name>地精暗雷</name>
+<create id="4395" class="15.-6" count="1" />
+<reagents>
+<item id="4377" count="3" />
+<item id="3575" count="2" />
+<item id="4389" count="1" />
+</reagents>
+<taught-by-item>
+<item id="4416" />
+</taught-by-item>
+</spell>
+<spell id="20219" requires-skill-level="200" colors="0 0 0 200">
+<name>侏儒工程学</name>
+<reward-from>
+<quest id="3641" />
+<quest id="3643" />
+</reward-from>
+</spell>
+<spell id="20222" requires-skill-level="200" colors="0 0 0 200">
+<name>地精工程师</name>
+<reward-from>
+<quest id="3639" />
+</reward-from>
+</spell>
+<spell id="23069" requires-skill-level="200" colors="0 200 210 220">
+<name>简易投掷炸弹II</name>
+<create id="18588" class="7.2" count="1" />
+<reagents>
+<item id="10505" count="1" />
+<item id="4338" count="2" />
+</reagents>
+<taught-by-item>
+<item id="18650" />
+</taught-by-item>
+</spell>
+<spell id="3972" requires-skill-level="200" colors="0 200 220 240">
+<name>大型爆盐炸弹</name>
+<create id="4398" class="7.2" count="1" />
+<reagents>
+<item id="10505" count="2" />
+<item id="4234" count="2" />
+<item id="159" count="1" />
+</reagents>
+<taught-by-item>
+<item id="4417" />
+</taught-by-item>
+</spell>
+<spell id="12591" requires-skill-level="200" colors="0 200 220 240">
+<name>不牢固的扳机</name>
+<create id="10560" class="7.1" count="1" />
+<reagents>
+<item id="3860" count="1" />
+<item id="4338" count="1" />
+<item id="10505" count="1" />
+</reagents>
+<taught-by-npc cost="1500">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="15255" requires-skill-level="200" colors="0 200 220 240">
+<name>机械修理包</name>
+<create id="11590" class="7.3" count="1" />
+<reagents>
+<item id="3860" count="1" />
+<item id="4338" count="1" />
+<item id="10505" count="1" />
+</reagents>
+<taught-by-npc cost="1500">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="3969" requires-skill-level="200" colors="200 220 230 240">
+<name>机械幼龙</name>
+<create id="4396" class="4.-4" count="1" />
+<reagents>
+<item id="4382" count="1" />
+<item id="4387" count="2" />
+<item id="4389" count="2" />
+<item id="3864" count="1" />
+</reagents>
+<taught-by-item>
+<item id="13311" />
+</taught-by-item>
+</spell>
+<spell id="3971" requires-skill-level="200" colors="200 220 230 240">
+<name>侏儒隐形装置</name>
+<create id="4397" class="4.-4" count="1" />
+<reagents>
+<item id="4389" count="4" />
+<item id="1529" count="2" />
+<item id="1705" count="2" />
+<item id="3864" count="2" />
+<item id="7191" count="1" />
+</reagents>
+<taught-by-item>
+<item id="7742" />
+</taught-by-item>
+</spell>
+<spell id="12715" requires-skill-level="205" colors="0 0 0 205">
+<name>地精火箭燃油配方</name>
+<create id="10644" class="9.6" count="1" />
+<reagents>
+<item id="10648" count="1" />
+<item id="10647" count="1" />
+</reagents>
+<taught-by-npc cost="1000">
+<npc id="8126" />
+<npc id="8738" />
+<npc id="29513" />
+</taught-by-npc>
+</spell>
+<spell id="12895" requires-skill-level="205" colors="0 0 0 205">
+<name>秘银杆设计图</name>
+<create id="10713" class="9.4" count="1" />
+<reagents>
+<item id="10648" count="1" />
+<item id="10647" count="1" />
+</reagents>
+<taught-by-npc cost="1500">
+<npc id="7406" />
+<npc id="7944" />
+<npc id="29514" />
+</taught-by-npc>
+</spell>
+<spell id="13240" requires-skill-level="205" colors="0 0 0 205">
+<name>迫击炮：重载</name>
+<create id="10577" class="4.-4" count="1" />
+<reagents>
+<item id="10577" count="1" />
+<item id="3860" count="1" />
+<item id="10505" count="3" />
+</reagents>
+</spell>
+<spell id="15628" requires-skill-level="205" colors="0 0 0 205">
+<name>炸弹宠物</name>
+<create id="11825" class="15.2" count="1" />
+<reagents>
+<item id="4394" count="1" />
+<item id="7077" count="1" />
+<item id="7191" count="1" />
+<item id="3860" count="6" />
+</reagents>
+<taught-by-item>
+<item id="11828" />
+</taught-by-item>
+</spell>
+<spell id="15633" requires-skill-level="205" colors="0 0 0 205">
+<name>发条娃娃</name>
+<create id="11826" class="15.2" count="1" />
+<reagents>
+<item id="7075" count="1" />
+<item id="4389" count="2" />
+<item id="7191" count="1" />
+<item id="3860" count="2" />
+<item id="6037" count="1" />
+</reagents>
+<taught-by-item>
+<item id="11827" />
+</taught-by-item>
+</spell>
+<spell id="12760" requires-skill-level="205" colors="0 205 225 245">
+<name>地精工兵炸药</name>
+<create id="10646" class="7.2" count="1" />
+<reagents>
+<item id="4338" count="1" />
+<item id="10505" count="3" />
+<item id="10560" count="1" />
+</reagents>
+<taught-by-npc cost="1500">
+<npc id="8126" />
+<npc id="8738" />
+<npc id="29513" />
+</taught-by-npc>
+</spell>
+<spell id="12594" requires-skill-level="205" colors="205 225 235 245">
+<name>火焰护目镜</name>
+<create id="10500" class="4.1.1" count="1" />
+<reagents>
+<item id="4385" count="1" />
+<item id="3864" count="2" />
+<item id="7068" count="2" />
+<item id="4234" count="4" />
+</reagents>
+<taught-by-npc cost="1600">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="12595" requires-skill-level="205" colors="205 225 235 245">
+<name>秘银火枪</name>
+<create id="10508" class="2.3" count="1" />
+<reagents>
+<item id="10559" count="1" />
+<item id="10560" count="1" />
+<item id="4400" count="1" />
+<item id="3860" count="4" />
+<item id="7068" count="2" />
+</reagents>
+<taught-by-npc cost="1600">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="12716" requires-skill-level="205" colors="205 225 235 245">
+<name>地精迫击炮</name>
+<create id="10577" class="4.-4" count="1" />
+<reagents>
+<item id="10559" count="2" />
+<item id="3860" count="4" />
+<item id="10505" count="5" />
+<item id="10558" count="1" />
+<item id="7068" count="1" />
+</reagents>
+<taught-by-npc cost="1500">
+<npc id="8126" />
+<npc id="8738" />
+<npc id="29513" />
+</taught-by-npc>
+</spell>
+<spell id="12717" requires-skill-level="205" colors="205 225 235 245">
+<name>地精采矿头盔</name>
+<create id="10542" class="4.3.1" count="1" />
+<reagents>
+<item id="3860" count="8" />
+<item id="3864" count="1" />
+<item id="7067" count="4" />
+</reagents>
+<taught-by-npc cost="1500">
+<npc id="8126" />
+<npc id="8738" />
+<npc id="29513" />
+</taught-by-npc>
+</spell>
+<spell id="12718" requires-skill-level="205" colors="205 225 235 245">
+<name>地精施工头盔</name>
+<create id="10543" class="4.1.1" count="1" />
+<reagents>
+<item id="3860" count="8" />
+<item id="3864" count="1" />
+<item id="7068" count="4" />
+</reagents>
+<taught-by-npc cost="1500">
+<npc id="8126" />
+<npc id="8738" />
+<npc id="29513" />
+</taught-by-npc>
+</spell>
+<spell id="12899" requires-skill-level="205" colors="205 225 235 245">
+<name>侏儒缩小射线</name>
+<create id="10716" class="4.-4" count="1" />
+<reagents>
+<item id="10559" count="1" />
+<item id="10560" count="1" />
+<item id="3860" count="4" />
+<item id="8151" count="4" />
+<item id="1529" count="2" />
+</reagents>
+<taught-by-npc cost="1500">
+<npc id="7406" />
+<npc id="7944" />
+<npc id="29514" />
+</taught-by-npc>
+</spell>
+<spell id="12596" requires-skill-level="210" colors="0 210 230 250">
+<name>高速秘银弹头</name>
+<create id="10512" class="6.3" count="200" />
+<reagents>
+<item id="3860" count="1" />
+<item id="10505" count="1" />
+</reagents>
+<taught-by-npc cost="1700">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="12597" requires-skill-level="210" colors="210 230 240 250">
+<name>致命瞄准镜</name>
+<create id="10546" class="0.6" count="1" />
+<reagents>
+<item id="10559" count="1" />
+<item id="7909" count="2" />
+<item id="4304" count="2" />
+</reagents>
+<taught-by-item>
+<item id="10602" />
+</taught-by-item>
+</spell>
+<spell id="12897" requires-skill-level="210" colors="210 230 240 250">
+<name>侏儒护目镜</name>
+<create id="10545" class="4.1.1" count="1" />
+<reagents>
+<item id="10500" count="1" />
+<item id="10559" count="1" />
+<item id="10558" count="2" />
+<item id="8151" count="2" />
+<item id="4234" count="2" />
+</reagents>
+<taught-by-npc cost="1500">
+<npc id="7406" />
+<npc id="7944" />
+<npc id="29514" />
+</taught-by-npc>
+</spell>
+<spell id="12902" requires-skill-level="210" colors="210 230 240 250">
+<name>侏儒撒网器</name>
+<create id="10720" class="4.-4" count="1" />
+<reagents>
+<item id="10559" count="1" />
+<item id="10285" count="2" />
+<item id="4337" count="4" />
+<item id="10505" count="2" />
+<item id="3860" count="4" />
+</reagents>
+<taught-by-npc cost="1800">
+<npc id="7406" />
+<npc id="7944" />
+<npc id="29514" />
+</taught-by-npc>
+</spell>
+<spell id="12599" requires-skill-level="215" colors="0 215 235 255">
+<name>秘银外壳</name>
+<create id="10561" class="7.1" count="1" />
+<reagents>
+<item id="3860" count="3" />
+</reagents>
+<taught-by-npc cost="1800">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="12603" requires-skill-level="215" colors="0 215 235 255">
+<name>秘银破片炸弹</name>
+<create id="10514" class="7.2" count="3" />
+<reagents>
+<item id="10561" count="1" />
+<item id="10560" count="1" />
+<item id="10505" count="1" />
+</reagents>
+<taught-by-npc cost="1800">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="12903" requires-skill-level="215" colors="215 235 245 255">
+<name>侏儒防护腰带</name>
+<create id="10721" class="4.2.6" count="1" />
+<reagents>
+<item id="7387" count="1" />
+<item id="3860" count="4" />
+<item id="6037" count="2" />
+<item id="10560" count="1" />
+<item id="7909" count="2" />
+</reagents>
+<taught-by-npc cost="2000">
+<npc id="7406" />
+<npc id="7944" />
+<npc id="29514" />
+</taught-by-npc>
+</spell>
+<spell id="12607" requires-skill-level="220" colors="220 240 250 260">
+<name>猫眼超级护目镜</name>
+<create id="10501" class="4.1.1" count="1" />
+<reagents>
+<item id="4304" count="4" />
+<item id="7909" count="2" />
+<item id="10592" count="1" />
+</reagents>
+<taught-by-item>
+<item id="10603" />
+</taught-by-item>
+</spell>
+<spell id="12614" requires-skill-level="220" colors="220 240 250 260">
+<name>大口径秘银步枪</name>
+<create id="10510" class="2.3" count="1" />
+<reagents>
+<item id="10559" count="2" />
+<item id="10560" count="1" />
+<item id="4400" count="1" />
+<item id="3860" count="6" />
+<item id="3864" count="2" />
+</reagents>
+<taught-by-item>
+<item id="10604" />
+</taught-by-item>
+</spell>
+<spell id="26423" requires-skill-level="225" colors="0 225 237 250">
+<name>蓝色烟花束</name>
+<create id="21571" class="15.3" count="3" />
+<reagents>
+<item id="10505" count="1" />
+<item id="4304" count="1" />
+</reagents>
+<taught-by-item>
+<item id="21730" />
+</taught-by-item>
+</spell>
+<spell id="26424" requires-skill-level="225" colors="0 225 237 250">
+<name>绿色烟花束</name>
+<create id="21574" class="15.3" count="3" />
+<reagents>
+<item id="10505" count="1" />
+<item id="4304" count="1" />
+</reagents>
+<taught-by-item>
+<item id="21731" />
+</taught-by-item>
+</spell>
+<spell id="26425" requires-skill-level="225" colors="0 225 237 250">
+<name>红色烟花束</name>
+<create id="21576" class="15.3" count="3" />
+<reagents>
+<item id="10505" count="1" />
+<item id="4304" count="1" />
+</reagents>
+<taught-by-item>
+<item id="21732" />
+</taught-by-item>
+</spell>
+<spell id="8895" requires-skill-level="225" colors="225 245 255 265">
+<name>地精火箭靴</name>
+<create id="7189" class="4.1.8" count="1" />
+<reagents>
+<item id="10026" count="1" />
+<item id="10559" count="2" />
+<item id="4234" count="4" />
+<item id="9061" count="2" />
+<item id="10560" count="1" />
+</reagents>
+<taught-by-npc cost="2200">
+<npc id="8126" />
+<npc id="8738" />
+<npc id="29513" />
+</taught-by-npc>
+</spell>
+<spell id="12615" requires-skill-level="225" colors="225 245 255 265">
+<name>法术能量护目镜超级版</name>
+<create id="10502" class="4.1.1" count="1" />
+<reagents>
+<item id="4304" count="4" />
+<item id="7910" count="2" />
+</reagents>
+<taught-by-npc cost="2500">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+<taught-by-item>
+<item id="10605" />
+</taught-by-item>
+</spell>
+<spell id="12616" requires-skill-level="225" colors="225 245 255 265">
+<name>降落伞披风</name>
+<create id="10518" class="4.-6" count="1" />
+<reagents>
+<item id="4339" count="4" />
+<item id="10285" count="2" />
+<item id="10560" count="1" />
+<item id="10505" count="4" />
+</reagents>
+<taught-by-item>
+<item id="10606" />
+</taught-by-item>
+</spell>
+<spell id="12905" requires-skill-level="225" colors="225 245 255 265">
+<name>侏儒火箭靴</name>
+<create id="10724" class="4.1.8" count="1" />
+<reagents>
+<item id="10026" count="1" />
+<item id="10559" count="2" />
+<item id="4234" count="4" />
+<item id="10505" count="8" />
+<item id="4389" count="4" />
+</reagents>
+<taught-by-npc cost="2200">
+<npc id="7406" />
+<npc id="7944" />
+<npc id="29514" />
+</taught-by-npc>
+</spell>
+<spell id="26442" requires-skill-level="225" colors="225 245 255 265">
+<name>烟花发射器</name>
+<create id="21569" class="15.3" count="1" />
+<reagents>
+<item id="9060" count="1" />
+<item id="9061" count="1" />
+<item id="10560" count="1" />
+<item id="10561" count="1" />
+</reagents>
+<taught-by-item>
+<item id="21738" />
+<item id="44919" />
+</taught-by-item>
+</spell>
+<spell id="12755" requires-skill-level="230" colors="0 230 250 270">
+<name>地精炸弹箱</name>
+<create id="10587" class="4.-4" count="1" />
+<reagents>
+<item id="10561" count="2" />
+<item id="10505" count="4" />
+<item id="6037" count="6" />
+<item id="10560" count="1" />
+<item id="4407" count="2" />
+</reagents>
+<taught-by-npc cost="2400">
+<npc id="8126" />
+<npc id="8738" />
+<npc id="29513" />
+</taught-by-npc>
+</spell>
+<spell id="12617" requires-skill-level="230" colors="230 250 260 270">
+<name>潜水头盔</name>
+<create id="10506" class="4.1.1" count="1" />
+<reagents>
+<item id="3860" count="8" />
+<item id="10561" count="1" />
+<item id="6037" count="1" />
+<item id="818" count="4" />
+<item id="774" count="4" />
+</reagents>
+<taught-by-item>
+<item id="10607" />
+</taught-by-item>
+</spell>
+<spell id="12618" requires-skill-level="230" colors="230 250 260 270">
+<name>玫瑰色护目镜</name>
+<create id="10503" class="4.1.1" count="1" />
+<reagents>
+<item id="4304" count="6" />
+<item id="7910" count="2" />
+</reagents>
+<taught-by-npc cost="2200">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="12906" requires-skill-level="230" colors="230 250 260 270">
+<name>侏儒作战小鸡</name>
+<create id="10725" class="4.-4" count="1" />
+<reagents>
+<item id="10561" count="1" />
+<item id="6037" count="6" />
+<item id="3860" count="6" />
+<item id="9060" count="2" />
+<item id="10558" count="1" />
+<item id="1529" count="2" />
+</reagents>
+<taught-by-npc cost="2400">
+<npc id="7406" />
+<npc id="7944" />
+<npc id="29514" />
+</taught-by-npc>
+</spell>
+<spell id="12619" requires-skill-level="235" colors="0 235 255 275">
+<name>高爆炸弹</name>
+<create id="10562" class="7.2" count="4" />
+<reagents>
+<item id="10561" count="2" />
+<item id="10560" count="1" />
+<item id="10505" count="2" />
+</reagents>
+<taught-by-npc cost="2400">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="12754" requires-skill-level="235" colors="0 235 255 275">
+<name>大炸弹</name>
+<create id="10586" class="7.2" count="2" />
+<reagents>
+<item id="10561" count="1" />
+<item id="9061" count="1" />
+<item id="10507" count="6" />
+<item id="10560" count="1" />
+</reagents>
+<taught-by-npc cost="2600">
+<npc id="8126" />
+<npc id="8738" />
+<npc id="29513" />
+</taught-by-npc>
+</spell>
+<spell id="12907" requires-skill-level="235" colors="235 255 265 275">
+<name>侏儒洗脑帽</name>
+<create id="10726" class="4.1.1" count="1" />
+<reagents>
+<item id="3860" count="10" />
+<item id="6037" count="4" />
+<item id="10558" count="1" />
+<item id="7910" count="2" />
+<item id="4338" count="4" />
+</reagents>
+<taught-by-npc cost="2600">
+<npc id="7406" />
+<npc id="7944" />
+<npc id="29514" />
+</taught-by-npc>
+</spell>
+<spell id="12620" requires-skill-level="240" colors="240 260 270 280">
+<name>狙击瞄准镜</name>
+<create id="10548" class="0.6" count="1" />
+<reagents>
+<item id="10559" count="1" />
+<item id="7910" count="1" />
+<item id="6037" count="2" />
+</reagents>
+<taught-by-item>
+<item id="10608" />
+</taught-by-item>
+</spell>
+<spell id="12759" requires-skill-level="240" colors="240 260 270 280">
+<name>侏儒死亡射线</name>
+<create id="10645" class="4.-4" count="1" />
+<reagents>
+<item id="10559" count="2" />
+<item id="10560" count="1" />
+<item id="12808" count="1" />
+<item id="7972" count="4" />
+<item id="9060" count="1" />
+</reagents>
+<taught-by-npc cost="2800">
+<npc id="7406" />
+<npc id="7944" />
+<npc id="29514" />
+</taught-by-npc>
+</spell>
+<spell id="12908" requires-skill-level="240" colors="240 260 270 280">
+<name>地精龙枪</name>
+<create id="10727" class="4.-4" count="1" />
+<reagents>
+<item id="10559" count="2" />
+<item id="9061" count="4" />
+<item id="3860" count="6" />
+<item id="6037" count="6" />
+<item id="10560" count="1" />
+</reagents>
+<taught-by-npc cost="2800">
+<npc id="8126" />
+<npc id="8738" />
+<npc id="29513" />
+</taught-by-npc>
+</spell>
+<spell id="12621" requires-skill-level="245" colors="0 245 265 285">
+<name>秘银螺旋弹</name>
+<create id="10513" class="6.3" count="200" />
+<reagents>
+<item id="3860" count="2" />
+<item id="10505" count="2" />
+</reagents>
+<taught-by-npc cost="2800">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="12622" requires-skill-level="245" colors="245 265 275 285">
+<name>绿色透镜</name>
+<create id="10504" class="4.1.1" count="1" />
+<reagents>
+<item id="4304" count="8" />
+<item id="1529" count="3" />
+<item id="7909" count="3" />
+<item id="10286" count="2" />
+<item id="8153" count="2" />
+</reagents>
+<taught-by-npc cost="2800">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="12758" requires-skill-level="245" colors="245 265 275 285">
+<name>地精火箭头盔</name>
+<create id="10588" class="4.1.1" count="1" />
+<reagents>
+<item id="10543" count="1" />
+<item id="9061" count="4" />
+<item id="3860" count="4" />
+<item id="10560" count="1" />
+</reagents>
+<taught-by-npc cost="3000">
+<npc id="8126" />
+<npc id="8738" />
+<npc id="29513" />
+</taught-by-npc>
+</spell>
+<spell id="19788" requires-skill-level="250" colors="0 250 255 260">
+<name>致密炸药粉</name>
+<create id="15992" class="7.1" count="1" />
+<reagents>
+<item id="12365" count="2" />
+</reagents>
+<taught-by-npc cost="4000">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="23070" requires-skill-level="250" colors="0 250 260 270">
+<name>致密炸药</name>
+<create id="18641" class="7.2" count="2" />
+<reagents>
+<item id="15992" count="2" />
+<item id="14047" count="3" />
+</reagents>
+<taught-by-npc cost="5000">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="23507" requires-skill-level="250" colors="0 250 260 270">
+<name>长蛇焰火</name>
+<create id="19026" class="0.8" count="4" />
+<reagents>
+<item id="15992" count="2" />
+<item id="14047" count="2" />
+<item id="8150" count="1" />
+</reagents>
+<taught-by-item>
+<item id="19027" />
+</taught-by-item>
+</spell>
+<spell id="12624" requires-skill-level="250" colors="250 270 280 290">
+<name>秘银机械幼龙</name>
+<create id="10576" class="4.-4" count="1" />
+<reagents>
+<item id="3860" count="4" />
+<item id="7077" count="2" />
+<item id="6037" count="4" />
+<item id="7910" count="1" />
+</reagents>
+<taught-by-item>
+<item id="10609" />
+</taught-by-item>
+</spell>
+<spell id="19567" requires-skill-level="250" colors="250 270 280 290">
+<name>筛盐器</name>
+<create id="15846" class="7.3" count="1" />
+<reagents>
+<item id="10561" count="1" />
+<item id="12359" count="6" />
+<item id="10558" count="3" />
+</reagents>
+<taught-by-npc cost="4000">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="63750" requires-skill-level="250" colors="250 270 280 290">
+<name>大功率闪光灯</name>
+<create id="45631" class="4.-4" count="1" />
+<reagents>
+<item id="15994" count="4" />
+<item id="6037" count="6" />
+<item id="7078" count="6" />
+</reagents>
+<taught-by-npc cost="5000">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="26011" requires-skill-level="250" colors="250 320 330 340">
+<name>安静的机械雪人</name>
+<create id="21277" class="15.2" count="1" />
+<reagents>
+<item id="15407" count="1" />
+<item id="15994" count="4" />
+<item id="7079" count="2" />
+<item id="18631" count="2" />
+<item id="10558" count="1" />
+</reagents>
+<reward-from>
+<quest id="8798" />
+</reward-from>
+</spell>
+<spell id="23129" requires-skill-level="260" colors="0 260 265 270">
+<name>世界放大器</name>
+<create id="18660" class="7.3" count="1" />
+<reagents>
+<item id="10561" count="1" />
+<item id="15994" count="2" />
+<item id="10558" count="1" />
+<item id="10560" count="1" />
+<item id="3864" count="1" />
+</reagents>
+<taught-by-item>
+<item id="18661" />
+</taught-by-item>
+</spell>
+<spell id="23071" requires-skill-level="260" colors="260 270 275 280">
+<name>真银变压器</name>
+<create id="18631" class="7.1" count="1" />
+<reagents>
+<item id="6037" count="2" />
+<item id="7067" count="2" />
+<item id="7069" count="1" />
+</reagents>
+<taught-by-npc cost="5000">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+<taught-by-item>
+<item id="18651" />
+</taught-by-item>
+</spell>
+<spell id="19790" requires-skill-level="260" colors="260 280 290 300">
+<name>瑟银手榴弹</name>
+<create id="15993" class="7.2" count="3" />
+<reagents>
+<item id="15994" count="1" />
+<item id="12359" count="3" />
+<item id="15992" count="3" />
+<item id="14047" count="3" />
+</reagents>
+<taught-by-npc cost="10000">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+<taught-by-item>
+<item id="16041" />
+</taught-by-item>
+</spell>
+<spell id="19791" requires-skill-level="260" colors="260 280 290 300">
+<name>瑟银零件</name>
+<create id="15994" class="7.1" count="1" />
+<reagents>
+<item id="12359" count="3" />
+<item id="14047" count="1" />
+</reagents>
+<taught-by-npc cost="5000">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+<taught-by-item>
+<item id="16042" />
+</taught-by-item>
+</spell>
+<spell id="19792" requires-skill-level="260" colors="260 280 290 300">
+<name>瑟银火枪</name>
+<create id="15995" class="2.3" count="1" />
+<reagents>
+<item id="10559" count="2" />
+<item id="10561" count="2" />
+<item id="15994" count="2" />
+<item id="12359" count="4" />
+<item id="10546" count="1" />
+</reagents>
+<taught-by-npc cost="10000">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+<taught-by-item>
+<item id="16043" />
+</taught-by-item>
+</spell>
+<spell id="23077" requires-skill-level="260" colors="260 280 290 300">
+<name>寒冰偏斜器</name>
+<create id="18634" class="4.-4" count="1" />
+<reagents>
+<item id="15994" count="6" />
+<item id="18631" count="2" />
+<item id="12361" count="2" />
+<item id="7078" count="4" />
+<item id="3829" count="2" />
+<item id="13467" count="4" />
+</reagents>
+<taught-by-item>
+<item id="18652" />
+</taught-by-item>
+</spell>
+<spell id="23486" requires-skill-level="260" colors="260 285 295 305">
+<name>空间撕裂器 - 永望镇</name>
+<create id="18984" class="4.0" count="1" />
+<reagents>
+<item id="3860" count="10" />
+<item id="18631" count="1" />
+<item id="7077" count="4" />
+<item id="7910" count="2" />
+<item id="10586" count="1" />
+</reagents>
+<taught-by-npc>
+<npc id="14742" />
+</taught-by-npc>
+</spell>
+<spell id="23489" requires-skill-level="260" colors="260 285 295 305">
+<name>安全传送器 - 加基森</name>
+<create id="18986" class="4.0" count="1" />
+<reagents>
+<item id="3860" count="12" />
+<item id="18631" count="2" />
+<item id="7075" count="4" />
+<item id="7079" count="2" />
+<item id="7909" count="4" />
+<item id="9060" count="1" />
+</reagents>
+<taught-by-npc>
+<npc id="14743" />
+</taught-by-npc>
+</spell>
+<spell id="23096" requires-skill-level="265" colors="265 275 280 285">
+<name>报警机器人</name>
+<create id="18645" class="7.3" count="2" />
+<reagents>
+<item id="12359" count="4" />
+<item id="7191" count="1" />
+</reagents>
+<taught-by-item>
+<item id="18654" />
+</taught-by-item>
+</spell>
+<spell id="19793" requires-skill-level="265" colors="265 285 295 305">
+<name>仿真机械蛙</name>
+<create id="15996" class="15.2" count="1" />
+<reagents>
+<item id="12803" count="1" />
+<item id="15994" count="4" />
+<item id="10558" count="1" />
+<item id="8170" count="1" />
+</reagents>
+<taught-by-item>
+<item id="16044" />
+</taught-by-item>
+</spell>
+<spell id="23078" requires-skill-level="265" colors="265 285 295 305">
+<name>地精起搏器XL型</name>
+<create id="18587" class="7.3" count="1" />
+<reagents>
+<item id="15994" count="2" />
+<item id="18631" count="2" />
+<item id="7191" count="2" />
+<item id="14227" count="2" />
+<item id="7910" count="2" />
+</reagents>
+<taught-by-item>
+<item id="18653" />
+</taught-by-item>
+</spell>
+<spell id="19794" requires-skill-level="270" colors="270 290 300 310">
+<name>法术能量护目镜超级改良版</name>
+<create id="15999" class="4.1.1" count="1" />
+<reagents>
+<item id="10502" count="1" />
+<item id="7910" count="4" />
+<item id="12810" count="2" />
+<item id="14047" count="8" />
+</reagents>
+<taught-by-npc cost="20000">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+<taught-by-item>
+<item id="16045" />
+</taught-by-item>
+</spell>
+<spell id="26426" requires-skill-level="275" colors="0 275 280 285">
+<name>大型蓝色烟花束</name>
+<create id="21714" class="15.3" count="3" />
+<reagents>
+<item id="15992" count="1" />
+<item id="8170" count="1" />
+</reagents>
+<taught-by-item>
+<item id="21733" />
+</taught-by-item>
+</spell>
+<spell id="26427" requires-skill-level="275" colors="0 275 280 285">
+<name>大型绿色烟花束</name>
+<create id="21716" class="15.3" count="3" />
+<reagents>
+<item id="15992" count="1" />
+<item id="8170" count="1" />
+</reagents>
+<taught-by-item>
+<item id="21734" />
+</taught-by-item>
+</spell>
+<spell id="26428" requires-skill-level="275" colors="0 275 280 285">
+<name>大型红色烟花束</name>
+<create id="21718" class="15.3" count="3" />
+<reagents>
+<item id="15992" count="1" />
+<item id="8170" count="1" />
+</reagents>
+<taught-by-item>
+<item id="21735" />
+</taught-by-item>
+</spell>
+<spell id="28327" requires-skill-level="275" colors="0 275 280 285">
+<name>蒸汽车控制器</name>
+<create id="22728" class="15.-6" count="1" />
+<reagents>
+<item id="3860" count="3" />
+<item id="10558" count="1" />
+</reagents>
+<taught-by-item>
+<item id="22729" />
+</taught-by-item>
+</spell>
+<spell id="39895" requires-skill-level="275" colors="0 275 280 285">
+<name>保险丝</name>
+<create id="7191" class="7.1" count="5" />
+<reagents>
+<item id="20816" count="3" />
+<item id="7078" count="2" />
+</reagents>
+<taught-by-item>
+<item id="32381" />
+</taught-by-item>
+</spell>
+<spell id="23080" requires-skill-level="275" colors="0 275 285 295">
+<name>强力爆盐炸弹</name>
+<create id="18594" class="7.2" count="1" />
+<reagents>
+<item id="15994" count="2" />
+<item id="15992" count="3" />
+<item id="8170" count="2" />
+<item id="159" count="1" />
+</reagents>
+<taught-by-item>
+<item id="18656" />
+</taught-by-item>
+</spell>
+<spell id="23079" requires-skill-level="275" colors="275 285 290 295">
+<name>强力净化器</name>
+<create id="18637" class="4.-4" count="1" />
+<reagents>
+<item id="16000" count="2" />
+<item id="18631" count="1" />
+<item id="14047" count="2" />
+</reagents>
+<taught-by-item>
+<item id="18655" />
+</taught-by-item>
+</spell>
+<spell id="19795" requires-skill-level="275" colors="275 295 305 315">
+<name>瑟银管</name>
+<create id="16000" class="7.1" count="1" />
+<reagents>
+<item id="12359" count="6" />
+</reagents>
+<taught-by-npc cost="10000">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+<taught-by-item>
+<item id="16047" />
+</taught-by-item>
+</spell>
+<spell id="19796" requires-skill-level="275" colors="275 295 305 315">
+<name>黑铁步枪</name>
+<create id="16004" class="2.3" count="1" />
+<reagents>
+<item id="16000" count="2" />
+<item id="11371" count="6" />
+<item id="10546" count="2" />
+<item id="12361" count="2" />
+<item id="12799" count="2" />
+<item id="8170" count="4" />
+</reagents>
+<taught-by-item>
+<item id="16048" />
+</taught-by-item>
+</spell>
+<spell id="19814" requires-skill-level="275" colors="275 295 305 315">
+<name>高级活动假人</name>
+<create id="16023" class="15.-6" count="1" />
+<reagents>
+<item id="10561" count="1" />
+<item id="16000" count="1" />
+<item id="15994" count="2" />
+<item id="6037" count="1" />
+<item id="8170" count="2" />
+<item id="14047" count="4" />
+</reagents>
+<taught-by-item>
+<item id="16046" />
+</taught-by-item>
+</spell>
+<spell id="26443" requires-skill-level="275" colors="275 295 305 315">
+<name>烟花束发射器</name>
+<create id="21570" class="15.3" count="2" />
+<reagents>
+<item id="10561" count="1" />
+<item id="9061" count="1" />
+</reagents>
+<taught-by-item>
+<item id="21737" />
+<item id="44918" />
+</taught-by-item>
+</spell>
+<spell id="19800" requires-skill-level="285" colors="285 295 300 305">
+<name>瑟银弹</name>
+<create id="15997" class="6.3" count="200" />
+<reagents>
+<item id="12359" count="2" />
+<item id="15992" count="1" />
+</reagents>
+<taught-by-npc cost="10000">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+<taught-by-item>
+<item id="16051" />
+</taught-by-item>
+</spell>
+<spell id="19799" requires-skill-level="285" colors="285 305 315 325">
+<name>黑铁炸弹</name>
+<create id="16005" class="7.2" count="3" />
+<reagents>
+<item id="15994" count="2" />
+<item id="11371" count="1" />
+<item id="15992" count="3" />
+<item id="14047" count="3" />
+</reagents>
+<taught-by-item>
+<item id="16049" />
+</taught-by-item>
+</spell>
+<spell id="19815" requires-skill-level="285" colors="285 305 315 325">
+<name>精密奥金转换器</name>
+<create id="16006" class="7.1" count="1" />
+<reagents>
+<item id="12360" count="1" />
+<item id="14227" count="1" />
+</reagents>
+<taught-by-item>
+<item id="16050" />
+</taught-by-item>
+</spell>
+<spell id="19819" requires-skill-level="290" colors="290 310 320 330">
+<name>语音增强模组</name>
+<create id="16009" class="4.-3" count="1" />
+<reagents>
+<item id="16006" count="2" />
+<item id="10558" count="1" />
+<item id="15994" count="1" />
+<item id="12799" count="1" />
+</reagents>
+<taught-by-item>
+<item id="16052" />
+</taught-by-item>
+</spell>
+<spell id="19825" requires-skill-level="290" colors="290 310 320 330">
+<name>高级技师护目镜</name>
+<create id="16008" class="4.1.1" count="1" />
+<reagents>
+<item id="10500" count="1" />
+<item id="12364" count="2" />
+<item id="12810" count="4" />
+</reagents>
+<taught-by-npc cost="20000">
+<npc id="1676" />
+<npc id="1702" />
+<npc id="3290" />
+<npc id="3494" />
+<npc id="5174" />
+<npc id="5518" />
+<npc id="8736" />
+<npc id="10993" />
+<npc id="11017" />
+<npc id="11025" />
+<npc id="11031" />
+<npc id="11037" />
+<npc id="16667" />
+<npc id="16726" />
+<npc id="17222" />
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+<taught-by-item>
+<item id="16053" />
+</taught-by-item>
+</spell>
+<spell id="23081" requires-skill-level="290" colors="290 310 320 330">
+<name>高辐射烈焰反射器</name>
+<create id="18638" class="4.-4" count="1" />
+<reagents>
+<item id="11371" count="4" />
+<item id="18631" count="3" />
+<item id="7080" count="6" />
+<item id="7910" count="4" />
+<item id="12800" count="2" />
+</reagents>
+<taught-by-item>
+<item id="18657" />
+</taught-by-item>
+</spell>
+<spell id="30305" requires-skill-level="300" colors="0 300 305 310">
+<name>魔铁螺丝</name>
+<create id="23783" class="7.1" count="1" />
+<reagents>
+<item id="23445" count="1" />
+</reagents>
+<taught-by-npc cost="10000">
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="30303" requires-skill-level="300" colors="0 300 310 320">
+<name>元素炸药粉</name>
+<create id="23781" class="7.1" count="4" />
+<reagents>
+<item id="22574" count="1" />
+<item id="22573" count="2" />
+</reagents>
+<taught-by-npc cost="10000">
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="30304" requires-skill-level="300" colors="0 300 310 320">
+<name>魔铁外壳</name>
+<create id="23782" class="7.1" count="1" />
+<reagents>
+<item id="23445" count="3" />
+</reagents>
+<taught-by-npc cost="10000">
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="19830" requires-skill-level="300" colors="300 320 330 340">
+<name>奥金幼龙</name>
+<create id="16022" class="4.-4" count="1" />
+<reagents>
+<item id="10576" count="1" />
+<item id="16006" count="4" />
+</reagents>
+<taught-by-item>
+<item id="16054" />
+</taught-by-item>
+</spell>
+<spell id="19831" requires-skill-level="300" colors="300 320 330 340">
+<name>奥术炸弹</name>
+<create id="16040" class="7.2" count="3" />
+<reagents>
+<item id="16006" count="1" />
+<item id="12359" count="3" />
+<item id="14047" count="1" />
+</reagents>
+<taught-by-item>
+<item id="16055" />
+</taught-by-item>
+</spell>
+<spell id="19833" requires-skill-level="300" colors="300 320 330 340">
+<name>完美的奥金步枪</name>
+<create id="16007" class="2.3" count="1" />
+<reagents>
+<item id="12360" count="10" />
+<item id="16000" count="2" />
+<item id="7078" count="2" />
+<item id="7076" count="2" />
+<item id="12800" count="2" />
+<item id="12810" count="2" />
+</reagents>
+<taught-by-item>
+<item id="16056" />
+</taught-by-item>
+</spell>
+<spell id="22704" requires-skill-level="300" colors="300 320 330 340">
+<name>修理机器人74A型</name>
+<create id="18232" class="15.-6" count="1" />
+<reagents>
+<item id="12359" count="16" />
+<item id="7191" count="2" />
+</reagents>
+</spell>
+<spell id="22793" requires-skill-level="300" colors="300 320 330 340">
+<name>比兹尼克247x128精确瞄准镜</name>
+<create id="18283" class="0.6" count="1" />
+<reagents>
+<item id="17011" count="2" />
+<item id="7076" count="2" />
+<item id="16006" count="4" />
+<item id="11371" count="6" />
+<item id="16000" count="1" />
+</reagents>
+<taught-by-item>
+<item id="18290" />
+</taught-by-item>
+</spell>
+<spell id="22795" requires-skill-level="300" colors="300 320 330 340">
+<name>火核狙击步枪</name>
+<create id="18282" class="2.3" count="1" />
+<reagents>
+<item id="17010" count="4" />
+<item id="17011" count="2" />
+<item id="12360" count="6" />
+<item id="16006" count="2" />
+<item id="16000" count="2" />
+</reagents>
+<taught-by-item>
+<item id="18292" />
+</taught-by-item>
+</spell>
+<spell id="22797" requires-skill-level="300" colors="300 320 330 340">
+<name>力反馈盾牌</name>
+<create id="18168" class="4.6" count="1" />
+<reagents>
+<item id="12360" count="6" />
+<item id="16006" count="2" />
+<item id="7082" count="8" />
+<item id="12803" count="12" />
+<item id="7076" count="8" />
+</reagents>
+<taught-by-item>
+<item id="18291" />
+</taught-by-item>
+</spell>
+<spell id="23082" requires-skill-level="300" colors="300 320 330 340">
+<name>快速暗影反射器</name>
+<create id="18639" class="4.-4" count="1" />
+<reagents>
+<item id="11371" count="8" />
+<item id="18631" count="4" />
+<item id="12803" count="6" />
+<item id="12808" count="4" />
+<item id="12800" count="2" />
+<item id="12799" count="2" />
+</reagents>
+<taught-by-item>
+<item id="18658" />
+</taught-by-item>
+</spell>
+<spell id="24356" requires-skill-level="300" colors="300 320 330 340">
+<name>血藤护目镜</name>
+<create id="19999" class="4.1.1" count="1" />
+<reagents>
+<item id="19726" count="4" />
+<item id="7910" count="2" />
+<item id="12804" count="6" />
+<item id="12810" count="4" />
+</reagents>
+<taught-by-item>
+<item id="20000" />
+</taught-by-item>
+</spell>
+<spell id="24357" requires-skill-level="300" colors="300 320 330 340">
+<name>血藤透镜</name>
+<create id="19998" class="4.2.1" count="1" />
+<reagents>
+<item id="19726" count="6" />
+<item id="12800" count="1" />
+<item id="12804" count="6" />
+</reagents>
+<taught-by-item>
+<item id="20001" />
+</taught-by-item>
+</spell>
+<spell id="30310" requires-skill-level="300" colors="300 320 330 340">
+<name>魔铁炸弹</name>
+<create id="23736" class="7.2" count="4" />
+<reagents>
+<item id="23782" count="1" />
+<item id="23783" count="2" />
+<item id="23781" count="1" />
+</reagents>
+<taught-by-npc cost="15000">
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="30548" requires-skill-level="305" colors="0 305 315 325">
+<name>气阀微粒提取器</name>
+<create id="23821" class="7.3" count="1" />
+<reagents>
+<item id="23782" count="2" />
+<item id="23783" count="2" />
+<item id="21886" count="4" />
+<item id="16006" count="1" />
+</reagents>
+<taught-by-item>
+<item id="23888" />
+</taught-by-item>
+</spell>
+<spell id="30346" requires-skill-level="310" colors="0 310 320 330">
+<name>魔铁弹丸</name>
+<create id="23772" class="6.3" count="200" />
+<reagents>
+<item id="23445" count="2" />
+<item id="23781" count="1" />
+</reagents>
+<taught-by-npc cost="15000">
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="30312" requires-skill-level="320" colors="320 330 340 350">
+<name>魔铁步枪</name>
+<create id="23742" class="2.3" count="1" />
+<reagents>
+<item id="4400" count="1" />
+<item id="23782" count="3" />
+<item id="23783" count="6" />
+</reagents>
+<taught-by-npc cost="20000">
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="30306" requires-skill-level="325" colors="0 325 330 335">
+<name>精金框架</name>
+<create id="23784" class="7.1" count="1" />
+<reagents>
+<item id="23446" count="4" />
+<item id="22452" count="1" />
+</reagents>
+<taught-by-npc cost="20000">
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="30348" requires-skill-level="325" colors="0 325 335 345">
+<name>魔铁工具箱</name>
+<create id="23774" class="1.4" count="1" />
+<reagents>
+<item id="23782" count="1" />
+<item id="23445" count="5" />
+<item id="23783" count="2" />
+</reagents>
+<taught-by-item>
+<item id="23816" />
+</taught-by-item>
+</spell>
+<spell id="30558" requires-skill-level="325" colors="0 325 335 345">
+<name>更大的炸弹</name>
+<create id="23826" class="7.2" count="3" />
+<reagents>
+<item id="23782" count="3" />
+<item id="23781" count="6" />
+<item id="17020" count="3" />
+<item id="23783" count="2" />
+</reagents>
+<taught-by-npc cost="25000">
+<npc id="8126" />
+<npc id="8738" />
+<npc id="29513" />
+</taught-by-npc>
+</spell>
+<spell id="30311" requires-skill-level="325" colors="325 335 345 355">
+<name>精金手雷</name>
+<create id="23737" class="7.2" count="3" />
+<reagents>
+<item id="23446" count="4" />
+<item id="23783" count="2" />
+<item id="23781" count="1" />
+</reagents>
+<taught-by-npc cost="25000">
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="30337" requires-skill-level="325" colors="325 335 345 355">
+<name>打架机器人</name>
+<create id="23767" class="15.-6" count="1" />
+<reagents>
+<item id="23784" count="1" />
+<item id="23782" count="2" />
+<item id="10558" count="1" />
+<item id="23783" count="2" />
+</reagents>
+<taught-by-item>
+<item id="23810" />
+</taught-by-item>
+</spell>
+<spell id="30568" requires-skill-level="325" colors="325 335 345 355">
+<name>侏儒喷火炮台</name>
+<create id="23841" class="7.2" count="3" />
+<reagents>
+<item id="23784" count="1" />
+<item id="23783" count="2" />
+<item id="23781" count="3" />
+<item id="23782" count="1" />
+</reagents>
+<taught-by-npc cost="25000">
+<npc id="7406" />
+<npc id="7944" />
+<npc id="29514" />
+</taught-by-npc>
+</spell>
+<spell id="30551" requires-skill-level="330" colors="0 330 340 350">
+<name>治疗药水注射器</name>
+<create id="33092" class="0.1" count="20" />
+<reagents>
+<item id="23782" count="1" />
+<item id="23783" count="1" />
+<item id="21887" count="2" />
+<item id="22829" count="20" />
+</reagents>
+<taught-by-item>
+<item id="23883" />
+<item id="35310" />
+</taught-by-item>
+</spell>
+<spell id="44155" requires-skill-level="330" colors="0 330 340 350">
+<name>飞行器</name>
+<create id="34060" class="15.-7" count="1" />
+<reagents>
+<item id="23782" count="2" />
+<item id="23781" count="20" />
+<item id="23783" count="20" />
+<item id="11291" count="8" />
+</reagents>
+<taught-by-npc cost="60000">
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="24868" />
+<npc id="25099" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="39971" requires-skill-level="335" colors="0 335 340 345">
+<name>冰霜冲击雷管</name>
+<create id="32423" class="7.1" count="10" />
+<reagents>
+<item id="21885" count="1" />
+<item id="23781" count="2" />
+<item id="21877" count="2" />
+</reagents>
+<taught-by-npc cost="20000">
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="30341" requires-skill-level="335" colors="0 335 345 355">
+<name>白色烟幕弹</name>
+<create id="23768" class="0.8" count="3" />
+<reagents>
+<item id="23781" count="1" />
+<item id="21877" count="1" />
+</reagents>
+<taught-by-item>
+<item id="23811" />
+</taught-by-item>
+</spell>
+<spell id="30344" requires-skill-level="335" colors="0 335 345 355">
+<name>绿色烟幕弹</name>
+<create id="23771" class="0.8" count="3" />
+<reagents>
+<item id="23781" count="1" />
+<item id="21877" count="1" />
+<item id="2605" count="1" />
+</reagents>
+<taught-by-item>
+<item id="23814" />
+</taught-by-item>
+</spell>
+<spell id="30347" requires-skill-level="335" colors="0 335 345 355">
+<name>精金制弹机</name>
+<create id="34504" class="0.8" count="1" />
+<reagents>
+<item id="23446" count="1" />
+<item id="23781" count="2" />
+<item id="4470" count="4" />
+</reagents>
+<taught-by-item>
+<item id="23815" />
+</taught-by-item>
+</spell>
+<spell id="32814" requires-skill-level="335" colors="0 335 345 355">
+<name>紫色烟幕弹</name>
+<create id="25886" class="0.8" count="3" />
+<reagents>
+<item id="23781" count="1" />
+<item id="21877" count="1" />
+<item id="4342" count="1" />
+</reagents>
+<taught-by-item>
+<item id="25887" />
+</taught-by-item>
+</spell>
+<spell id="43676" requires-skill-level="335" colors="0 335 345 355">
+<name>精金制箭器</name>
+<create id="20475" class="0.8" count="1" />
+<reagents>
+<item id="23446" count="1" />
+<item id="4470" count="4" />
+<item id="23783" count="2" />
+</reagents>
+<taught-by-item>
+<item id="33804" />
+</taught-by-item>
+</spell>
+<spell id="30329" requires-skill-level="335" colors="335 345 355 365">
+<name>精金瞄准镜</name>
+<create id="23764" class="0.6" count="1" />
+<reagents>
+<item id="23446" count="8" />
+<item id="23112" count="2" />
+</reagents>
+<taught-by-item>
+<item id="23807" />
+</taught-by-item>
+</spell>
+<spell id="39973" requires-skill-level="335" colors="335 345 355 365">
+<name>冰霜手雷</name>
+<create id="32413" class="7.2" count="5" />
+<reagents>
+<item id="32423" count="1" />
+<item id="23782" count="1" />
+<item id="23783" count="1" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+</taught-by-npc>
+</spell>
+<spell id="30560" requires-skill-level="340" colors="0 340 350 360">
+<name>超级神风炸药</name>
+<create id="23827" class="7.2" count="2" />
+<reagents>
+<item id="21877" count="4" />
+<item id="23781" count="4" />
+<item id="22457" count="1" />
+</reagents>
+<taught-by-npc cost="35000">
+<npc id="8126" />
+<npc id="8738" />
+<npc id="29513" />
+</taught-by-npc>
+</spell>
+<spell id="30307" requires-skill-level="340" colors="340 350 360 370">
+<name>硬化精金管</name>
+<create id="23785" class="7.1" count="1" />
+<reagents>
+<item id="23573" count="3" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="30308" requires-skill-level="340" colors="340 350 360 370">
+<name>氪金能量核心</name>
+<create id="23786" class="7.1" count="1" />
+<reagents>
+<item id="23449" count="3" />
+<item id="21884" count="1" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="30309" requires-skill-level="340" colors="340 350 360 370">
+<name>魔钢稳定器</name>
+<create id="23787" class="7.1" count="1" />
+<reagents>
+<item id="23448" count="2" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="30316" requires-skill-level="340" colors="340 350 360 370">
+<name>旋轮护目镜</name>
+<create id="23758" class="4.2.1" count="1" />
+<reagents>
+<item id="23793" count="4" />
+<item id="23077" count="2" />
+<item id="22445" count="8" />
+</reagents>
+<taught-by-item>
+<item id="23803" />
+</taught-by-item>
+</spell>
+<spell id="30317" requires-skill-level="340" colors="340 350 360 370">
+<name>能量放大护目镜</name>
+<create id="23761" class="4.1.1" count="1" />
+<reagents>
+<item id="23793" count="4" />
+<item id="21929" count="2" />
+<item id="22445" count="8" />
+</reagents>
+<taught-by-item>
+<item id="23804" />
+</taught-by-item>
+</spell>
+<spell id="30569" requires-skill-level="340" colors="340 360 370 380">
+<name>侏儒变鸡器</name>
+<create id="23835" class="4.-4" count="1" />
+<reagents>
+<item id="23785" count="2" />
+<item id="23786" count="2" />
+<item id="22445" count="10" />
+<item id="22449" count="2" />
+</reagents>
+<taught-by-npc cost="35000">
+<npc id="7406" />
+<npc id="7944" />
+<npc id="29514" />
+</taught-by-npc>
+</spell>
+<spell id="30552" requires-skill-level="345" colors="0 345 355 365">
+<name>法力药水注射器</name>
+<create id="33093" class="0.1" count="20" />
+<reagents>
+<item id="23782" count="1" />
+<item id="23783" count="1" />
+<item id="21887" count="2" />
+<item id="22832" count="20" />
+</reagents>
+<taught-by-item>
+<item id="23884" />
+<item id="35311" />
+</taught-by-item>
+</spell>
+<spell id="30547" requires-skill-level="350" colors="0 350 355 360">
+<name>元素爆盐炸弹</name>
+<create id="23819" class="7.2" count="2" />
+<reagents>
+<item id="23781" count="2" />
+<item id="23782" count="1" />
+<item id="23783" count="1" />
+</reagents>
+<taught-by-item>
+<item id="23874" />
+</taught-by-item>
+</spell>
+<spell id="36954" requires-skill-level="350" colors="0 350 360 370">
+<name>空间撕裂器 - 52区</name>
+<create id="30542" class="4.0" count="1" />
+<reagents>
+<item id="23784" count="1" />
+<item id="21884" count="2" />
+<item id="23826" count="2" />
+<item id="23783" count="4" />
+<item id="23786" count="1" />
+</reagents>
+<taught-by-npc>
+<npc id="21493" />
+</taught-by-npc>
+</spell>
+<spell id="36955" requires-skill-level="350" colors="0 350 360 370">
+<name>超级安全传送器：托什雷的基地</name>
+<create id="30544" class="4.0" count="1" />
+<reagents>
+<item id="23784" count="1" />
+<item id="22451" count="2" />
+<item id="23787" count="2" />
+<item id="23783" count="4" />
+<item id="23786" count="1" />
+</reagents>
+<taught-by-npc>
+<npc id="21494" />
+</taught-by-npc>
+</spell>
+<spell id="30313" requires-skill-level="350" colors="350 360 370 380">
+<name>精金步枪</name>
+<create id="23746" class="2.3" count="1" />
+<reagents>
+<item id="23782" count="3" />
+<item id="23784" count="2" />
+<item id="23783" count="4" />
+</reagents>
+<taught-by-item>
+<item id="23799" />
+</taught-by-item>
+</spell>
+<spell id="30318" requires-skill-level="350" colors="350 360 370 380">
+<name>超光谱侦测护目镜</name>
+<create id="23762" class="4.1.1" count="1" />
+<reagents>
+<item id="23793" count="4" />
+<item id="23449" count="2" />
+<item id="23079" count="2" />
+<item id="22448" count="2" />
+</reagents>
+<taught-by-item>
+<item id="23805" />
+</taught-by-item>
+</spell>
+<spell id="30563" requires-skill-level="350" colors="350 360 370 380">
+<name>地精火箭发射器</name>
+<create id="23836" class="4.-4" count="1" />
+<reagents>
+<item id="23785" count="2" />
+<item id="23786" count="1" />
+<item id="23787" count="2" />
+<item id="21884" count="6" />
+<item id="22452" count="6" />
+<item id="16006" count="2" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="8126" />
+<npc id="8738" />
+<npc id="29513" />
+</taught-by-npc>
+</spell>
+<spell id="30570" requires-skill-level="350" colors="350 360 370 380">
+<name>近似无敌腰带</name>
+<create id="23825" class="4.1.6" count="1" />
+<reagents>
+<item id="23793" count="8" />
+<item id="23786" count="4" />
+<item id="21886" count="10" />
+<item id="22456" count="10" />
+<item id="16006" count="2" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="7406" />
+<npc id="7944" />
+<npc id="29514" />
+</taught-by-npc>
+</spell>
+<spell id="56349" requires-skill-level="350" colors="350 360 370 380">
+<name>钴螺丝</name>
+<create id="39681" class="7.1" count="1" />
+<reagents>
+<item id="36916" count="2" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="53281" requires-skill-level="350" colors="350 366 375 385">
+<name>敏锐爆炸触发器</name>
+<create id="39690" class="7.1" count="2" />
+<reagents>
+<item id="36916" count="3" />
+<item id="37705" count="1" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="40274" requires-skill-level="350" colors="350 370 380 390">
+<name>狂野机械护目镜</name>
+<create id="32461" class="4.4.1" count="1" />
+<reagents>
+<item id="23793" count="6" />
+<item id="23786" count="1" />
+<item id="23785" count="2" />
+<item id="23787" count="4" />
+<item id="23572" count="1" />
+<item id="23436" count="2" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="41311" requires-skill-level="350" colors="350 370 380 390">
+<name>审判者护目镜2000型</name>
+<create id="32472" class="4.4.1" count="1" />
+<reagents>
+<item id="23793" count="6" />
+<item id="23786" count="1" />
+<item id="23785" count="2" />
+<item id="23787" count="4" />
+<item id="23572" count="1" />
+<item id="23440" count="2" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+</taught-by-npc>
+</spell>
+<spell id="41312" requires-skill-level="350" colors="350 370 380 390">
+<name>坦克眼镜</name>
+<create id="32473" class="4.4.1" count="1" />
+<reagents>
+<item id="23793" count="6" />
+<item id="23786" count="1" />
+<item id="23785" count="2" />
+<item id="23787" count="4" />
+<item id="23572" count="1" />
+<item id="23437" count="2" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="41314" requires-skill-level="350" colors="350 370 380 390">
+<name>必中护目镜V2.0</name>
+<create id="32474" class="4.3.1" count="1" />
+<reagents>
+<item id="23793" count="6" />
+<item id="23786" count="1" />
+<item id="23785" count="2" />
+<item id="23787" count="4" />
+<item id="23572" count="1" />
+<item id="23441" count="2" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="41315" requires-skill-level="350" colors="350 370 380 390">
+<name>齿轮风暴护目镜</name>
+<create id="32476" class="4.3.1" count="1" />
+<reagents>
+<item id="23793" count="6" />
+<item id="23786" count="1" />
+<item id="23785" count="2" />
+<item id="23787" count="4" />
+<item id="23572" count="1" />
+<item id="23436" count="2" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+</taught-by-npc>
+</spell>
+<spell id="41316" requires-skill-level="350" colors="350 370 380 390">
+<name>活力复制器</name>
+<create id="32475" class="4.3.1" count="1" />
+<reagents>
+<item id="23793" count="6" />
+<item id="23786" count="1" />
+<item id="23785" count="2" />
+<item id="23787" count="4" />
+<item id="23572" count="1" />
+<item id="23439" count="2" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+</taught-by-npc>
+</spell>
+<spell id="41317" requires-skill-level="350" colors="350 370 380 390">
+<name>死亡一击护目镜X11型</name>
+<create id="32478" class="4.2.1" count="1" />
+<reagents>
+<item id="23793" count="6" />
+<item id="23786" count="1" />
+<item id="23785" count="2" />
+<item id="23787" count="4" />
+<item id="23572" count="1" />
+<item id="23436" count="2" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+</taught-by-npc>
+</spell>
+<spell id="41318" requires-skill-level="350" colors="350 370 380 390">
+<name>奇迹治疗罩XT40型</name>
+<create id="32479" class="4.2.1" count="1" />
+<reagents>
+<item id="23793" count="6" />
+<item id="23786" count="1" />
+<item id="23785" count="2" />
+<item id="23787" count="4" />
+<item id="23572" count="1" />
+<item id="23440" count="2" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="17634" />
+<npc id="18775" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+</taught-by-npc>
+</spell>
+<spell id="41319" requires-skill-level="350" colors="350 370 380 390">
+<name>月光放大护目镜</name>
+<create id="32480" class="4.2.1" count="1" />
+<reagents>
+<item id="23793" count="6" />
+<item id="23786" count="1" />
+<item id="23785" count="2" />
+<item id="23787" count="4" />
+<item id="23572" count="1" />
+<item id="23437" count="2" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="17634" />
+<npc id="18775" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+</taught-by-npc>
+</spell>
+<spell id="41320" requires-skill-level="350" colors="350 370 380 390">
+<name>毁灭全视护目镜</name>
+<create id="32494" class="4.1.1" count="1" />
+<reagents>
+<item id="23793" count="6" />
+<item id="23786" count="1" />
+<item id="23785" count="2" />
+<item id="23787" count="4" />
+<item id="23572" count="1" />
+<item id="23438" count="2" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="41321" requires-skill-level="350" colors="350 370 380 390">
+<name>超级治疗射线4000型</name>
+<create id="32495" class="4.1.1" count="1" />
+<reagents>
+<item id="23793" count="6" />
+<item id="23786" count="1" />
+<item id="23785" count="2" />
+<item id="23787" count="4" />
+<item id="23572" count="1" />
+<item id="23439" count="2" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="17634" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+</taught-by-npc>
+</spell>
+<spell id="56460" requires-skill-level="350" colors="350 375 382 390">
+<name>钴质破片炸弹</name>
+<create id="40771" class="7.2" count="3" />
+<reagents>
+<item id="39681" count="2" />
+<item id="39690" count="1" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="30556" requires-skill-level="355" colors="355 365 375 385">
+<name>超级火箭靴</name>
+<create id="23824" class="4.2.8" count="1" />
+<reagents>
+<item id="23793" count="8" />
+<item id="23786" count="2" />
+<item id="23785" count="2" />
+<item id="23787" count="4" />
+</reagents>
+<taught-by-item>
+<item id="23887" />
+</taught-by-item>
+</spell>
+<spell id="46697" requires-skill-level="355" colors="355 365 375 385">
+<name>轻便型超级火箭靴</name>
+<create id="35581" class="4.1.8" count="1" />
+<reagents>
+<item id="21840" count="8" />
+<item id="23786" count="2" />
+<item id="23785" count="2" />
+<item id="23787" count="4" />
+</reagents>
+<taught-by-item>
+<item id="35582" />
+</taught-by-item>
+</spell>
+<spell id="30314" requires-skill-level="360" colors="360 370 380 390">
+<name>魔钢火枪</name>
+<create id="23747" class="2.3" count="1" />
+<reagents>
+<item id="23785" count="1" />
+<item id="23787" count="4" />
+<item id="23783" count="4" />
+</reagents>
+<taught-by-item>
+<item id="23800" />
+</taught-by-item>
+</spell>
+<spell id="30325" requires-skill-level="360" colors="360 370 380 390">
+<name>超视距护目镜</name>
+<create id="23763" class="4.2.1" count="1" />
+<reagents>
+<item id="23793" count="4" />
+<item id="23449" count="2" />
+<item id="23441" count="2" />
+<item id="22449" count="2" />
+</reagents>
+<taught-by-item>
+<item id="23806" />
+</taught-by-item>
+</spell>
+<spell id="30332" requires-skill-level="360" colors="360 370 380 390">
+<name>氪金瞄准镜</name>
+<create id="23765" class="0.6" count="1" />
+<reagents>
+<item id="23785" count="1" />
+<item id="23449" count="4" />
+<item id="23440" count="2" />
+</reagents>
+<taught-by-item>
+<item id="23808" />
+</taught-by-item>
+</spell>
+<spell id="44391" requires-skill-level="360" colors="360 370 380 390">
+<name>战地修理机器人110G</name>
+<create id="34113" class="15.-6" count="5" />
+<reagents>
+<item id="23446" count="8" />
+<item id="23783" count="8" />
+<item id="23786" count="1" />
+</reagents>
+<taught-by-item>
+<item id="34114" />
+</taught-by-item>
+</spell>
+<spell id="30565" requires-skill-level="375" colors="0 375 385 395">
+<name>工头的附魔头盔</name>
+<create id="23838" class="4.1.1" count="1" />
+<reagents>
+<item id="24272" count="4" />
+<item id="22457" count="12" />
+<item id="22451" count="12" />
+</reagents>
+<taught-by-npc cost="100000">
+<npc id="8126" />
+<npc id="8738" />
+<npc id="29513" />
+</taught-by-npc>
+</spell>
+<spell id="30566" requires-skill-level="375" colors="0 375 385 395">
+<name>工头的加固头盔</name>
+<create id="23839" class="4.3.1" count="1" />
+<reagents>
+<item id="23573" count="8" />
+<item id="22452" count="12" />
+<item id="21884" count="12" />
+</reagents>
+<taught-by-npc cost="100000">
+<npc id="8126" />
+<npc id="8738" />
+<npc id="29513" />
+</taught-by-npc>
+</spell>
+<spell id="30574" requires-skill-level="375" colors="0 375 385 395">
+<name>侏儒能量护目镜</name>
+<create id="23828" class="4.1.1" count="1" />
+<reagents>
+<item id="24271" count="4" />
+<item id="21884" count="8" />
+<item id="22451" count="8" />
+<item id="22452" count="8" />
+<item id="21885" count="8" />
+<item id="23437" count="2" />
+</reagents>
+<taught-by-npc cost="100000">
+<npc id="7406" />
+<npc id="7944" />
+<npc id="29514" />
+</taught-by-npc>
+</spell>
+<spell id="30575" requires-skill-level="375" colors="0 375 385 395">
+<name>侏儒作战护目镜</name>
+<create id="23829" class="4.2.1" count="1" />
+<reagents>
+<item id="23793" count="8" />
+<item id="22456" count="12" />
+<item id="22452" count="12" />
+<item id="21884" count="12" />
+<item id="23436" count="2" />
+</reagents>
+<taught-by-npc cost="100000">
+<npc id="7406" />
+<npc id="7944" />
+<npc id="29514" />
+</taught-by-npc>
+</spell>
+<spell id="41307" requires-skill-level="375" colors="0 375 392 410">
+<name>陀螺平衡氪金重枪</name>
+<create id="32756" class="2.3" count="1" />
+<reagents>
+<item id="23785" count="1" />
+<item id="23449" count="20" />
+<item id="23787" count="4" />
+<item id="21884" count="12" />
+<item id="22451" count="12" />
+<item id="23572" count="1" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="17634" />
+<npc id="17637" />
+<npc id="18752" />
+<npc id="18775" />
+<npc id="19576" />
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+<npc id="33611" />
+<npc id="33634" />
+<npc id="33677" />
+</taught-by-npc>
+</spell>
+<spell id="56459" requires-skill-level="375" colors="375 380 385 390">
+<name>锤头锄</name>
+<create id="40892" class="7.3" count="1" />
+<reagents>
+<item id="36916" count="5" />
+</reagents>
+<taught-by-npc cost="100000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="56461" requires-skill-level="375" colors="375 380 385 390">
+<name>锋刃锄</name>
+<create id="40893" class="7.3" count="1" />
+<reagents>
+<item id="36916" count="5" />
+</reagents>
+<taught-by-npc cost="50000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="56464" requires-skill-level="375" colors="375 380 385 390">
+<name>超载电容器</name>
+<create id="39682" class="7.1" count="1" />
+<reagents>
+<item id="36916" count="4" />
+<item id="37701" count="1" />
+</reagents>
+<taught-by-npc cost="100000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="44157" requires-skill-level="375" colors="375 385 390 395">
+<name>涡轮加速飞行器</name>
+<create id="34061" class="15.-7" count="1" />
+<reagents>
+<item id="23784" count="4" />
+<item id="23786" count="8" />
+<item id="23787" count="8" />
+<item id="34249" count="1" />
+</reagents>
+<taught-by-npc cost="180000">
+<npc id="24868" />
+<npc id="25099" />
+</taught-by-npc>
+</spell>
+<spell id="56463" requires-skill-level="375" colors="375 385 390 395">
+<name>爆炸诱饵</name>
+<create id="40536" class="15.-6" count="5" />
+<reagents>
+<item id="33470" count="1" />
+<item id="39690" count="3" />
+</reagents>
+<taught-by-npc cost="100000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="30315" requires-skill-level="375" colors="375 385 395 405">
+<name>精制氪金步枪</name>
+<create id="23748" class="2.3" count="1" />
+<reagents>
+<item id="23785" count="2" />
+<item id="23449" count="12" />
+<item id="23783" count="4" />
+<item id="23439" count="2" />
+</reagents>
+<taught-by-item>
+<item id="23802" />
+</taught-by-item>
+</spell>
+<spell id="30334" requires-skill-level="375" colors="375 385 395 405">
+<name>稳定恒金瞄准镜</name>
+<create id="23766" class="0.6" count="1" />
+<reagents>
+<item id="23785" count="2" />
+<item id="23787" count="6" />
+<item id="23438" count="2" />
+</reagents>
+<taught-by-item>
+<item id="23809" />
+</taught-by-item>
+</spell>
+<spell id="46106" requires-skill-level="375" colors="375 390 410 430">
+<name>奇迹治疗罩XT68型</name>
+<create id="35183" class="4.2.1" count="1" />
+<reagents>
+<item id="32479" count="1" />
+<item id="21885" count="4" />
+<item id="22457" count="8" />
+<item id="23572" count="4" />
+</reagents>
+<taught-by-item>
+<item id="35191" />
+</taught-by-item>
+</spell>
+<spell id="46107" requires-skill-level="375" colors="375 390 410 430">
+<name>审判者护目镜3000型</name>
+<create id="35185" class="4.4.1" count="1" />
+<reagents>
+<item id="32472" count="1" />
+<item id="21886" count="8" />
+<item id="22457" count="8" />
+<item id="22452" count="8" />
+<item id="23572" count="4" />
+</reagents>
+<taught-by-item>
+<item id="35187" />
+</taught-by-item>
+</spell>
+<spell id="46108" requires-skill-level="375" colors="375 390 410 430">
+<name>超级治疗射线9000型</name>
+<create id="35181" class="4.1.1" count="1" />
+<reagents>
+<item id="32495" count="1" />
+<item id="21886" count="8" />
+<item id="22457" count="8" />
+<item id="23572" count="4" />
+</reagents>
+<taught-by-item>
+<item id="35189" />
+</taught-by-item>
+</spell>
+<spell id="46109" requires-skill-level="375" colors="375 390 410 430">
+<name>超级月光放大护目镜</name>
+<create id="35182" class="4.2.1" count="1" />
+<reagents>
+<item id="32480" count="1" />
+<item id="21885" count="6" />
+<item id="21886" count="12" />
+<item id="23572" count="4" />
+</reagents>
+<taught-by-item>
+<item id="35190" />
+</taught-by-item>
+</spell>
+<spell id="46110" requires-skill-level="375" colors="375 390 410 430">
+<name>源生同频护目镜</name>
+<create id="35184" class="4.3.1" count="1" />
+<reagents>
+<item id="32475" count="1" />
+<item id="21886" count="5" />
+<item id="22457" count="5" />
+<item id="21885" count="5" />
+<item id="23572" count="4" />
+</reagents>
+<taught-by-item>
+<item id="35192" />
+</taught-by-item>
+</spell>
+<spell id="46111" requires-skill-level="375" colors="375 390 410 430">
+<name>湮灭全视护目镜</name>
+<create id="34847" class="4.1.1" count="1" />
+<reagents>
+<item id="32494" count="1" />
+<item id="22456" count="4" />
+<item id="21884" count="4" />
+<item id="22457" count="4" />
+<item id="23572" count="4" />
+</reagents>
+<taught-by-item>
+<item id="35186" />
+</taught-by-item>
+</spell>
+<spell id="46112" requires-skill-level="375" colors="375 390 410 430">
+<name>闪电蚀刻护目镜</name>
+<create id="34355" class="4.3.1" count="1" />
+<reagents>
+<item id="32476" count="1" />
+<item id="23571" count="2" />
+<item id="22451" count="2" />
+<item id="23572" count="4" />
+</reagents>
+<taught-by-item>
+<item id="35193" />
+</taught-by-item>
+</spell>
+<spell id="46113" requires-skill-level="375" colors="375 390 410 430">
+<name>必中护目镜V3.0</name>
+<create id="34356" class="4.3.1" count="1" />
+<reagents>
+<item id="32474" count="1" />
+<item id="22451" count="12" />
+<item id="23572" count="4" />
+</reagents>
+<taught-by-item>
+<item id="35194" />
+</taught-by-item>
+</spell>
+<spell id="46114" requires-skill-level="375" colors="375 390 410 430">
+<name>伤害投射护目镜</name>
+<create id="34354" class="4.4.1" count="1" />
+<reagents>
+<item id="32461" count="1" />
+<item id="21884" count="10" />
+<item id="23572" count="4" />
+</reagents>
+<taught-by-item>
+<item id="35195" />
+</taught-by-item>
+</spell>
+<spell id="46115" requires-skill-level="375" colors="375 390 410 430">
+<name>硬化氪金护目镜</name>
+<create id="34357" class="4.4.1" count="1" />
+<reagents>
+<item id="32473" count="1" />
+<item id="35128" count="2" />
+<item id="23571" count="1" />
+<item id="23572" count="4" />
+</reagents>
+<taught-by-item>
+<item id="35196" />
+</taught-by-item>
+</spell>
+<spell id="46116" requires-skill-level="375" colors="375 390 410 430">
+<name>四核死亡一击护目镜X44型</name>
+<create id="34353" class="4.2.1" count="1" />
+<reagents>
+<item id="32478" count="1" />
+<item id="22456" count="12" />
+<item id="23572" count="4" />
+</reagents>
+<taught-by-item>
+<item id="35197" />
+</taught-by-item>
+</spell>
+<spell id="54793" requires-skill-level="380" colors="0 380 382 385">
+<name>远距离侦测腰带夹</name>
+<reagents>
+<item id="36916" count="8" />
+<item id="39690" count="8" />
+</reagents>
+<taught-by-npc cost="100000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="55002" requires-skill-level="380" colors="0 380 382 385">
+<name>高弹力衬垫</name>
+<reagents>
+<item id="33470" count="12" />
+<item id="39682" count="1" />
+</reagents>
+<taught-by-npc cost="100000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="63765" requires-skill-level="380" colors="0 380 382 385">
+<name>弹力蛛丝</name>
+<reagents>
+<item id="33470" count="12" />
+<item id="39682" count="1" />
+</reagents>
+<taught-by-npc cost="100000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="54736" requires-skill-level="390" colors="0 390 392 395">
+<name>单兵电磁脉冲发生器</name>
+<reagents>
+<item id="39682" count="4" />
+</reagents>
+<taught-by-npc cost="100000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="56471" requires-skill-level="390" colors="390 395 400 405">
+<name>霜钢管</name>
+<create id="39683" class="7.1" count="1" />
+<reagents>
+<item id="36916" count="8" />
+<item id="37705" count="1" />
+</reagents>
+<taught-by-npc cost="100000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="61471" requires-skill-level="390" colors="390 400 407 415">
+<name>钻石折射瞄准镜</name>
+<create id="44739" class="0.6" count="1" />
+<reagents>
+<item id="39683" count="1" />
+<item id="39681" count="2" />
+</reagents>
+<taught-by-npc cost="100000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="54998" requires-skill-level="400" colors="0 400 402 405">
+<name>手部火箭发射器</name>
+<reagents>
+<item id="36913" count="6" />
+<item id="37702" count="4" />
+</reagents>
+<taught-by-npc cost="125000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="54999" requires-skill-level="400" colors="0 400 402 405">
+<name>超级加速器</name>
+<reagents>
+<item id="36913" count="6" />
+<item id="37700" count="4" />
+</reagents>
+<taught-by-npc cost="125000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="63770" requires-skill-level="400" colors="0 400 402 405">
+<name>装甲护网</name>
+<reagents>
+<item id="36913" count="4" />
+<item id="35624" count="2" />
+</reagents>
+<taught-by-npc cost="125000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="54353" requires-skill-level="400" colors="400 405 410 415">
+<name>S型火枪</name>
+<create id="39688" class="2.3" count="1" />
+<reagents>
+<item id="36913" count="10" />
+<item id="39683" count="2" />
+<item id="39684" count="1" />
+<item id="40533" count="1" />
+</reagents>
+<taught-by-npc cost="125000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="55016" requires-skill-level="405" colors="0 405 405 410">
+<name>硝化甘油推进器</name>
+<reagents>
+<item id="39690" count="6" />
+<item id="39681" count="6" />
+</reagents>
+<taught-by-npc cost="125000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="56468" requires-skill-level="405" colors="405 410 415 420">
+<name>一箱炸弹</name>
+<create id="44951" class="7.2" count="1" />
+<reagents>
+<item id="36913" count="5" />
+<item id="39690" count="1" />
+</reagents>
+<taught-by-npc cost="125000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="30349" requires-skill-level="405" colors="405 425 432 440">
+<name>泰坦神铁工具箱</name>
+<create id="23775" class="1.4" count="1" />
+<reagents>
+<item id="36913" count="8" />
+<item id="41163" count="8" />
+<item id="39681" count="4" />
+</reagents>
+<taught-by-item>
+<item id="23817" />
+</taught-by-item>
+</spell>
+<spell id="56474" requires-skill-level="410" colors="0 410 412 420">
+<name>超安全制弹机</name>
+<create id="41164" class="6.3" count="1000" />
+<reagents>
+<item id="36913" count="1" />
+<item id="39690" count="1" />
+</reagents>
+<taught-by-npc cost="125000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="67839" requires-skill-level="410" colors="0 410 415 420">
+<name>思维放大圆盘</name>
+<reagents>
+<item id="36913" count="8" />
+<item id="39683" count="1" />
+</reagents>
+<taught-by-npc cost="100000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="56476" requires-skill-level="410" colors="410 415 420 425">
+<name>治疗注射工具包</name>
+<create id="37567" class="7.3" count="8" />
+<reagents>
+<item id="36913" count="12" />
+<item id="39681" count="2" />
+</reagents>
+<taught-by-npc cost="125000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="67326" requires-skill-level="410" colors="410 415 420 425">
+<name>地精光线焊枪</name>
+<create id="47828" class="7.3" count="1" />
+<reagents>
+<item id="36913" count="6" />
+<item id="37702" count="3" />
+<item id="37705" count="3" />
+</reagents>
+<taught-by-npc cost="100000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="55252" requires-skill-level="415" colors="0 415 417 420">
+<name>废物贩卖机器人制造器</name>
+<create id="40769" class="15.-6" count="5" />
+<reagents>
+<item id="36913" count="10" />
+</reagents>
+<reward-from>
+<quest id="12889" />
+<quest id="13843" />
+</reward-from>
+</spell>
+<spell id="56475" requires-skill-level="415" colors="0 415 417 425">
+<name>萨隆邪铁制箭器</name>
+<create id="41165" class="6.2" count="1000" />
+<reagents>
+<item id="36913" count="2" />
+</reagents>
+<taught-by-npc cost="125000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="56477" requires-skill-level="415" colors="415 420 425 430">
+<name>法力注射工具包</name>
+<create id="42546" class="7.3" count="8" />
+<reagents>
+<item id="36913" count="12" />
+<item id="37705" count="2" />
+</reagents>
+<taught-by-npc cost="125000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="56465" requires-skill-level="420" colors="420 425 432 440">
+<name>机械雪地护目镜</name>
+<create id="41112" class="4.1.1" count="1" />
+<reagents>
+<item id="36913" count="8" />
+<item id="33568" count="2" />
+<item id="35627" count="1" />
+</reagents>
+<taught-by-npc cost="125000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="61481" requires-skill-level="420" colors="420 425 432 440">
+<name>机械雪地护目镜</name>
+<create id="44740" class="4.2.1" count="1" />
+<reagents>
+<item id="36913" count="8" />
+<item id="33568" count="2" />
+<item id="35627" count="1" />
+</reagents>
+<taught-by-npc cost="125000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="61482" requires-skill-level="420" colors="420 425 432 440">
+<name>机械雪地护目镜</name>
+<create id="44741" class="4.3.1" count="1" />
+<reagents>
+<item id="36913" count="8" />
+<item id="33568" count="2" />
+<item id="35627" count="1" />
+</reagents>
+<taught-by-npc cost="125000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="61483" requires-skill-level="420" colors="420 425 432 440">
+<name>机械雪地护目镜</name>
+<create id="44742" class="4.4.1" count="1" />
+<reagents>
+<item id="36913" count="8" />
+<item id="33568" count="2" />
+<item id="35627" count="1" />
+</reagents>
+<taught-by-npc cost="125000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="56466" requires-skill-level="420" colors="420 435 440 445">
+<name>音波增压器</name>
+<create id="40767" class="4.-4" count="1" />
+<reagents>
+<item id="39683" count="2" />
+<item id="39682" count="4" />
+<item id="39681" count="2" />
+</reagents>
+<taught-by-npc cost="125000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="56467" requires-skill-level="420" colors="420 435 440 445">
+<name>噪声机</name>
+<create id="40865" class="4.-4" count="1" />
+<reagents>
+<item id="39683" count="2" />
+<item id="39682" count="2" />
+<item id="39681" count="8" />
+</reagents>
+<taught-by-npc cost="125000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="56514" requires-skill-level="425" colors="0 425 430 435">
+<name>通用热力工程炸药</name>
+<create id="42641" class="7.2" count="5" />
+<reagents>
+<item id="36913" count="1" />
+<item id="39690" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="8126" />
+<npc id="8738" />
+<npc id="29513" />
+</taught-by-npc>
+</spell>
+<spell id="56470" requires-skill-level="425" colors="425 430 432 435">
+<name>太阳瞄准镜</name>
+<create id="41146" class="0.6" count="1" />
+<reagents>
+<item id="39683" count="1" />
+<item id="36920" count="1" />
+<item id="36921" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="56472" requires-skill-level="425" colors="425 430 432 435">
+<name>随身邮箱</name>
+<create id="40768" class="7.3" count="1" />
+<reagents>
+<item id="36913" count="8" />
+<item id="35623" count="8" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="56469" requires-skill-level="425" colors="425 430 435 440">
+<name>侏儒闪电发生器</name>
+<create id="41121" class="4.-4" count="1" />
+<reagents>
+<item id="41163" count="2" />
+<item id="36913" count="8" />
+<item id="35622" count="2" />
+<item id="35623" count="2" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="56473" requires-skill-level="425" colors="425 430 435 440">
+<name>侏儒X光眼镜</name>
+<create id="40895" class="4.0" count="1" />
+<reagents>
+<item id="41163" count="6" />
+<item id="34052" count="2" />
+<item id="39681" count="2" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="7406" />
+<npc id="7944" />
+<npc id="29514" />
+</taught-by-npc>
+</spell>
+<spell id="56478" requires-skill-level="430" colors="430 435 445 455">
+<name>觅心瞄准镜</name>
+<create id="41167" class="0.6" count="1" />
+<reagents>
+<item id="36913" count="10" />
+<item id="36927" count="2" />
+</reagents>
+<taught-by-npc cost="200000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="56462" requires-skill-level="435" colors="435 440 445 450">
+<name>侏儒军刀</name>
+<create id="40772" class="7.3" count="1" />
+<reagents>
+<item id="36913" count="10" />
+<item id="7005" count="1" />
+<item id="2901" count="1" />
+<item id="5956" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="67920" requires-skill-level="435" colors="435 450 455 460">
+<name>虫洞：诺森德</name>
+<create id="48933" class="4.0" count="1" />
+<reagents>
+<item id="41163" count="8" />
+<item id="35627" count="2" />
+<item id="35622" count="2" />
+<item id="36860" count="2" />
+<item id="35623" count="2" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="56480" requires-skill-level="440" colors="440 450 455 460">
+<name>装甲泰坦神铁护目镜</name>
+<create id="42549" class="4.4.1" count="1" />
+<reagents>
+<item id="41163" count="8" />
+<item id="38425" count="4" />
+<item id="36924" count="2" />
+<item id="35624" count="4" />
+<item id="43102" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="56481" requires-skill-level="440" colors="440 450 455 460">
+<name>弱点分析眼镜</name>
+<create id="42550" class="4.2.1" count="1" />
+<reagents>
+<item id="41163" count="8" />
+<item id="38425" count="4" />
+<item id="36918" count="2" />
+<item id="35623" count="4" />
+<item id="43102" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="56483" requires-skill-level="440" colors="440 450 455 460">
+<name>充能泰坦神铁护目镜</name>
+<create id="42552" class="4.4.1" count="1" />
+<reagents>
+<item id="41163" count="8" />
+<item id="38425" count="4" />
+<item id="36930" count="2" />
+<item id="36860" count="4" />
+<item id="43102" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="56484" requires-skill-level="440" colors="440 450 455 460">
+<name>外观液化护目镜</name>
+<create id="42553" class="4.1.1" count="1" />
+<reagents>
+<item id="41163" count="8" />
+<item id="38425" count="4" />
+<item id="36918" count="2" />
+<item id="35627" count="4" />
+<item id="43102" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="56486" requires-skill-level="440" colors="440 450 455 460">
+<name>绿色视界护目镜</name>
+<create id="42554" class="4.2.1" count="1" />
+<reagents>
+<item id="41163" count="8" />
+<item id="38425" count="4" />
+<item id="36933" count="2" />
+<item id="35625" count="4" />
+<item id="43102" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="56487" requires-skill-level="440" colors="440 450 455 460">
+<name>电磁熔合视力增强器</name>
+<create id="42555" class="4.3.1" count="1" />
+<reagents>
+<item id="41163" count="8" />
+<item id="38425" count="4" />
+<item id="36921" count="2" />
+<item id="35623" count="4" />
+<item id="43102" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="56574" requires-skill-level="440" colors="440 450 455 460">
+<name>真视冰雪眼罩</name>
+<create id="42551" class="4.3.1" count="1" />
+<reagents>
+<item id="41163" count="8" />
+<item id="38425" count="4" />
+<item id="36927" count="2" />
+<item id="35622" count="4" />
+<item id="43102" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="62271" requires-skill-level="440" colors="440 450 455 460">
+<name>牢固治疗增幅器</name>
+<create id="44949" class="4.4.1" count="1" />
+<reagents>
+<item id="41163" count="8" />
+<item id="38425" count="4" />
+<item id="36933" count="2" />
+<item id="35624" count="4" />
+<item id="43102" count="1" />
+</reagents>
+<taught-by-npc cost="150000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="72952" requires-skill-level="450" colors="0 0 450 460">
+<name>破碎弹</name>
+<create id="52020" class="6.3" count="1000" />
+<reagents>
+<item id="37701" count="2" />
+</reagents>
+<taught-by-item>
+<item id="52022" />
+</taught-by-item>
+</spell>
+<spell id="72953" requires-skill-level="450" colors="0 0 450 460">
+<name>冰刃箭</name>
+<create id="52021" class="6.2" count="1000" />
+<reagents>
+<item id="37703" count="2" />
+</reagents>
+<taught-by-item>
+<item id="52023" />
+</taught-by-item>
+</spell>
+<spell id="56479" requires-skill-level="450" colors="450 455 460 465">
+<name>铁甲战斗猎枪</name>
+<create id="41168" class="2.3" count="1" />
+<reagents>
+<item id="41163" count="10" />
+<item id="36913" count="20" />
+<item id="35623" count="15" />
+<item id="35622" count="15" />
+<item id="43102" count="1" />
+<item id="40533" count="1" />
+</reagents>
+<taught-by-npc cost="200000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="60874" requires-skill-level="450" colors="450 455 460 465">
+<name>奈辛威4000型</name>
+<create id="44504" class="2.3" count="1" />
+<reagents>
+<item id="41163" count="10" />
+<item id="43102" count="1" />
+<item id="36860" count="12" />
+<item id="35627" count="12" />
+<item id="41146" count="3" />
+<item id="40533" count="1" />
+</reagents>
+<taught-by-npc cost="200000">
+<npc id="25277" />
+<npc id="26907" />
+<npc id="26955" />
+<npc id="26991" />
+<npc id="28697" />
+<npc id="33586" />
+</taught-by-npc>
+</spell>
+<spell id="60866" requires-skill-level="450" colors="450 480 485 490">
+<name>机械路霸</name>
+<create id="41508" class="15.5" count="1" />
+<reagents>
+<item id="37663" count="12" />
+<item id="39681" count="40" />
+<item id="44128" count="2" />
+<item id="44499" count="1" />
+<item id="44501" count="8" />
+<item id="44500" count="1" />
+</reagents>
+<taught-by-item>
+<item id="44502" />
+</taught-by-item>
+</spell>
+<spell id="60867" requires-skill-level="450" colors="450 480 485 490">
+<name>机械师的摩托车</name>
+<create id="44413" class="15.5" count="1" />
+<reagents>
+<item id="37663" count="12" />
+<item id="39681" count="40" />
+<item id="44128" count="2" />
+<item id="44499" count="1" />
+<item id="44501" count="8" />
+<item id="44500" count="1" />
+</reagents>
+<taught-by-item>
+<item id="44503" />
+</taught-by-item>
+</spell>
+<spell id="68067" requires-skill-level="450" colors="450 480 485 490">
+<name>基维斯</name>
+<create id="49040" class="15.-6" count="1" />
+<reagents>
+<item id="18232" count="2" />
+<item id="34113" count="10" />
+<item id="40769" count="20" />
+<item id="37663" count="8" />
+<item id="36922" count="2" />
+<item id="39681" count="30" />
+</reagents>
+<taught-by-item>
+<item id="49050" />
+</taught-by-item>
+</spell>
+<spell id="56273" requires-skill-level="9999">
+<name>虫洞：加基森</name>
+</spell>
+
+</spells>

@@ -1,0 +1,1575 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fishing>
+<map id="1" total="53712">
+<item id="6291" count="31034" />
+<item id="6289" count="20021" />
+<item id="45200" count="373" />
+<item id="6292" count="358" />
+<item id="45194" count="335" />
+<item id="45196" count="323" />
+<item id="45198" count="311" />
+<item id="45190" count="288" />
+<item id="6294" count="192" />
+<item id="118" count="148" />
+<item id="2455" count="135" />
+<item id="6643" count="61" />
+<item id="6295" count="0" />
+</map>
+<map id="8" total="67088">
+<item id="6362" count="29789" />
+<item id="4603" count="10630" />
+<item id="8365" count="8181" />
+<item id="6358" count="6518" />
+<item id="6359" count="6368" />
+<item id="16970" count="5127" />
+<item id="6308" count="4359" />
+<item id="6355" count="273" />
+<item id="6357" count="252" />
+<item id="6364" count="0" />
+<item id="13913" count="0" />
+</map>
+<map id="10" total="12251">
+<item id="6308" count="7015" />
+<item id="6289" count="4253" />
+<item id="6291" count="502" />
+<item id="45198" count="79" />
+<item id="45196" count="79" />
+<item id="45194" count="66" />
+<item id="45190" count="64" />
+<item id="45200" count="63" />
+<item id="6310" count="31" />
+<item id="6309" count="30" />
+<item id="929" count="15" />
+<item id="3827" count="14" />
+<item id="6364" count="0" />
+<item id="13913" count="0" />
+</map>
+<map id="11" total="151822">
+<item id="6361" count="70732" />
+<item id="6358" count="34659" />
+<item id="6359" count="22467" />
+<item id="6308" count="5300" />
+<item id="21113" count="3957" />
+<item id="6289" count="2939" />
+<item id="3820" count="2402" />
+<item id="21114" count="1670" />
+<item id="45194" count="1157" />
+<item id="45196" count="1150" />
+<item id="45190" count="1113" />
+<item id="45200" count="1044" />
+<item id="45198" count="1038" />
+<item id="6354" count="612" />
+<item id="6352" count="606" />
+<item id="6307" count="555" />
+<item id="6360" count="0" />
+<item id="6364" count="0" />
+<item id="13913" count="0" />
+</map>
+<map id="12" total="196775">
+<item id="6291" count="115675" />
+<item id="6289" count="73591" />
+<item id="6292" count="1422" />
+<item id="6294" count="816" />
+<item id="2455" count="647" />
+<item id="45194" count="602" />
+<item id="45196" count="587" />
+<item id="118" count="584" />
+<item id="45190" count="578" />
+<item id="45198" count="563" />
+<item id="45200" count="553" />
+<item id="6295" count="0" />
+</map>
+<map id="14" total="43273">
+<item id="6303" count="30790" />
+<item id="6291" count="5545" />
+<item id="6289" count="4106" />
+<item id="6356" count="663" />
+<item id="45190" count="326" />
+<item id="45198" count="321" />
+<item id="45196" count="309" />
+<item id="45200" count="308" />
+<item id="45194" count="295" />
+<item id="6308" count="273" />
+<item id="6292" count="59" />
+<item id="6361" count="52" />
+<item id="6295" count="0" />
+</map>
+<map id="15" total="296337">
+<item id="6362" count="94481" />
+<item id="8365" count="61642" />
+<item id="4603" count="34517" />
+<item id="6308" count="33575" />
+<item id="6359" count="28135" />
+<item id="6358" count="26191" />
+<item id="21150" count="5160" />
+<item id="3820" count="2102" />
+<item id="45200" count="1303" />
+<item id="45190" count="1292" />
+<item id="45198" count="1291" />
+<item id="45196" count="1284" />
+<item id="45194" count="1272" />
+<item id="21151" count="1229" />
+<item id="6357" count="893" />
+<item id="6355" count="818" />
+<item id="6364" count="0" />
+<item id="13913" count="0" />
+</map>
+<map id="16" total="556296">
+<item id="13888" count="125459" area="风暴海湾" />
+<item id="4603" count="87574" />
+<item id="13422" count="64732" />
+<item id="13755" count="50901" />
+<item id="7973" count="43142" />
+<item id="13893" count="27752" />
+<item id="6359" count="21623" />
+<item id="13756" count="20684" />
+<item id="13754" count="20335" />
+<item id="6362" count="18627" />
+<item id="13758" count="8975" />
+<item id="45194" count="8742" />
+<item id="45198" count="8655" />
+<item id="45200" count="8641" />
+<item id="45196" count="8570" />
+<item id="45190" count="8509" />
+<item id="21228" count="6179" />
+<item id="6358" count="4653" />
+<item id="13918" count="2958" />
+<item id="13760" count="2520" />
+<item id="3820" count="2462" />
+<item id="13759" count="2273" />
+<item id="7070" count="2257" />
+<item id="7079" count="1811" />
+<item id="8365" count="1715" />
+<item id="7080" count="1682" />
+<item id="21151" count="1465" />
+<item id="13874" count="1396" />
+<item id="13913" count="0" area="风暴海湾" />
+<item id="13917" count="0" area="风暴海湾" />
+<item id="13880" count="0" area="除去风暴海湾" />
+<item id="13887" count="0" />
+</map>
+<map id="17" total="552619">
+<item id="6522" count="152354" />
+<item id="6289" count="130423" />
+<item id="6361" count="53035" />
+<item id="6358" count="48969" />
+<item id="6308" count="47597" />
+<item id="6291" count="36946" />
+<item id="6303" count="36131" />
+<item id="20708" count="14189" />
+<item id="3820" count="8947" />
+<item id="20709" count="5658" />
+<item id="6470" count="2964" />
+<item id="45198" count="1699" />
+<item id="45200" count="1678" />
+<item id="45196" count="1631" />
+<item id="45190" count="1625" />
+<item id="45194" count="1619" />
+<item id="6359" count="1312" />
+<item id="21150" count="816" />
+<item id="6364" count="0" />
+<item id="13913" count="0" />
+</map>
+<map id="19" total="47047">
+<item id="19975" count="28802" />
+<item id="13889" count="6772" />
+<item id="13760" count="3088" />
+<item id="13759" count="2294" />
+<item id="13890" count="2083" />
+<item id="13757" count="1192" />
+<item id="13758" count="1134" />
+<item id="45190" count="332" />
+<item id="45196" count="322" />
+<item id="45194" count="297" />
+<item id="45200" count="287" />
+<item id="45198" count="282" />
+<item id="13905" count="0" />
+</map>
+<map id="25" total="259">
+<item id="6297" count="173" />
+<item id="3857" count="71" />
+<item id="7078" count="9" />
+<item id="45200" count="2" />
+<item id="45194" count="2" />
+<item id="45190" count="2" />
+</map>
+<map id="28" total="179573">
+<item id="13758" count="83912" />
+<item id="13760" count="27551" />
+<item id="13759" count="18438" />
+<item id="6358" count="17298" />
+<item id="8365" count="16836" />
+<item id="13757" count="5928" />
+<item id="45190" count="1547" />
+<item id="45194" count="1541" />
+<item id="45198" count="1531" />
+<item id="45200" count="1505" />
+<item id="45196" count="1458" />
+<item id="3928" count="385" />
+<item id="6149" count="371" />
+<item id="13885" count="367" />
+<item id="13886" count="252" />
+<item id="13887" count="0" />
+</map>
+<map id="33" total="1118847">
+<item id="19807" count="297971" />
+<item id="6362" count="236948" />
+<item id="6359" count="118156" />
+<item id="6358" count="114809" />
+<item id="4603" count="89814" />
+<item id="8365" count="44292" />
+<item id="21153" count="33909" />
+<item id="3820" count="32982" />
+<item id="13422" count="27393" />
+<item id="21150" count="24980" />
+<item id="6308" count="24093" />
+<item id="21228" count="19156" />
+<item id="21151" count="10912" />
+<item id="45194" count="6523" />
+<item id="45200" count="6439" />
+<item id="45196" count="6345" />
+<item id="45190" count="6330" />
+<item id="45198" count="6175" />
+<item id="16969" count="5181" />
+<item id="6355" count="2177" />
+<item id="6357" count="2068" />
+<item id="19808" count="0" area="漩涡, 钓鱼大赛期间"/>
+<item id="6364" count="0" />
+<item id="13913" count="0" />
+<item id="13880" count="0" area="哈圭罗岛" />
+</map>
+<map id="36" total="76488">
+<item id="8365" count="27772" />
+<item id="21153" count="21799" />
+<item id="6308" count="14886" />
+<item id="21150" count="3842" />
+<item id="3820" count="1620" />
+<item id="45194" count="1079" />
+<item id="45196" count="1051" />
+<item id="45200" count="1001" />
+<item id="45190" count="963" />
+<item id="45198" count="937" />
+<item id="21151" count="927" />
+<item id="6364" count="0" />
+<item id="13913" count="0" />
+</map>
+<map id="38" total="49701">
+<item id="6289" count="16475" />
+<item id="6317" count="11594" />
+<item id="6308" count="6094" />
+<item id="21071" count="5047" />
+<item id="6291" count="4679" />
+<item id="20708" count="948" />
+<item id="45190" count="732" />
+<item id="45194" count="729" />
+<item id="45198" count="717" />
+<item id="45200" count="692" />
+<item id="45196" count="657" />
+<item id="3820" count="580" />
+<item id="20709" count="399" />
+<item id="6309" count="93" />
+<item id="6364" count="0" />
+<item id="13913" count="0" />
+</map>
+<map id="40" total="31474">
+<item id="6361" count="8112" />
+<item id="6358" count="6817" />
+<item id="6303" count="5488" />
+<item id="6289" count="3662" />
+<item id="6308" count="1931" />
+<item id="20708" count="1277" />
+<item id="6291" count="1036" />
+<item id="3820" count="825" />
+<item id="20709" count="503" />
+<item id="45200" count="268" />
+<item id="45194" count="267" />
+<item id="45196" count="262" />
+<item id="45190" count="252" />
+<item id="45198" count="247" />
+<item id="6362" count="153" />
+<item id="6351" count="82" />
+<item id="6307" count="71" />
+<item id="6353" count="52" />
+<item id="4603" count="49" />
+<item id="6364" count="0" />
+<item id="13913" count="0" />
+</map>
+<map id="41" total="125809">
+<item id="27422" count="58055" />
+<item id="33823" count="22751" />
+<item id="33824" count="22555" />
+<item id="13757" count="11030" />
+<item id="13889" count="4192" />
+<item id="13760" count="1654" />
+<item id="13890" count="1362" />
+<item id="13759" count="1300" />
+<item id="13758" count="545" />
+<item id="45198" count="483" />
+<item id="45196" count="474" />
+<item id="45194" count="437" />
+<item id="45200" count="415" />
+<item id="45190" count="392" />
+</map>
+<map id="44" total="99234">
+<item id="6308" count="52776" />
+<item id="6289" count="28540" />
+<item id="1467" count="9054" />
+<item id="45194" count="3191" />
+<item id="45190" count="3158" />
+<item id="45200" count="3134" />
+<item id="45198" count="3034" />
+<item id="45196" count="3017" />
+<item id="6310" count="212" />
+<item id="3827" count="150" />
+<item id="6364" count="0" />
+<item id="6309" count="132" />
+</map>
+<map id="45" total="149200">
+<item id="8365" count="84379" />
+<item id="6308" count="46384" />
+<item id="6362" count="3355" />
+<item id="6359" count="2407" />
+<item id="6358" count="1686" />
+<item id="45190" count="1409" />
+<item id="45200" count="1345" />
+<item id="45196" count="1344" />
+<item id="45198" count="1308" />
+<item id="45194" count="1308" />
+<item id="4603" count="1273" />
+<item id="21150" count="843" />
+<item id="6310" count="287" />
+<item id="1710" count="253" />
+<item id="6309" count="252" />
+<item id="3827" count="226" />
+<item id="6364" count="0" />
+<item id="13913" count="0" />
+</map>
+<map id="46" total="2417">
+<item id="13889" count="720" />
+<item id="13760" count="392" />
+<item id="6297" count="230" />
+<item id="13890" count="197" />
+<item id="13759" count="150" />
+<item id="13758" count="134" />
+<item id="13757" count="114" />
+<item id="3857" count="99" />
+<item id="45196" count="79" />
+<item id="45200" count="77" />
+<item id="45198" count="71" />
+<item id="45194" count="69" />
+<item id="45190" count="58" />
+<item id="7078" count="9" />
+<item id="13901" count="3" />
+<item id="13446" count="3" />
+<item id="13905" count="0" />
+</map>
+<map id="47" total="131169">
+<item id="4603" count="35664" />
+<item id="13758" count="18368" />
+<item id="13754" count="8790" />
+<item id="6362" count="8648" />
+<item id="6359" count="8341" />
+<item id="13422" count="7880" />
+<item id="7973" count="7133" />
+<item id="13760" count="5776" />
+<item id="13755" count="4856" />
+<item id="13759" count="4291" />
+<item id="8365" count="3805" />
+<item id="6358" count="3804" />
+<item id="13756" count="3786" />
+<item id="45198" count="2358" />
+<item id="45200" count="2279" />
+<item id="45190" count="2276" />
+<item id="45194" count="2259" />
+<item id="45196" count="2247" />
+<item id="13757" count="1255" />
+<item id="13875" count="244" />
+<item id="13876" count="214" />
+<item id="13880" count="0" />
+<item id="13887" count="0" />
+</map>
+<map id="51" total="31">
+<item id="6297" count="25" />
+<item id="3857" count="5" />
+<item id="7078" count="1" />
+</map>
+<map id="65" total="1345137">
+<item id="41807" count="441180" />
+<item id="40199" count="333219" />
+<item id="41808" count="235986" />
+<item id="41806" count="155585" />
+<item id="41802" count="130121" />
+<item id="41809" count="75968" />
+<item id="41813" count="75617" />
+<item id="41803" count="59221" />
+<item id="37705" count="30821" />
+<item id="44475" count="30804" />
+<item id="41805" count="24575" />
+<item id="45190" count="12506" />
+<item id="45200" count="12456" />
+<item id="45196" count="12429" />
+<item id="45194" count="12416" />
+<item id="36781" count="12264" />
+<item id="45198" count="12103" />
+<item id="45904" count="11739" />
+<item id="45909" count="9265" />
+<item id="46109" count="0" area="鱼群" />
+</map>
+<map id="66" total="8981">
+<item id="41808" count="4534" />
+<item id="41807" count="1600" />
+<item id="41806" count="1511" />
+<item id="40199" count="792" />
+<item id="45198" count="238" />
+<item id="45196" count="230" />
+<item id="45190" count="229" />
+<item id="45200" count="221" />
+<item id="45194" count="211" />
+<item id="37705" count="95" />
+<item id="44475" count="69" />
+<item id="46109" count="0" area="鱼群" />
+</map>
+<map id="67" total="7819">
+<item id="41803" count="2221" />
+<item id="41802" count="936" />
+<item id="41805" count="911" />
+<item id="45194" count="681" />
+<item id="45196" count="646" />
+<item id="45200" count="638" />
+<item id="45198" count="621" />
+<item id="45190" count="584" />
+<item id="36781" count="443" />
+<item id="37705" count="51" />
+<item id="44475" count="35" />
+<item id="45195" count="16" />
+<item id="45199" count="12" />
+<item id="45197" count="9" />
+<item id="46109" count="0" area="鱼群" />
+</map>
+<map id="85" total="43824">
+<item id="6291" count="19008" />
+<item id="6289" count="12257" />
+<item id="6299" count="6140" />
+<item id="6303" count="2282" />
+<item id="6297" count="2050" />
+<item id="6301" count="398" />
+<item id="6292" count="238" />
+<item id="45190" count="208" />
+<item id="45200" count="197" />
+<item id="45194" count="191" />
+<item id="45196" count="178" />
+<item id="45198" count="178" />
+<item id="6294" count="137" />
+<item id="2455" count="93" />
+<item id="118" count="89" />
+<item id="6356" count="53" />
+<item id="6295" count="0" />
+</map>
+<map id="130" total="29349">
+<item id="6289" count="5592" />
+<item id="6358" count="3827" />
+<item id="21071" count="3563" />
+<item id="6361" count="3050" />
+<item id="6308" count="2112" />
+<item id="6303" count="2026" />
+<item id="20708" count="1666" />
+<item id="6291" count="1487" />
+<item id="6297" count="1136" />
+<item id="6299" count="1069" />
+<item id="3820" count="983" />
+<item id="20709" count="633" />
+<item id="45190" count="388" />
+<item id="45200" count="379" />
+<item id="45196" count="376" />
+<item id="45194" count="373" />
+<item id="45198" count="372" />
+<item id="6307" count="43" />
+<item id="6364" count="0" />
+<item id="13913" count="0" />
+</map>
+<map id="139" total="101155">
+<item id="13889" count="31339" />
+<item id="13760" count="15682" />
+<item id="13759" count="10357" />
+<item id="13890" count="9131" />
+<item id="13758" count="6805" />
+<item id="13757" count="5606" />
+<item id="45198" count="4227" />
+<item id="45196" count="4145" />
+<item id="45190" count="4130" />
+<item id="45194" count="4057" />
+<item id="45200" count="3997" />
+<item id="13446" count="269" />
+<item id="13443" count="237" />
+<item id="6358" count="217" />
+<item id="8365" count="150" />
+<item id="13905" count="0" />
+</map>
+<map id="141" total="84034">
+<item id="6291" count="30788" />
+<item id="6303" count="30672" />
+<item id="6289" count="19639" />
+<item id="6356" count="587" />
+<item id="6292" count="342" />
+<item id="45190" count="304" />
+<item id="45200" count="287" />
+<item id="45198" count="267" />
+<item id="45196" count="262" />
+<item id="6294" count="226" />
+<item id="45194" count="224" />
+<item id="118" count="150" />
+<item id="2455" count="134" />
+<item id="6295" count="0" />
+</map>
+<map id="148" total="365994">
+<item id="12238" count="103233" />
+<item id="6361" count="67991" />
+<item id="6303" count="45549" />
+<item id="6358" count="38521" />
+<item id="6289" count="34559" />
+<item id="6718" count="28691" />
+<item id="6717" count="22283" />
+<item id="6308" count="12352" />
+<item id="6291" count="9432" />
+<item id="45196" count="8171" />
+<item id="45200" count="8072" />
+<item id="45198" count="7989" />
+<item id="45194" count="7964" />
+<item id="45190" count="7857" />
+<item id="20708" count="5303" />
+<item id="3820" count="3318" />
+<item id="20709" count="2173" />
+<item id="6351" count="720" />
+<item id="6353" count="697" />
+<item id="6307" count="669" />
+<item id="6364" count="0" />
+<item id="13913" count="0" />
+</map>
+<map id="210" total="31419">
+<item id="41803" count="6374" />
+<item id="41808" count="4808" />
+<item id="41805" count="2701" />
+<item id="41814" count="2656" />
+<item id="41802" count="2609" />
+<item id="45194" count="2083" />
+<item id="45198" count="2056" />
+<item id="45200" count="2032" />
+<item id="45196" count="2031" />
+<item id="45190" count="2014" />
+<item id="36781" count="1359" />
+<item id="40199" count="707" />
+<item id="37705" count="240" />
+<item id="44475" count="239" />
+<item id="45202" count="66" />
+<item id="46109" count="0" area="鱼群" />
+</map>
+<map id="215" total="178902">
+<item id="6291" count="105194" />
+<item id="6289" count="66817" />
+<item id="6292" count="1248" />
+<item id="6294" count="762" />
+<item id="45194" count="682" />
+<item id="45196" count="678" />
+<item id="45200" count="659" />
+<item id="45190" count="655" />
+<item id="45198" count="655" />
+<item id="118" count="526" />
+<item id="2455" count="519" />
+<item id="6295" count="0" />
+</map>
+<map id="267" total="366044">
+<item id="6308" count="89839" />
+<item id="21071" count="78564" />
+<item id="6289" count="48571" />
+<item id="6361" count="36980" />
+<item id="6358" count="35575" />
+<item id="6359" count="26707" />
+<item id="21113" count="17212" />
+<item id="3820" count="10264" />
+<item id="21114" count="6691" />
+<item id="45200" count="2694" />
+<item id="45194" count="2609" />
+<item id="45198" count="2589" />
+<item id="45190" count="2576" />
+<item id="45196" count="2489" />
+<item id="6360" count="0" />
+<item id="6364" count="0" />
+<item id="13913" count="0" />
+</map>
+<map id="331" total="105849">
+<item id="6308" count="43540" />
+<item id="6289" count="23572" />
+<item id="6361" count="13739" />
+<item id="21071" count="8462" />
+<item id="6358" count="5692" />
+<item id="6359" count="2183" />
+<item id="45190" count="1119" />
+<item id="45198" count="1092" />
+<item id="45200" count="1044" />
+<item id="45194" count="1038" />
+<item id="45196" count="993" />
+<item id="21113" count="814" />
+<item id="3820" count="463" />
+<item id="13758" count="342" />
+<item id="21114" count="330" />
+<item id="6310" count="163" />
+<item id="929" count="125" />
+<item id="6360" count="0" />
+<item id="6364" count="0" />
+<item id="13913" count="0" />
+</map>
+<map id="357" total="412340">
+<item id="13758" count="110121" />
+<item id="4603" count="42838" />
+<item id="13760" count="37540" />
+<item id="6358" count="33484" />
+<item id="13759" count="27191" />
+<item id="13422" count="22632" />
+<item id="8365" count="21902" />
+<item id="6359" count="21833" />
+<item id="21228" count="12284" />
+<item id="13754" count="11082" />
+<item id="6362" count="10332" />
+<item id="7973" count="8283" />
+<item id="13757" count="7688" />
+<item id="13889" count="6856" />
+<item id="13755" count="6464" />
+<item id="3820" count="5285" />
+<item id="16967" count="5228" />
+<item id="45198" count="4213" />
+<item id="45196" count="4138" />
+<item id="45190" count="4099" />
+<item id="45200" count="4033" />
+<item id="45194" count="3989" />
+<item id="13756" count="3716" />
+<item id="21151" count="3122" />
+<item id="13890" count="1719" />
+<item id="3928" count="498" />
+<item id="13880" count="0" />
+<item id="13905" count="0" area="加德米尔湖" />
+<item id="13887" count="0" area="除去加德米尔湖" />
+</map>
+<map id="361" total="82529">
+<item id="13758" count="39529" />
+<item id="13760" count="13795" />
+<item id="6358" count="8121" />
+<item id="13759" count="7824" />
+<item id="8365" count="7772" />
+<item id="13757" count="2982" />
+<item id="45198" count="346" />
+<item id="45194" count="341" />
+<item id="45196" count="330" />
+<item id="45190" count="322" />
+<item id="45200" count="320" />
+<item id="6149" count="184" />
+<item id="3928" count="179" />
+<item id="13885" count="156" />
+<item id="13886" count="134" />
+<item id="13887" count="0" />
+</map>
+<map id="394" total="894576">
+<item id="41809" count="562254" />
+<item id="40199" count="383897" />
+<item id="41808" count="143502" />
+<item id="41810" count="48416" />
+<item id="37705" count="32621" />
+<item id="44475" count="32162" />
+<item id="41802" count="30223" />
+<item id="41803" count="7929" />
+<item id="45198" count="5865" />
+<item id="45196" count="5792" />
+<item id="45200" count="5750" />
+<item id="45190" count="5729" />
+<item id="45194" count="5653" />
+<item id="41805" count="3186" />
+<item id="41807" count="2084" />
+<item id="36781" count="1656" />
+<item id="44703" count="0" />
+<item id="46109" count="0" area="鱼群" />
+</map>
+<map id="400" total="12705">
+<item id="8365" count="7927" />
+<item id="6308" count="4266" />
+<item id="45190" count="82" />
+<item id="45194" count="81" />
+<item id="45196" count="76" />
+<item id="45198" count="71" />
+<item id="45200" count="60" />
+<item id="6310" count="30" />
+<item id="3827" count="29" />
+<item id="1710" count="26" />
+<item id="6309" count="21" />
+<item id="6364" count="0" />
+<item id="13913" count="0" />
+</map>
+<map id="405" total="229956">
+<item id="8365" count="91047" />
+<item id="6308" count="49772" />
+<item id="6362" count="29105" />
+<item id="6359" count="17794" />
+<item id="6358" count="13726" />
+<item id="4603" count="10466" />
+<item id="16968" count="5189" />
+<item id="21150" count="5048" />
+<item id="3820" count="2133" />
+<item id="45194" count="1536" />
+<item id="45198" count="1500" />
+<item id="45196" count="1493" />
+<item id="45200" count="1485" />
+<item id="45190" count="1432" />
+<item id="21151" count="1318" />
+<item id="1710" count="289" />
+<item id="3827" count="287" />
+<item id="6310" count="275" />
+<item id="6357" count="271" />
+<item id="6364" count="0" />
+<item id="13913" count="0" />
+</map>
+<map id="406" total="81837">
+<item id="6308" count="27636" />
+<item id="6289" count="15205" />
+<item id="6359" count="14189" />
+<item id="21071" count="7695" />
+<item id="21113" count="5104" />
+<item id="3820" count="3026" />
+<item id="21114" count="1991" />
+<item id="6457" count="1324" />
+<item id="45200" count="760" />
+<item id="6458" count="748" />
+<item id="45194" count="736" />
+<item id="45190" count="732" />
+<item id="6456" count="718" />
+<item id="45196" count="700" />
+<item id="45198" count="695" />
+<item id="6364" count="0" area="除去黑狼河和峭壁湖" />
+<item id="13913" count="0" area="除去黑狼河和峭壁湖" />
+</map>
+<map id="440" total="328422">
+<item id="4603" count="113014" />
+<item id="6359" count="39112" />
+<item id="13422" count="37899" />
+<item id="13754" count="29057" />
+<item id="6362" count="28270" />
+<item id="7973" count="21998" />
+<item id="13755" count="16728" />
+<item id="6358" count="11873" />
+<item id="21228" count="11262" />
+<item id="13756" count="10111" />
+<item id="3820" count="4689" />
+<item id="45190" count="3318" />
+<item id="45194" count="3262" />
+<item id="45200" count="3227" />
+<item id="45198" count="3227" />
+<item id="45196" count="3185" />
+<item id="21151" count="2876" />
+<item id="13875" count="769" />
+<item id="13876" count="705" />
+<item id="13874" count="528" />
+<item id="13877" count="414" />
+<item id="13880" count="0" />
+</map>
+<map id="457" total="13254">
+<item id="6361" count="5887" />
+<item id="6303" count="3936" />
+<item id="6358" count="1790" />
+<item id="45200" count="306" />
+<item id="45196" count="298" />
+<item id="45194" count="294" />
+<item id="45190" count="264" />
+<item id="45198" count="257" />
+<item id="6307" count="66" />
+<item id="6351" count="62" />
+<item id="6353" count="59" />
+</map>
+<map id="490" total="25438">
+<item id="13758" count="11654" />
+<item id="13760" count="3653" />
+<item id="13759" count="2726" />
+<item id="6358" count="2406" />
+<item id="8365" count="2387" />
+<item id="13757" count="820" />
+<item id="6297" count="270" />
+<item id="45190" count="252" />
+<item id="45200" count="243" />
+<item id="45196" count="228" />
+<item id="45194" count="212" />
+<item id="45198" count="191" />
+<item id="3857" count="134" />
+<item id="13885" count="54" />
+<item id="6149" count="45" />
+<item id="13886" count="43" />
+<item id="3928" count="36" />
+<item id="13887" count="0" />
+</map>
+<map id="493" total="82607">
+<item id="13758" count="39010" />
+<item id="13760" count="10961" />
+<item id="13759" count="9709" />
+<item id="6358" count="7904" />
+<item id="8365" count="7677" />
+<item id="13757" count="2091" />
+<item id="45190" count="917" />
+<item id="45198" count="876" />
+<item id="45200" count="876" />
+<item id="45196" count="867" />
+<item id="45194" count="858" />
+<item id="6149" count="191" />
+<item id="3928" count="176" />
+<item id="13885" count="169" />
+<item id="13886" count="104" />
+<item id="13887" count="0" />
+</map>
+<map id="495" total="1201330">
+<item id="41810" count="449843" />
+<item id="41808" count="327360" />
+<item id="40199" count="302253" />
+<item id="41809" count="112122" />
+<item id="41802" count="96082" />
+<item id="41803" count="45995" />
+<item id="44475" count="29769" />
+<item id="37705" count="29531" />
+<item id="41805" count="17667" />
+<item id="45200" count="16007" />
+<item id="45194" count="15807" />
+<item id="45196" count="15661" />
+<item id="45190" count="15637" />
+<item id="45198" count="15589" />
+<item id="36781" count="8802" />
+<item id="44703" count="0" area="利齿青鱼群" />
+<item id="46109" count="0" area="鱼群" />
+</map>
+<map id="618" total="59369">
+<item id="13889" count="20280" />
+<item id="13760" count="9580" />
+<item id="13759" count="7000" />
+<item id="13890" count="6294" />
+<item id="13758" count="3785" />
+<item id="13757" count="3373" />
+<item id="45198" count="1781" />
+<item id="45190" count="1686" />
+<item id="45200" count="1676" />
+<item id="45194" count="1613" />
+<item id="45196" count="1604" />
+<item id="13446" count="182" />
+<item id="13443" count="179" />
+<item id="13905" count="0" />
+</map>
+<map id="718" total="237082">
+<item id="6289" count="154375" />
+<item id="6522" count="106400" />
+<item id="6308" count="56013" />
+<item id="6291" count="43329" />
+<item id="6470" count="3580" />
+<item id="6309" count="701" />
+<item id="3385" count="454" />
+<item id="6310" count="445" />
+<item id="858" count="433" />
+<item id="6364" count="0" />
+<item id="13913" count="0" />
+</map>
+<map id="719" total="1838">
+<item id="6289" count="1158" />
+<item id="6308" count="392" />
+<item id="6299" count="390" />
+<item id="6297" count="359" />
+<item id="6291" count="298" />
+<item id="45198" count="25" />
+<item id="45190" count="22" />
+<item id="45194" count="20" />
+<item id="45200" count="19" />
+<item id="45196" count="14" />
+<item id="6301" count="11" />
+<item id="858" count="4" />
+<item id="6310" count="4" />
+<item id="6309" count="3" />
+<item id="6364" count="0" />
+<item id="13913" count="0" />
+</map>
+<map id="796" total="9067">
+<item id="8365" count="11082" />
+<item id="6308" count="6051" />
+<item id="45190" count="182" />
+<item id="45194" count="170" />
+<item id="45198" count="144" />
+<item id="45196" count="136" />
+<item id="45200" count="104" />
+<item id="3827" count="30" />
+<item id="6310" count="30" />
+<item id="1710" count="24" />
+<item id="6364" count="0" />
+<item id="13913" count="0" />
+</map>
+<map id="978" total="1730">
+<item id="13758" count="1366" />
+<item id="13760" count="655" />
+<item id="6358" count="340" />
+<item id="8365" count="303" />
+<item id="13759" count="257" />
+<item id="13757" count="196" />
+<item id="45196" count="94" />
+<item id="45190" count="58" />
+<item id="45198" count="56" />
+<item id="45194" count="40" />
+<item id="45200" count="36" />
+<item id="13885" count="10" />
+<item id="3928" count="8" />
+<item id="6149" count="6" />
+<item id="13883" count="4" />
+<item id="45202" count="4" />
+</map>
+<map id="1377" total="2377">
+<item id="13889" count="644" />
+<item id="13760" count="412" />
+<item id="13890" count="232" />
+<item id="13759" count="195" />
+<item id="13758" count="145" />
+<item id="45194" count="129" />
+<item id="45200" count="122" />
+<item id="45196" count="120" />
+<item id="45198" count="119" />
+<item id="45190" count="110" />
+<item id="13757" count="109" />
+<item id="45201" count="5" />
+<item id="45199" count="5" />
+<item id="13443" count="5" />
+<item id="13446" count="5" />
+<item id="45202" count="4" />
+<item id="13905" count="0" />
+</map>
+<map id="1417" total="4439">
+<item id="13758" count="2119" />
+<item id="8365" count="599" />
+<item id="13759" count="591" />
+<item id="13760" count="527" />
+<item id="6358" count="439" />
+<item id="13757" count="104" />
+<item id="6308" count="84" />
+<item id="6149" count="17" />
+<item id="13886" count="12" />
+<item id="3928" count="9" />
+<item id="13887" count="0" />
+</map>
+<map id="1497" total="105649">
+<item id="6289" count="41266" />
+<item id="6308" count="15095" />
+<item id="6297" count="14748" />
+<item id="6299" count="14682" />
+<item id="6291" count="11444" />
+<item id="45190" count="1452" />
+<item id="45200" count="1437" />
+<item id="45198" count="1422" />
+<item id="45196" count="1411" />
+<item id="45194" count="1380" />
+<item id="6301" count="512" />
+<item id="6309" count="187" />
+<item id="3385" count="138" />
+<item id="858" count="126" />
+<item id="6364" count="0" />
+</map>
+<map id="1519" total="832737">
+<item id="6289" count="459047" />
+<item id="6308" count="165450" />
+<item id="6291" count="129017" />
+<item id="34864" count="24138" />
+<item id="6361" count="20868" />
+<item id="6303" count="14411" />
+<item id="6358" count="6152" />
+<item id="45200" count="4542" />
+<item id="45190" count="4541" />
+<item id="45194" count="4520" />
+<item id="45196" count="4495" />
+<item id="45198" count="4492" />
+<item id="6309" count="2273" />
+<item id="3385" count="1433" />
+<item id="6310" count="1355" />
+<item id="858" count="1342" />
+<item id="6364" count="0" />
+</map>
+<map id="1537" total="1358507">
+<item id="6289" count="818618" />
+<item id="6308" count="293885" />
+<item id="6291" count="228361" />
+<item id="34864" count="19205" />
+<item id="6309" count="4039" />
+<item id="3385" count="2450" />
+<item id="858" count="2398" />
+<item id="6310" count="2342" />
+<item id="34484" count="2310" />
+<item id="6364" count="0" />
+</map>
+<map id="1581" total="3403">
+<item id="6289" count="4023" />
+<item id="6308" count="1518" />
+<item id="6291" count="1147" />
+<item id="45198" count="24" />
+<item id="45190" count="22" />
+<item id="45200" count="18" />
+<item id="6309" count="18" />
+<item id="858" count="16" />
+<item id="6310" count="13" />
+<item id="45196" count="12" />
+<item id="45194" count="12" />
+<item id="6364" count="0" />
+<item id="13913" count="0" />
+</map>
+<map id="1637" total="1717317">
+<item id="6289" count="1011515" />
+<item id="6308" count="364844" />
+<item id="6291" count="283110" />
+<item id="34864" count="29052" />
+<item id="45196" count="6643" />
+<item id="45200" count="6550" />
+<item id="45194" count="6538" />
+<item id="45198" count="6450" />
+<item id="45190" count="6289" />
+<item id="6309" count="5153" />
+<item id="6310" count="2902" />
+<item id="3385" count="2902" />
+<item id="34486" count="2901" />
+<item id="858" count="2892" />
+<item id="6364" count="0" />
+</map>
+<map id="1638" total="165280">
+<item id="6289" count="94150" />
+<item id="6308" count="34364" />
+<item id="6291" count="26736" />
+<item id="45194" count="1683" />
+<item id="45190" count="1674" />
+<item id="45196" count="1660" />
+<item id="45198" count="1653" />
+<item id="45200" count="1646" />
+<item id="6309" count="467" />
+<item id="3385" count="301" />
+<item id="858" count="289" />
+<item id="6310" count="270" />
+<item id="6364" count="0" />
+</map>
+<map id="1657" total="103672">
+<item id="6289" count="58632" />
+<item id="6308" count="21224" />
+<item id="6291" count="16550" />
+<item id="45196" count="1263" />
+<item id="45200" count="1254" />
+<item id="45194" count="1250" />
+<item id="45190" count="1212" />
+<item id="45198" count="1176" />
+<item id="6309" count="302" />
+<item id="3385" count="176" />
+<item id="6310" count="168" />
+<item id="858" count="154" />
+<item id="6364" count="0" />
+</map>
+<map id="2017" total="908">
+<item id="13889" count="437" />
+<item id="13760" count="363" />
+<item id="13758" count="180" />
+<item id="13757" count="62" />
+<item id="13890" count="43" />
+<item id="13759" count="40" />
+<item id="45198" count="39" />
+<item id="45196" count="30" />
+<item id="45194" count="28" />
+<item id="45190" count="27" />
+<item id="45200" count="18" />
+<item id="13446" count="2" />
+<item id="45202" count="2" />
+<item id="45199" count="1" />
+<item id="45197" count="1" />
+<item id="13443" count="1" />
+<item id="45201" count="1" />
+</map>
+<map id="2057" total="686">
+<item id="13889" count="470" />
+<item id="13760" count="305" />
+<item id="13758" count="121" />
+<item id="13759" count="102" />
+<item id="13890" count="87" />
+<item id="45190" count="58" />
+<item id="45196" count="50" />
+<item id="45198" count="46" />
+<item id="45194" count="38" />
+<item id="45200" count="36" />
+<item id="13757" count="32" />
+<item id="13446" count="4" />
+<item id="45195" count="2" />
+<item id="13905" count="2" />
+<item id="10156" count="2" />
+<item id="13443" count="2" />
+<item id="45202" count="2" />
+<item id="45201" count="2" />
+</map>
+<map id="2100" total="2820">
+<item id="13758" count="2387" />
+<item id="13760" count="654" />
+<item id="13759" count="506" />
+<item id="6358" count="456" />
+<item id="8365" count="421" />
+<item id="45196" count="138" />
+<item id="13757" count="132" />
+<item id="45194" count="105" />
+<item id="45190" count="103" />
+<item id="45198" count="102" />
+<item id="45200" count="95" />
+<item id="6149" count="13" />
+<item id="13886" count="9" />
+<item id="13887" count="0" />
+</map>
+<map id="2557" total="614">
+<item id="13889" count="356" />
+<item id="13760" count="266" />
+<item id="13759" count="80" />
+<item id="13757" count="76" />
+<item id="45196" count="74" />
+<item id="13758" count="72" />
+<item id="45198" count="66" />
+<item id="13890" count="62" />
+<item id="45194" count="62" />
+<item id="45190" count="56" />
+<item id="45200" count="52" />
+<item id="45201" count="4" />
+<item id="45199" count="2" />
+</map>
+<map id="2597" total="12118">
+<item id="13889" count="4822" />
+<item id="13760" count="1899" />
+<item id="13759" count="1806" />
+<item id="13890" count="1776" />
+<item id="13757" count="1268" />
+<item id="13758" count="614" />
+<item id="13443" count="38" />
+<item id="13446" count="35" />
+<item id="13901" count="15" />
+</map>
+<map id="2717" total="294">
+<item id="6297" count="194" />
+<item id="3857" count="91" />
+<item id="7078" count="9" />
+</map>
+<map id="2817" total="184592">
+<item id="41814" count="99214" />
+<item id="41808" count="51174" />
+<item id="40199" count="12373" />
+<item id="44475" count="4912" />
+<item id="45190" count="4868" />
+<item id="37705" count="4860" />
+<item id="45198" count="4790" />
+<item id="45194" count="4751" />
+<item id="45200" count="4741" />
+<item id="45196" count="4729" />
+<item id="46109" count="0" area="鱼群" />
+</map>
+<map id="3358" total="1385">
+<item id="6308" count="892" />
+<item id="6289" count="474" />
+<item id="929" count="7" />
+<item id="6310" count="4" />
+<item id="6311" count="2" />
+<item id="3827" count="2" />
+<item id="6309" count="2" />
+<item id="13913" count="0" />
+</map>
+<map id="3430" total="97947">
+<item id="6291" count="47951" />
+<item id="6289" count="30751" />
+<item id="6303" count="14379" />
+<item id="6292" count="590" />
+<item id="45200" count="557" />
+<item id="45198" count="547" />
+<item id="45190" count="534" />
+<item id="45194" count="521" />
+<item id="45196" count="514" />
+<item id="6294" count="370" />
+<item id="6356" count="315" />
+<item id="2455" count="256" />
+<item id="118" count="249" />
+<item id="6295" count="0" />
+</map>
+<map id="3433" total="24937">
+<item id="6289" count="7054" />
+<item id="6361" count="5688" />
+<item id="6303" count="3856" />
+<item id="6308" count="2645" />
+<item id="6291" count="2068" />
+<item id="6358" count="1678" />
+<item id="45194" count="330" />
+<item id="45190" count="327" />
+<item id="45196" count="317" />
+<item id="45200" count="310" />
+<item id="45198" count="302" />
+<item id="6353" count="65" />
+<item id="6351" count="59" />
+<item id="6307" count="54" />
+<item id="6309" count="30" />
+<item id="6364" count="0" area="除去南部湖泊" />
+<item id="13913" count="0" area="除去南部湖泊" />
+</map>
+<map id="3456" total="6848">
+<item id="6456" count="3488" />
+<item id="4875" count="2376" />
+<item id="44756" count="659" />
+<item id="39552" count="325" />
+</map>
+<map id="3483" total="142680">
+<item id="27441" count="89614" />
+<item id="27422" count="42787" />
+<item id="34867" count="15629" />
+<item id="45194" count="876" />
+<item id="45200" count="858" />
+<item id="45190" count="835" />
+<item id="45198" count="826" />
+<item id="45196" count="806" />
+</map>
+<map id="3518" total="1017769">
+<item id="27422" count="271932" />
+<item id="22578" count="214882" />
+<item id="27437" count="211201" />
+<item id="27435" count="197677" />
+<item id="34868" count="25040" />
+<item id="27513" count="20755" />
+<item id="27511" count="20523" />
+<item id="45190" count="9275" />
+<item id="45194" count="9243" />
+<item id="45196" count="9105" />
+<item id="45198" count="9092" />
+<item id="45200" count="8929" />
+<item id="27516" count="8389" />
+<item id="27515" count="8315" />
+<item id="27442" count="3967" area="鱼群" />
+</map>
+<map id="3519" total="1724083">
+<item id="27422" count="554852" />
+<item id="27438" count="377013" />
+<item id="27439" count="371591" area="高地杂鱼群" />
+<item id="27425" count="215971" />
+<item id="22578" count="30118" />
+<item id="27511" count="29447" />
+<item id="27513" count="29381" />
+<item id="34865" count="27710" />
+<item id="45200" count="14867" />
+<item id="45194" count="14745" />
+<item id="45198" count="14668" />
+<item id="45196" count="14664" />
+<item id="45190" count="14630" />
+<item id="27516" count="11970" />
+<item id="27515" count="11796" />
+<item id="27442" count="5929" area="鱼群" />
+<item id="27388" count="0" area="高地杂鱼群" />
+</map>
+<map id="3520" total="41568">
+<item id="27441" count="33326" />
+<item id="34867" count="10268" />
+<item id="27422" count="1353" />
+<item id="27425" count="379" />
+<item id="27438" count="360" />
+<item id="45198" count="342" />
+<item id="45196" count="337" />
+<item id="45194" count="321" />
+<item id="45200" count="305" />
+<item id="45190" count="285" />
+</map>
+<map id="3521" total="1344910">
+<item id="27422" count="515946" />
+<item id="27429" count="239614" />
+<item id="27425" count="186397" />
+<item id="35313" count="168034" />
+<item id="27443" count="40988" />
+<item id="27481" count="36967" />
+<item id="27438" count="22304" />
+<item id="22578" count="22051" />
+<item id="27511" count="21457" />
+<item id="27513" count="21310" />
+<item id="45198" count="8907" />
+<item id="45200" count="8883" />
+<item id="45194" count="8789" />
+<item id="45196" count="8705" />
+<item id="27515" count="8690" />
+<item id="45190" count="8575" />
+<item id="27516" count="8532" />
+<item id="27442" count="4307" area="鱼群" />
+<item id="35314" count="2691" />
+</map>
+<map id="3523" total="3144">
+<item id="27422" count="1674" />
+<item id="27435" count="688" />
+<item id="27437" count="633" />
+<item id="45200" count="29" />
+<item id="45198" count="26" />
+<item id="45196" count="24" />
+<item id="45190" count="22" />
+<item id="45194" count="22" />
+<item id="27516" count="8" />
+<item id="27511" count="8" />
+<item id="27513" count="5" />
+</map>
+<map id="3524" total="60110">
+<item id="6303" count="54494" />
+<item id="6356" count="1069" />
+<item id="6361" count="850" />
+<item id="45196" count="643" />
+<item id="45200" count="602" />
+<item id="45194" count="594" />
+<item id="45198" count="583" />
+<item id="45190" count="574" />
+<item id="6358" count="263" />
+<item id="6291" count="217" />
+<item id="6289" count="130" />
+<item id="6295" count="0" />
+</map>
+<map id="3525" total="8997">
+<item id="6361" count="4053" />
+<item id="6303" count="2784" />
+<item id="6358" count="1140" />
+<item id="45196" count="166" />
+<item id="45190" count="160" />
+<item id="45200" count="157" />
+<item id="45198" count="150" />
+<item id="45194" count="149" />
+<item id="6353" count="45" />
+<item id="6289" count="39" />
+<item id="6351" count="32" />
+<item id="6307" count="29" />
+<item id="6455" count="24" />
+<item id="6458" count="17" />
+<item id="6308" count="16" />
+<item id="6456" count="10" />
+<item id="6364" count="0" area="除去未命名的内陆岛屿和污淤之池" />
+<item id="13913" count="0" area="除去未命名的内陆岛屿和污淤之池" />
+</map>
+<map id="3537" total="1348659">
+<item id="41806" count="394379" />
+<item id="40199" count="326016" />
+<item id="41808" count="222537" />
+<item id="45907" count="156398" />
+<item id="45905" count="141248" />
+<item id="41803" count="108868" />
+<item id="41805" count="104227" />
+<item id="41802" count="103142" />
+<item id="41807" count="76455" />
+<item id="44475" count="29865" />
+<item id="37705" count="29595" />
+<item id="36781" count="22103" />
+<item id="45200" count="19485" />
+<item id="45194" count="19370" />
+<item id="45190" count="19301" />
+<item id="45198" count="19265" />
+<item id="45196" count="19236" />
+<item id="46109" count="0" area="鱼群" />
+</map>
+<map id="3557" total="2044">
+<item id="6303" count="1922" />
+<item id="6356" count="37" />
+<item id="45190" count="21" />
+<item id="45198" count="19" />
+<item id="45200" count="18" />
+<item id="45194" count="15" />
+<item id="45196" count="11" />
+</map>
+<map id="3607" total="61460">
+<item id="21153" count="23784" />
+<item id="27422" count="22655" />
+<item id="27429" count="4968" />
+<item id="27425" count="4945" />
+<item id="21150" count="2460" />
+<item id="3820" count="1075" />
+<item id="21151" count="658" />
+<item id="45196" count="113" />
+<item id="45198" count="111" />
+<item id="45194" count="111" />
+<item id="35313" count="109" />
+<item id="27511" count="90" />
+<item id="27513" count="82" />
+</map>
+<map id="3711" total="1592800">
+<item id="41813" count="707080" />
+<item id="41812" count="568205" />
+<item id="40199" count="394210" />
+<item id="45902" count="70400" />
+<item id="45194" count="49653" />
+<item id="45196" count="49479" />
+<item id="45200" count="49123" />
+<item id="45198" count="48727" />
+<item id="45190" count="48680" />
+<item id="37705" count="33650" />
+<item id="44475" count="33294" />
+<item id="46109" count="0" area="鱼群" />
+</map>
+<map id="3716" total="4137">
+<item id="27422" count="5408" />
+<item id="27425" count="1180" />
+<item id="27429" count="1158" />
+<item id="45194" count="108" />
+<item id="45200" count="102" />
+<item id="45198" count="78" />
+<item id="45196" count="76" />
+<item id="45190" count="64" />
+<item id="22578" count="22" />
+<item id="27513" count="18" />
+<item id="27511" count="14" />
+<item id="27515" count="10" />
+</map>
+<map id="3805" total="12252">
+<item id="27422" count="6373" />
+<item id="33823" count="2441" />
+<item id="33824" count="2434" />
+<item id="13757" count="966" />
+</map>
+<map id="4080" total="23746">
+<item id="35285" count="13744" />
+<item id="24476" count="3428" />
+<item id="35286" count="1797" />
+<item id="5569" count="1531" />
+<item id="35287" count="1449" />
+<item id="13757" count="772" />
+<item id="22578" count="192" />
+<item id="45194" count="190" />
+<item id="45190" count="170" />
+<item id="45198" count="164" />
+<item id="45200" count="148" />
+<item id="45196" count="145" />
+</map>
+<map id="4197" total="2796723">
+<item id="41809" count="762703" />
+<item id="41813" count="758459" />
+<item id="41806" count="755303" />
+<item id="45904" count="655240" />
+<item id="45909" count="93845" />
+<item id="45200" count="83917" />
+<item id="45190" count="83799" />
+<item id="45196" count="83585" />
+<item id="45194" count="83376" />
+<item id="45198" count="83271" />
+<item id="46109" count="0" area="鱼群" />
+</map>
+<map id="4273" total="22111">
+<item id="41814" count="8605" />
+<item id="41813" count="3138" />
+<item id="41808" count="3047" />
+<item id="45196" count="1414" />
+<item id="45190" count="1370" />
+<item id="45198" count="1350" />
+<item id="45194" count="1302" />
+<item id="45200" count="1280" />
+<item id="44475" count="240" />
+<item id="37705" count="234" />
+</map>
+<map id="4395" total="4959827">
+<item id="43646" count="1082704" />
+<item id="43571" count="1023451" area="下水道" />
+<item id="43572" count="453924" />
+<item id="45196" count="190963" />
+<item id="45194" count="190933" />
+<item id="45190" count="190292" />
+<item id="45200" count="189764" />
+<item id="45198" count="188800" />
+<item id="3371" count="125015" />
+<item id="43647" count="122163" />
+<item id="43645" count="97703" />
+<item id="43694" count="87507" />
+<item id="43653" count="87179" />
+<item id="45903" count="86287" />
+<item id="43652" count="51091" />
+<item id="3372" count="36029" />
+<item id="43698" count="25000" area="下水道" />
+
+<item id="43701" count="16493" />
+<item id="43702" count="16645" />
+<item id="43703" count="16379" />
+<item id="43704" count="16909" />
+<item id="43705" count="16871" />
+<item id="43706" count="16821" />
+<item id="43707" count="16676" />
+<item id="43708" count="16764" />
+<item id="43709" count="17110" />
+<item id="43710" count="16896" />
+<item id="43711" count="17024" />
+<item id="43712" count="17271" />
+<item id="43713" count="17234" />
+<item id="43714" count="17171" />
+<item id="43715" count="16822" />
+<item id="43716" count="16971" />
+<item id="43717" count="17272" />
+<item id="43718" count="16833" />
+<item id="43719" count="16677" />
+<item id="43720" count="17001" />
+<item id="43721" count="16874" />
+<item id="43722" count="16822" />
+<item id="43723" count="16395" />
+
+<item id="43643" count="16989" />
+<item id="43644" count="17135" />
+<item id="43675" count="17114" />
+<item id="43676" count="17235" />
+<item id="43677" count="17312" />
+<item id="43678" count="16915" />
+<item id="43679" count="16740" />
+<item id="43680" count="17133" />
+<item id="43681" count="17285" />
+<item id="43682" count="17268" />
+<item id="43683" count="17097" />
+<item id="43684" count="17062" />
+<item id="43685" count="17158" />
+<item id="43686" count="16985" />
+<item id="43687" count="16716" />
+
+
+<item id="43627" count="8276" />
+<item id="43628" count="8500" />
+<item id="43629" count="8500" />
+<item id="43630" count="8590" />
+<item id="43631" count="8465" />
+<item id="43632" count="8532" />
+<item id="43633" count="8329" />
+<item id="43634" count="8500" />
+<item id="43635" count="8435" />
+<item id="43636" count="8403" />
+<item id="43637" count="8381" />
+<item id="43638" count="8456" />
+<item id="43639" count="8459" />
+<item id="43640" count="8393" />
+<item id="43641" count="8245" />
+</map>
+<map id="4493" total="3243">
+<item id="6297" count="2202" />
+<item id="3857" count="929" />
+<item id="7078" count="108" />
+<item id="45196" count="4" />
+</map>
+<map id="4722" total="8243">
+<item id="41805" count="3437" />
+<item id="41808" count="1163" />
+<item id="41814" count="1114" />
+<item id="45196" count="488" />
+<item id="45198" count="465" />
+<item id="45194" count="460" />
+<item id="45200" count="457" />
+<item id="45190" count="454" />
+<item id="44475" count="94" />
+<item id="37705" count="73" />
+</map>
+<map id="4742" total="5031">
+<item id="41803" count="1995" />
+<item id="41805" count="841" />
+<item id="41802" count="818" />
+<item id="36781" count="391" />
+<item id="45191" count="163" />
+<item id="45194" count="157" />
+<item id="45190" count="150" />
+<item id="45195" count="149" />
+<item id="45188" count="144" />
+<item id="45189" count="135" />
+<item id="37705" count="38" />
+<item id="44475" count="35" />
+<item id="45196" count="15" />
+<item id="46109" count="0" area="鱼群" />
+</map>
+<map id="4813" total="23">
+<item id="41808" count="26" />
+<item id="36794" count="4" />
+<item id="43572" count="4" />
+<item id="25447" count="4" />
+<item id="45198" count="2" />
+<item id="45190" count="2" />
+<item id="3671" count="2" />
+<item id="45200" count="2" />
+</map>
+</fishing>
