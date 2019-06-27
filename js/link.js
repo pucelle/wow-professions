@@ -247,7 +247,7 @@ var link = {
 	//ac为给npc名称添加的额外样式
 	//ids为一个id序列
 		var arr = [[], [], [], []];
-		if(cookie.get("camp") === "horde")
+		if(store.get("camp") === "horde")
 			var camp = "H";
 		else
 			var camp = "A";
@@ -277,7 +277,7 @@ var link = {
 	//显示多个NPC,map紧随name,而不会生成列对齐的列表.ac控制额外样式
 	//参数xns为一个npc的节点序列
 		var arr = [[], [], [], []];
-		if(cookie.get("camp") === "horde")
+		if(store.get("camp") === "horde")
 			var camp = "H";
 		else
 			var camp = "A";
