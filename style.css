@@ -392,11 +392,11 @@ td.rate{
 .icon-metal		{background-image: url("background/border-metal.png");}
 .icon-medal		{background-image: url("background/border-medal.png");}
 .icon-name		{padding: 14px 5px 0px 48px;}	/*紧接着图片的名称,由于之前的元素为relative,所以要重设padding-left*/
-.icon-border a:hover	{background-image: url("background/Highlight.png"); _background-image:none;}
-/*.icon-border .highlightie6	{background-image: url("background/Highlight.png");}
-.icon-metal .highlightie6	{background-image: url("background/Highlight-1.png");}*/
-.icon-metal a:hover		{background-image: url("background/Highlight-1.png"); _background-image:none;}
-.icon-medal a			{background-image: url("background/Highlight-2.png");}
+.icon-border a:hover	{background-image: url("background/highlight.png"); _background-image:none;}
+/*.icon-border .highlightie6	{background-image: url("background/highlight.png");}
+.icon-metal .highlightie6	{background-image: url("background/highlight-1.png");}*/
+.icon-metal a:hover		{background-image: url("background/highlight-1.png"); _background-image:none;}
+.icon-medal a			{background-image: url("background/highlight-2.png");}
 .stroke{
 	position: absolute;
 	z-index: 1;
