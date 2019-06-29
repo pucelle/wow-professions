@@ -1145,7 +1145,7 @@
 <item id="27655" icon="inv_misc_food_53" quality="1">
 <name>掠食者热狗</name>
 <code>
-[div class="name q1"]掠食者热狗[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复?320点生命值，进食时必须保持坐姿。如果你花费至少10秒常愕墓击?0点，精神将提高20点，持续30分钟。[/div][div class="q"]"不要问这东西是用什么做成的……"[/div]
+[div class="name q1"]掠食者热狗[/div][div]需要等级 55[/div][div class="q2"]使用: 在30秒内恢复4320点生命值，进食时必须保持坐姿。如果你花费至少10秒钟来进食，你的攻击强度将提高40点，精神将提高20点，持续30分钟。[/div][div class="q"]"不要问这东西是用什么做成的……"[/div]
 </code>
 </item>
 <item id="27656" icon="inv_misc_food_87_sporelingsnack" quality="1">
