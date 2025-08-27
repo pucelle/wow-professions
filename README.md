@@ -2,7 +2,8 @@
 
 ### 网址
 
-https://pucelle.github.io/wow-professions/
+[https://pucelle.github.io/wow-professions/](https://pucelle.github.io/wow-professions/cooking.html)
+
 
 ### 关于
 
